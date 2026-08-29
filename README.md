@@ -97,7 +97,7 @@ Tous les corpus sont constitués de **textes officiels et publics**. Détail des
 et points de vigilance par corpus : voir [`CONTEXTE.md`](./CONTEXTE.md) et le README propre à chaque
 branche `corpus/*`.
 
-- **NIS2** — EUR-Lex (directive 2022/2555), Légifrance / JORF (loi du 17/07/2026), cyber.gouv.fr (ANSSI)
+- **NIS2** — EUR-Lex (directive 2022/2555), cyber.gouv.fr / ANSSI (guides). La loi française de transposition n'est pas promulguée à ce jour : elle sera ajoutée au corpus dès sa publication.
 - **PLU Anglet** — Géoportail de l'Urbanisme, portail géomatique Communauté Pays Basque
 - **Syntec** — Légifrance (IDCC 1486, brochure 3018) et avenants en vigueur
 
