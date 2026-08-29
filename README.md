@@ -25,16 +25,21 @@ Seuls les **articles en vigueur** sont indexés (états `VIGUEUR`, `VIGUEUR_ETEN
 
 | Document | Contenu | Source |
 |---|---|---|
-| `01-texte-de-base.md` | Texte de base, refondu par l'avenant n° 46 du 16/07/2021 | [Légifrance, KALICONT000005635173](https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000005679895/?idConteneur=KALICONT000005635173) |
-| `02-textes-attaches.md` | Textes attachés : annexes classification (ETAM, ingénieurs et cadres, enquêteurs) et avenants thématiques en vigueur | idem |
-| `03-textes-salaires.md` | Textes salaires : valeur du point, grilles d'appointements minimaux | idem |
-| `00-source-corpus-syntec.md` | Note de contexte datée : périmètre, source, points de vigilance | synthèse |
+| `syntec-01-texte-de-base.md` | Texte de base, refondu par l'avenant n° 46 du 16/07/2021 | [Légifrance, KALICONT000005635173](https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000005679895/?idConteneur=KALICONT000005635173) |
+| `syntec-02-textes-attaches.md` | Textes attachés : annexes classification (ETAM, ingénieurs et cadres, enquêteurs) et accords / avenants thématiques en vigueur | idem |
+| `syntec-03-textes-salaires.md` | Textes salaires : **uniquement les textes signés en 2022 ou après** (avenant n° 47 du 31/03/2022 et suivants, accord du 26/06/2024) — les avenants antérieurs fixent des montants périmés | idem |
+| `syntec-00-source.md` | Note de contexte datée : périmètre, méthode, points de vigilance | synthèse |
 
-**Récupération** : le texte officiel Légifrance (conteneur KALI
-`KALICONT000005635173`) est republié sous forme structurée par le jeu de données
-ouvert [`@socialgouv/kali-data`](https://github.com/SocialGouv/kali-data)
-(fichier `KALICONT000005635173.json`, base KALI de la DILA). Converti en Markdown
-en conservant les numéros d'article pour la citation de source.
+**Récupération** : Légifrance renvoie une erreur HTTP 403 aux requêtes
+automatisées ; la source utilisée est le jeu de données ouvert
+[`@socialgouv/kali-data`](https://github.com/SocialGouv/kali-data)
+(`KALICONT000005635173.json`, base KALI de la DILA republiée structurée).
+Conversion en Markdown par [`scripts/build-corpus-syntec.mjs`](./scripts/build-corpus-syntec.mjs)
+(script d'ETL propre à cette branche, pas du code moteur) : filtrage des états,
+retrait des textes salaires < 2022 et des tables de correspondance de
+numérotation, insertion d'une ligne `> **Source :**` sous chaque article pour que
+la citation survive au découpage en fragments. Voir `data/syntec-00-source.md`
+pour la commande de régénération.
 
 > **Volontairement hors corpus** : le code du travail, les accords d'entreprise
 > et tout contrat de travail individuel. L'assistant raisonne uniquement sur le

@@ -1,13 +1,15 @@
-<!-- Convention collective Syntec (IDCC 1486) — source: Légifrance via @socialgouv/kali-data (KALICONT000005635173). Corpus arrêté au 2026-08-29. Articles en vigueur uniquement. -->
-# Convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 mise à jour par avenant n° 46 du 16 juillet 2021
+<!-- Convention collective Syntec (IDCC 1486) — source : Légifrance, conteneur KALICONT000005635173, via @socialgouv/kali-data. Corpus arrêté au 2026-08-29. Articles en vigueur uniquement. Généré par scripts/build-corpus-syntec.mjs. -->
+# Convention collective Syntec (IDCC 1486) — texte de base
 
-> Partie : **Texte de base : Convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 mise à jour par avenant n° 46 du 16 juillet 2021**. Assistant à but démonstratif — vérifier la version en vigueur avant toute décision RH.
+Texte de base de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils, refondu par l'avenant n° 46 du 16 juillet 2021.
 
-## Texte de base : Convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 mise à jour par avenant n° 46 du 16 juillet 2021
+> **Lecture.** Ce fichier reproduit l'état consolidé de Légifrance : des textes de dates différentes peuvent coexister. Pour toute valeur chiffrée (salaire, valeur du point, nombre de jours, taux), se référer au texte le plus récent et vérifier la version en vigueur sur Légifrance. Corpus arrêté au 2026-08-29.
 
-### Préambule
+> ⚠️ Assistant à but démonstratif — ne remplace pas un avis d'expert ou juridique.
 
-#### Article (préambule / sans numéro)
+## Préambule
+
+> **Source :** Préambule — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les partenaires sociaux de la branche des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils se sont engagés dans une démarche de mise à jour des stipulations de la convention collective au regard des évolutions législatives et réglementaires, avec pour objectif d'en clarifier le contenu et d'en améliorer la lisibilité.
 
@@ -15,9 +17,9 @@ Les partenaires sociaux de la branche des bureaux d'études techniques, cabinets
 
 Dans le prolongement des travaux du groupe de travail paritaire et de la CPPNI, il a été élaboré le présent avenant et son annexe dont l'objet est d'actualiser la convention collective des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils du 15 décembre 1987 modifiée.
 
-### Article 1er
+## Article 1er — Objet de l'avenant
 
-*Objet de l'avenant*
+> **Source :** Article 1er — Objet de l'avenant — texte de base de la convention collective Syntec (IDCC 1486).
 
 À compter de leur entrée en vigueur, les stipulations des articles 1.1 à 13.6 de l'annexe 1 au présent avenant se substituent aux articles 1 à 84 (déclarations liminaires comprises) de la convention collective des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils du 15 décembre 1987.
 
@@ -27,21 +29,21 @@ Les stipulations de la convention collective des bureaux d'études techniques, c
 
 Un glossaire définissant les différents types de textes applicables se trouve à la fin de l'annexe 1.
 
-### Article 2
+## Article 2 — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 2 — Détermination du champ territorial et professionnel — texte de base de la convention collective Syntec (IDCC 1486).
 
 Le présent avenant s'applique sur l'ensemble du territoire national à tous les salariés employés, techniciens, agents de maîtrise et cadres salariés des entreprises dont l'activité est comprise dans le champ d'application de la convention collective des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils du 15 décembre 1987 (IDCC 1486).
 
-### Article 3
+## Article 3 — Date d'effet. Durée de l'avenant
 
-*Date d'effet. Durée de l'avenant*
+> **Source :** Article 3 — Date d'effet. Durée de l'avenant — texte de base de la convention collective Syntec (IDCC 1486).
 
 Le présent avenant est conclu pour une durée indéterminée. Il prend effet le premier jour du mois civil suivant la date de publication de l'arrêté d'extension au Journal officiel.
 
-### Article 4
+## Article 4 — Conditions de révision de l'avenant
 
-*Conditions de révision de l'avenant*
+> **Source :** Article 4 — Conditions de révision de l'avenant — texte de base de la convention collective Syntec (IDCC 1486).
 
 Le présent avenant pourra faire l'objet d'une révision conformément aux articles L. 2261-7 et suivants du code du travail.
 
@@ -51,37 +53,37 @@ Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir
 
 Cet avenant sera soumis aux règles de validité et de publicité en vigueur au jour de sa signature.
 
-### Article 5
+## Article 5 — Conditions de dénonciation de l'avenant
 
-*Conditions de dénonciation de l'avenant*
+> **Source :** Article 5 — Conditions de dénonciation de l'avenant — texte de base de la convention collective Syntec (IDCC 1486).
 
 Le présent avenant peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis minimal de 3 mois. Ce préavis devra être donné à toutes les organisations signataires du présent avenant par lettre recommandée avec accusé de réception, sous peine de nullité.
 
 La partie qui dénonce l'avenant peut accompagner sa notification d'un nouveau projet, conformément à l'article 4.
 
-### Article 6
+## Article 6 — Dépôt et extension de l'avenant
 
-*Dépôt et extension de l'avenant*
+> **Source :** Article 6 — Dépôt et extension de l'avenant — texte de base de la convention collective Syntec (IDCC 1486).
 
 Le présent avenant fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministère du travail dans les conditions prévues à l'article L. 2261-24 du code du travail.
 
-### Article 7
+## Article 7 — Conditions d'adhésion à l'avenant
 
-*Conditions d'adhésion à l'avenant*
+> **Source :** Article 7 — Conditions d'adhésion à l'avenant — texte de base de la convention collective Syntec (IDCC 1486).
 
 Peuvent adhérer au présent avenant toute organisation syndicale de salariés représentative dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement, conformément aux articles L. 2261-3 et L. 2261-4 du code du travail.
 
-### Article 8
+## Article 8 — Stipulations spécifiques aux entreprises de moins de 50 salariés
 
-*Stipulations spécifiques aux entreprises de moins de 50 salariés*
+> **Source :** Article 8 — Stipulations spécifiques aux entreprises de moins de 50 salariés — texte de base de la convention collective Syntec (IDCC 1486).
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent avenant ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de cinquante (50) salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'avenant a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-### Annexes
+## Annexes
 
-#### Annexe 1 : convention collective nationale
+### Annexe 1 : convention collective nationale
 
-##### Article (préambule / sans numéro)
+> **Source :** Annexe 1 : convention collective nationale — texte de base de la convention collective Syntec (IDCC 1486).
 
 Préambule
 
@@ -127,11 +129,11 @@ Les parties signataires déclarent que les entreprises de la branche ont la part
 
 et que, par conséquent, pour faire face à ces réalités dans les meilleures conditions d'efficacité et de compétitivité, ces sociétés proposent pour certains de leurs emplois des contrats spécifiant une mission d'intervention.
 
-##### Titre 1er Généralités
+#### Titre 1er Généralités
 
-###### Article 1.1
+##### Article 1.1 — Champ d'application
 
-*Champ d'application*
+> **Source :** Article 1.1 — Champ d'application — texte de base de la convention collective Syntec (IDCC 1486).
 
 Sous réserve de relever des champs d'application territorial et professionnel définis au présent article, la convention collective est applicable :
 
@@ -213,9 +215,9 @@ Traduction et interprétation
 
 74.30Z : traduction et interprétation.
 
-###### Article 1.2
+##### Article 1.2 — Définition des ETAM, ingénieurs et cadres
 
-*Définition des ETAM, ingénieurs et cadres*
+> **Source :** Article 1.2 — Définition des ETAM, ingénieurs et cadres — texte de base de la convention collective Syntec (IDCC 1486).
 
 Sont considérés comme employés, techniciens ou agents de maîtrise (ETAM), les salariés dont les fonctions sont définies par la grille de classification des emplois correspondante, annexée à la convention collective (annexe 1).
 
@@ -231,11 +233,11 @@ Les fonctions d'ingénieurs ou cadres sont définies en annexe 2 par la classifi
 
 Ne relèvent pas de la classification ingénieurs ou cadres, ni des dispositions conventionnelles spécifiques à ces derniers, mais relèvent de la classification ETAM, les titulaires des diplômes ou les possesseurs d'une des formations précisées ci-dessus, lorsqu'ils n'occupent pas aux termes de leur contrat de travail des postes nécessitant la mise en œuvre des connaissances correspondant aux diplômes dont ils sont titulaires.
 
-##### Titre 2 Droit syndical et représentation des salariés
+#### Titre 2 Droit syndical et représentation des salariés
 
-###### Article 2.1
+##### Article 2.1 — Droit syndical et liberté d'opinion
 
-*Droit syndical et liberté d'opinion*
+> **Source :** Article 2.1 — Droit syndical et liberté d'opinion — texte de base de la convention collective Syntec (IDCC 1486).
 
 L'exercice du droit syndical est reconnu dans toutes les entreprises et s'effectue conformément aux dispositions légales en vigueur.
 
@@ -297,9 +299,9 @@ La direction, les délégués syndicaux et les représentants de sections syndic
 
 La collecte des cotisations syndicales peut être effectuée à l'intérieur de l'entreprise.
 
-###### Article 2.2
+##### Article 2.2 — Représentation des salariés
 
-*Représentation des salariés*
+> **Source :** Article 2.2 — Représentation des salariés — texte de base de la convention collective Syntec (IDCC 1486).
 
 La représentation des salariés est définie par les dispositions légales en vigueur.
 
@@ -319,11 +321,11 @@ La contribution versée chaque année par l'employeur pour financer les institut
 
 NOTA : Coefficient des ouvriers et employés : au lieu de « 230 », lire « 240 » à compter de l'entrée en vigueur de l'avenant n° 2 du 29 septembre 2022. (Avenant n° 2 du 27 octobre 2022, art. 5 - BOCC 2022-49).
 
-##### Titre 3 Conditions d'engagement et d'exécution du contrat de travail
+#### Titre 3 Conditions d'engagement et d'exécution du contrat de travail
 
-###### Article 3.1
+##### Article 3.1 — Principe de non-discrimination
 
-*Principe de non-discrimination*
+> **Source :** Article 3.1 — Principe de non-discrimination — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les employeurs s'engagent à ne pas prendre de mesures discriminatoires notamment en ce qui concerne le recrutement, la conduite et la répartition du travail, la formation professionnelle, la rémunération et l'octroi d'avantages sociaux, l'avancement, les mesures disciplinaires ou la rupture du contrat de travail.
 
@@ -353,9 +355,9 @@ Ainsi, notamment, aucune mesure ne peut être prise en raison de leur (s) :
 (1) Le terme « local » mentionné au 14e tiret est exclu de l'extension comme étant contraire aux dispositions de l'article L. 1132-1 du code du travail.
 (Arrêté du 5 avril 2023 - art. 1)
 
-###### Article 3.2
+##### Article 3.2 — Engagement et contrat de travail
 
-*Engagement et contrat de travail*
+> **Source :** Article 3.2 — Engagement et contrat de travail — texte de base de la convention collective Syntec (IDCC 1486).
 
 Il est remis à tout salarié au moment de son engagement un contrat de travail, comportant notamment les indications suivantes :
 
@@ -383,15 +385,15 @@ Tout salarié doit bénéficier d'une visite d'information et de prévention (VI
 
 Au moment de l'embauche, l'employeur informe le salarié de l'ensemble des textes conventionnels applicables dans l'entreprise ou l'établissement. Un exemplaire à jour de ces textes est tenu à la disposition des salariés sur le lieu de travail et, le cas échéant, sur l'intranet de l'entreprise.
 
-###### Article 3.3
+##### Article 3.3 — Priorités d'emploi
 
-*Priorités d'emploi*
+> **Source :** Article 3.3 — Priorités d'emploi — texte de base de la convention collective Syntec (IDCC 1486).
 
 En cas de vacance ou de création d'un poste, l'employeur fait appel en priorité aux salariés de l'entreprise susceptibles d'occuper le poste.
 
-###### Article 3.4
+##### Article 3.4 — Période d'essai
 
-*Période d'essai*
+> **Source :** Article 3.4 — Période d'essai — texte de base de la convention collective Syntec (IDCC 1486).
 
 La période d'essai et la possibilité de la renouveler ne se présument pas. Elles sont expressément stipulées dans la proposition d'embauche ou le contrat de travail.
 
@@ -407,6 +409,8 @@ Le renouvellement de la période d'essai est exceptionnel et doit faire l'objet 
 
 Au cours de la période d'essai, les deux parties peuvent se séparer en respectant les délais de prévenance suivants :
 
+ 
+
 |  | Durées des délais de prévenance en cas de rupture de la période d'essai |  |
 | --- | --- | --- |
 | Temps de présence dans l'entreprise | À l'initiative de l'employeur | À l'initiative du salarié |
@@ -416,7 +420,7 @@ Au cours de la période d'essai, les deux parties peuvent se séparer en respect
 | Au-delà de 3 mois et jusqu'à 6 mois | 1 mois | 48 heures |
 | Au-delà de 6 mois et jusqu'à 8 mois | 6 semaines | 48 heures |
 
-La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance. Ainsi, lorsqu'eu égard à la date de notification de la rupture de la période d'essai, le délai de prévenance ne peut être respecté par l'employeur, son inexécution ouvre droit pour le salarié à une indemnité compensatrice. Cette indemnité est égale au montant des salaires et avantages que le salarié aurait perçus s'il avait accompli son travail jusqu'à l'expiration du délai de prévenance, indemnité compensatrice de congés payés comprise.
+ La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance. Ainsi, lorsqu'eu égard à la date de notification de la rupture de la période d'essai, le délai de prévenance ne peut être respecté par l'employeur, son inexécution ouvre droit pour le salarié à une indemnité compensatrice. Cette indemnité est égale au montant des salaires et avantages que le salarié aurait perçus s'il avait accompli son travail jusqu'à l'expiration du délai de prévenance, indemnité compensatrice de congés payés comprise.
 
 L'indemnité compensatrice n'est pas due au salarié en cas de dispense d'exécution du délai de prévenance sollicitée par le salarié et acceptée par l'employeur.
 
@@ -426,9 +430,9 @@ Lorsque la rupture est à l'initiative du salarié, les heures d'absences autori
 
 NOTA : Coefficient des ouvriers et employés : au lieu de « 230 », lire « 240 » à compter de l'entrée en vigueur de l'avenant n° 2 du 29 septembre 2022. (Avenant n° 2 du 27 octobre 2022, art. 8 - BOCC 2022-49).
 
-###### Article 3.5
+##### Article 3.5 — Modification du contrat de travail
 
-*Modification du contrat de travail*
+> **Source :** Article 3.5 — Modification du contrat de travail — texte de base de la convention collective Syntec (IDCC 1486).
 
 Toute modification apportée à un élément essentiel du contrat de travail doit faire l'objet d'une notification écrite de la part de l'employeur et doit recueillir l'accord écrit du salarié.
 
@@ -436,15 +440,15 @@ Les modifications apportées à tout autre élément du contrat de travail font 
 
 En cas de refus de modification du contrat de travail de la part du salarié, l'employeur renonce à mettre en œuvre la modification envisagée ou procède au licenciement du salarié. Ce licenciement n'est pas motivé par le refus de modification du contrat de travail exprimé par le salarié. L'employeur doit motiver le licenciement par la cause qui l'a conduit à mettre en œuvre cette modification de contrat de travail.
 
-###### Article 3.6
+##### Article 3.6 — Modification dans la situation juridique de l'employeur
 
-*Modification dans la situation juridique de l'employeur*
+> **Source :** Article 3.6 — Modification dans la situation juridique de l'employeur — texte de base de la convention collective Syntec (IDCC 1486).
 
 S'il survient une modification dans la situation juridique de l'employeur, tous les contrats individuels de travail en cours au jour de la modification subsistent entre le nouvel employeur et les salariés de l'entreprise, conformément à l'article L. 1224-1 du code du travail.
 
-###### Article 3.7
+##### Article 3.7 — Ancienneté
 
-*Ancienneté*
+> **Source :** Article 3.7 — Ancienneté — texte de base de la convention collective Syntec (IDCC 1486).
 
 Est entendu par ancienneté le temps passé dans l'entreprise, c'est-à-dire le temps pendant lequel le salarié a été employé par le même employeur en une ou plusieurs fois, quels qu'aient été ses emplois successifs.
 
@@ -466,11 +470,11 @@ Sont prises en compte pour la détermination du temps d'ancienneté, les périod
 
 – suspension du contrat de travail pour mobilisation ou faits de guerre, et les périodes d'activité accomplies dans la réserve militaire.
 
-##### Titre 4 Rupture du contrat de travail
+#### Titre 4 Rupture du contrat de travail
 
-###### Article 4.1
+##### Article 4.1 — Procédures applicables
 
-*Procédures applicables*
+> **Source :** Article 4.1 — Procédures applicables — texte de base de la convention collective Syntec (IDCC 1486).
 
 Toute rupture du contrat de travail implique de part et d'autre le respect d'un préavis, sauf cas de faute lourde, de faute grave, de rupture conventionnelle, ou en raison d'une impossibilité de reclassement suite à une déclaration d'inaptitude sans origine professionnelle.
 
@@ -500,9 +504,9 @@ En cas de démission, le salarié en contrat à durée indéterminée doit infor
 
 La rupture conventionnelle permet à l'employeur et au salarié en contrat à durée indéterminée de convenir d'un commun accord, au cours d'un ou plusieurs entretiens, des conditions de la rupture du contrat de travail qui les lie. La rupture conventionnelle est possible sous réserve du respect des conditions et de l'indemnisation minimale prévues par les dispositions légales et/ou conventionnelles .
 
-###### Article 4.2
+##### Article 4.2 — Durée du préavis
 
-*Durée du préavis*
+> **Source :** Article 4.2 — Durée du préavis — texte de base de la convention collective Syntec (IDCC 1486).
 
 La durée du préavis varie selon l'ancienneté et la catégorie professionnelle du salarié.
 
@@ -522,9 +526,9 @@ Les durées suivantes s'appliquent en cas de licenciement ou de démission :
 
 Une durée de préavis supérieure ou inférieure peut être définie par accord entre les parties.
 
-###### Article 4.3
+##### Article 4.3 — Absence pour recherche d'emploi
 
-*Absence pour recherche d'emploi*
+> **Source :** Article 4.3 — Absence pour recherche d'emploi — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les salariés ont le droit de s'absenter pour recherche d'emploi pendant 6 jours ouvrés par mois, pris chaque mois en une ou plusieurs fois, en principe par demi-journée.
 
@@ -534,9 +538,9 @@ Ces heures d'absence ne donnent pas lieu à réduction de rémunération en cas 
 
 En cas de démission, ces heures d'absence ne donnent pas lieu à rémunération.
 
-###### Article 4.4
+##### Article 4.4 — Indemnité compensatrice de préavis
 
-*Indemnité compensatrice de préavis*
+> **Source :** Article 4.4 — Indemnité compensatrice de préavis — texte de base de la convention collective Syntec (IDCC 1486).
 
 La partie qui n'observe pas le préavis doit à l'autre une indemnité égale à la rémunération correspondant à la durée du préavis restant à courir, sauf accord entre les parties. Cette indemnité comprend tous les éléments contractuels du salaire.
 
@@ -546,9 +550,9 @@ L'employeur peut dispenser le salarié de l'exécution du préavis. Dans ce cas,
 
 La dispense d'exécution du préavis par l'employeur n'a pas d'incidence sur la date de terme du contrat de travail. Celui-ci prend fin au terme du préavis.
 
-###### Article 4.5
+##### Article 4.5 — Indemnité de licenciement
 
-*Indemnité de licenciement*
+> **Source :** Article 4.5 — Indemnité de licenciement — texte de base de la convention collective Syntec (IDCC 1486).
 
 1. Condition d'attribution
 
@@ -578,9 +582,9 @@ Pour les années incomplètes, l'indemnité de licenciement est calculée propor
 
 L'employeur verse l'indemnité dont le montant est le plus élevé, entre celle calculée selon les règles prévues ci-dessus et celle calculée selon les règles prévues par le code du travail.
 
-###### Article 4.6
+##### Article 4.6 — Départ et mise à la retraite
 
-*Départ et mise à la retraite*
+> **Source :** Article 4.6 — Départ et mise à la retraite — texte de base de la convention collective Syntec (IDCC 1486).
 
 1. Départ à la retraite
 
@@ -610,17 +614,17 @@ Dans ce cas, l'employeur qui souhaite mettre un salarié à la retraite doit lui
 
 Quel que soit l'âge du salarié, la mise à la retraite donne lieu au versement d'une indemnité spécifique, dont le montant est calculé dans les conditions prévues à l'article 4.8 de la convention collective.
 
-###### Article 4.7
+##### Article 4.7 — Régime de retraite
 
-*Régime de retraite*
+> **Source :** Article 4.7 — Régime de retraite — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les entreprises doivent obligatoirement adhérer pour leurs salariés à une caisse de retraite complémentaire affiliée à l'Agirc-Arrco.
 
 La cotisation portera sur la totalité des rémunérations brutes versées dans les conditions et limites prévues par la réglementation Agirc-Arrco en vigueur. Le taux contractuel ne pourra être inférieur au taux minimum fixé par l'Agirc-Arrco.
 
-###### Article 4.8
+##### Article 4.8 — Indemnité de départ et de mise à la retraite
 
-*Indemnité de départ et de mise à la retraite*
+> **Source :** Article 4.8 — Indemnité de départ et de mise à la retraite — texte de base de la convention collective Syntec (IDCC 1486).
 
 Une indemnité est accordée lorsque le contrat de travail prend fin dans les conditions prévues à l'article 4.6 de la convention collective.
 
@@ -644,11 +648,11 @@ La mise à la retraite d'un salarié lui ouvre droit à une indemnité au moins 
 
 Cette stipulation s'applique en l'absence de dispositions légales plus favorables ayant le même objet.
 
-##### Titre 5 Congés
+#### Titre 5 Congés
 
-###### Article 5.1
+##### Article 5.1 — Durée des congés payés
 
-*Durée des congés payés*
+> **Source :** Article 5.1 — Durée des congés payés — texte de base de la convention collective Syntec (IDCC 1486).
 
 1. Congés payés
 
@@ -696,23 +700,23 @@ Un accord d'entreprise ou d'établissement peut adapter ou supprimer le droit au
 
 À titre de compensation, les salariés rappelés au cours de leurs congés payés ont droit à 2 jours de congés payés supplémentaires et au remboursement des frais occasionnés par ce rappel sur présentation des justificatifs.
 
-###### Article 5.2
+##### Article 5.2 — Attribution de jours de congés non rémunérés
 
-*Attribution de jours de congés non rémunérés*
+> **Source :** Article 5.2 — Attribution de jours de congés non rémunérés — texte de base de la convention collective Syntec (IDCC 1486).
 
 Un congé supérieur au nombre de jours de congés payés acquis peut être pris dans la limite des jours de congés payés légaux, la période complémentaire n'ouvrant droit à aucune rétribution ou indemnité. En revanche, l'employeur ne peut obliger la prise d'un congé non rémunéré.
 
-###### Article 5.3
+##### Article 5.3 — Période de congés payés
 
-*Période de congés payés*
+> **Source :** Article 5.3 — Période de congés payés — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les droits à congés payés s'acquièrent du 1er juin de l'année précédente au 31 mai de l'année en cours.
 
 La période de prise des congés payés démarre, sauf stipulation différente, le 1er mai. La période de prise des congés payés, dans tous les cas, est de 13 mois au maximum. Tout report au-delà de cette période nécessite une demande écrite formulée par l'employeur.
 
-###### Article 5.4
+##### Article 5.4 — Modalités de prise des congés payés
 
-*Modalités de prise des congés payés*
+> **Source :** Article 5.4 — Modalités de prise des congés payés — texte de base de la convention collective Syntec (IDCC 1486).
 
 L'employeur peut après consultation du comité social et économique (CSE) s'il existe :
 
@@ -734,9 +738,9 @@ Lorsque plusieurs membres d'une même famille travaillent dans la même entrepri
 
 Toute modification des dates de congés payés, demandée dans un délai inférieur à 2 mois avant le départ, nécessite l'accord des parties, sauf en cas de circonstances exceptionnelles. Lorsque l'employeur prend l'initiative de cette modification, il s'engage à verser une indemnisation totale des frais occasionnés sur présentation de justificatifs.
 
-###### Article 5.5
+##### Article 5.5 — Périodes d'absence entrant dans le calcul de la durée des congés payés
 
-*Périodes d'absence entrant dans le calcul de la durée des congés payés*
+> **Source :** Article 5.5 — Périodes d'absence entrant dans le calcul de la durée des congés payés — texte de base de la convention collective Syntec (IDCC 1486).
 
 Sont considérées comme temps de travail effectif pour la détermination de la durée des congés payés :
 
@@ -769,15 +773,15 @@ Les salariés de retour d'un congé maternité ou d'un congé d'adoption ont dro
 (1) Article étendu sous réserve du respect des dispositions de l'article L. 3141-5 du code du travail.
 (Arrêté du 5 avril 2023 - art. 1)
 
-###### Article 5.6
+##### Article 5.6 — Indemnité de congés payés
 
-*Indemnité de congés payés*
+> **Source :** Article 5.6 — Indemnité de congés payés — texte de base de la convention collective Syntec (IDCC 1486).
 
 L'indemnité de congés payés est égale au dizième de la rémunération perçue par le salarié au cours de la période de référence, sans pouvoir être inférieure à la rémunération qui aurait été perçue pendant la période des congés payés pour un horaire normal de travail.
 
-###### Article 5.7
+##### Article 5.7 — Congés pour événements familiaux
 
-*Congés pour événements familiaux*
+> **Source :** Article 5.7 — Congés pour événements familiaux — texte de base de la convention collective Syntec (IDCC 1486).
 
 Des autorisations d'absences exceptionnelles non déductibles des congés et sans réduction de salaire sont accordées pour :
 
@@ -819,9 +823,9 @@ Des autorisations d'absences exceptionnelles non déductibles des congés et san
 
 Si le décès du conjoint ou d'un ascendant ou d'un descendant au 1er degré intervient pendant que le salarié est en déplacement en France ou à l'étranger, l'entreprise prend en charge les frais de déplacement dans les conditions de l'article 11.4 de la convention collective.
 
-###### Article 5.8
+##### Article 5.8 — Absences au titre des périodes d'activité accomplies dans la réserve militaire
 
-*Absences au titre des périodes d'activité accomplies dans la réserve militaire*
+> **Source :** Article 5.8 — Absences au titre des périodes d'activité accomplies dans la réserve militaire — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les absences au titre des périodes d'activité accomplies dans la réserve militaire pendant le temps de travail ne constituent pas une rupture de contrat de travail et ne peuvent entraîner une réduction des congés payés.
 
@@ -829,9 +833,9 @@ Pendant ces périodes, les salariés seront rémunérés sur la base de leur sal
 
 Les absences au titre des périodes d'activité accomplies dans la réserve militaire sont régies par les articles L. 3142-89 à L. 3142-94-1 du code du travail.
 
-###### Article 5.9
+##### Article 5.9 — Congé sans solde
 
-*Congé sans solde*
+> **Source :** Article 5.9 — Congé sans solde — texte de base de la convention collective Syntec (IDCC 1486).
 
 Un congé sans solde peut être accordé par l'employeur, à la demande du salarié.
 
@@ -841,17 +845,17 @@ Le congé sans solde entraîne la suspension des effets du contrat de travail.
 
 À l'expiration de ce congé, le salarié retrouve ses droits et ses avantages acquis antérieurement.
 
-##### Titre 6 Temps de travail
+#### Titre 6 Temps de travail
 
-###### Article 6.1
+##### Article 6.1 — Aménagement du temps de travail sur l'année
 
-*Aménagement du temps de travail sur l'année*
+> **Source :** Article 6.1 — Aménagement du temps de travail sur l'année — texte de base de la convention collective Syntec (IDCC 1486).
 
 Des stipulations conventionnelles relatives à l'aménagement du temps de travail sur l'année sont prévues par l'accord de branche du 22 juin 1999 relatif à la durée du travail modifié par l'avenant du 1er avril 2014.
 
-###### Article 6.2
+##### Article 6.2 — Heures supplémentaires
 
-*Heures supplémentaires*
+> **Source :** Article 6.2 — Heures supplémentaires — texte de base de la convention collective Syntec (IDCC 1486).
 
 1. Rémunération des heures supplémentaires
 
@@ -877,9 +881,9 @@ Le contingent réglementaire s'applique.
 
 (Arrêté du 5 avril 2023 - art. 1)
 
-###### Article 6.3
+##### Article 6.3 — Travail du dimanche et des jours fériés
 
-*Travail du dimanche et des jours fériés*
+> **Source :** Article 6.3 — Travail du dimanche et des jours fériés — texte de base de la convention collective Syntec (IDCC 1486).
 
 Le travail du dimanche et des jours fériés est subordonné aux dispositions de la législation du travail, et spécifiquement au respect du titre III du livre Ier du code du travail portant sur les repos et jours fériés.
 
@@ -934,9 +938,9 @@ Des stipulations spécifiques relatives au travail du dimanche et des jours fér
 
 (Arrêté du 5 avril 2023 - art. 1)
 
-###### Article 6.4
+##### Article 6.4 — Travail habituel de nuit
 
-*Travail habituel de nuit*
+> **Source :** Article 6.4 — Travail habituel de nuit — texte de base de la convention collective Syntec (IDCC 1486).
 
 ETAM
 
@@ -952,20 +956,20 @@ Pour apprécier si cette majoration est perçue par le salarié, il est tenu com
 
 (Arrêté du 5 avril 2023 - art. 1)
 
-###### Article 6.5
+##### Article 6.5 — Équipes de suppléance
 
-*Équipes de suppléance*
+> **Source :** Article 6.5 — Équipes de suppléance — texte de base de la convention collective Syntec (IDCC 1486).
 
 Si l'organisation du travail le rend nécessaire, des équipes de suppléance pourront être mises en place pendant les jours de repos, en fin de semaine, en remplacement des autres salariés de l'entreprise, conformément aux dispositions légales.
 
 (1) L'article 6.5 est étendu sous réserve du respect, pour mettre en place une équipe de suppléance, de la conclusion d'un accord d'entreprise conforme aux dispositions de l'article L. 3132-17 du code du travail ou, à défaut, de solliciter l'autorisation de l'inspecteur du travail prévue à l'article L. 3132-18 du code du travail.
 (Arrêté du 5 avril 2023 - art. 1)
 
-##### Titre 7 Rémunération
+#### Titre 7 Rémunération
 
-###### Article 7.1
+##### Article 7.1 — Généralités
 
-*Généralités*
+> **Source :** Article 7.1 — Généralités — texte de base de la convention collective Syntec (IDCC 1486).
 
 Le salaire est basé sur la durée légale ou conventionnelle du travail.
 
@@ -997,9 +1001,9 @@ Salaire minimal hiérarchique = base fixe + (valeur du point ETAM × coefficient
 
 Les salaires minimaux hiérarchiques relatifs à chaque emploi des ingénieurs et cadres sont déterminés par l'application aux coefficients hiérarchiques des valeurs du point de rémunération correspondantes.
 
-###### Article 7.2
+##### Article 7.2 — Classifications
 
-*Classifications*
+> **Source :** Article 7.2 — Classifications — texte de base de la convention collective Syntec (IDCC 1486).
 
 ETAM
 
@@ -1023,9 +1027,9 @@ La fonction remplie est seule prise en considération pour son classement dans l
 
 Le salarié dont les fonctions relèvent de façon continue de diverses catégories est considéré comme appartenant à la catégorie la plus élevée parmi celles-ci.
 
-###### Article 7.3
+##### Article 7.3 — Prime de vacances
 
-*Prime de vacances*
+> **Source :** Article 7.3 — Prime de vacances — texte de base de la convention collective Syntec (IDCC 1486).
 
 L'employeur réserve chaque année l'équivalent d'au moins 10 % de la masse globale des indemnités de congés payés acquis prévus par la convention collective, au paiement d'une prime de vacances à tous les salariés de l'entreprise. (1)
 
@@ -1053,9 +1057,9 @@ En revanche, ne peuvent se substituer au paiement de la prime de vacances :
 
 (Arrêté du 5 avril 2023 - art. 1)
 
-###### Article 7.4
+##### Article 7.4 — Bulletin de paie
 
-*Bulletin de paie*
+> **Source :** Article 7.4 — Bulletin de paie — texte de base de la convention collective Syntec (IDCC 1486).
 
 Le bulletin de paie doit comporter les mentions réglementaires et notamment :
 
@@ -1081,11 +1085,11 @@ Le bulletin de paie doit comporter les mentions réglementaires et notamment :
 
 – la mention incitant à conserver le bulletin de paie sans limitation de durée.
 
-##### Titre 8 Brevets d'invention et secret professionnel
+#### Titre 8 Brevets d'invention et secret professionnel
 
-###### Article 8.1
+##### Article 8.1 — Inventions des salariés dans le cadre des activités professionnelles
 
-*Inventions des salariés dans le cadre des activités professionnelles*
+> **Source :** Article 8.1 — Inventions des salariés dans le cadre des activités professionnelles — texte de base de la convention collective Syntec (IDCC 1486).
 
 1. Règles générales
 
@@ -1121,33 +1125,33 @@ Inventions non brevetables
 
 Ces inventions, ainsi que les innovations émanant des salariés et utilisées par l'entreprise, pourront donner lieu à l'attribution de primes.
 
-###### Article 8.2
+##### Article 8.2 — Création de logiciels
 
-*Création de logiciels*
+> **Source :** Article 8.2 — Création de logiciels — texte de base de la convention collective Syntec (IDCC 1486).
 
 Conformément à l'article L. 113-9 du code de la propriété intellectuelle et sauf stipulation contraire, le logiciel créé par un ou plusieurs employés dans l'exercice de leurs fonctions appartient à l'employeur auquel sont dévolus tous les droits reconnus aux auteurs.
 
 Toute contestation sur l'application de ces stipulations est soumise au tribunal judiciaire du siège social de l'employeur.
 
-###### Article 8.3
+##### Article 8.3 — Secret professionnel
 
-*Secret professionnel*
+> **Source :** Article 8.3 — Secret professionnel — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les salariés s'engagent formellement à ne divulguer à qui que ce soit, aucun des plans, études, conceptions, projets, réalisations, logiciels, étudiés dans l'entreprise, soit pour le compte des clients de l'entreprise, soit pour l'entreprise elle-même, se déclarant liés à cet égard par le secret professionnel le plus absolu. Il en est de même notamment pour les renseignements et résultats découlant de travaux réalisés dans l'entreprise, ou constatés chez les clients.
 
 Un manquement des salariés à cette stricte obligation peut donner lieu à une sanction disciplinaire pouvant aller jusqu'au licenciement.
 
-###### Article 8.4
+##### Article 8.4 — Publications
 
-*Publications*
+> **Source :** Article 8.4 — Publications — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les salariés s'interdisent également de publier, sans l'accord de leur employeur, toute étude basée sur les travaux réalisés pour l'entreprise ou pour les clients, ni faire notamment état des renseignements et résultats obtenus auprès des clients.
 
-##### Titre 9 Maladie, accidents, parentalité
+#### Titre 9 Maladie, accidents, parentalité
 
-###### Article 9.1
+##### Article 9.1 — Formalités
 
-*Formalités*
+> **Source :** Article 9.1 — Formalités — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les absences justifiées par l'incapacité temporaire de travail résultant de maladie ou d'accident constaté par certificat médical, et notifiées à l'employeur ainsi qu'il est précisé ci-après, ne constituent pas une cause de rupture du contrat de travail, mais une suspension de celui-ci.
 
@@ -1155,9 +1159,9 @@ Dès que possible, et au plus tard dans les 24 heures, le salarié doit avertir 
 
 Cette absence est justifiée dans le délai maximal de 48 heures à compter du premier jour de l'indisponibilité, au moyen d'un certificat médical délivré par un médecin. Lorsqu'il assure un complément d'allocations maladie aux indemnités journalières de la sécurité sociale, l'employeur a la faculté de faire effectuer une contre-visite par un médecin de son choix.
 
-###### Article 9.2
+##### Article 9.2 — Incapacité temporaire de travail
 
-*Incapacité temporaire de travail*
+> **Source :** Article 9.2 — Incapacité temporaire de travail — texte de base de la convention collective Syntec (IDCC 1486).
 
 En cas de maladie ou d'accident, professionnel ou non, constaté par certificat médical, l'employeur verse au salarié, dans les conditions décrites au paragraphe 1 ci-dessous, les allocations maladie nécessaires pour compléter :
 – les indemnités journalières de sécurité sociale ;
@@ -1195,9 +1199,9 @@ Si l'ancienneté fixée par l'un des alinéas précédents est atteinte par le s
 (1) L'article 9.2 est étendu sous réserve du respect des articles L. 1226-1 et D. 1226-1 et D. 1226-2 du code du travail, relatifs au maintien de salaire dont le montant et la durée sont conditionnés à l'ancienneté.
 (Arrêté du 5 avril 2023-art. 1)
 
-###### Article 9.3
+##### Article 9.3 — Parentalité
 
-*Parentalité*
+> **Source :** Article 9.3 — Parentalité — texte de base de la convention collective Syntec (IDCC 1486).
 
 Principe de non-discrimination
 
@@ -1255,29 +1259,29 @@ Allaitement
 
 Pendant 1 an à partir de la naissance de son enfant, la salariée allaitant son enfant dispose à cet effet d'une heure par jour durant les heures de travail. L'utilisation de ce droit n'entraîne pas de réduction de la rémunération.
 
-###### Article 9.4
+##### Article 9.4 — Congé parental d'éducation à temps plein et à temps partiel
 
-*Congé parental d'éducation à temps plein et à temps partiel*
+> **Source :** Article 9.4 — Congé parental d'éducation à temps plein et à temps partiel — texte de base de la convention collective Syntec (IDCC 1486).
 
 Au terme du congé de maternité ou d'adoption, les salariés ont droit à un congé parental à temps plein ou à temps partiel, dans les conditions décrites au code du travail.
 
-###### Article 9.5
+##### Article 9.5 — Décès
 
-*Décès*
+> **Source :** Article 9.5 — Décès — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les stipulations relatives à l'assurance décès sont prévues par l'accord de branche du 27 mars 1997 modifié relatif à la prévoyance.
 
-##### Titre 10 Formation professionnelle
+#### Titre 10 Formation professionnelle
 
-###### Article 10.1
+##### Article 10.1 — Formation professionnelle
 
-*Formation professionnelle*
+> **Source :** Article 10.1 — Formation professionnelle — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les stipulations relatives à la formation professionnelle sont prévues par l'accord de branche du 31 octobre 2019 relatif au développement des compétences et à l'employabilité.
 
-###### Article 10.2
+##### Article 10.2 — Opérateur de compétences
 
-*Opérateur de compétences*
+> **Source :** Article 10.2 — Opérateur de compétences — texte de base de la convention collective Syntec (IDCC 1486).
 
 Un opérateur de compétences (OPCO) dénommé « Atlas, Soutenir les compétences » a été constitué par l'accord du 20 décembre 2018 relatif à l'OPCO Atlas.
 
@@ -1301,19 +1305,19 @@ L'opérateur de compétences Atlas a pour mission :
 
 –– d'accompagner ces entreprises dans l'analyse et la définition de leurs besoins en matière de formation professionnelle, notamment au regard des mutations économiques et techniques de leur secteur d'activité.
 
-##### Titre 11 Déplacements et changements de résidence en France métropolitaine
+#### Titre 11 Déplacements et changements de résidence en France métropolitaine
 
-###### Article 11.1
+##### Article 11.1 — Ordre de mission
 
-*Ordre de mission*
+> **Source :** Article 11.1 — Ordre de mission — texte de base de la convention collective Syntec (IDCC 1486).
 
 Préalablement au départ en déplacement, l'employeur doit informer le salarié des conditions de réalisation de sa prestation de travail en établissant un ordre de mission.
 
 L'ordre de mission pourra être permanent lorsque les fonctions, telles que précisées dans le contrat de travail, les conduisent à effectuer, au sein de la même journée, des déplacements multiples sur différents sites.
 
-###### Article 11.2
+##### Article 11.2 — Frais de déplacement
 
-*Frais de déplacement*
+> **Source :** Article 11.2 — Frais de déplacement — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les déplacements hors du lieu de travail habituel (chez un client, sur un site de l'entreprise…) nécessités par le service ne doivent pas être pour le salarié l'occasion d'une charge financière supplémentaire ou d'une réduction de la rémunération.
 
@@ -1327,9 +1331,9 @@ Les frais de déplacement constituent un remboursement de dépenses et ne sont d
 
 Toutefois, les frais (location, par exemple) qui continueraient à courir pendant les absences de courte durée peuvent être remboursés avec l'accord préalable de l'employeur.
 
-###### Article 11.3
+##### Article 11.3 — Moyens de transport
 
-*Moyens de transport*
+> **Source :** Article 11.3 — Moyens de transport — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les déplacements professionnels peuvent être effectués par :
 
@@ -1363,9 +1367,9 @@ Toute modification ultérieure de la situation par rapport à ces obligations do
 
 Le salarié s'engage à respecter les dispositions du code de la route.
 
-###### Article 11.4
+##### Article 11.4 — Voyage de détente
 
-*Voyage de détente*
+> **Source :** Article 11.4 — Voyage de détente — texte de base de la convention collective Syntec (IDCC 1486).
 
 Pendant les déplacements occasionnels de longue durée d'au moins un mois consécutif, il est accordé, à titre de détente, au salarié éloigné de sa famille (conjoint[e], enfant[s]), un certain nombre de voyages aller et retour, dont les conditions de fréquence, de durée d'absence et de moyen de transport doivent être précisées dans l'ordre de mission ou fixées par un accord d'entreprise, une décision unilatérale de l'employeur ou un usage au sein l'entreprise.
 
@@ -1383,9 +1387,9 @@ Le paiement de ces frais de voyage est dû, que le salarié se rende dans sa fam
 
 Le voyage de détente, sauf lorsqu'il s'agit de participer aux élections conformément aux conditions de l'article 11.5 de la convention collective, ne peut être exigé lorsqu'il se place dans les 10 derniers jours d'une mission ou d'un déplacement. Dans ce cas, un repos égal à la durée de l'absence non utilisée est accordé au salarié au retour à son lieu de rattachement.
 
-###### Article 11.5
+##### Article 11.5 — Évènements en cours de déplacement
 
-*Évènements en cours de déplacement*
+> **Source :** Article 11.5 — Évènements en cours de déplacement — texte de base de la convention collective Syntec (IDCC 1486).
 
 1. Élections
 
@@ -1403,9 +1407,9 @@ En cours de déplacement, en cas de maladie ou d'accident graves ou de décès, 
 
 L'entreprise donne toutes facilités, notamment pour le remboursement des frais de transport, à toute personne désignée par le/la salarié(e) pour se rendre à ses côtés.
 
-###### Article 11.6
+##### Article 11.6 — Mobilité géographique
 
-*Mobilité géographique*
+> **Source :** Article 11.6 — Mobilité géographique — texte de base de la convention collective Syntec (IDCC 1486).
 
 1. Modification du lieu de travail
 
@@ -1459,11 +1463,11 @@ Décès du salarié dont le lieu de travail a été modifié
 
 En cas de décès d'un salarié au lieu de sa nouvelle résidence, les frais occasionnés, par le retour de sa famille (conjoint[e] et personne[s] à charge) ainsi que les frais éventuels de retour du corps au lieu de résidence initiale sont à la charge de l'employeur, dans les conditions fixées au 2 du présent article.
 
-##### Titre 12 Déplacements hors de France métropolitaine
+#### Titre 12 Déplacements hors de France métropolitaine
 
-###### Article 12.1
+##### Article 12.1 — Conditions générales
 
-*Conditions générales*
+> **Source :** Article 12.1 — Conditions générales — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les entreprises qui exercent habituellement ou occasionnellement une activité hors de France métropolitaine et qui, de ce fait, sont amenées à y envoyer certains salariés en déplacement doivent, à défaut de l'avoir précisé dans le contrat de travail, obtenir l'accord des salariés par un avenant à ce contrat, à condition que la durée du déplacement soit au moins égale à 3 mois continus.
 
@@ -1479,9 +1483,9 @@ Le contrat de travail ou l'avenant se réfère aux clauses du présent titre pou
 
 Les conditions de déplacement hors de France pouvant être de nature très variable selon les missions, la convention collective ne peut prévoir tous les cas possibles, mais précise au présent titre des règles minimales et donne la liste des paragraphes qui doivent figurer en totalité ou en partie dans l'ordre de mission.
 
-###### Article 12.2
+##### Article 12.2 — Ordre de mission
 
-*Ordre de mission*
+> **Source :** Article 12.2 — Ordre de mission — texte de base de la convention collective Syntec (IDCC 1486).
 
 L'envoi en mission hors de France métropolitaine doit, selon les cas définis à l'article 12.1, donner lieu à l'établissement préalable d'un avenant au contrat de travail et/ou d'un ordre de mission.
 
@@ -1553,9 +1557,9 @@ c) Enfin, quelle que soit la durée de la mission, l'ordre de mission doit obl
 
 L'ordre de mission visé ci-dessus est établi sous la condition suspensive que le salarié ait satisfait à toutes les formalités préalables (telles que visas, autorisations de séjour et de travail, contrôle médical, vaccinations, etc.) prévues par la législation en vigueur, tant en France métropolitaine que dans le pays du déplacement.
 
-###### Article 12.3
+##### Article 12.3 — Conditions suspensives et durée des séjours
 
-*Conditions suspensives et durée des séjours*
+> **Source :** Article 12.3 — Conditions suspensives et durée des séjours — texte de base de la convention collective Syntec (IDCC 1486).
 
 Au cours de la mission, la durée de chaque séjour ne peut, en principe, excéder 20 mois, les délais de route étant non compris.
 
@@ -1567,9 +1571,9 @@ Cependant, s'il apparaissait en cours d'exécution de la mission que la durée d
 
 – soit demander à rentrer en France pour bénéficier de ses congés payés, auquel cas son ordre de mission pourra être soit renouvelé, soit modifié, voire annulé.
 
-###### Article 12.4
+##### Article 12.4 — Voyages et transport
 
-*Voyages et transport*
+> **Source :** Article 12.4 — Voyages et transport — texte de base de la convention collective Syntec (IDCC 1486).
 
 1. Définition des frais de voyage
 
@@ -1649,9 +1653,9 @@ Le salarié qui use d'un moyen de transport moins rapide que celui déterminé a
 
 Si le salarié use d'un moyen de transport plus rapide, il continue à bénéficier, en plus de la durée des congés payés, des délais qui auraient été nécessaires avec le moyen de transport déterminé au sein de l'entreprise.
 
-###### Article 12.5
+##### Article 12.5 — Période d'essai
 
-*Période d'essai*
+> **Source :** Article 12.5 — Période d'essai — texte de base de la convention collective Syntec (IDCC 1486).
 
 Lorsqu'un salarié est engagé spécialement pour accomplir des missions hors de France métropolitaine, il peut être soumis à la période d'essai prévue par l'article 3.4 de la convention collective :
 
@@ -1661,9 +1665,9 @@ Lorsqu'un salarié est engagé spécialement pour accomplir des missions hors de
 
 De plus, dans le cas où cette période d'essai s'accomplirait hors de France métropolitaine, le salarié ne pourrait faire venir sa famille pour le rejoindre tant que la période d'essai ne serait pas achevée de façon concluante, sauf autorisation spéciale de l'employeur.
 
-###### Article 12.6
+##### Article 12.6 — Rupture du contrat de travail pendant la mission
 
-*Rupture du contrat de travail pendant la mission*
+> **Source :** Article 12.6 — Rupture du contrat de travail pendant la mission — texte de base de la convention collective Syntec (IDCC 1486).
 
 Selon le lieu de la mission, le recours à la procédure de notification de la rupture du contrat de travail (licenciement, rupture de période d'essai…) par lettre recommandée avec accusé de réception ne peut pas être valablement utilisé à l'étranger.
 
@@ -1671,17 +1675,17 @@ Aussi, par dérogation aux stipulations de l'article 4.1, la notification de la 
 
 En tout état de cause, la procédure de licenciement au cours d'un déplacement professionnel à l'étranger doit être observée dans le respect des conditions légales et réglementaires.
 
-###### Article 12.7
+##### Article 12.7 — Congés payés
 
-*Congés payés*
+> **Source :** Article 12.7 — Congés payés — texte de base de la convention collective Syntec (IDCC 1486).
 
 Le salarié est libre de prendre ses congés payés dans le pays de son choix. Les frais de voyage ne sont pris en charge qu'à concurrence de ce qui aurait été dû pour un retour à sa résidence habituelle et éventuellement pour en revenir. Il en est de même pour les délais de route.
 
 Le salarié licencié ou démissionnaire au cours de ses congés payés ne peut exiger d'effectuer son préavis en outre-mer ou à l'étranger.
 
-###### Article 12.8
+##### Article 12.8 — Prévoyance. Retraite. Chômage
 
-*Prévoyance. Retraite. Chômage*
+> **Source :** Article 12.8 — Prévoyance. Retraite. Chômage — texte de base de la convention collective Syntec (IDCC 1486).
 
 Si le régime général de la sécurité sociale n'est pas maintenu, le salarié et sa famille doivent être couverts avec des garanties analogues à celles du régime général de la sécurité sociale conformément au point 18 de l'article 12.2 de la convention collective, les taux de cotisations salariales ne pouvant être augmentés de ce fait. Le cas échéant, doivent être couverts les risques de maladies tropicales et endémiques pour le salarié et sa famille.
 
@@ -1693,19 +1697,19 @@ En cours de déplacement, dans le cas de maladie ou d'accident graves ou de déc
 
 Les salariés envoyés hors de France métropolitaine sont, sur leur demande, couverts par une assurance, souscrite par l'employeur, contre les risques d'accident (décès, incapacité temporaire, invalidité totale ou partielle), suivant des modalités fixées par l'ordre de mission, et ceci pendant toute la durée de la mission, voyages compris, et, quels que soient les moyens de transport utilisés.
 
-###### Article 12.9
+##### Article 12.9 — Contrôle médical
 
-*Contrôle médical*
+> **Source :** Article 12.9 — Contrôle médical — texte de base de la convention collective Syntec (IDCC 1486).
 
 En cas de séjour dans un pays présentant des risques sanitaires, le salarié est tenu, à la demande de l'employeur avant son départ et dans le mois qui suit son retour à son domicile, de se soumettre, lui et éventuellement les membres de sa famille, à un examen médical auprès d'un médecin spécialisé indiqué par l'employeur.
 
 Le salarié devra en outre se faire vacciner, ainsi que sa famille, selon la réglementation française et celle du pays dans lequel il se rend.
 
-##### Titre 13 Stipulations juridiques et administratives
+#### Titre 13 Stipulations juridiques et administratives
 
-###### Article 13.1
+##### Article 13.1 — Convention collective et accords d'entreprise antérieurs
 
-*Convention collective et accords d'entreprise antérieurs*
+> **Source :** Article 13.1 — Convention collective et accords d'entreprise antérieurs — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les entreprises adaptent les clauses de leurs accords qui s'avéreraient moins favorables aux salariés que celles de la présente convention collective, dans les domaines énumérés à l'article L. 2253-1 du code du travail.
 
@@ -1717,15 +1721,15 @@ Cette négociation d'adaptation aux nouvelles stipulations a pour objet de mettr
 
 En cas d'échec de la négociation visée à l'alinéa précédent, les salariés concernés par cette mise en cause bénéficient, conformément aux dispositions du code du travail, d'une garantie de rémunération dont le montant annuel, pour une durée de travail équivalente à celle prévue par leur contrat de travail, ne peut être inférieur à la rémunération versée, en application de la convention collective mise en cause, lors des 12 derniers mois.
 
-###### Article 13.2
+##### Article 13.2 — Date d'application
 
-*Date d'application*
+> **Source :** Article 13.2 — Date d'application — texte de base de la convention collective Syntec (IDCC 1486).
 
 Les stipulations de la présente convention collective sont applicables à compter du premier jour du mois civil suivant la date de publication de l'arrêté d'extension au Journal officiel.
 
-###### Article 13.3
+##### Article 13.3 — Durée. Dénonciation
 
-*Durée. Dénonciation*
+> **Source :** Article 13.3 — Durée. Dénonciation — texte de base de la convention collective Syntec (IDCC 1486).
 
 La présente convention collective est conclue pour une durée indéterminée.
 
@@ -1747,9 +1751,9 @@ Sous peine de nullité, ce préavis doit être donné à toutes les organisation
 
 La convention collective est alors maintenue en vigueur entre les autres parties signataires.
 
-###### Article 13.4
+##### Article 13.4 — Révision
 
-*Révision*
+> **Source :** Article 13.4 — Révision — texte de base de la convention collective Syntec (IDCC 1486).
 
 Conformément aux dispositions du code du travail, sont à tout moment habilitées à engager une procédure de révision de la présente convention collective :
 
@@ -1768,9 +1772,9 @@ Il est opposable, dans des conditions de dépôt prévues par la loi, à l'ensem
 (1) L'article 13.4 est étendu sous réserve du respect des dispositions de l'article L. 2261-7 du code du travail.
 (Arrêté du 5 avril 2023 - art. 1)
 
-###### Article 13.5
+##### Article 13.5 — Adhésion
 
-*Adhésion*
+> **Source :** Article 13.5 — Adhésion — texte de base de la convention collective Syntec (IDCC 1486).
 
 Peuvent adhérer au présent avenant toute organisation syndicale de salariés représentative dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement, conformément aux articles L. 2261-3 et L. 2261-4 du code du travail.
 
@@ -1778,9 +1782,9 @@ Les employeurs appliquent les stipulations plus favorables de la présente conve
 
 L'adhésion est notifiée aux signataires de la présente convention collective par lettre recommandée avec accusé de réception, et fait l'objet d'un dépôt auprès des services du ministère du travail et du service de greffe du conseil des prud'hommes de Paris, à la diligence de son ou de ses auteurs.
 
-###### Article 13.6
+##### Article 13.6 — Procédure de conciliation
 
-*Procédure de conciliation*
+> **Source :** Article 13.6 — Procédure de conciliation — texte de base de la convention collective Syntec (IDCC 1486).
 
 a) En cas de réclamation individuelle ou collective relative à l'application des stipulations prévues par la présente convention collective, l'employeur dispose d'un délai de 8 jours pour répondre à cette réclamation.
 
@@ -1813,94 +1817,3 @@ Texte de base de la convention collective : préambule et articles 1.1 à 13.6 d
 – Annexe IV – Enquêteurs
 
 • Accord thématique : accord de branche, à durée indéterminée ou non, définissant des règles propres à un thème de négociation.
-
-#### Annexe 2
-
-##### Article (préambule / sans numéro)
-
-Table de correspondance des articles de la convention collective
-
-| Nouvelle numérotation |  | Ancienne numérotation |
-| --- | --- | --- |
-| Titre 1 – Généralités |  |  |
-| Article 1.1 | Champ d'application | 1 |
-| Article 1.2 | Définition des ETAM, ingénieurs et cadres et chargés d'enquête | 2 |
-| Titre 2 – Droit syndical et représentation des salariés |  |  |
-| Article 2.1 | Droit syndical et liberté d'opinion | 3 |
-| Article 2.2 | Représentation des salariés | 4 |
-| Titre 3 – Conditions d'engagement et d'exécution du contrat de travail |  |  |
-| Article 3.1 | Principe de non-discrimination | 3 |
-| Article 3.2 | Engagement et contrat de travail | 5 |
-| Article 3.3 | Priorités d'emploi | 6 |
-| Article 3.4 | Période d'essai | 7, 14, 16 |
-| Article 3.5 | Modification du contrat du travail | 8 |
-| Article 3.6 | Modification dans la situation juridique de l'employeur | 9 |
-| Article 3.7 | Ancienneté | 12 |
-| Titre 4 – Rupture du contrat de travail |  |  |
-| Article 4.1 | Procédures applicables | 13, 41 |
-| Article 4.2 | Durée du préavis | 15 |
-| Article 4.3 | Absence pour recherche d'emploi | 16 |
-| Article 4.4 | Indemnité compensatrice de préavis | 17 |
-| Article 4.5 | Indemnité de licenciement | 18, 19 |
-| Article 4.6 | Départ et mise à la retraite | 20 |
-| Article 4.7 | Régime de retraite | 21 |
-| Article 4.8 | Indemnité de départ et de mise à la retraite | 22 |
-| Titre 5 – Congés |  |  |
-| Article 5.1 | Durée des congés payés | 23, 24 |
-| Article 5.2 | Conditions d'attribution des congés payés | 24 |
-| Article 5.3 | Période de congés payés | 25 |
-| Article 5.4 | Modalités de prise des congés payés | 25, 26 |
-| Article 5.5 | Périodes d'absence entrant dans le calcul de la durée des congés payés | 27 |
-| Article 5.6 | Indemnité de congés payés | 28 |
-| Article 5.7 | Congés pour événements familiaux | 29 |
-| Article 5.8 | Absences au titre des périodes d'activité accomplies dans la réserve militaire | 74 |
-| Article 5.9 | Congé sans solde | 30 |
-| Titre 6 – Temps de travail |  |  |
-| Article 6.1 | Aménagement du temps de travail sur l'année | 34 |
-| Article 6.2 | Heures supplémentaires | 33 |
-| Article 6.3 | Travail du dimanche et des jours fériés | 35, 36, 37 |
-| Article 6.4 | Travail habituel de nuit | 35, 36, 37 |
-| Article 6.5 | Équipes de suppléance | 38 |
-| Titre 7 – Rémunération |  |  |
-| Article 7.1 | Généralités | 32 |
-| Article 7.2 | Classifications | 39 |
-| Article 7.3 | Prime de vacances | 31 |
-| Article 7.4 | Bulletin de paie | 40 |
-| Titre 8 – Brevets d'invention et secret professionnel |  |  |
-| Article 8.1 | Inventions des salariés dans le cadre des activités professionnelles | 75 |
-| Article 8.2 | Création de logiciels | 76 |
-| Article 8.3 | Secret professionnel | 77 |
-| Article 8.4 | Publications | 78 |
-| Titre 9 – Maladie et accidents |  |  |
-| Article 9.1 | Formalités | 41, 42 |
-| Article 9.2 | Incapacité temporaire de travail | 43 |
-| Article 9.3 | Maternité | 44 |
-| Article 9.4 | Congé parental d'éducation | - |
-| Article 9.5 | Décès | 45 |
-| Titre 10 – Formation |  |  |
-| Article 10.1 | Formation professionnelle | 46 |
-| Article 10.2 | Opérateur de compétences | 49 |
-| Titre 11 – Déplacements et changement de résidence en France métropolitaine |  |  |
-| Article 11.1 | Ordre de mission | 51 |
-| Article 11.2 | Frais de déplacement | 50, 53, 54, 55 |
-| Article 11.3 | Moyens de transport | 59, 60 |
-| Article 11.4 | Voyage de détente | 52, 56 |
-| Article 11.5 | Évènements en cours de déplacement | 54, 57, 58 |
-| Article 11.6 | Mobilité géographique | 61, 62, 63 |
-| Titre 12 – Déplacements hors de France métropolitaine |  |  |
-| Article 12.1 | Conditions générales | 64, 65 |
-| Article 12.2 | Ordre de mission | 66 |
-| Article 12.3 | Conditions suspensives et durée des séjours | 67 |
-| Article 12.4 | Voyages et transport | 70 |
-| Article 12.5 | Période d'essai | 68 |
-| Article 12.6 | Rupture du contrat de travail pendant la mission | 69 |
-| Article 12.7 | Congés payés | 71 |
-| Article 12.8 | Prévoyance. Retraite. Chômage | 72 |
-| Article 12.9 | Contrôle médical | 73 |
-| Titre 13 – Stipulations juridiques et administratives |  |  |
-| Article 13.1 | Convention collective et accords d'entreprise antérieurs | 79 |
-| Article 13.2 | Date d'application | 80 |
-| Article 13.3 | Durée. Dénonciation | 81 |
-| Article 13.4 | Révision | 82 |
-| Article 13.5 | Adhésion | 83 |
-| Article 13.6 | Procédure de conciliation | 84 |

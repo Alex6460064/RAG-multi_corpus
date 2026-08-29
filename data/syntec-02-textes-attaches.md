@@ -1,15 +1,17 @@
-<!-- Convention collective Syntec (IDCC 1486) — source: Légifrance via @socialgouv/kali-data (KALICONT000005635173). Corpus arrêté au 2026-08-29. Articles en vigueur uniquement. -->
-# Convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 mise à jour par avenant n° 46 du 16 juillet 2021
+<!-- Convention collective Syntec (IDCC 1486) — source : Légifrance, conteneur KALICONT000005635173, via @socialgouv/kali-data. Corpus arrêté au 2026-08-29. Articles en vigueur uniquement. Généré par scripts/build-corpus-syntec.mjs. -->
+# Convention collective Syntec (IDCC 1486) — textes attachés
 
-> Partie : **Textes Attachés**. Assistant à but démonstratif — vérifier la version en vigueur avant toute décision RH.
+Annexes de classification (ETAM, ingénieurs et cadres, enquêteurs) et accords / avenants thématiques en vigueur (durée du travail, prévoyance, formation, télétravail, etc.).
 
-## Textes Attachés
+> **Lecture.** Ce fichier reproduit l'état consolidé de Légifrance : des textes de dates différentes peuvent coexister. Pour toute valeur chiffrée (salaire, valeur du point, nombre de jours, taux), se référer au texte le plus récent et vérifier la version en vigueur sur Légifrance. Corpus arrêté au 2026-08-29.
 
-### Annexe IV. Enquêteurs. Accord du 16 décembre 1991
+> ⚠️ Assistant à but démonstratif — ne remplace pas un avis d'expert ou juridique.
 
-#### Préambule
+## Annexe IV. Enquêteurs. Accord du 16 décembre 1991
 
-##### Article (préambule / sans numéro)
+### Préambule
+
+> **Source :** Préambule — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 L'activité des instituts de sondages présente un caractère très particulier : les variations de la répartition géographique de la demande, tant en volume qu'en nature, les impératifs de souplesse et de rapidité qui sont indispensables dans de nombreux cas, ne permettent pas à ces entreprises d'assurer à l'ensemble de leurs enquêteurs une charge de travail régulière et constante au cours de l'année, eu égard de plus au fait qu'il est impératif d'obtenir, pour des nécessités statistiques, des échantillons dispersés.
 
@@ -23,11 +25,9 @@ Le troisième est le statut de chargés d'enquête (CE), titulaires d'un contrat
 
 Les parties signataires conviennent que la convention collective nationale du 15 décembre 1987 des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils s'applique de plein droit aux chargés d'enquête (CE), à l'exception du 1. de l'article 6.2 et sauf spécificités prévues par la présente annexe.
 
-#### Dispositions communes aux chargés d'enquête intermittents à garantie annuelle (CEIGA) et aux enquêteurs vacataires (EV)
+### Dispositions communes aux chargés d'enquête intermittents à garantie annuelle (CEIGA) et aux enquêteurs vacataires (EV)
 
-##### Article (préambule / sans numéro)
-
-*Dispositions communes*
+> **Source :** Dispositions communes aux chargés d'enquête intermittents à garantie annuelle (CEIGA) et aux enquêteurs vacataires (EV) — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Les parties signataires conviennent qu'un certain nombre d'articles de la convention collective nationale du 15 décembre 1987, applicable aux bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils, s'applique de plein droit, à l'exception de l'article 3.3, aux enquêteurs vacataires (EV) et aux chargés d'enquêtes intermittents à garantie annuelle (CEIGA) :
 
@@ -41,13 +41,15 @@ Les parties signataires conviennent qu'un certain nombre d'articles de la conven
 
 Par ailleurs les articles 73 et 74 de la présente annexe, relatifs respectivement au travail du dimanche et des jours fériés et au travail de nuit des chargés d'enquêtes (CE), s'appliquent également aux chargés d'enquête à garantie annuelle (CEIGA) et aux enquêteurs vacataires (EV).
 
-#### Titre I : Chargés d'enquête intermittents à garantie annuelle
+### Titre I : Chargés d'enquête intermittents à garantie annuelle
 
-##### I - Conditions générales d'engagement
+#### I - Conditions générales d'engagement
 
-###### Définition
+##### Définition
 
 ###### Article 1
+
+> **Source :** Article 1 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Tout employeur peut s'engager envers un enquêteur vacataire à lui proposer d'effectuer des enquêtes par sondage à hauteur d'une rémunération annuelle garantie.
 
@@ -55,17 +57,21 @@ L'enquêteur, qui est alors appelé " chargé d'enquête intermittent à garanti
 
 Les conditions générales d'engagement et les modalités d'emploi des chargés d'enquête intermittents à garantie annuelle sont définies par la présente annexe, que complètent, le cas échéant, les règlements intérieurs, les accords d'entreprise et les contrats individuels.
 
-###### Objet et nature du contrat de travail
+##### Objet et nature du contrat de travail
 
 ###### Article 2
+
+> **Source :** Article 2 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Ce contrat a pour objet la réalisation d'interviews, de comptages, ou autres tâches du même type sur un sujet donné, dans une population définie et une zone géographiquement fixée lors de chaque mission.
 
  Le contrat par lequel une personne physique ou morale s'assure le concours d'un chargé d'enquête intermittent à garantie annuelle est un contrat de travail à durée indéterminée.
 
-###### Conditions d'accès
+##### Conditions d'accès
 
 ###### Article 3
+
+> **Source :** Article 3 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le contrat de travail de chargé d'enquête intermittent à garantie annuelle doit être proposé à tout enquêteur vacataire ayant, d'une part, au cours des douze mois précédant le 1er janvier et le 1er juillet, effectué de manière régulière différents types d'enquêtes dans différentes catégories de la population et, d'autre part, reçu neuf bulletins de salaire sur douze et perçu une rémunération dont le montant annuel total excède huit fois le montant de la rémunération minimale conventionnelle brute applicable au coefficient correspondant au premier niveau de la grille ETAM.
 
@@ -79,15 +85,19 @@ Les périodes de travail n'étant pas définies au contrat, l'employeur devra re
 
 Dans la mesure du possible, priorité sera donnée aux chargés d'enquête intermittents à garantie annuelle dans la distribution du travail.
 
-###### Exécution du contrat
+##### Exécution du contrat
 
 ###### Article 4
 
+> **Source :** Article 4 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Le contrat de chargé d'enquête intermittent à garantie annuelle n'est pas exclusif d'autres activités ou d'autres engagements fussent-ils de même nature. L'intéressé doit toutefois faire en sorte que l'accomplissement de ses activités ou de ses engagements ne compromette pas la bonne exécution des enquêtes dont il est chargé et ne nuise pas à l'employeur qui les lui a confiées.
 
-###### Rémunération garantie
+##### Rémunération garantie
 
 ###### Article 5
+
+> **Source :** Article 5 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 L'employeur qui contracte avec un chargé d'enquête intermittent à garantie annuelle s'oblige à lui verser annuellement une rémunération au moins égale à 60 % des gains perçus durant la période de référence prévue à l'article 3, cette garantie minimale annuelle correspondant à l'accès à la couverture sécurité sociale.
 
@@ -109,43 +119,53 @@ Se déduit toutefois de cette garantie la valeur des travaux refusés et/ ou non
 
 Toutefois, le chargé d'enquête intermittent à garantie annuelle ne sera pas tenu d'accepter des travaux au-delà d'un montant excédant 125 % de sa garantie annuelle.
 
-###### Ancienneté
+##### Ancienneté
 
 ###### Article 6
+
+> **Source :** Article 6 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Pour la détermination des droits liés à l'ancienneté, les périodes non travaillées sont prises en compte en totalité à partir de la date à laquelle un enquêteur bénéficie du statut de chargé d'enquête intermittent à garantie annuelle.
 
  S'y ajoutent l'année de référence définie à l'article 3, alinéa 1, ainsi que les périodes de travail effectif accomplies par l'enquêteur dans l'entreprise en cas d'engagements successifs antérieurs.
 
-###### Modification du contrat en cours
+##### Modification du contrat en cours
 
 ###### Article 7
+
+> **Source :** Article 7 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 a) Toute modification apportée à une clause substantielle du contrat en cours d'un chargé d'enquête intermittent à garantie annuelle doit faire l'objet d'une notification écrite de la part de l'employeur.
 
  b) Si cette modification n'est pas acceptée par l'intéressé, elle équivaut à un licenciement du fait de l'employeur et doit être réglée comme telle.
 
-##### II - Forme du contrat
+#### II - Forme du contrat
 
-###### Forme
+##### Forme
 
 ###### Article 8
 
+> **Source :** Article 8 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 L'engagement d'un chargé d'enquête intermittent à garantie annuelle doit être constaté par un écrit faisant référence aux dispositions de la présente convention. Cet écrit précise notamment la qualification du salarié, les éléments de sa rémunération, le montant de sa garantie annuelle, le délai de prévenance de trois jours ouvrables prévus à l'article 3 de la présente annexe.
 
-###### Définition des missions et rédaction de la proposition de travail
+##### Définition des missions et rédaction de la proposition de travail
 
 ###### Article 9
+
+> **Source :** Article 9 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Lorsque l'employeur envisage de confier un travail à un chargé d'enquête intermittent à garantie annuelle, il lui adresse une proposition écrite dénommée "contrat d'enquête" contenant les indications nécessaires et fixant le délai imparti pour son exécution.
 
  Si le chargé d'enquête intermittent à garantie annuelle refuse cette proposition, il doit le notifier avant la date d'exécution des tâches prévues dans cette proposition. Faute d'une telle notification, il est présumé avoir accepté la tâche proposée. La rémunération correspondante ne lui est due qu'après remise de son travail, conforme à la fois aux instructions données et aux exigences particulières de l'enquête.
 
-##### III - Conditions d'exécution des travaux
+#### III - Conditions d'exécution des travaux
 
-###### Conditions d'exécution des travaux
+##### Conditions d'exécution des travaux
 
 ###### Article 10
+
+> **Source :** Article 10 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Dans le cadre défini par chaque proposition écrite, le chargé d'enquête intermittent à garantie annuelle dispose d'une certaine liberté pour effectuer sa tâche. Il doit néanmoins respecter les obligations qui découlent des instructions données et des exigences particulières des enquêtes.
 
@@ -153,17 +173,21 @@ Dans le cadre défini par chaque proposition écrite, le chargé d'enquête inte
 
  Le délai pour effectuer le contrôle ne peut excéder un mois à compter de la réception par l'institut des derniers questionnaires de l'enquête.
 
-###### Empêchement
+##### Empêchement
 
 ###### Article 11
+
+> **Source :** Article 11 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le chargé d'enquête intermittent à garantie annuelle qui, après avoir accepté une proposition d'enquête, se trouve dans l'impossibilité de mener celle-ci à bien en raison d'un empêchement de force majeure, doit en avertir l'employeur dans les 48 heures et en apporter la justification.
 
 En dehors de cette hypothèse, l'inexécution d'une enquête dans les délais impartis sera considérée comme un manquement grave aux obligations contractuelles du chargé d'enquête intermittent à garantie annuelle.
 
-###### Secret professionnel
+##### Secret professionnel
 
 ###### Article 12
+
+> **Source :** Article 12 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 D'une manière générale, le chargé d'enquête intermittent à garantie annuelle est tenu au secret professionnel et à une obligation de discrétion à l'égard des tiers tant sur l'organisation de son travail que sur la nature et les résultats des tâches qui lui sont confiées, les faits et les informations qu'il a eu l'occasion de connaître au cours de l'accomplissement de ses travaux.
 
@@ -179,9 +203,11 @@ D'une manière générale, le chargé d'enquête intermittent à garantie annuel
 
  - le nom de la personne physique ou morale pour le compte de qui est faite l'enquête, sauf instructions précises de l'employeur.
 
-###### Rémunération
+##### Rémunération
 
 ###### Article 13
+
+> **Source :** Article 13 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le chargé d'enquête intermittent à garantie annuelle est rémunéré chaque mois en fonction des travaux accomplis. Le montant unitaire de chaque enquête est calculé de manière à inclure la préparation de chaque enquête, la réalisation des interviews, la mise en forme des documents.
 
@@ -189,9 +215,11 @@ Le chargé d'enquête intermittent à garantie annuelle est rémunéré chaque m
 
  Se déduira toutefois des minima définis à l'article 5 la valeur des travaux refusés et/ou non exécutés par le chargé d'enquête intermittent à garantie annuelle pour chacune des périodes.
 
-###### Frais professionnels
+##### Frais professionnels
 
 ###### Article 14
+
+> **Source :** Article 14 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Les déplacements hors du lieu de travail habituel nécessités par le service ne doivent pas être pour le chargé d'enquête intermittent à garantie annuelle l'occasion d'une charge supplémentaire ou d'une diminution de salaire.
 
@@ -199,15 +227,19 @@ Les déplacements hors du lieu de travail habituel nécessités par le service n
 
  S'il résulte d'un transfert de la résidence d'un chargé d'enquête intermittent à garantie annuelle, un accroissement systématique des frais de déplacement nécessités par le service, ces frais supplémentaires restent entièrement à la charge du chargé d'enquête intermittent à garantie annuelle, sauf accord de l'employeur pour les prendre à sa charge.
 
-###### Congés payés
+##### Congés payés
 
 ###### Article 15
 
+> **Source :** Article 15 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Le chargé d'enquête intermittent à garantie annuelle a la faculté de refuser tout travail dans les limites des droits qu'il a acquis afin d'exercer ses droits à congés payés. Il ne peut alors lui être fait application de la clause de déduction stipulée aux articles 5 et 13.
 
-###### Congés dans le cas de maladie, accident ou maternité
+##### Congés dans le cas de maladie, accident ou maternité
 
 ###### Article 16 (1)
+
+> **Source :** Article 16 (1) — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Pour le calcul de la période donnant droit à congés payés, sont considérées comme périodes de travail effectif :
 
@@ -217,9 +249,11 @@ Pour le calcul de la période donnant droit à congés payés, sont considérée
 
 (1) Article étendu sous réserve de l'application de l'article L. 223-4 du code du travail (arrêté du 27 avril 1992, art. 1er).
 
-###### Absences exceptionnelles
+##### Absences exceptionnelles
 
 ###### Article 17
+
+> **Source :** Article 17 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Des autorisations d'absences exceptionnelles, non déductibles des congés, seront accordées sur justificatif au chargé d'enquête intermittent à garantie annuelle, lorsqu'elles interviendront au cours d'une mission, pour :
 
@@ -239,9 +273,11 @@ Des autorisations d'absences exceptionnelles, non déductibles des congés, sero
 
  Ces autorisations d'absences feront l'objet d'une rémunération brute correspondant à 1/365 de la rémunération annuelle garantie.
 
-###### Congés sans solde
+##### Congés sans solde
 
 ###### Article 18
+
+> **Source :** Article 18 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Un congé sans solde peut être accordé par l'employeur, sur la demande de l'intéressé.
 
@@ -251,9 +287,11 @@ Un congé sans solde peut être accordé par l'employeur, sur la demande de l'in
 
  A condition de respecter les modalités prévues ci-dessus, notamment pour la reprise du travail, l'intéressé, à l'expiration de ce congé, retrouve ses fonctions ou des fonctions équivalentes et ses avantages acquis antérieurement. Toutefois, si les nécessités de bon fonctionnement obligent l'employeur à licencier un chargé d'enquête intermittent à garantie annuelle pendant une suspension de contrat de travail, il devra le faire conformément aux dispositions du code du travail.
 
-###### Bulletin de paie
+##### Bulletin de paie
 
 ###### Article 19
+
+> **Source :** Article 19 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le bulletin de paie devra comporter les mentions légales et notamment :
 
@@ -281,17 +319,21 @@ Le bulletin de paie devra comporter les mentions légales et notamment :
 
  - la mention incitant le chargé d'enquête intermittent à garantie annuelle à conserver ce bulletin de paie sans limitation de durée.
 
-###### Détermination d'un horaire de référence
+##### Détermination d'un horaire de référence
 
 ###### Article 20
 
+> **Source :** Article 20 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 La détermination d'un horaire de référence s'effectuera sur la base de la rémunération minimale conventionnelle correspondant au coefficient correspondant au premier niveau de la grille ETAM divisée par 169 heures ou d'une rémunération réelle supérieure au minimum conventionnel.
 
-##### IV - Résiliation du contrat de travail
+#### IV - Résiliation du contrat de travail
 
-###### Dénonciation du contrat de travail
+##### Dénonciation du contrat de travail
 
 ###### Article 21
+
+> **Source :** Article 21 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Toute résiliation du contrat de travail implique de part et d'autre un préavis, sauf cas de faute lourde, de faute grave ou de force majeure.
 
@@ -307,15 +349,19 @@ En cas de licenciement, le préavis sera d'un mois, si le chargé d'enquête int
 
 En cas de démission, le préavis sera de 1 mois.
 
-###### Indemnité compensatrice de préavis
+##### Indemnité compensatrice de préavis
 
 ###### Article 22
 
+> **Source :** Article 22 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Sauf accord entre les parties et hormis le cas de faute grave, la partie qui n'observerait pas le préavis devrait à l'autre une indemnité égale à 1/12 du montant des travaux réalisés dans l'année qui précède pour 1 mois de préavis et à 2/12 du montant de cette même somme pour 2 mois de préavis.
 
-###### Indemnités de licenciement - Conditions d'attribution
+##### Indemnités de licenciement - Conditions d'attribution
 
 ###### Article 23
+
+> **Source :** Article 23 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Il est attribué à tout chargé d'enquête intermittent à garantie annuelle, licencié, justifiant d'au moins 2 années d'ancienneté, une indemnité de licenciement distincte de l'indemnité compensatrice de préavis.
 
@@ -327,15 +373,19 @@ Toutefois, seront appliquées les dispositions des articles L. 1224-1, L. 1234-7
 
 (1) Alinéa étendu sous réserve de l'application de l'article L. 122-9 du code du travail (arrêté du 27 avril 1992, art. 1er).
 
-###### Montant de l'indemnité de licenciement
+##### Montant de l'indemnité de licenciement
 
 ###### Article 24
 
+> **Source :** Article 24 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Après 2 ans d'ancienneté dans l'entreprise, l'indemnité de licenciement est égale à 1/5 de 2/12 du montant des rémunérations perçues pendant les 12 mois précédant la notification de la rupture, par année de présence, sans pouvoir excéder un plafond de 7 mois de salaire.
 
-###### Non-exécution du contrat
+##### Non-exécution du contrat
 
 ###### Article 25
+
+> **Source :** Article 25 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le fait d'avoir refusé ou de ne pas avoir exécuté des travaux représentant au total un montant équivalant à la moitié de la garantie minimum par période définie à l'article 5, sur une période de 12 mois consécutifs, exception faite des travaux refusés au cours des périodes de congés et de maladie ou d'accident, sera considéré comme la manifestation de la volonté du salarié de ne plus exécuter les obligations résultant du contrat de travail.
 
@@ -343,9 +393,11 @@ Il peut constituer par là même une faute grave entraînant la rupture sans ind
 
 Sauf cas prévu à l'article 3, le fait qu'un chargé d'enquête intermittent à garantie annuelle ait refusé trois offres d'enquêtes consécutives, en dehors des périodes de congés, séparées entre elles par un délai d'au moins 10 jours calendaires, peut être également constitutif d'une faute grave entraînant une rupture du contrat de travail.
 
-###### Départ en retraite
+##### Départ en retraite
 
 ###### Article 26
+
+> **Source :** Article 26 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 1° L'employeur a la possibilité de mettre fin au contrat de travail lorsque le chargé d'enquête intermittent à garantie annuelle atteint au minimum l'âge de 60 ans et 150 trimestres de cotisation à l'assurance vieillesse de la sécurité sociale.
 
@@ -361,9 +413,11 @@ Si l'employeur ne procède pas à cette notification, le contrat de travail se p
 
 3° La résiliation du contrat de travail, à l'initiative de l'employeur ou du chargé d'enquête intermittent à garantie annuelle dans les conditions fixées aux alinéas 1 et 2 ci-dessus, ne donne pas lieu à attribution d'heures d'absence pour recherche d'emploi.
 
-###### Indemnité de départ en retraite
+##### Indemnité de départ en retraite
 
 ###### Article 27
+
+> **Source :** Article 27 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Une indemnité de départ en retraite est accordée au chargé d'enquête intermittent à garantie annuelle dont le contrat prend fin dans les conditions prévues à l'article 26.
 
@@ -373,23 +427,29 @@ A 5 ans révolus, 1 mois, plus à partir de la 1/6 année 1/8 de mois par année
 
 Le mois de rémunération s'entend dans le cas particulier, comme le 1/12 de la rémunération des 12 derniers mois précédant la notification de la rupture du contrat de travail, le salaire mensuel étant compté sans primes ni gratifications, ni majoration du salaire ou indemnité liée à un déplacement ou à un détachement.
 
-###### Régime de retraite complémentaire
+##### Régime de retraite complémentaire
 
 ###### Article 28
 
+> **Source :** Article 28 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Les employeurs doivent obligatoirement adhérer pour leurs chargés d'enquêtes intermittents à garantie annuelle à une caisse de retraite affiliée à l'Arrco.
 
-##### V - Maladie
+#### V - Maladie
 
-###### Absences maladie
+##### Absences maladie
 
 ###### Article 29
 
+> **Source :** Article 29 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Les indisponibilités justifiées par l'incapacité temporaire de travail, résultant de maladies ou d'accidents dûment constatés par certificat médical, et notifiées ainsi qu'il est dit à l'article 30 ci-après, ne constituent par une cause de rupture de contrat de travail, mais une suspension de celui-ci.
 
-###### Formalités en cas d'absence pour maladie
+##### Formalités en cas d'absence pour maladie
 
 ###### Article 30
+
+> **Source :** Article 30 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Dès que possible, et au plus tard dans les 24 heures, le chargé d'enquête intermittent à garantie annuelle doit avertir son employeur du motif et de la durée probable de son indisponibilité.
 
@@ -397,31 +457,39 @@ Cet avis est confirmé dans un délai maximal de 48 heures, à compter du premie
 
 Lorsqu'il assure un complément d'allocation maladie aux indemnités journalières de la sécurité sociale, l'employeur a la faculté de faire contre-visiter le chargé d'enquête intermittent à garantie annuelle par un médecin de son choix.
 
-###### Garantie incapacité temporaire
+##### Garantie incapacité temporaire
 
 ###### Article 31
+
+> **Source :** Article 31 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Il est institué au profit des chargés d'enquête intermittents à garantie annuelle un régime conventionnel de garantie incapacité temporaire ayant pour objet d'assurer aux intéressés une couverture en cas de maladie, d'accident du travail ou de maladie professionnelle.
 
  Ce régime de garantie incapacité temporaire ne sera effectif qu'après extension de l'annexe "Enquêteurs" par le ministère du travail.
 
-###### Conditions d'accès
+##### Conditions d'accès
 
 ###### Article 32
+
+> **Source :** Article 32 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Est bénéficiaire de cette couverture sociale tout chargé d'enquête intermittent à garantie annuelle ayant perçu, au cours des 12 mois précédant l'arrêt, une rémunération minimale égale à 6 fois le montant mensuel du SMIC en tant qu'enquêteur dans une ou plusieurs entreprises relevant du champ professionnel d'application de la présente annexe et bénéficiant des indemnités journalières de sécurité sociale.
 
 Pour être prise en compte, cette incapacité temporaire devra intervenir pendant la période de réalisation du contrat d'enquête confié au chargé d'enquête intermittent à garantie annuelle, être dûment constatée par un arrêt de travail ou un avis de prolongation d'arrêt de travail parvenu dans les 48 heures à l'employeur ayant confié l'enquête au cours de laquelle est intervenu l'arrêt. Lorsque le délai de réalisation du contrat d'enquête se termine un samedi, le délai de couverture au titre de la garantie incapacité temporaire est reporté conventionnellement d'une journée.
 
-###### Durée d'indemnisation
+##### Durée d'indemnisation
 
 ###### Article 33
 
+> **Source :** Article 33 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Cette couverture sociale assurera à l'intéressé le versement d'une allocation journalière complémentaire aux indemnités de sécurité sociale, à compter du 11e jour d'arrêt de travail ininterrompu, sans que la durée maximale d'indemnisation puisse excéder 90 jours calendaires décomptés depuis le 1er jour d'arrêt. Ce délai de carence est supprimé en cas d'accident de travail ou de maladie professionnelle.
 
-###### Montant des prestations
+##### Montant des prestations
 
 ###### Article 34
+
+> **Source :** Article 34 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le calcul des prestations s'effectuera sur la base de l'indemnité journalière de sécurité sociale perçue par le chargé d'enquête intermittent à garantie annuelle au titre de son activité d'enquête.
 
@@ -435,17 +503,21 @@ Les allocations ci-dessus fixées constituent le maximum auquel aura droit tout 
 
 La garantie annuelle prévue à l'article 5 est réduite pro rata temporis durant toute suspension du contrat de travail et notamment pendant les périodes de maladie ou accident indemnisées ou non.
 
-###### Répartition des cotisations
+##### Répartition des cotisations
 
 ###### Article 35
+
+> **Source :** Article 35 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Les cotisations afférentes au régime de garantie incapacité temporaire ci-dessus défini sont intégralement à la charge de l'employeur dans les limites du taux de 0,3 %. Toute augmentation de ce taux sera répartie pour moitié à la charge de l'employeur et pour moitié à la charge du chargé d'enquête intermittent à garantie annuelle.
 
 Elles seront assises sur l'ensemble des rémunérations brutes versées aux chargés d'enquête intermittents à garantie annuelle. Cette clause sera éventuellement révisable en fonction des éléments d'information statistiques qui seront fournis par l'organisme gestionnaire.
 
-###### Gestion du régime
+##### Gestion du régime
 
 ###### Article 36
+
+> **Source :** Article 36 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 A la signature de l'annexe "Enquêteurs", l'organisme gestionnaire habilité à gérer le régime sera le groupement national de prévoyance-INPC. La désignation de cet organisme pourra être remise en cause par SYNTEC et CICF conformément à la convention de gestion signée entre SYNTEC, CICF et le groupement national de prévoyance-INPC.
 
@@ -453,63 +525,79 @@ Les sociétés sont tenues d'y adhérer et ce, au plus tard, le premier jour du 
 
 L'organisme gestionnaire communiquera au moins une fois par an à la commission paritaire professionnelle les éléments d'informations permettant un contrôle sur les plans statistique, économique et financier.
 
-##### VI - Représentation des chargés d'enquête intermittents à garantie annuelle
+#### VI - Représentation des chargés d'enquête intermittents à garantie annuelle
 
-###### Décompte de l'effectif
+##### Décompte de l'effectif
 
 ###### Article 37
 
+> **Source :** Article 37 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Les chargés d'enquête intermittents à garantie annuelle sont décomptés dans les effectifs conformément aux dispositions des articles L. 1111-2 et L. 1251-54 du code du travail. Pour tenir compte des particularités de l'activité de sondage, ce décompte est calculé en effectuant un rapport entre la masse des salaires bruts perçus par l'ensemble des chargés d'enquête intermittents à garantie annuelle pendant les douze mois précédant la date des élections et le salaire brut théorique conventionnel correspondant à un travail annuel à temps complet.
 
-###### Conditions d'électorat
+##### Conditions d'électorat
 
 ###### Article 38
 
+> **Source :** Article 38 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Pour être électeur, outre les conditions de droit commun, le chargé d'enquête intermittent à garantie annuelle doit avoir trois mois d'ancienneté dans la société à la date fixée pour le premier tour des élections.
 
-###### Conditions d'éligibilité
+##### Conditions d'éligibilité
 
 ###### Article 39 (1)
+
+> **Source :** Article 39 (1) — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Pour être éligible, le chargé d'enquête intermittent à garantie annuelle électeur doit avoir reçu des bulletins de paie pendant onze des douze mois précédant la date fixée pour le premier tour des élections.
 
 (1) Article exclu de l'extension (arrêté du 27 avril 1992, art. 1er).
 
-###### Paiement des heures de délégation
+##### Paiement des heures de délégation
 
 ###### Article 40
 
+> **Source :** Article 40 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Le montant de la rémunération horaire des heures de délégation ne pourra être inférieur à la rémunération minimum conventionnelle correspondant au coefficient correspondant au premier niveau de la grille ETAM divisée par 169 heures.
 
-##### VII - Classification des chargés d'enquête intermittents à garantie annuelle
+#### VII - Classification des chargés d'enquête intermittents à garantie annuelle
 
-###### Coefficient hiérarchique
+##### Coefficient hiérarchique
 
 ###### Article 41
 
+> **Source :** Article 41 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Le coefficient correspondant au premier niveau de la grille ETAM est attribué aux chargés d'enquête intermittents à garantie annuelle.
 
-###### Participation aux fruits de l'expansion
+##### Participation aux fruits de l'expansion
 
 ###### Article 42 (1)
+
+> **Source :** Article 42 (1) — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Lorsque les conditions légales sont remplies, le chargé d'enquête intermittent à garantie annuelle bénéficie d'une participation aux fruits de l'expansion de l'entreprise s'il peut justifier d'une rémunération au moins égale à quatre cents fois le salaire horaire minimum interprofessionnel de croissance au cours des six mois précédant le fait ouvrant droit.
 
 (1) Article exclu de l'extension (arrêté du 27 avril 1992, art. 1er).
 
-#### Titre II : Enquêteurs vacataires
+### Titre II : Enquêteurs vacataires
 
-##### I - Le contrat d'enquête
+#### I - Le contrat d'enquête
 
-###### Définition
+##### Définition
 
 ###### Article 43
 
+> **Source :** Article 43 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 L'enquêteur vacataire est celui qui réalise des enquêtes par sondage à la vacation. L'emploi des enquêteurs vacataires est soumis aux conditions exposées dans le présent texte, texte établi dans le cadre des lois et règlements en vigueur, notamment les articles L. 1242-2 et D. 1242-1 du code du travail. Par nature, ces vacations comportent des prestations diverses effectuées à des périodes variables, en des lieux différents. Elles sont imprévisibles, temporaires et discontinues, donc précaires et aléatoires.
 
-###### Contrat de travail
+##### Contrat de travail
 
 ###### Article 44
+
+> **Source :** Article 44 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le contrat par lequel une personne morale ou physique s'assure, moyennant rémunération, le concours d'un enquêteur vacataire pour la réalisation d'une enquête par sondage, est réputé être un contrat de travail.
 
@@ -519,39 +607,49 @@ Le contrat par lequel une personne morale ou physique s'assure, moyennant rémun
 
  Les contrats d'enquête sont par nature indépendants les uns des autres.
 
-##### II - Forme du contrat
+#### II - Forme du contrat
 
-###### Contenu
+##### Contenu
 
 ###### Article 45
+
+> **Source :** Article 45 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Les modalités et instructions de réalisation des prestations demandées sont fixées par une proposition écrite. Cette proposition écrite fixe le délai maximum imparti pour l'exécution de la vacation, l'énoncé que l'enquêteur vacataire est libre de ne pas accepter ce qui lui est proposé, les règles déontologiques qu'il doit respecter, les conditions particulières qui définissent les tâches à exécuter.
 
  Les modalités de paiement et les éléments de rémunération de la vacation figurent également dans cette proposition.
 
-###### Acceptation - Refus
+##### Acceptation - Refus
 
 ###### Article 46
 
+> **Source :** Article 46 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 L'enquêteur vacataire peut accepter ou refuser librement tout contrat d'enquête qui lui est proposé sans avoir à en justifier le motif. Si l'enquêteur vacataire refuse un contrat d'enquête proposé, il doit notifier son refus avant la date de début d'exécution des tâches prévues ; faute d'une telle notification, il est présumé avoir accepté la tâche proposée.
 
-###### Exécution
+##### Exécution
 
 ###### Article 47
 
+> **Source :** Article 47 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 La remise des travaux conforme aux normes et stipulations techniques matérialise l'exécution des obligations de l'enquêteur vacataire. Elle ouvre droit à la rémunération convenue.
 
-##### III - Conditions d'exécution du contrat
+#### III - Conditions d'exécution du contrat
 
-###### Déroulement
+##### Déroulement
 
 ###### Article 48
 
+> **Source :** Article 48 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Dans le cadre défini par la proposition écrite, l'enquêteur vacataire dispose de sa liberté d'action pour réaliser le contrat d'enquête qu'il a accepté.
 
-###### Contrôle
+##### Contrôle
 
 ###### Article 49
+
+> **Source :** Article 49 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Dans l'exécution des vacations, l'enquêteur vacataire est tenu de respecter certaines obligations minimales afin d'assurer la qualité de son travail.
 
@@ -559,15 +657,19 @@ Dans l'exécution des vacations, l'enquêteur vacataire est tenu de respecter ce
 
  L'employeur se réserve la faculté de procéder à des enquêtes et contrôles pour vérifier les conditions d'exécution du travail au cours de l'enquête ou après son achèvement dans le délai de 1 mois à compter de la réception par l'institut des derniers questionnaires de l'enquête.
 
-###### Non-exclusivité
+##### Non-exclusivité
 
 ###### Article 50
 
+> **Source :** Article 50 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 L'enquêteur vacataire n'est pas lié par une obligation d'exclusivité. Même dans la période d'exécution de sa tâche, il peut exercer toute autre activité, y compris d'autres enquêtes. Il doit s'assurer toutefois qu'il n'y a pas d'incompatibilité et d'interférence entre la tâche qu'il accepte et ses autres activités.
 
-###### Secret professionnel
+##### Secret professionnel
 
 ###### Article 51
+
+> **Source :** Article 51 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 D'une manière générale, l'enquêteur vacataire est tenu au secret professionnel et à une obligation de discrétion à l'égard des tiers tant sur l'organisation de son travail que sur la nature et les résultats des tâches qui lui sont confiées et sur les faits et les informations qu'il a eu l'occasion de connaître au cours de l'accomplissement de ses travaux.
 
@@ -583,95 +685,121 @@ D'une manière générale, l'enquêteur vacataire est tenu au secret professionn
 
  - le nom de la personne physique ou morale pour le compte de qui est faite l'enquête, sauf instructions précises de l'employeur.
 
-###### Rémunération
+##### Rémunération
 
 ###### Article 52
 
+> **Source :** Article 52 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Le salaire de l'enquêteur vacataire, pour chacun des contrats qu'il exécute, inclut la rémunération pour l'exécution des tâches prévues ainsi que celle de leur préparation et de la mise en forme des documents qui doivent être restitués.
 
-###### Indemnité de fin de contrat
+##### Indemnité de fin de contrat
 
 ###### Article 53
 
+> **Source :** Article 53 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 L'enquêteur vacataire a droit à une indemnité de fin de contrat compensatrice de la précarité de son emploi. Le montant de cette indemnité est fixé à 4 % de la rémunération due à l'enquêteur vacataire au titre de l'article 52 et est payable en même temps que les travaux exécutés.
 
-###### Congés payés
+##### Congés payés
 
 ###### Article 54
+
+> **Source :** Article 54 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 L'enquêteur vacataire a droit à une indemnité compensatrice de congés payés.
 
  Le montant de l'indemnité est égal à 1/10 de la rémunération due à l'enquêteur vacataire au titre de l'article 52 et est payable en même temps que les travaux exécutés.
 
-###### Détermination d'un horaire de référence
+##### Détermination d'un horaire de référence
 
 ###### Article 55
 
+> **Source :** Article 55 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 La détermination d'un horaire de référence s'effectuera sur la base de la rémunération minimum conventionnelle correspondant au coefficient correspondant au premier niveau de la grille ETAM divisée par 169 heures ou d'une rémunération réelle supérieure au minimum conventionnel.
 
-##### IV - Maladie
+#### IV - Maladie
 
-###### Absences maladie
+##### Absences maladie
 
 ###### Article 56
 
+> **Source :** Article 56 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Les indisponibilités justifiées par l'incapacité temporaire de travail, résultant de maladies ou d'accidents, survenus entre la date de début et de fin du contrat d'enquête, dûment constatés par certificat médical, et notifiées ainsi qu'il est dit à l'article 57 ci-après ne constituent pas une cause de rupture du contrat de travail, mais une suspension de celui-ci, sans pour autant en repousser le terme.
 
-###### Formalités
+##### Formalités
 
 ###### Article 57
+
+> **Source :** Article 57 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Dès que possible, et au plus tard dans les 24 heures, l'enquêteur vacataire, indisponible en cours de contrat d'enquêtes doit avertir son employeur du motif et de la durée probable de son indisponibilité.
 
 Cet avis est confirmé dans un délai maximal de 48 heures, à compter du 1er jour de l'indisponibilité, prévu par la législation de la sécurité sociale, par un certificat médical délivré par le médecin traitant de l'enquêteur vacataire.
 
-##### V - Représentation des enquêteurs vacataires
+#### V - Représentation des enquêteurs vacataires
 
-###### Décompte de l'effectif
+##### Décompte de l'effectif
 
 ###### Article 58
 
+> **Source :** Article 58 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Les enquêteurs vacataires sont décomptés dans les effectifs conformément aux dispositions des articles L. 1111-2 et L. 1251-54 du code du travail. Pour tenir compte des particularités de l'activité de sondage, ce décompte est calculé en effectuant un rapport entre la masse des salaires bruts perçus, hors indemnité de précarité, par l'ensemble des enquêteurs vacataires pendant les 12 mois précédant la date des élections et le salaire brut théorique correspondant à un travail annuel à temps complet.
 
-###### Conditions d'électorat
+##### Conditions d'électorat
 
 ###### Article 59
 
+> **Source :** Article 59 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Pour être électeur, outre les conditions de droit commun, l'enquêteur vacataire doit justifier de 3 mois de présence dans l'entreprise, c'est-à-dire avoir reçu au moins 3 bulletins de paie dans les 3 mois précédant la date du premiere tour des élections, et figurer encore dans le fichier de l'entreprise.
 
-###### Conditions d'éligibilité
+##### Conditions d'éligibilité
 
 ###### Article 60 (1)
+
+> **Source :** Article 60 (1) — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Pour être éligible, l'enquêteur vacataire électeur doit justifier de douze mois de présence dans l'entreprise, figurer encore dans le fichier de l'entreprise et avoir reçu des bulletins de paie pendant onze des douze mois précédant la date de fixation du premier tour des élections.
 
 (1) Article exclu de l’extension (arrêté du 27 avril 1992, art. 1er).
 
-###### Paiement des heures de délégation
+##### Paiement des heures de délégation
 
 ###### Article 61
 
+> **Source :** Article 61 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Le montant de la rémunération horaire des heures de délégation ne pourra être inférieur à la rémunération minimum conventionnelle correspondant au coefficient correspondant au premier niveau de la grille ETAM divisée par 169 heures.
 
-##### VI - Retraite complémentaire
+#### VI - Retraite complémentaire
 
-###### Régime de retraite complémentaire
+##### Régime de retraite complémentaire
 
 ###### Article 62
 
+> **Source :** Article 62 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Les instituts doivent obligatoirement adhérer pour les enquêteurs vacataires à une caisse de retraite de leur choix affiliée à l'ARRCO.
 
-##### VII - Classification des enquêteurs vacataires
+#### VII - Classification des enquêteurs vacataires
 
-###### Coefficient hiérarchique
+##### Coefficient hiérarchique
 
 ###### Article 63
 
+> **Source :** Article 63 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
+
 Le coefficient correspondant au premier niveau de la grille ETAM est attribué aux enquêteurs vacataires.
 
-###### Bulletin de paie
+##### Bulletin de paie
 
 ###### Article 64
+
+> **Source :** Article 64 — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le bulletin de paie devra comporter les mentions légales et notamment :
 
@@ -699,27 +827,27 @@ Le bulletin de paie devra comporter les mentions légales et notamment :
 
 - la mention incitant l'enquêteur vacataire à conserver ce bulletin de paie sans limitation de durée.
 
-#### Titre III : Chargés d'enquête
+### Titre III : Chargés d'enquête
 
-##### Article 65
+#### Article 65 — Définition des chargés d'enquête
 
-*Définition des chargés d'enquête*
+> **Source :** Article 65 — Définition des chargés d'enquête — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Sont considérés comme chargés d'enquête (CE), les enquêteurs qui ont perçu d'une part, pendant 2 années consécutives, une rémunération annuelle au moins égale à la rémunération annuelle minimum garantie définie à l'article 69 ci-après et, d'autre part, ayant fait la preuve de leur aptitude à effectuer de manière satisfaisante tous types d'enquêtes dans toutes les catégories de la population.
 
 Les enquêteurs peuvent refuser le bénéfice de ce statut. L'employeur peut proposer ce statut même si ces conditions ne sont pas remplies.
 
-##### I - Conditions d'engagement
+#### I - Conditions d'engagement
 
-###### Article 66
+##### Article 66 — Engagement et contrat de travail
 
-*Engagement et contrat de travail*
+> **Source :** Article 66 — Engagement et contrat de travail — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Les indications devant figurer au contrat de travail d'un chargé d'enquête (CE), sont déterminées par l'article 3.2 de la convention collective modifiée. En lieu et place du montant du salaire mensuel, doivent être indiquées les conditions de rémunérations du CE, telles que décrites au premier paragraphe de l'article 76 ci-après.
 
-###### Article 67
+##### Article 67 — Ancienneté
 
-*Ancienneté*
+> **Source :** Article 67 — Ancienneté — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Pour la détermination de l'ancienneté des chargés d'enquête (CE), sont pris en compte :
 
@@ -727,17 +855,17 @@ Pour la détermination de l'ancienneté des chargés d'enquête (CE), sont pris 
 
 – toutes les années, précédent l'embauche en tant que CE, pendant lesquelles auront été délivrés 11 bulletins de paie sur 12 et aura été perçu au moins 3 fois la valeur du Smic mensuel correspondant à la durée légale du travail.
 
-##### II - Conditions d'exécution du contrat de travail
+#### II - Conditions d'exécution du contrat de travail
 
-###### Article 68
+##### Article 68 — Ordre de mission
 
-*Ordre de mission*
+> **Source :** Article 68 — Ordre de mission — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Les instructions qui précisent les conditions d'exécution de chaque enquête constituent l'ordre de mission préalable à leur exécution.
 
-###### Article 69
+##### Article 69 — Secret professionnel
 
-*Secret professionnel*
+> **Source :** Article 69 — Secret professionnel — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Les chargés d'enquête (CE) sont tenus au secret professionnel et à une obligation de discrétion à l'égard des tiers tant sur l'organisation de leur travail que sur la nature et les résultats des tâches qui leur sont confiées, et sur les frais et les informations qu'ils ont eu l'occasion de connaître au cours de l'accomplissement de leurs travaux.
 
@@ -753,42 +881,42 @@ Ils s'engagent à ne pas révéler :
 
 – le nom de la personne physique ou morale pour le compte de qui est faite l'enquête, sauf instructions précises de l'employeur.
 
-##### III - Rupture du contrat de travail
+#### III - Rupture du contrat de travail
 
-###### Article 70
+##### Article 70 — Absences pour recherche d'emploi
 
-*Absences pour recherche d'emploi*
+> **Source :** Article 70 — Absences pour recherche d'emploi — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 En cas de licenciement, les heures d'absence pour recherche d'emploi prévues par l'article 4.3 de la convention collective modifiée ne donnent pas lieu à réduction de la rémunération minimum garantie définie à l'article 76 de la présente annexe. Cependant, aucune indemnité n'est due en l'absence d'utilisation de ces heures. En cas de démission, ces heures d'absence ne donnent pas lieu à rémunération.
 
-##### IV - Congés
+#### IV - Congés
 
-###### Article 71
+##### Article 71 — Indemnité de congés payés
 
-*Indemnité de congés payés*
+> **Source :** Article 71 — Indemnité de congés payés — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 L'indemnité de congés payés prévue à l'article 5.6 de la convention collective modifiée ne peut être inférieure, pour les chargés d'enquête (CE), au montant de la rémunération minimum garantie prévue à l'article 76 de la présente annexe.
 
-###### Article 72
+##### Article 72 — Autorisations d'absences pour événements familiaux
 
-*Autorisations d'absences pour événements familiaux *
+> **Source :** Article 72 — Autorisations d'absences pour événements familiaux — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Les chargés d'enquête bénéficient des autorisations d'absences pour événements familiaux prévues à l'article 5.7 de la convention collective modifiée, durant lesquelles ils ont la possibilité de ne pas exécuter les travaux proposés.
 
-##### V - Temps de travail
+#### V - Temps de travail
 
-###### Article 73
+##### Article 73 — Travail du dimanche et des jours fériés
 
-*Travail du dimanche et des jours fériés*
+> **Source :** Article 73 — Travail du dimanche et des jours fériés — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Si à la suite de circonstances exceptionnelles et à la demande expresse de l'employeur, un chargé d'enquête (CE) est appelé à travailler soit un dimanche soit un jour férié, les travaux effectués sont rémunérés avec une majoration de 50 % par rapport aux rémunérations prévues par la grille des rémunérations minimales annexée à la convention collective (annexe III).
 
 (1) L'article 73 est étendu sous réserve du respect des dispositions des articles L. 3132-12 et suivants du code du travail, qui précisent les établissements pouvant déroger de manière permanente et de droit au repos dominical, et du respect des dispositions des articles L. 3132-20 et suivants du code du travail, qui prévoient les dérogations au repos dominical qui peuvent être accordées temporairement.
 (Arrêté du 22 mai 2023 - art. 1)
 
-###### Article 74
+##### Article 74 — Travail de nuit
 
-*Travail de nuit*
+> **Source :** Article 74 — Travail de nuit — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Les travaux effectués de nuit (entre 21 heures et 7 heures), à la suite de circonstances exceptionnelles et à la demande expresse de l'employeur, sont rémunérés avec une majoration de 50 % par rapport aux rémunérations prévues par la grille des rémunérations minimales annexée à la convention collective (annexe III).
 
@@ -797,17 +925,17 @@ Si à la suite des variations dans le volume et les conditions d'exécution du t
 (1) L'article 74 est étendu sous réserve de la négociation d'un accord d'entreprise conforme aux dispositions des articles L. 3122-1 et L. 3122-15 du code du travail ou de la sollicitation d'une autorisation de l'inspection du travail dans les conditions prévues à l'article L. 3122-21 du code du travail, en cas de recours à ces travailleurs.
 (Arrêté du 22 mai 2023 - art. 1)
 
-##### VI - Rémunération
+#### VI - Rémunération
 
-###### Article 75
+##### Article 75 — Classification
 
-*Classification*
+> **Source :** Article 75 — Classification — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Compte tenu de la nature des travaux d'enquête, les chargés d'enquêtes ont une même classification et un même coefficient correspondant au premier niveau de la grille ETAM de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils.
 
-###### Article 76
+##### Article 76 — Rémunération
 
-*Rémunération*
+> **Source :** Article 76 — Rémunération — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le calcul de la rémunération des chargés d'enquête (CE) est basé :
 
@@ -837,17 +965,13 @@ La grille des rémunérations figurant en annexe de la convention collective (an
 
 La durée moyenne d'interview est la durée de passation du questionnaire. La rémunération tient compte à la fois du temps moyen réel nécessaire au recueil de l'information, du temps moyen de recherche et de mise au propre du questionnaire.
 
-#### Titre IV : Stipulations juridiques et administratives
+### Titre IV : Stipulations juridiques et administratives
 
-##### Article (préambule / sans numéro)
-
-*Durée de l'accord*
+> **Source :** Titre IV : Stipulations juridiques et administratives — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le présent accord est conclu pour une durée indéterminée.
 
-##### Article (préambule / sans numéro)
-
-*Conditions de révision de l'accord*
+> **Source :** Titre IV : Stipulations juridiques et administratives — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le présent accord pourra faire l'objet d'une révision conformément aux articles L. 2261-7 et suivants du code du travail.
 
@@ -857,31 +981,25 @@ Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir
 
 Cet avenant sera soumis aux règles de validité et de publicité en vigueur au jour de sa signature.
 
-##### Article (préambule / sans numéro)
-
-*Conditions de dénonciation de l'accord*
+> **Source :** Titre IV : Stipulations juridiques et administratives — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Le présent accord peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis minimal de 3 mois. Ce préavis devra être donné à toutes les organisations signataires du présent accord par lettre recommandée avec accusé de réception, sous peine de nullité.
 
 La partie qui dénonce l'accord peut accompagner sa notification d'un nouveau projet, conformément au sous-titre « Conditions de révision de l'accord » ci-dessus.
 
-##### Article (préambule / sans numéro)
-
-*Conditions d'adhésion à l'accord *
+> **Source :** Titre IV : Stipulations juridiques et administratives — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 Peuvent adhérer au présent accord toute organisation syndicale de salariés représentative dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement, conformément aux articles L. 2261-3 et L. 2261-4 du code du travail.
 
-##### Article (préambule / sans numéro)
-
-*Stipulations spécifiques aux entreprises de moins de 50 salariés *
+> **Source :** Titre IV : Stipulations juridiques et administratives — Annexe IV. Enquêteurs. Accord du 16 décembre 1991.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-### Avenant n° 11 du 8 juillet 1993 relatif aux fins de chantier dans l'ingénierie
+## Avenant n° 11 du 8 juillet 1993 relatif aux fins de chantier dans l'ingénierie
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 11 du 8 juillet 1993 relatif aux fins de chantier dans l'ingénierie.
 
 Constatant que le recours aux contrats de chantier, tant pour les missions en France qu'à l'étranger, constitue un usage reconnu et établi dans le secteur professionnel de l'ingénierie (entreprises référencées sous le code NAF 74 C2) ;
 
@@ -889,9 +1007,11 @@ Rappelant que la conclusion de tels contrats de travail à durée indéterminée
 
 En conséquence, entre les organisations signataires, il est convenu dans le cadre législatif actuel d'assurer aux salariés licenciés, pour fin de chantier, des garanties sociales complémentaire.
 
-#### Définition du contrat de travail dit : " de chantier "
+### Définition du contrat de travail dit : " de chantier "
 
-##### Article 1
+#### Article 1
+
+> **Source :** Article 1 — Avenant n° 11 du 8 juillet 1993 relatif aux fins de chantier dans l'ingénierie.
 
 Le contrat dit "de chantier" représente l'obligation faite à l'employeur de recruter les salariés nécessaires à la réalisation d'un travail commandé par un client, celui-ci étant juridiquement distinct de l'entreprise et ses filiales avec qui le salarié a conclu le contrat de travail dit "de chantier".
 
@@ -923,9 +1043,11 @@ Le contrat de travail proposé au salarié doit être conforme à l'offre d'empl
 
 Dans tous les cas, afin d'assurer une complète information du salarié, le contrat de travail doit comprendre la mention "Contrat de travail à durée indéterminée de chantier".
 
-#### Rupture du contrat de travail à l'issue du chantier
+### Rupture du contrat de travail à l'issue du chantier
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Avenant n° 11 du 8 juillet 1993 relatif aux fins de chantier dans l'ingénierie.
 
 Il peut être mis fin au contrat de travail à l'issue de la mission sur le chantier.
 
@@ -941,9 +1063,11 @@ Il peut être mis fin au contrat de travail à l'issue de la mission sur le chan
 
  Dans tous les cas, les salariés détachés sur des chantiers en France ou à l'étranger bénéficient de plein droit des dispositions conventionnelles.
 
-#### Information et consultation des instances représentatives du personnel
+### Information et consultation des instances représentatives du personnel
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Avenant n° 11 du 8 juillet 1993 relatif aux fins de chantier dans l'ingénierie.
 
 Toute entreprise envisageant de licencier sur une même période de 30 jours de 2 à 9 salariés pour fin de chantier, dans les conditions prévues ci-dessus, doit informer et consulter préalablement le comité d'entreprise (ou, à défaut, les délégués du personnel). Chaque salarié sera convoqué à un entretien préalable 7 jours francs avant la notification des licenciements pour fin de chantier.
 
@@ -953,9 +1077,11 @@ Lors de la réunion du comité d'entreprise (ou, à défaut, les délégués du 
 
 Le procès-verbal de séance signé par le président et le secrétaire du comité d'entreprise mentionnera le contenu de cette information et consultation, notamment les éventuelles propositions de reclassement.
 
-#### Accès au Fonds d'assurance formation ingénierie, études et conseils
+### Accès au Fonds d'assurance formation ingénierie, études et conseils
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Avenant n° 11 du 8 juillet 1993 relatif aux fins de chantier dans l'ingénierie.
 
 Lorsque les possibilités de réemploi n'existent pas et qu'il est mis fin au contrat de travail des salariés à l'issue du chantier pour la réalisation duquel ils avaient été exclusivement embauchés, ces derniers pourront bénéficier d'un accès prioritaire aux formations proposées par le Fonds d'assurance formation ingénierie, études et conseils (FAFIEC) ou au congé individuel de formation, dans des limites qui seront fixées par les partenaires sociaux siégeant dans les instances.
 
@@ -973,11 +1099,11 @@ Une enveloppe budgétaire annuelle sera prévue à cet effet, dont le montant se
 
 Un bilan annuel sera présenté par le président du FAFIEC à la commission paritaire de la convention collective qui pourra prendre toute disposition utile en cas de difficulté de mise en oeuvre du présent accord.
 
-### Annexe I. Classification des employés, techniciens et agents de maîtrise
+## Annexe I. Classification des employés, techniciens et agents de maîtrise
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 L'élaboration d'une grille de classification des emplois procède classiquement :
 
@@ -1011,21 +1137,25 @@ Ce mode d'approche, contrairement au caractère figé des définitions de type c
 
 Les organisations signataires considèrent que c'est sur les bases de ce nouveau système garant de la cohérence que s'organisera dorénavant, au sein des entreprises, la classification de leur personnel.
 
-#### Dispositions
+### Dispositions
 
-##### Objet
+#### Objet
 
-###### Article 1er
+##### Article 1er
+
+> **Source :** Article 1er — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Il est institué un système de classification du personnel visé, en trois fonctions, chacune de ces fonctions étant subdivisée en un certain nombre de positions auxquelles sont affectés des coefficients.
 
  Ces coefficients serviront à la détermination des rémunérations minimales hiérarchiques.
 
-#### Modalités générales
+### Modalités générales
 
-##### Classement
+#### Classement
 
-###### Article 2
+##### Article 2
+
+> **Source :** Article 2 — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Tout le personnel ETAM devra être classé d'après la classification évoquée à l'article 1.
 
@@ -1033,9 +1163,11 @@ Ce classement devra être effectué d'après les caractéristiques imposées par
 
 Il est évident que certaines filières professionnelles n'occuperont pas nécessairement toutes les positions.
 
-##### Référence au niveau de formation
+#### Référence au niveau de formation
 
-###### Article 3
+##### Article 3
+
+> **Source :** Article 3 — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Les indications des niveaux de formation ne signifient pas qu'il existe nécessairement une relation conventionnelle entre niveau de formation et niveau d'activité (niveau fonctionnel).
 
@@ -1043,19 +1175,21 @@ Les indications des niveaux de formation ne signifient pas qu'il existe nécessa
 
  Le classement professionnel est en tout état de cause déterminé par les fonctions réellement exercées par le salarié.
 
-##### Mise en place du nouveau système des entreprises
+#### Mise en place du nouveau système des entreprises
 
-###### Article 4
+##### Article 4
+
+> **Source :** Article 4 — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Les entreprises disposeront d'un délai expirant le... (1 an) pour étudier et mettre en place le classement, d'après le nouveau système, du personnel visé par l'article 2.
 
 L'application du présent accord ne pourra être la cause de la diminution du montant de la rémunération totale du salarié.
 
-### Annexe I. Classification des employés, techniciens et agents de maîtrise
+## Annexe I. Classification des employés, techniciens et agents de maîtrise
 
-#### Pièce jointe
+### Pièce jointe
 
-##### Article (préambule / sans numéro)
+> **Source :** Pièce jointe — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Classification
 
@@ -1067,13 +1201,11 @@ Classification
 
  3° Les éléments essentiels servant à la détermination des classifications professionnelles et des niveaux de qualification, notamment les mentions relatives aux diplômes professionnels ou à leurs équivalences, à condition que ces diplômes aient été créés depuis plus d'un an.
 
-### Annexe I. Classification des employés, techniciens et agents de maîtrise
+## Annexe I. Classification des employés, techniciens et agents de maîtrise
 
-#### Les grands groupes fonctionnels
+### Les grands groupes fonctionnels
 
-##### Article (préambule / sans numéro)
-
-*Définitions générales*
+> **Source :** Les grands groupes fonctionnels — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Préambule
 
@@ -1109,21 +1241,21 @@ Ce mode d'approche, contrairement au caractère figé des définitions de type c
 
 Les organisations signataires considèrent que c'est sur les bases de ce nouveau système garant de la cohérence que s'organisera dorénavant, au sein des entreprises, la classification de leur personnel.
 
-#### Dispositions
+### Dispositions
 
-##### Article 1er
+#### Article 1er — Objet
 
-*Objet*
+> **Source :** Article 1er — Objet — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Il est institué un système de classification du personnel visé, en 3 fonctions, chacune de ces fonctions étant subdivisée en un certain nombre de positions auxquelles sont affectés des coefficients.
 
 Ces coefficients serviront à la détermination des rémunérations minimales hiérarchiques.
 
-#### Modalités générales
+### Modalités générales
 
-##### Article 2
+#### Article 2 — Classement
 
-*Classement*
+> **Source :** Article 2 — Classement — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Tout le personnel ETAM devra être classé d'après la classification évoquée à l'article 1er.
 
@@ -1131,9 +1263,9 @@ Ce classement devra être effectué d'après les caractéristiques imposées par
 
 Il est évident que certaines filières professionnelles n'occuperont pas nécessairement toutes les positions.
 
-##### Article 3
+#### Article 3 — Référence au niveau de formation
 
-*Référence au niveau de formation*
+> **Source :** Article 3 — Référence au niveau de formation — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Les indications des niveaux de formation ne signifient pas qu'il existe nécessairement une relation conventionnelle entre niveau de formation et niveau d'activité (niveau fonctionnel).
 
@@ -1141,17 +1273,17 @@ Elles signifient que le niveau fonctionnel considéré se satisfait normalement 
 
 Le classement professionnel est en tout état de cause déterminé par les fonctions réellement exercées par le salarié.
 
-##### Article 4
+#### Article 4 — Mise en place du nouveau système des entreprises
 
-*Mise en place du nouveau système des entreprises*
+> **Source :** Article 4 — Mise en place du nouveau système des entreprises — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Les entreprises disposeront d'un délai expirant le ...................... (1 an) pour étudier et mettre en place le classement, d'après le nouveau système, du personnel visé par l'article 2.
 
 L'application du présent accord ne pourra être la cause de la diminution du montant de la rémunération totale du salarié.
 
-#### Pièce jointe
+### Pièce jointe
 
-##### Article (préambule / sans numéro)
+> **Source :** Pièce jointe — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Classification
 
@@ -1159,9 +1291,9 @@ Classification
 
 (1) L'article cité est accessible en version consolidée sur le site : http : //www.legifrance.gouv.fr
 
-#### Fonctions d'exécution
+### Fonctions d'exécution
 
-##### Article (préambule / sans numéro)
+> **Source :** Fonctions d'exécution — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Aspects fondamentaux
 
@@ -1237,9 +1369,9 @@ De plus, l'exercice de la fonction recouvre :
 
 Se satisfait d'une formation méthodique à un métier de base, équivalente au niveau V et IV b de l'éducation nationale.
 
-#### Fonctions d'études ou de préparation
+### Fonctions d'études ou de préparation
 
-##### Article (préambule / sans numéro)
+> **Source :** Fonctions d'études ou de préparation — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Aspects fondamentaux
 
@@ -1289,9 +1421,9 @@ Position 2.3
 
 L'exercice de la fonction implique la prise en compte, avec toute la maîtrise souhaitable, des contraintes des technologies mises en cause. Les suggestions ou conclusions formulées par l'intéressé à propos du travail sont de nature à faire progresser les méthodes, procédés ou moyens.
 
-#### Fonctions de conception ou de gestion élargie
+### Fonctions de conception ou de gestion élargie
 
-##### Article (préambule / sans numéro)
+> **Source :** Fonctions de conception ou de gestion élargie — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Aspects fondamentaux
 
@@ -1345,11 +1477,13 @@ Position 3.3
 
 L'exercice de la fonction nécessite, outre les connaissances propres aux niveaux précédents, des facultés d'adaptation à des problèmes présentant un certain caractère de nouveauté sur le plan technique.
 
-#### Nomenclature des niveaux de formation
+### Nomenclature des niveaux de formation
 
-##### Article (préambule / sans numéro)
+> **Source :** Nomenclature des niveaux de formation — Annexe I. Classification des employés, techniciens et agents de maîtrise.
 
 Circulaire n° 67-300 du 11 juillet 1967 de l'éducation nationale
+
+ 
 
 | NIVEAU | DÉFINITION |
 | --- | --- |
@@ -1360,13 +1494,13 @@ Circulaire n° 67-300 du 11 juillet 1967 de l'éducation nationale
 | V bis | Personnel occupant des emplois supposant une formation spécialisée d'une durée maximale de 1 an au-delà du premier cycle de l'enseignement du second degré du niveau de certificat de formation professionnelle. |
 | VI | Personnel occupant des emplois n'exigeant pas une formation allant au-delà de la scolarité obligatoire. |
 
-Ces connaissances peuvent être acquises soit par voie scolaire ou par formation équivalente, soit par expérience professionnelle.
+ Ces connaissances peuvent être acquises soit par voie scolaire ou par formation équivalente, soit par expérience professionnelle.
 
-### Annexe II. Classification des ingénieurs et cadres
+## Annexe II. Classification des ingénieurs et cadres
 
-#### Classification des ingénieurs et cadres
+### Classification des ingénieurs et cadres
 
-##### Article (préambule / sans numéro)
+> **Source :** Classification des ingénieurs et cadres — Annexe II. Classification des ingénieurs et cadres.
 
 |  | Coefficient hiérarchique |
 | --- | --- |
@@ -1379,11 +1513,11 @@ Ces connaissances peuvent être acquises soit par voie scolaire ou par formation
 | 3.2. Ingénieurs ou cadres ayant à prendre, dans l'accomplissement de leurs fonctions, les initiatives et les responsabilités qui en découlent, en suscitant, orientant et contrôlant le travail de leurs subordonnés. Cette position implique un commandement sur des collaborateurs et cadres de toute nature | 210 |
 | 3.3. L'occupation de ce poste, qui entraîne de très larges initiatives et responsabilités et la nécessité d'une coordination entre plusieurs services, exige une grande valeur technique ou administrative | 270 |
 
-Les appointements effectifs de chacun des collaborateurs pourront s'échelonner à partir du minimum prévu pour les positions types, échelon et catégorie sans limitation supérieure, le minimum d'une position ne constituant pas le maximum des positions inférieures.
+ Les appointements effectifs de chacun des collaborateurs pourront s'échelonner à partir du minimum prévu pour les positions types, échelon et catégorie sans limitation supérieure, le minimum d'une position ne constituant pas le maximum des positions inférieures.
 
-### Annexe III. Grille des rémunérations minimales brutes des chargés d'enquête
+## Annexe III. Grille des rémunérations minimales brutes des chargés d'enquête
 
-#### Article (préambule / sans numéro)
+> **Source :** Annexe III. Grille des rémunérations minimales brutes des chargés d'enquête — Annexe III. Grille des rémunérations minimales brutes des chargés d'enquête.
 
 1° Les durées indiquées correspondent au temps nécessaire à l'interview, à l'exclusion du temps de recherche des enquêtes, préparation, relecture et expédition du travail.
 
@@ -1392,6 +1526,8 @@ Les appointements effectifs de chacun des collaborateurs pourront s'échelonner 
 3° Les valeurs ci-dessous correspondent à l'exécution complète d'un questionnaire, y compris la recherche de l'enquête, la préparation, la relecture et l'exécution du travail.
 
 4° Pour une enquête donnée, le nombre de points ou de fractions de point correspondant à un questionnaire est applicable à tout le personnel réalisant les questionnaires.
+
+ 
 
 | NATURE DE L'ENQUÊTE | DURÉE D'INTERVIEW |  |  |  |  |
 | --- | --- | --- | --- | --- | --- |
@@ -1411,7 +1547,7 @@ Les appointements effectifs de chacun des collaborateurs pourront s'échelonner 
 | 3.2. De 20 à 40 % d'adresses erronées | 1,335 | 1,780 | 2,335 | 2,670 | 3,20 |
 | 3.3. Plus de 40 % d'adresses erronées | 1,780 | 2,335 | 2,670 | 3,000 | 3,30 |
 
-1. Quota :
+ 1. Quota :
 
 Par "quota", il faut entendre :
 
@@ -1435,19 +1571,19 @@ Ces chiffres multipliés par la valeur du point donnent la valeur en francs du q
 
 7. Il en est de même des opérations de prise de rendez-vous sur instructions de l'employeur.
 
-### Protocole d'accord n° 2 du 15 décembre 1987 sur la révision de l'annexe enquêteurs
+## Protocole d'accord n° 2 du 15 décembre 1987 sur la révision de l'annexe enquêteurs
 
-#### Article (préambule / sans numéro)
+> **Source :** Protocole d'accord n° 2 du 15 décembre 1987 sur la révision de l'annexe enquêteurs — Protocole d'accord n° 2 du 15 décembre 1987 sur la révision de l'annexe enquêteurs.
 
 Les parties signataires de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils, dans sa version révisée du 15 décembre 1987, s'engagent à respecter les obligations suivantes :
 
 Entreprendre la révision de l'annexe "Enquêteurs", notamment le statut des CEIGA, de manière à la mettre en conformité avec les dispositions légales relatives au travail intermittent et établir les modalités de couverture de l'incapacité temporaire de travail des CEIGA. Cette négociation devra être achevée au plus tard le 30 juin 1988 selon un calendrier à définir entre les négociateurs.
 
-### Accord du 15 décembre 1987 relatif à la méthode pour la mise en place de la nouvelle classification des ETAM
+## Accord du 15 décembre 1987 relatif à la méthode pour la mise en place de la nouvelle classification des ETAM
 
-#### 1. Pourquoi une nouvelle classification ?
+### 1. Pourquoi une nouvelle classification ?
 
-##### Article (préambule / sans numéro)
+> **Source :** 1. Pourquoi une nouvelle classification ? — Accord du 15 décembre 1987 relatif à la méthode pour la mise en place de la nouvelle classification des ETAM.
 
 Le système de classification actuellement en vigueur a vieilli :
 
@@ -1461,9 +1597,9 @@ Le système de classification actuellement en vigueur a vieilli :
 
  Il n'y a pas de correspondance systématique générale entre les anciens et les nouveaux coefficients.
 
-#### 2. Présentation générale
+### 2. Présentation générale
 
-##### Article (préambule / sans numéro)
+> **Source :** 2. Présentation générale — Accord du 15 décembre 1987 relatif à la méthode pour la mise en place de la nouvelle classification des ETAM.
 
 Ce nouveau système organise la hiérarchie des fonctions quel que soit la filière ou le métier considéré :
 
@@ -1505,9 +1641,9 @@ Connaissances requises.
 
 Les définitions de positions dérivent également d'une conception commune : elles sont établies principalement à partir de la complexité et de la difficulté du travail à accomplir.
 
-#### 3. Applications
+### 3. Applications
 
-##### Article (préambule / sans numéro)
+> **Source :** 3. Applications — Accord du 15 décembre 1987 relatif à la méthode pour la mise en place de la nouvelle classification des ETAM.
 
 3.1. Quelques principes
 
@@ -1629,9 +1765,9 @@ Conséquence à l'égard des régimes de retraite et de prévoyance
 
 Aucune modification individuelle n'interviendra dans l'affiliation aux régimes de retraite et de prévoyance.
 
-#### 4. Structure de la grille de classification
+### 4. Structure de la grille de classification
 
-##### Article (préambule / sans numéro)
+> **Source :** 4. Structure de la grille de classification — Accord du 15 décembre 1987 relatif à la méthode pour la mise en place de la nouvelle classification des ETAM.
 
 | FONCTIONS | POSITIONS | COEFFICIENTS |
 | --- | --- | --- |
@@ -1639,19 +1775,17 @@ Aucune modification individuelle n'interviendra dans l'affiliation aux régimes 
 | D'études ou de préparation | 2.12.22.3 | 275310355 |
 | De conception ou de gestion élargie | 3.13.23.3 | 400450500 |
 
-A chaque position correspond un coefficient.
+ A chaque position correspond un coefficient.
 
 Les coefficients permettent de fixer les minima salariaux afférents aux différentes positions de la grille suivant une relation de la forme suivante :
 
 Salaire minimum = coefficient x valeur du point + partie fixe.
 
-#### Annexes
+### Annexes
 
-##### LES TROIS NIVEAUX HIERARCHIQUES DE BASE
+#### LES TROIS NIVEAUX HIERARCHIQUES DE BASE
 
-###### Article (préambule / sans numéro)
-
-*ANNEXE I*
+> **Source :** LES TROIS NIVEAUX HIERARCHIQUES DE BASE — Accord du 15 décembre 1987 relatif à la méthode pour la mise en place de la nouvelle classification des ETAM.
 
 | type de fonctions | fonctions | Aspects fondamentaux | Caractéristiques communes |  |  |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1661,11 +1795,9 @@ Salaire minimum = coefficient x valeur du point + partie fixe.
 | II | Etudes ou préparation. | Prise en charge d'activités fractionnées ou cycliques. | - concrétiser ;- développer ;- faire apparaître des difficultés d'ordre pratique. | Référence à une technique connue. | Du particulier au particulier par analogie. | - instructions de caractère général portant sur des méthodes, avec initiative sur le choix des moyens et la succession des étapes ;- compte rendu d'actions le plus souvent sous forme de narrations à caractère descriptif ;- la qualité des travaux sera contrôlée par sondage. | Peut avoir la responsabilité technique du travail réalisé par du personnel de qualification moindre. | - niveau IV de l'EN (bac...) ;- et connaissances de l'environnement (entreprise, matériel, organisation). |
 | I | Exécution. | Exécution de travaux constitués de modes opératoires définis, codifiés, ordonnés. | - réaliser ;- produire. | Référence à un métier d'exécution. | Du particulier au particulier par simple identification. | - instructions précises ;- informations sur les méthodes à utiliser et les moyens disponibles ;- comptes rendus d'actions oraux portant sur des faits concrets du travail ;- le travail est facilement contrôlablement par les destinataires des travaux. | Néant. | - niveau V de l'EN (CAP...) ; enseignement basé sur une pédagogie démonstrative ;- connaissance du contexte immédiat suffisant. |
 
-##### LES DOUZE POSITIONS
+#### LES DOUZE POSITIONS
 
-###### Article (préambule / sans numéro)
-
-*ANNEXE II*
+> **Source :** LES DOUZE POSITIONS — Accord du 15 décembre 1987 relatif à la méthode pour la mise en place de la nouvelle classification des ETAM.
 
 | Type defonctions | Critères (position) | Innovation | Rôle à l'égard de l'objectif | Autonomie |
 | --- | --- | --- | --- | --- |
@@ -1673,11 +1805,15 @@ Salaire minimum = coefficient x valeur du point + partie fixe.
 | 2 | Recherche et adopte des solutions valables en transposant des dispositions déjà éprouvées dans des conditions différentes. | Propositions de modifications de certaines caractéristiques de l'objectif initialement défini. | Recours à l'assistance avec proposition à l'appui en cas de difficulté technique ou d'incompatibilité avec l'objectif. |  |
 | 1 | Rechercher la compatibilité des solutions entre elles et avec l'objectif. | Recours à l'assistance de règle en cas de difficultés ou d'incompatibilité avec l'objectif. |  |  |
 
+ 
+
 | Type defonctions | Critères | Autonomie | Connaissance de l'environnement |
 | --- | --- | --- | --- |
 | II | 3 | Aptitude à formuler des suggestions de nature à faire progresser les méthodes de travail. | Complète (entreprise, techniques, organisation, clients) à cause du rôle de relais de cette fonction entre les fonctions des types I et III. |
 | 2 | Initiative d'établir entre les méthodes de travail proposées des choix appropriés. | Niveau intermédiaire entre les positions II-1 et II-3. |  |
 | 1 | Connaissance des méthodes de travail proposées. | Limitée à une technique.Connaissance de l'environnement limitée au service. |  |
+
+ 
 
 | Type defonctions | Critères | Objet du travail | Connaissances requises |
 | --- | --- | --- | --- |
@@ -1686,11 +1822,9 @@ Salaire minimum = coefficient x valeur du point + partie fixe.
 | 2 | Aspect professionnel partiel. | Equivalentes au BEPC. |  |
 | 1 | Sans aspect professionnel (analogue à la vie courante). | Sans formation. |  |
 
-##### ILLUSTRATIONS SUR QUELQUES FILIERES
+#### ILLUSTRATIONS SUR QUELQUES FILIERES
 
-###### Article (préambule / sans numéro)
-
-*ANNEXE III*
+> **Source :** ILLUSTRATIONS SUR QUELQUES FILIERES — Accord du 15 décembre 1987 relatif à la méthode pour la mise en place de la nouvelle classification des ETAM.
 
 | Coefficients | Positions | Comptabilité | Dactylo- graphie secrétariat | Informatique | Dessinateurs | contrôle des travaux | métrieurs |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -1707,17 +1841,21 @@ Salaire minimum = coefficient x valeur du point + partie fixe.
 | 400450 | 3-13-2 | Comptable principal : 1-2-3. | Secrétaire principal(e) ou de direction : 1-2-3. | Technicien principal d'analyse programmation : 1-2. |  | Technicien principal, chef de groupe : 1-2. | Technicien principal, chef de groupe : 1-2. | Projeteur : 1.Projeteur : 2. | Contrôleur de travaux : 1-2. | Te'chnicien principal de métré (chef métreur, métreur vérificateur) : 1-2. |
 | 500 | 3-3 |  |  | » 3. |  | Technicien principal, chef de groupe de salle ou d'atelier : 3. | Technicien principal, chef de groupe de salle ou d'atelier : 3. | Projeteur ou chef de groupe : 3. | » 3. | » 3. |
 
-### Accord du 27 mars 1997 relatif à la prévoyance
+## Accord du 27 mars 1997 relatif à la prévoyance
 
-#### Objet de l'accord et champ d'application
+### Objet de l'accord et champ d'application
 
-##### Article 1er
+#### Article 1er
+
+> **Source :** Article 1er — Accord du 27 mars 1997 relatif à la prévoyance.
 
 Cet accord a pour objet d'instituer un régime minimum obligatoire de prévoyance au plan national en France métropolitaine et dans les départements d'outre-mer, bénéficiant à tous les personnels employés, techniciens, agents de maîtrise, ingénieurs et cadres salariés des entreprises visées par la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils.
 
-#### Bénéficiaires du régime
+### Bénéficiaires du régime
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 La notion de salarié s'entend pour tous les titulaires d'un contrat de travail, à l'exclusion des enquêteurs vacataires et des bénéficiaires du régime de prévoyance prévu par l'accord du 16 décembre 1991.
 
@@ -1731,9 +1869,11 @@ Sont bénéficiaires du présent accord, sans sélection médicale :
 
 4. Le conjoint ou concubin, bénéficiaire du versement du capital décès, s'il adhère, dans les six mois suivant l'événement, au régime de prévoyance, au titre des seules garanties capital décès et rente éducation.
 
-#### Suspension du contrat de travail à l'initiative du salarié
+### Suspension du contrat de travail à l'initiative du salarié
 
-##### Article 2 bis
+#### Article 2 bis
+
+> **Source :** Article 2 bis — Accord du 27 mars 1997 relatif à la prévoyance.
 
 En cas de suspension volontaire du contrat de travail, les salariés peuvent, à leur demande, conserver le bénéfice des garanties décès (capital décès et rente éducation) sous réserve du paiement de la cotisation correspondante.
 
@@ -1759,9 +1899,11 @@ Les salariés dont la suspension du contrat de travail a pour origine un arrêt 
 
 Il est rappelé que les salariés dont le contrat de travail est suspendu sans rémunération peuvent demander à conserver le bénéfice des garanties décès (capital décès et rente d'éducation).
 
-#### Garantie capital décès
+### Garantie capital décès
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 3.1. Nature
 
@@ -1789,15 +1931,19 @@ En l'absence de désignation expresse de bénéficiaires par le salarié, les ca
 
 Le salarié peut à tout moment modifier la désignation du ou des bénéficiaires, de préférence par lettre recommandée adressée à l'organisme assureur, qui en accusera réception.
 
-#### Garantie invalidité absolue et définitive
+### Garantie invalidité absolue et définitive
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 Si le participant est en état d'invalidité absolue et définitive, c'est-à-dire s'il est reconnu invalide de 3e catégorie par la sécurité sociale avec majoration pour assistance d'une tierce personne de cet organisme, avant la date de prise d'effet de sa retraite sécurité sociale, il lui est versé par anticipation le capital décès prévu à l'article 3. 2.
 
-#### Garantie rente éducation
+### Garantie rente éducation
 
-##### Article 5
+#### Article 5
+
+> **Source :** Article 5 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 5.1. En cas de décès du salarié, une rente éducation dont le montant est calculé en pourcentage du salaire de référence défini à l'article 8 est versée pour chaque enfant à charge.
 
@@ -1835,9 +1981,11 @@ Les minima sont calculés sur le plafond de la sécurité sociale en vigueur au 
 
 La rente éducation est cumulative avec le capital décès. Elle est due et payable mensuellement à compter du premier jour du mois qui suit la date du décès.
 
-#### Garantie incapacité temporaire de travail
+### Garantie incapacité temporaire de travail
 
-##### Article 6
+#### Article 6
+
+> **Source :** Article 6 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 6.1. Définition
 
@@ -1851,9 +1999,11 @@ Le délai de carence appliqué à la garantie est de 90 jours consécutifs d'arr
 
 La garantie consiste à assurer à un salarié ayant plus d'un an d'ancienneté un complément d'indemnité destiné à compléter les versements de la sécurité sociale à hauteur de 80 % du salaire brut tel que défini à l'article 8 jusqu'au classement en invalidité par la sécurité sociale sans pour autant excéder le salaire net qu'aurait perçu le salarié en activité.
 
-#### Garantie invalidité totale ou partielle
+### Garantie invalidité totale ou partielle
 
-##### Article 7
+#### Article 7
+
+> **Source :** Article 7 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 7.1. En cas d'invalidité totale ou partielle survenue postérieurement à l'entrée en fonction du salarié, et indemnisée comme telle par la sécurité sociale, il est versé une rente complémentaire dont le montant est fixé ainsi qu'il suit :
 
@@ -1875,29 +2025,37 @@ Invalidité de 1re catégorie : le complément mentionné ci-dessus est divisé 
 
 7.2. La rente complémentaire d'invalidité est versée mensuellement à terme échu directement au bénéficiaire jusqu'à la date d'effet de la retraite de la sécurité sociale.
 
-#### Salaire de référence
+### Salaire de référence
 
-##### Article 8
+#### Article 8
+
+> **Source :** Article 8 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 Le salaire annuel de référence représente le total des rémunérations brutes perçues au cours des 12 mois précédant l'événement. Il est calculé en tenant compte de tous les éléments contractuels du salaire soumis à cotisation limité aux tranches A, B et C des rémunérations.
 
-#### Revalorisation des prestations
+### Revalorisation des prestations
 
-##### Article 9
+#### Article 9
+
+> **Source :** Article 9 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 L'ensemble des prestations pourra être revalorisé conformément aux termes de la convention d'assurance et de gestion du régime.
 
-#### Assistance aux proches aidants
+### Assistance aux proches aidants
 
-##### Article 10
+#### Article 10
+
+> **Source :** Article 10 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 Une garantie d'assistance aux proches aidants est ouverte à tous les salariés relevant des stipulations du présent accord.
 
 Cette garantie comprend nécessairement un service d'information et d'orientation, ainsi qu'un service de soutien psychosocial.
 
-#### Comité paritaire de surveillance
+### Comité paritaire de surveillance
 
-##### Article 11
+#### Article 11
+
+> **Source :** Article 11 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 La mise en œuvre, le suivi et l'interprétation du régime de prévoyance sont confiés à un comité paritaire de surveillance.
 
@@ -1939,9 +2097,11 @@ Sur demande du comité, les représentants des organismes assistent aux réunion
 
 (Arrêté du 21 mai 2026 - art. 1)
 
-#### Entrée en vigueur et durée de l'accord
+### Entrée en vigueur et durée de l'accord
 
-##### Article 12
+#### Article 12
+
+> **Source :** Article 12 — Accord du 27 mars 1997 relatif à la prévoyance.
 
 Le présent accord est conclu pour une durée indéterminée. Il entrera en vigueur le premier jour du mois civil suivant la publication de l'arrêté ministériel d'extension prévu par l'article L. 133-8 du code du travail.
 
@@ -1955,11 +2115,11 @@ Toute dénonciation du présent accord s'effectuera conformément aux dispositio
 
 (ancien article 10)
 
-#### Annexe
+### Annexe
 
-##### Article 1er
+#### Article 1er — Organisme de prévoyance
 
-*Organisme de prévoyance*
+> **Source :** Article 1er — Organisme de prévoyance — Accord du 27 mars 1997 relatif à la prévoyance.
 
 Organisme de prévoyance
 
@@ -1981,9 +2141,9 @@ En cas de renégociation, et à condition que les garanties et les cotisations s
 
 6. Au-delà d'une période de 5 ans à compter de la date d'extension, les dispositions prévues par le présent avenant pourront faire l'objet de modifications, révisions ou dénonciations à la demande d'une ou de plusieurs organisations représentatives contractantes indépendamment de l'accord "Prévoyance" lui-même.
 
-##### Article 2
+#### Article 2 — Cotisations
 
-*Cotisations*
+> **Source :** Article 2 — Cotisations — Accord du 27 mars 1997 relatif à la prévoyance.
 
 1. Assiette
 
@@ -2025,9 +2185,9 @@ A l'inverse, dans le cas d'une entreprise relevant du champ d'application de la 
 
 Les dispositions de l'article 26 de la loi susvisée relatives au provisionnement sont d'ordre public.
 
-##### Article 3
+#### Article 3 — Organisation du régime de prévoyance de branche
 
-*Organisation du régime de prévoyance de branche*
+> **Source :** Article 3 — Organisation du régime de prévoyance de branche — Accord du 27 mars 1997 relatif à la prévoyance.
 
 3.1. Régime de prévoyance de branche
 
@@ -2053,11 +2213,11 @@ Les partenaires sociaux organiseront la poursuite de la revalorisation des prest
 
 L'ensemble des dispositions qui précèdent s'applique également dans le cas d'une entreprise adhérente qui cesserait de relever du champ d'application de l'accord de prévoyance, cet événement entraînant la résiliation de son adhésion au régime de branche ; les modalités d'organisation des revalorisations futures seront alors de son ressort.
 
-### Annexe I relative à la prévoyance - Accord du 27 mars 1997
+## Annexe I relative à la prévoyance - Accord du 27 mars 1997
 
-#### Cotisations
+### Cotisations
 
-##### Article (préambule / sans numéro)
+> **Source :** Cotisations — Annexe I relative à la prévoyance - Accord du 27 mars 1997.
 
 1. Assiette
 
@@ -2103,9 +2263,9 @@ A l'inverse, dans le cas d'une entreprise relevant du champ d'application de la 
 
 Les dispositions de l'article 26 de la loi susvisée relatives au provisionnement sont d'ordre public.
 
-### Annexe II relative à la prévoyance - Accord du 27 mars 1997
+## Annexe II relative à la prévoyance - Accord du 27 mars 1997
 
-#### Article (préambule / sans numéro)
+> **Source :** Annexe II relative à la prévoyance - Accord du 27 mars 1997 — Annexe II relative à la prévoyance - Accord du 27 mars 1997.
 
 Organisme de prévoyance
 
@@ -2127,11 +2287,11 @@ En cas de renégociation, et à condition que les garanties et les cotisations s
 
 6. Au-delà d'une période de 5 ans à compter de la date d'extension, les dispositions prévues par le présent avenant pourront faire l'objet de modifications, révisions ou dénonciations à la demande d'une ou de plusieurs organisations représentatives contractantes indépendamment de l'accord "Prévoyance" lui-même.
 
-### Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998)
+## Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998)
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 La réduction du chômage et l'embauche de jeunes sont des priorités partagées par tous les partenaires sociaux.
 
@@ -2159,33 +2319,39 @@ La réduction du chômage et l'embauche de jeunes sont des priorités partagées
 
  Prenant en compte les dispositions prévues par la loi du 13 juin 1998 d'orientation et d'incitation à la réduction du temps de travail réduisant la durée légale du travail des salariés à 35 heures par semaine au 1er janvier 2000 ou au 1er janvier 2002, selon les cas, les parties signataires décident d'adopter les dispositions suivantes :
 
-#### Champ d'application
+### Champ d'application
 
-##### Article (préambule / sans numéro)
+> **Source :** Champ d'application — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Le présent accord national est applicable aux entreprises entrant dans le champ d'application de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils.
 
-#### Chapitre Ier : Durée du travail
+### Chapitre Ier : Durée du travail
 
-##### Durée du travail effectif
+#### Durée du travail effectif
 
-###### Article 1er
+##### Article 1er
+
+> **Source :** Article 1er — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Conformément à l'article L. 212-4 du code du travail, la durée du travail effectif est le temps pendant lequel le salarié est à la disposition de l'employeur et doit se conformer à ses directives générales sans pouvoir vaquer librement à des occupations personnelles.
 
 Cas particulier de l'astreinte : l'astreinte concerne les plages horaires en dehors des horaires habituels de travail pendant lesquelles un salarié peut être amené à intervenir à la demande de l'employeur. Toute intervention effectuée pendant la période d'astreinte, que cette intervention ait lieu au domicile du collaborateur ou sur le lieu du projet, fait partie intégrante du temps de travail effectif du salarié.
 
-##### Durée conventionnelle du travail
+#### Durée conventionnelle du travail
 
-###### Article 2
+##### Article 2
+
+> **Source :** Article 2 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 La durée hebdomadaire conventionnelle du travail effectif est fixée à 35 heures à compter de la date d'effet précisée au chapitre XI du présent accord. Cette définition ne fait pas obstacle à des dispositions plus favorables qui pourraient exister dans les accords ou les usages des entreprises.
 
-#### Chapitre II : Dispositions relatives aux horaires de travail
+### Chapitre II : Dispositions relatives aux horaires de travail
 
-##### Dispositions communes
+#### Dispositions communes
 
-###### Article 1er
+##### Article 1er
+
+> **Source :** Article 1er — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Les entreprises de l'ingénierie, de l'informatique et du conseil offrent la particularité de compter une majorité de cadres, compte tenu des prestations intellectuelles de haut niveau qu'elles sont à même de proposer. Par ailleurs, les moyens bureautiques modernes font évoluer l'exercice traditionnel de l'activité professionnelle et le contrôle traditionnel des horaires de travail, par l'employeur. Cette évolution paraît rencontrer les aspirations des salariés qui souhaitent travailler selon un rythme propre, néanmoins compatible avec les contraintes de l'entreprise.
 
@@ -2217,9 +2383,11 @@ Les salariés lors de la mise en oeuvre du présent accord sont informés des mo
 
 > **Nota.** NOTA : L'arrêté du 10 novembre 2000 JORF 22 novembre 2000 supprime l'exclusion du deuxième alinéa faite par l'arrêté du 21 décembre 1999.
 
-##### Modalités standard
+#### Modalités standard
 
-###### Article 2
+##### Article 2
+
+> **Source :** Article 2 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Sauf dispositions particulières négociées par accord d'entreprise, les salariés concernés par les modalités standard ont une durée hebdomadaire de travail de 35 heures, compte tenu des modalités d'aménagement du temps de travail évoquées précédemment.
 
@@ -2231,9 +2399,11 @@ Compte tenu de l'organisation du temps de travail sur l'année (modulation annue
 
 (1) Alinéa étendu sous réserve de l'application de l'article L. 212-8-2, alinéa 1, du code du travail (arrêté du 21 décembre 1999, art. 1er).
 
-##### Réalisation de missions
+#### Réalisation de missions
 
-###### Article 3 (1)
+##### Article 3 (1)
+
+> **Source :** Article 3 (1) — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Ces modalités s'appliquent aux salariés non concernés par les modalités standard ou les réalisations de missions avec autonomie complète. Tous les ingénieurs et cadres sont a priori concernés, à condition que leur rémunération soit au moins égale au plafond de la sécurité sociale. De plus, en fonction de l'activité de l'entreprise, un accord d'entreprise doit préciser les conditions dans lesquelles d'autres catégories de personnel peuvent disposer de ces modalités de gestion.
 
@@ -2253,11 +2423,13 @@ L'adoption de ces modalités de gestion du temps de travail ne peut entraîner u
 
 (1) Article étendu sous réserve que les cadres bénéficient d'une réduction effective de leur durée de travail en application du paragraphe I de l'article L. 212-15-3 du code du travail (arrêté du 10 novembre 2000, art. 1er).
 
-##### Réalisation de missions avec autonomie complète
+#### Réalisation de missions avec autonomie complète
 
-###### Forfait annuel en jours
+##### Forfait annuel en jours
 
 ###### Article 4
+
+> **Source :** Article 4 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Les parties signataires réaffirment leur attachement aux droits à la santé, à la sécurité et au repos du salarié et ont adopté l'accord du 22 juin 1999 dans le respect des principes fondamentaux suivants :
 -le 11e alinéa du Préambule de la Constitution de 1946, affirmant le droit du salarié à la santé et au repos ;
@@ -2275,9 +2447,11 @@ Les parties signataires réaffirment leur attachement aux droits à la santé, �
 -à l'article 31 de la Charte des droits fondamentaux de l'Union européenne, qui garantit au travailleur des conditions de travail qui respectent sa santé, sa sécurité et sa dignité ;
 -aux dispositions des articles L. 3121-43 à L. 3121-48 du code du travail, définissant le recours aux conventions de forfait en jours sur l'année.
 
-###### Champ d'application
+##### Champ d'application
 
 ###### Article 4.1
+
+> **Source :** Article 4.1 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Peuvent être soumis au présent article 4 les personnels exerçant des responsabilités de management élargi ou des missions commerciales, de consultant ou accomplissant des tâches de conception ou de création, de conduite et de supervision de travaux, disposant d'une large autonomie, de liberté et d'indépendance dans l'organisation et la gestion de leur temps de travail pour exécuter les missions qui leur sont confiées.
 
@@ -2287,9 +2461,11 @@ Pour pouvoir relever de ces modalités, les salariés concernés doivent obligat
 
 Ils relèvent au minimum de la position 2.3 de la grille de classification des cadres de la convention collective nationale ou bénéficient d'une rémunération annuelle supérieure à 2 fois le plafond annuel de la sécurité sociale ou sont mandataires sociaux.
 
-###### Conditions de mise en place
+##### Conditions de mise en place
 
 ###### Article 4.2
+
+> **Source :** Article 4.2 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 La conclusion d'une convention individuelle de forfait annuel en jours fait impérativement l'objet d'un écrit signé par les parties, contrat de travail ou avenant annexé à celui-ci.
 
@@ -2310,9 +2486,11 @@ Le refus de signer une convention individuelle de forfait en jours sur l'année 
 (1) Article sous réserve du respect de la jurisprudence de la Cour de Cassation (Cass. soc, 31 janvier 2012, n° 10-17593), qui précise qu'une convention individuelle de forfait en jours sur l'année doit fixer le nombre de jours travaillés et préciser les modalités de décompte des journées ou demi-journées travaillées et de prises de journées ou demi-journées de repos, et par conséquent qu'un simple renvoi par le contrat de travail aux dispositions de la convention collective ou de l'accord d'entreprise prévoyant le forfait jours est insuffisant.
 (ARRÊTÉ du 26 juin 2014 - art. 1)
 
-###### Décompte du temps de travail en jours sur une base annuelle
+##### Décompte du temps de travail en jours sur une base annuelle
 
 ###### Article 4.3
+
+> **Source :** Article 4.3 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 La comptabilisation du temps de travail du salarié se fait en jours sur une période de référence annuelle, avec un maximum fixé à 218 jours de travail par an, journée de solidarité incluse, pour un salarié présent sur 1 année complète et ayant acquis la totalité des droits à congés payés complets, compte non tenu des éventuels jours d'ancienneté conventionnels au titre de l'article 23 de la convention collective et de ceux définis éventuellement par accord d'entreprise ou par usage et des absences exceptionnelles accordées au titre de l'article 29 de la convention collective nationale.
 
@@ -2330,9 +2508,11 @@ Nombre de jours à travailler = 218 × nombre de semaines travaillées/47.
 
 Dans ce cas, l'entreprise devra déterminer le nombre de jours de repos à attribuer sur la période considérée.
 
-###### Rémunération
+##### Rémunération
 
 ###### Article 4.4
+
+> **Source :** Article 4.4 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Le personnel ainsi concerné doit bénéficier d'une rémunération annuelle au moins égale à 120 % du minimum conventionnel de sa catégorie sur la base d'un forfait annuel de 218 jours travaillés ou sur la base du forfait défini en entreprise.
 
@@ -2346,15 +2526,19 @@ L'adoption de cette modalité de gestion du temps de travail ne peut entraîner 
 
 Lorsqu'un salarié ayant conclu une convention de forfait en jours perçoit une rémunération manifestement sans rapport avec les sujétions qui lui sont imposées, il peut, nonobstant toute clause contraire, conventionnelle ou contractuelle, saisir le juge judiciaire afin que lui soit allouée une indemnité calculée en fonction du préjudice subi, eu égard notamment au niveau du salaire pratiqué dans l'entreprise et correspondant à sa qualification conformément aux dispositions légales.
 
-###### Forfait en jours réduit
+##### Forfait en jours réduit
 
 ###### Article 4.5
 
+> **Source :** Article 4.5 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
+
 En accord avec le salarié, ces modalités prévoient un nombre de jours travaillés en deçà du nombre de jours annuels travaillés défini à l'article 4.3 du présent avenant ou dans l'accord d'entreprise. Le salarié sera rémunéré au prorata du nombre de jours fixé par sa convention de forfait, et la charge de travail devra tenir compte de la réduction convenue.
 
-###### Jours de repos
+##### Jours de repos
 
 ###### Article 4.6
+
+> **Source :** Article 4.6 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Afin de ne pas dépasser le plafond convenu (dans la limite de 218 jours de travail sur l'année pour un droit à congés payés complet), ces salariés bénéficient de jours de repos dont le nombre peut varier d'une année à l'autre en fonction notamment des jours chômés. Il sera tenu compte des dispositions légales, réglementaires et conventionnelles se rapportant à tout autre type d'absence.
 
@@ -2362,9 +2546,11 @@ Le positionnement des jours de repos par journée entière et indivisible du sal
 
 En accord avec leur employeur, les salariés peuvent renoncer à des jours de repos moyennant le versement d'une majoration minimum de 20 % de la rémunération jusqu'à 222 jours et de 35 % au-delà. Cette majoration est fixée par avenant au contrat de travail. Ce dispositif de rachat ne pourra avoir pour conséquence de porter le nombre de jours travaillés au-delà de 230 jours.
 
-###### Contrôle du décompte des jours travaillés/ non travaillés
+##### Contrôle du décompte des jours travaillés/ non travaillés
 
 ###### Article 4.7
+
+> **Source :** Article 4.7 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Le forfait annuel en jours s’accompagne d’un décompte des journées travaillées au moyen d’un suivi objectif, fiable et contradictoire mis en place par l’employeur.
 
@@ -2372,9 +2558,11 @@ L’employeur est tenu d’établir un document qui doit faire apparaître le no
 
 Ce suivi est établi par le (la) salarié(e) sous le contrôle de l’employeur et il a pour objectif de concourir à préserver la santé du salarié.
 
-###### Garanties : temps de repos. – Charge de travail. – Amplitude des journées de travail Entretien annuel individuel
+##### Garanties : temps de repos. – Charge de travail. – Amplitude des journées de travail Entretien annuel individuel
 
 ###### Article 4.8
+
+> **Source :** Article 4.8 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 4.8.1. Temps de repos
 
@@ -2418,21 +2606,27 @@ Au cours de cet entretien sont évoquées la charge individuelle de travail du s
 
 Au regard des constats effectués, le salarié et son responsable hiérarchique arrêtent ensemble les mesures de prévention et de règlement des difficultés (lissage sur une plus grande période, répartition de la charge, etc.). Les solutions et mesures sont alors consignées dans le compte rendu de cet entretien annuel. Le salarié et le responsable hiérarchique examinent si possible également à l'occasion de cet entretien la charge de travail prévisible sur la période à venir et les adaptations éventuellement nécessaires en termes d'organisation du travail.
 
-###### Consultation des IRP
+##### Consultation des IRP
 
 ###### Article 4.9
 
+> **Source :** Article 4.9 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
+
 Conformément aux dispositions légales et réglementaires, et dans le respect de la santé et de la sécurité des salariés, le comité d'entreprise est informé et consulté chaque année sur le recours aux forfaits en jours dans l'entreprise ainsi que sur les modalités de suivi de la charge de travail des salariés. Ces informations (nombre de salariés en forfaits en jours, nombre d'alertes émises, synthèse des mesures prises) sont également transmises au CHSCT et seront consolidées dans la base de données économiques et sociales unique.
 
-###### Suivi médical
+##### Suivi médical
 
 ###### Article 4.10
 
+> **Source :** Article 4.10 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
+
 Dans une logique de protection de la santé et de la sécurité des salariés, il est instauré, à la demande du salarié, une visite médicale distincte pour les salariés soumis au présent accord, afin de prévenir les risques éventuels sur la santé physique et morale.
 
-##### Aménagement d'horaire - Jours complémentaires de repos
+#### Aménagement d'horaire - Jours complémentaires de repos
 
-###### Article 5 (1)
+##### Article 5 (1)
+
+> **Source :** Article 5 (1) — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Indépendamment des modalités exposées ci-dessus, tout salarié à titre individuel a la possibilité de demander à son employeur de disposer d'un volume de jours de repos complémentaires en contrepartie d'une récupération du temps correspondant selon des modalités à définir par l'entreprise, les heures ainsi récupérées n'ayant bien évidemment pas la nature d'heures supplémentaires.
 
@@ -2442,23 +2636,27 @@ Une information semestrielle détaillée sera transmise aux délégués du perso
 
 (1) Article étendu sous réserve de l'application des articles L. 212-2-2 et L. 212-4-1 du code du travail (arrêté du 21 décembre 1999, art. 1er).
 
-##### Cas du personnel embauché pendant la période de référence
+#### Cas du personnel embauché pendant la période de référence
 
-###### Article 6
+##### Article 6
+
+> **Source :** Article 6 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Pour les modalités de réalisation de missions (articles 3 et 4), le nombre de jours travaillés de 219 ne s'applique qu'aux salariés ayant au moins un an de présence continue dans l'entreprise à la fin de la période ouvrant droit aux congés payés.
 
  NOTA : L'arrêté du 10 novembre 2000 JORF 22 novembre 2000 supprime l'exclusion de l'article faite par l'arrêté du 21 décembre 1999.
 
-#### Chapitre III : Organisation du temps de travail sur l'année
+### Chapitre III : Organisation du temps de travail sur l'année
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre III : Organisation du temps de travail sur l'année — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 La contrepartie indispensable aux contraintes liées à la réduction du temps de travail est l'absolue nécessité de repenser fondamentalement les organisations en recherchant systématiquement une meilleure productivité globale, notamment grâce à une souplesse accrue, capable de faire face aux fluctuations d'activité structurelles ou occasionnelles ainsi qu'aux cycles de l'activité, spécifiques aux différents métiers de la branche.
 
-##### Modalités de la modulation
+#### Modalités de la modulation
 
-###### Article 1er
+##### Article 1er
+
+> **Source :** Article 1er — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 En application de l'article L. 212-2-1 du code du travail, la durée du travail effectif peut faire l'objet, au niveau des différents projets gérés par l'entreprise ou au niveau de ses différents services, d'une modulation sur l'année permettant d'adapter la durée du travail aux variations de la charge de travail.
 
@@ -2480,19 +2678,23 @@ Pour le personnel régi par les modalités standard et notamment pour le personn
 
 (1) Tiret étendu sous réserve de l'application des articles L. 212-8-5,2 e alinéa, du code du travail (arrêté du 21 décembre 1999, art. 1 er).
 
-##### Mise en oeuvre
+#### Mise en oeuvre
 
-###### Article 2
+##### Article 2
+
+> **Source :** Article 2 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 La mise en place dans une entreprise ou un établissement de l'organisation du temps de travail sur l'année, conformément à l'article L. 212-2-1 du code du travail, est effectuée après information des représentants du personnel (à défaut, les salariés de l'entreprise) du choix ainsi opéré.
 
 Par ailleurs, conformément à l'article L. 212-2-1, en cours de période, le recours au chômage partiel est possible selon les dispositions légales en vigueur.
 
-#### Chapitre IV : Heures supplémentaires
+### Chapitre IV : Heures supplémentaires
 
-##### Remplacement du paiement des heures supplémentaires par un repos équivalent
+#### Remplacement du paiement des heures supplémentaires par un repos équivalent
 
-###### Article 1er
+##### Article 1er
+
+> **Source :** Article 1er — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Les heures supplémentaires sont les heures de travail accomplies à la demande de l'employeur au-delà de la durée conventionnelle du travail, compte tenu des modalités d'aménagement du temps de travail retenues. Elles sont définies au chapitre III, article 1er, dans le cas d'une modulation sur l'année (1).
 
@@ -2502,9 +2704,11 @@ Rappelons que les heures supplémentaires dont le paiement aura été remplacé 
 
 (1) Alinéa étendu sous réserve de l'application des articles L. 212-5, L. 212-5-1 et L. 212-6 du code du travail tels qu'interprétés par la jurisprudence de la Cour de cassation (arrêté du 21 décembre 1999, art. 1er).
 
-##### Contingent d'heures supplémentaires
+#### Contingent d'heures supplémentaires
 
-###### Article 2
+##### Article 2
+
+> **Source :** Article 2 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Lorsque les organisations du travail retenues dans les entreprises, en fonction des exigences du marché, conduisent à organiser le temps de travail sur l'année, les parties signataires conviennent que le contingent d'heures supplémentaires prévu par l'article L. 212-6 du code du travail est fixé à 90 heures par an et par salarié.
 
@@ -2512,9 +2716,9 @@ Ce contingent pourra être majoré de 40 heures. Cette possibilité est express�
 
 Dans le cas où l'entreprise ne choisirait pas l'annualisation et son volume annuel de 1 610 heures, les parties signataires conviennent que le contingent prévu à l'article 33 de la convention collective devra être réajusté en fonction des nouvelles dispositions légales.
 
-#### Chapitre V : Compte de temps disponible
+### Chapitre V : Compte de temps disponible
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre V : Compte de temps disponible — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Le compte de temps disponible (CTD) permet de matérialiser l'application de la loi du 13 juin 1998 sur la réduction du temps de travail. Il peut être constitué pour tout salarié, quel que soit le mode retenu pour la comptabilisation de son temps de travail. Il peut être géré sur toute période de référence de 12 mois consécutifs (année civile, exercice comptable, période de congés payés). Les jours crédités au compte de temps disponible doivent être utilisés à l'intérieur de la période de référence ou au maximum 3 mois après la fin de cette période (1).
 
@@ -2558,9 +2762,9 @@ Les parties signataires conviennent par ailleurs que le compte épargne-temps (c
 
 (3) Alinéa étendu sous réserve de l'application de l'article 7 du décret n° 98-494 du 22 juin 1998 (arrêté du 21 décembre 1999, art. 1er).
 
-#### Chapitre VI : Compte épargne-temps
+### Chapitre VI : Compte épargne-temps
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre VI : Compte épargne-temps — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Un compte épargne-temps, prévu par l'article L. 227-1 du code du travail, peut être ouvert à l'initiative d'une entreprise ou d'un établissement. Il a pour objet de permettre au salarié qui le désire d'accumuler des droits à congé rémunéré. Les congés concernés peuvent être :
 
@@ -2586,9 +2790,9 @@ Cette négociation complémentaire établira par conséquent les modalités de m
 
 (1) Tiret étendu sous réserve de l'application de l'article 7 du décret n° 98-494 du 22 juin 1998 (arrêté du 21 décembre 1999, art. 1er).
 
-#### Chapitre VII : Mesure du temps de travail effectif
+### Chapitre VII : Mesure du temps de travail effectif
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre VII : Mesure du temps de travail effectif — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 L'organisation du travail dans l'entreprise ou l'établissement implique la mise en place d'un dispositif permettant d'assurer avec rigueur la mesure du temps de travail effectif.
 
@@ -2598,9 +2802,9 @@ Les règles et les modalités d'application dans les conditions prévues par la 
 
 Le système retenu, quel qu'il soit, doit permettre d'identifier clairement le temps de travail effectif, y compris les tranches exceptionnelles d'activité et les dépassements d'horaires, accomplis à la demande de la hiérarchie, pour les personnels assujettis à un horaire collectif ou individualisé.
 
-#### Chapitre VIII : Formation
+### Chapitre VIII : Formation
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre VIII : Formation — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Les efforts de perfectionnement et de formation professionnelle constituent une exigence forte pour les salariés de la branche. Cette exigence est partagée par l'entreprise pour continuer à assurer la qualité du service souhaité par la clientèle et nécessitée par l'évolution des techniques.
 
@@ -2620,9 +2824,9 @@ Des dispositions propres à l'entreprise ou à l'établissement peuvent être é
 
 (1) Alinéa étendu sous réserve de l'application de l'article L. 932-1 du code du travail (arrêté du 21 décembre 1999, art. 1er).
 
-#### Chapitre IX : Temps partiel
+### Chapitre IX : Temps partiel
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre IX : Temps partiel — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Les parties signataires conviennent qu'il est de la responsabilité de l'employeur de favoriser, dans toute la mesure du possible, le travail à temps partiel des salariés demandeurs. Les mêmes possibilités de promotion et de formation doivent notamment leur être garanties.
 
@@ -2634,9 +2838,9 @@ Par ailleurs, les parties signataires conviennent que les salariés à temps par
 
 (1) Alinéa exclu de l'extension (arrêté du 21 décembre 1999, art. 1er).
 
-#### Chapitre X : Droit à la déconnexion et obligation de déconnexion
+### Chapitre X : Droit à la déconnexion et obligation de déconnexion
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre X : Droit à la déconnexion et obligation de déconnexion — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Les salariés disposent d'un droit à la déconnexion. Conformément aux dispositions du code du travail, ce droit a pour objet d'assurer, d'une part, le respect des temps de repos et de congé et, d'autre part, le respect de la vie personnelle et familiale du salarié.
 
@@ -2654,9 +2858,9 @@ Une procédure peut également être créée afin d'alerter en cas d'utilisation
 
 Dans les entreprises de plus de 250 salariés, il est procédé à la nomination d'un référent à la déconnexion. Ce référent a pour rôle de sensibiliser les collaborateurs et les managers aux enjeux de la déconnexion, et de diffuser les bonnes pratiques de la connexion responsable. Le référent déconnexion est intégré à la procédure d'alerte visée ci-dessus. Les outils nécessaires à la réalisation de ses missions seront mis à disposition par la branche.
 
-#### Chapitre XI : Stipulations juridiques et administratives
+### Chapitre XI : Stipulations juridiques et administratives
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre XI : Stipulations juridiques et administratives — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Date d'effet.   Durée de l'accord
 
@@ -2686,15 +2890,17 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-#### Chapitre XII : Suivi de l'accord
+### Chapitre XII : Suivi de l'accord
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre XII : Suivi de l'accord — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Les parties confient à une commission paritaire la charge de procéder au suivi et au bilan du présent accord, dans le cadre du rapport prévu par l'article L. 2232-9 du code du travail. Plus largement, cette commission a pour objet d'éclairer ses membres sur les activités et les transformations du travail dans le cadre d'études prospectives, de réaliser le suivi et le bilan de l'exécution d'accords signés dans la branche, de favoriser le paritarisme au sein de la branche et de réaliser toute autre action y concourant. Les statuts de cette association garantissent l'équilibre paritaire quant à la gestion et à l'administration de la commission. Pour remplir sa fonction, elle bénéficie d'une collecte auprès des entreprises de la branche d'un montant égal à 0,2 ‰ de leur masse salariale.
 
-#### Annexes
+### Annexes
 
-##### Article Annexe 1
+#### Article Annexe 1
+
+> **Source :** Article Annexe 1 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Document d'aide au suivi de la charge de travail
 
@@ -2702,7 +2908,9 @@ Document d'aide au suivi de la charge de travail
 
  https://www.legifrance.gouv.fr/download/file/pdf/boc_20230003_0000_0029.pdf/BOCC
 
-##### Article Annexe 2
+#### Article Annexe 2
+
+> **Source :** Article Annexe 2 — Accord du 22 juin 1999 relatif à la durée du travail (application de la loi du 13 juin 1998).
 
 Modèle de documents de contrôle du temps de travail.   Forfait annuel en jours
 
@@ -2710,11 +2918,11 @@ Modèle de documents de contrôle du temps de travail.   Forfait annuel en jou
 
  https://www.legifrance.gouv.fr/download/file/pdf/boc_20230003_0000_0029.pdf/BOCC
 
-### Accord national du 5 juillet 2001 relatif à l'introduction des métiers de l'Internet
+## Accord national du 5 juillet 2001 relatif à l'introduction des métiers de l'Internet
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord national du 5 juillet 2001 relatif à l'introduction des métiers de l'Internet.
 
 Les organisations signataires du présent accord représentant les entreprises et les personnels compris dans le champ d'application de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils constatent chaque jour davantage que le développement du monde internet modifie les attentes et les demandes de leurs clients. Cette transformation de la demande implique de nouvelles compétences dans les entreprises mais aussi de nouvelles garanties pour les salariés relevant de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils.
 
@@ -2722,17 +2930,21 @@ Les organisations signataires du présent accord représentant les entreprises e
 
  C'est dans cette optique que le présent accord se donne pour objectif de faire reconnaître l'appartenance au champ conventionnel des entreprises exerçant, dans le cadre de prestations à forte valeur ajoutée, qu'il s'agisse de services ou de solutions logicielles, les métiers identifiés dans le présent accord et d'adapter les classifications conventionnelles aux métiers de l'internet. Cela permettra aux dispositifs conventionnels relatifs à l'insertion des jeunes par la formation en alternance ou à la délivrance de certificats de qualification professionnelle de s'appliquer aux métiers de l'internet.
 
-#### Champ d'application
+### Champ d'application
 
-##### Article 1er
+#### Article 1er
+
+> **Source :** Article 1er — Accord national du 5 juillet 2001 relatif à l'introduction des métiers de l'Internet.
 
 Le présent accord national est applicable aux entreprises comprises dans le champ d'application de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils du 15 décembre 1987, tel que défini par l'accord du 21 novembre 1995 tel qu'étendu par les arrêtés du 8 février 1996 et du 25 février 2000.
 
 Cet accord s'applique aux entreprises relevant des codes NAF 72. 1Z, 72. 2Z, 72. 3Z, 72. 4E, 74. 1E, 74. 1G, 74. 2C, 74. 3B, 74. 5A, 74. 8J et qui, conformément à l'article L. 132-5 du code du travail, répondent à la définition en termes d'activités économiques de la convention collective des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils telle qu'étendue par les arrêtés du 8 février 1996 et du 25 février 2000.
 
-#### Définition des métiers spécifiques à l'Internet donnant lieu à la reconnaissance d'une position au sein de la grille de classification
+### Définition des métiers spécifiques à l'Internet donnant lieu à la reconnaissance d'une position au sein de la grille de classification
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Accord national du 5 juillet 2001 relatif à l'introduction des métiers de l'Internet.
 
 Les métiers spécifiques décrits ci-dessous relèvent du champ de compétence de la branche, dès lors qu'ils sont exercés au sein d'une société dont l'activité principale est de fournir des services ou des solutions logicielles.
 
@@ -2754,11 +2966,15 @@ Les métiers spécifiques décrits ci-dessous relèvent du champ de compétence 
 
  Chef du projet web ou chef de projet internet : le chef de projet web encadre une équipe technique de salariés chargée de la conception d'un site Internet ou Intranet, il participe au choix de l'architecture, de l'arborescence et du contenu du site Internet ou Intranet à réaliser.
 
-#### Position au sein de la grille de classification des métiers spécifiques à l'Internet
+### Position au sein de la grille de classification des métiers spécifiques à l'Internet
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Accord national du 5 juillet 2001 relatif à l'introduction des métiers de l'Internet.
 
 Le tableau suivant indique la position, au sein de la grille de classification de la convention collective nationale, des métiers décrits à l'article 2 du présent accord.
+
+ 
 
 | ETAM | 2.2 | 2.3 | 3.1 | 3.2 | 3.3 |
 | --- | --- | --- | --- | --- | --- |
@@ -2768,7 +2984,9 @@ Le tableau suivant indique la position, au sein de la grille de classification d
 | Webmaster |  |  | X | X | X |
 | Concepteur multimédia |  |  | X | X | X |
 
-Pour le titulaire d'un diplôme de niveau III de l'éducation nationale, dans la profession considérée (BTS professionnel, par exemple), la position de départ se situe en 3.1.
+ Pour le titulaire d'un diplôme de niveau III de l'éducation nationale, dans la profession considérée (BTS professionnel, par exemple), la position de départ se situe en 3.1.
+
+ 
 
 | IC | 1.2 | 2.1 | 2.2 | 2.3 | 3.1 |
 | --- | --- | --- | --- | --- | --- |
@@ -2779,19 +2997,21 @@ Pour le titulaire d'un diplôme de niveau III de l'éducation nationale, dans la
 | Consultant net | X | X | X | X | X |
 | Chef de projet web |  |  | X | X | X |
 
-Pour le titulaire d'un diplôme de niveau I ou II de l'éducation nationale, dans la profession considérée, la position de départ de situe en 1.2.
+ Pour le titulaire d'un diplôme de niveau I ou II de l'éducation nationale, dans la profession considérée, la position de départ de situe en 1.2.
 
-#### Application de l'accord
+### Application de l'accord
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Accord national du 5 juillet 2001 relatif à l'introduction des métiers de l'Internet.
 
 Les parties conviennent de mettre cet accord en oeuvre dès sa signature. A l'issue d'une période de 1 an, elles se rencontreront pour en tirer les enseignements et proposer les éventuelles révisions.
 
  Les fédérations patronales présenteront l'accord au ministère concerné aux fins d'extension.
 
-### Avis d'interprétation du 18 avril 2002 relatif à l'accord du 5 juillet 2001 (domaine de l'Internet)
+## Avis d'interprétation du 18 avril 2002 relatif à l'accord du 5 juillet 2001 (domaine de l'Internet)
 
-#### Article (préambule / sans numéro)
+> **Source :** Avis d'interprétation du 18 avril 2002 relatif à l'accord du 5 juillet 2001 (domaine de l'Internet) — Avis d'interprétation du 18 avril 2002 relatif à l'accord du 5 juillet 2001 (domaine de l'Internet).
 
 Sur le champ d'application conventionnel de l'accord national du 5 juillet 2001 relatif à l'introduction des métiers de l'Internet dans le dispositif des classifications de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseil du 15 décembre 1987, la commission nationale d'interprétation, saisie aux fins de se prononcer sur l'article 1er « Champ d'application », a émis l'avis qui suit à l'unanimité des signataires de l'accord initial :
 
@@ -2819,11 +3039,11 @@ Le présent avis sera annexé à l'accord national du 5 juillet 2001.
 
 Fait à Paris, le 18 avril 2002.
 
-### Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès
+## Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 Les entreprises, définies dans l'avenant n° 23 du 15 avril 1999, étendu par arrêté ministériel le 25 février 2000, entrent désormais dans le champ d'application de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils.
 
@@ -2837,9 +3057,9 @@ Les partenaires sociaux souhaitent, dans le cadre du présent avenant, harmonise
 
 Ainsi, il a été arrêté et convenu ce qui suit :
 
-#### Chapitre Ier : Durée du travail
+### Chapitre Ier : Durée du travail
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre Ier : Durée du travail — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 1. Travail du dimanche
 
@@ -2923,9 +3143,9 @@ Le contingent d'heures supplémentaires non soumis à autorisation de l'inspecte
 
 (6) Termes exclus de l'extension (arrêté du 15 novembre 2001, art. 1er).
 
-#### Chapitre II (1) : Contrat de travail à temps partiel modulé
+### Chapitre II (1) : Contrat de travail à temps partiel modulé
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre II (1) : Contrat de travail à temps partiel modulé — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 Compte tenu de la variation d'activité des entreprises en cours d'année (du fait des manifestations), la durée hebdomadaire ou mensuelle des salariés à temps partiel peut varier sur tout ou partie de l'année, sous réserve que la durée hebdomadaire ou mensuelle n'excède pas en moyenne sur 1 an la durée stipulée au contrat.
 
@@ -2957,9 +3177,9 @@ Sur l'année, l'horaire moyen effectué doit être l'horaire moyen de référenc
 
 (1) Chapitre étendu sous réserve qu'en application des dispositions de l'article L. 212-4-6 du code du travail, un accord complémentaire de branche étendu ou d'entreprise détermine, d'une part, les modalités selon lesquelles le programme indicatif de la durée du travail est communiqué par écrit aux salariés et, d'autre part, les conditions dans lesquelles les horaires de travail sont notifiés par écrit aux salariés (arrêté du 15 novembre 2001, art. 1er).
 
-#### Chapitre III : Contrat d'intervention à durée déterminée (article L. 122-1-1, 3e alinéa, du code du travail)
+### Chapitre III : Contrat d'intervention à durée déterminée (article L. 122-1-1, 3e alinéa, du code du travail)
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre III : Contrat d'intervention à durée déterminée (article L. 122-1-1, 3e alinéa, du code du travail) — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 Définition
 
@@ -3015,9 +3235,9 @@ En cas d'acceptation, le collaborateur s'engage à fournir aussi à l'employeur 
 
 (1) Phrase exclue de l'extension (arrêté du 15 novembre 2001, art. 1er).
 
-#### Chapitre IV : Travail intermittent
+### Chapitre IV : Travail intermittent
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre IV : Travail intermittent — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 Conformément à l'article L. 212-4-12, des contrats de travail intermittent pourront être mis en place dans les emplois correspondant à des tâches récurrentes liées à la tenue des manifestations (préparation du matériel, montage, déroulement, démontage, opérations exceptionnelles) et souvent effectuées par des personnels peu qualifiés (coefficient inférieur à 275) (1).
 
@@ -3087,9 +3307,9 @@ En cas de parution du décret relatif au travail intermittent et concernant le s
 
 (2) Termes exclus de l'extension (arrêté du 15 novembre 2001, art. 1er).
 
-#### Chapitre V : Application de la classification de la convention collective aux salariés des organisateurs de foires et salons
+### Chapitre V : Application de la classification de la convention collective aux salariés des organisateurs de foires et salons
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre V : Application de la classification de la convention collective aux salariés des organisateurs de foires et salons — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 Cette classification a pour objet d'harmoniser les pratiques et de rendre effective la classification actuelle de la convention collective qui ne répond pas en l'état aux typologies d'emplois rencontrés chez les organisateurs des foires et salons. Ainsi, la grille en annexe a pour objectifs :
 
@@ -3101,9 +3321,9 @@ Cette classification a pour objet d'harmoniser les pratiques et de rendre effect
 
  Les positions et les coefficients de la grille de classification sont ceux de la convention collective SYNTEC. La détermination des salaires minimaux se fait selon la méthode et avec les mêmes éléments de base que ceux prévus dans la convention collective SYNTEC.
 
-#### Chapitre VI : Commission paritaire nationale de suivi et d'interprétation
+### Chapitre VI : Commission paritaire nationale de suivi et d'interprétation
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre VI : Commission paritaire nationale de suivi et d'interprétation — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 Les partenaires sociaux décident de la mise en place au niveau national d'une commission paritaire de suivi du présent accord.
 
@@ -3113,9 +3333,9 @@ Les partenaires sociaux décident de la mise en place au niveau national d'une c
 
  A cet effet, la commission se réunira une fois par an afin d'établir un bilan de l'application du présent accord, de recueillir ses difficultés d'application et, le cas échéant, de trancher toutes questions pouvant être soulevées.
 
-#### Chapitre VII : Durée de l'accord  - Révision  - Dénonciation
+### Chapitre VII : Durée de l'accord - Révision - Dénonciation
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre VII : Durée de l'accord - Révision - Dénonciation — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 1. Durée de l'accord.-Dépôt
 
@@ -3127,15 +3347,17 @@ Il sera déposé par la partie la plus diligente conformément à l'article L. 1
 
 Les conditions de révision de dénonciation du présent accord sont régies par les articles 81 et 82 de la convention collective nationale.
 
-#### Annexe
+### Annexe
 
-##### Grilles de classification -cadres
+#### Grilles de classification -cadres
 
-###### Article (préambule / sans numéro)
+> **Source :** Grilles de classification -cadres — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 Grille de classification
 
 Cadres
+
+ 
 
 | POSITION IC | COEFFICIENT | FONCTIONS |
 | --- | --- | --- |
@@ -3148,9 +3370,9 @@ Cadres
 | 3.2 | 210 | Très larges initiatives et responsabilités. Oriente et contrôle le travail de ses subordonnés (cadres et non-cadres). |
 | 3.3 | 270 | Très larges initiatives et responsabilités. Grandes compétences techniques et administratives. Coordination de plusieurs services. Management général. |
 
-##### Grille de classification du collège cadre
+#### Grille de classification du collège cadre
 
-###### Article (préambule / sans numéro)
+> **Source :** Grille de classification du collège cadre — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 | POSITION | 1.1 | 1.2 | 2.1 | 2.2 | 2.3 | 3.1 | 3.2 | 3.3 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3176,6 +3398,8 @@ Cadres
 | Marketing |  |  |  | X | X | X | X | X |
 | Technique/logistique |  |  |  |  | X | X | X | X |
 
+ 
+
 | POSITION | 1.1 | 1.2 | 2.1 | 2.2 | 2.3 | 3.1 | 3.2 | 3.3 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coefficient | 95 | 100 | 105/115 | 130 | 150 | 170 | 210 | 270 |
@@ -3193,6 +3417,8 @@ Cadres
 | Chef comptable |  |  |  | X | X | X | X | X |
 | Comptable | X | X | X | X | X |  |  |  |
 
+ 
+
 | POSITION | 1.1 | 1.2 | 2.1 | 2.2 | 2.3 | 3.1 | 3.2 | 3.3 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coefficient | 95 | 100 | 105/115 | 130 | 150 | 170 | 210 | 270 |
@@ -3201,6 +3427,8 @@ Cadres
 | Juriste | X | X | X | X | X |  |  |  |
 | Cadres communication |  |  |  |  |  |  |  |  |
 | Attaché de presse | X | X | X | X | X |  |  |  |
+
+ 
 
 | POSITION | 1.1 | 1.2 | 2.1 | 2.2 | 2.3 | 3.1 | 3.2 | 3.3 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3215,6 +3443,8 @@ Cadres
 | Chef de sécurité | X | X | X | X |  |  |  |  |
 | Chef d'atelier |  | X | X | X |  |  |  |  |
 
+ 
+
 | POSITION | 1.1 | 1.2 | 2.1 | 2.2 | 2.3 | 3.1 | 3.2 | 3.3 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Coefficient | 95 | 100 | 105/115 | 130 | 150 | 170 | 210 | 270 |
@@ -3227,9 +3457,9 @@ Cadres
 | Responsable de régie |  |  |  |  | X | X |  |  |
 | Administrateur de salles |  | X | X | X |  |  |  |  |
 
-##### Ouvriers, employés, techniciens, agents de maîtrise
+#### Ouvriers, employés, techniciens, agents de maîtrise
 
-###### Article (préambule / sans numéro)
+> **Source :** Ouvriers, employés, techniciens, agents de maîtrise — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 | NIVEAU deformation àtitre de référence | POSITIONS ETAM | COEFFICIENT | FONCTIONS |
 | --- | --- | --- | --- |
@@ -3244,9 +3474,9 @@ Cadres
 | III | 3.2 | 450 | Le collaborateur maîtrise le mode de résolution d'un nombre important et varié de problèmes complets traités à l'aide de techniques, méthodes ou procédés dont il possède la pratique. |
 | III | 3.3 | 500 | En plus de 3.2, le collaborateur se doit de s'adapter à des problèmes techniques nouveaux. |
 
-##### Grille de classification du collège ETAM
+#### Grille de classification du collège ETAM
 
-###### Article (préambule / sans numéro)
+> **Source :** Grille de classification du collège ETAM — Accord du 5 juillet 2001 relatif au statut des salariés du secteur d'activité d'organisation des foires, salons et congrès.
 
 |  |  |  |  |  |  |  |  |  |  |  | ASSIMILES CADRES |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
@@ -3329,6 +3559,8 @@ Cadres
 | Relations publiques |  |  |  |  |  |  |  |  |  |  |  |  |
 | Chargé de presse |  |  |  |  |  |  |  |  |  |  |  |  |
 
+ 
+
 |  |  |  |  |  |  |  |  |  |  |  | ASSIMILES CADRES |  |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | Position | 1.1 | 1.2 | 1.3.1 | 1.3.2 | 1.4.1 | 1.4.2 | 2.1 | 2.2 | 2.3 | 3.1 | 3.2 | 3.3 |
@@ -3362,9 +3594,9 @@ Cadres
 | Cuisinier |  |  |  | X | X | X | X | X |  |  |  |  |
 | Maître d'hôtel |  |  |  | X | X | X | X | X |  |  |  |  |
 
-### Avenant n° 1 du 28 novembre 2002 à l'accord du 27 mai 2002 relatif à la cessation d'activité de certains travailleurs salariés
+## Avenant n° 1 du 28 novembre 2002 à l'accord du 27 mai 2002 relatif à la cessation d'activité de certains travailleurs salariés
 
-#### Article (préambule / sans numéro)
+> **Source :** Avenant n° 1 du 28 novembre 2002 à l'accord du 27 mai 2002 relatif à la cessation d'activité de certains travailleurs salariés — Avenant n° 1 du 28 novembre 2002 à l'accord du 27 mai 2002 relatif à la cessation d'activité de certains travailleurs salariés.
 
 Considérant le courrier du 5 août 2002 adressé à la fédération SYNTEC par la direction des relations du travail du ministère des affaires sociales, du travail et de la solidarité, concluant à l'inutilité d'une mesure d'extension de l'accord du 27 mai 2002, les organisations professionnelles d'employeurs et les syndicats de salariés conviennent de modifier l'article 7 de cet accord, dont la nouvelle rédaction devient :
 
@@ -3376,11 +3608,11 @@ Le présent accord entre en vigueur à la date de signature pour les entreprises
 
 Il cesse ses effets de plein droit au 28 février 2005 ; aucune entrée ne sera possible dans ce dispositif au-delà de cette date, au titre du présent accord.»
 
-### Avenant du 28 juillet 2003 relatif au financement de l'OPIIEC
+## Avenant du 28 juillet 2003 relatif au financement de l'OPIIEC
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant du 28 juillet 2003 relatif au financement de l'OPIIEC.
 
 Les fédérations patronales SYNTEC et CICF, d'une part, les organisations de salariés signataires, d'autre part, ont la volonté de doter la branche d'un outil d'observation des métiers et des compétences, dont l'évolution doit contribuer à l'anticipation des besoins en matière de formation et au développement de la qualification et de l'emploi pour les métiers de l'ingénierie, de l'informatique, des études et du conseil dans le cadre du dialogue social de la branche.
 
@@ -3406,7 +3638,9 @@ Le présent accord reprend les dispositions :
 
 - et de la délibération du conseil d'administration du FAFIEC du 26 mars 2003.
 
-#### Article 1er
+### Article 1er
+
+> **Source :** Article 1er — Avenant du 28 juillet 2003 relatif au financement de l'OPIIEC.
 
 Réunis au sein de la commission paritaire de la convention collective nationale (CPCCN), les fédérations patronales SYNTEC et CICF, d'une part, les organisations de salariés CFDT, CGC, CFTC et CGT, d'autre part, approuvent la décision de la CPNE réunie le 20 mars 2003 de mandater le conseil d'administration de l'OPIIEC pour assurer en son nom et pour son compte la mission de pilotage du projet DSIIEC et de ses prolongements, l'OPIIEC agissant donc en qualité de maître d'oeuvre.
 
@@ -3420,21 +3654,27 @@ Réunis au sein de la commission paritaire de la convention collective nationale
 
  Le FAFIEC rendra compte trimestriellement à la CPNE et à l'OPIIEC pour ce qui les concerne.
 
-#### Article 2
+### Article 2
+
+> **Source :** Article 2 — Avenant du 28 juillet 2003 relatif au financement de l'OPIIEC.
 
 Cet accord n'entraînant pas d'obligation particulière pour les entreprises de la branche, la prise d'une mesure d'extension n'est pas nécessaire. Il sera cependant procédé aux formalités de dépôt auprès du ministère des affaires sociales dans les conditions habituelles.
 
-### Avenant du 28 avril 2004 relatif aux dispositions financières du travail du dimanche et des jours fériés
+## Avenant du 28 avril 2004 relatif aux dispositions financières du travail du dimanche et des jours fériés
 
-#### Périmètre d'application
+### Périmètre d'application
 
-##### Article 1er
+#### Article 1er
+
+> **Source :** Article 1er — Avenant du 28 avril 2004 relatif aux dispositions financières du travail du dimanche et des jours fériés.
 
 Les présentes dispositions s'appliquent aux entreprises de code NAF 72.1Z, 72.2A, 72.2C, 72.3Z, 72.4Z et exclusivement au personnel indispensable aux prestations d'Infogérance, de tierce maintenance applicative (TMA) et aux prestations nécessitant des bascules informatiques, amené à travailler un dimanche ou un jour férié pour des raisons de continuité de service au client.
 
-#### Dispositions financières
+### Dispositions financières
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Avenant du 28 avril 2004 relatif aux dispositions financières du travail du dimanche et des jours fériés.
 
 a) Pour les salariés dont le temps de travail est décompté selon la modalité " réalisation de mission avec autonomie complète " au sens du chapitre II, article 4, de l'accord national du 22 juin 1999 sur la durée du travail :
 
@@ -3448,17 +3688,19 @@ Pour ces salariés, les heures ainsi effectuées sont rémunérées, augmentées
 
 Cette majoration peut prendre, au choix du salarié, la forme d'une compensation pécuniaire à hauteur de 100 % du taux horaire du salarié concerné ou d'un repos accordé dans la même proportion de 100 %.
 
-#### Entrée en vigueur
+### Entrée en vigueur
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Avenant du 28 avril 2004 relatif aux dispositions financières du travail du dimanche et des jours fériés.
 
 Les dispositions du présent accord entreront en vigueur dès publication au Journal officiel du texte réglementaire autorisant le travail du dimanche.
 
 Le présent accord sera déposé, conformément à l'article L. 132-10 du code du travail, à la direction départementale du travail et de l'emploi de Paris, et présenté à l'extension auprès du ministère des relations du travail.
 
-### Avenant du 28 avril 2004 relatif au travail exceptionnel du dimanche et des jours fériés (art. 35)
+## Avenant du 28 avril 2004 relatif au travail exceptionnel du dimanche et des jours fériés (art. 35)
 
-#### Article (préambule / sans numéro)
+> **Source :** Avenant du 28 avril 2004 relatif au travail exceptionnel du dimanche et des jours fériés (art. 35) — Avenant du 28 avril 2004 relatif au travail exceptionnel du dimanche et des jours fériés (art. 35).
 
 Chapitre Ier
 
@@ -3472,59 +3714,71 @@ Entrée en vigueur
 
 Les dispositions du présent accord entreront en vigueur dès sa signature pour les entreprises qui adhèrent à une organisation professionnelle représentative du champ conventionnel et le 1er jour du mois civil suivant la publication de l'arrêté ministériel d'extension pour les autres entreprises.
 
-### Accord du 22 février 2005 relatif  aux disponibilités du plan de formation des entreprises employant au minimum 10 salariés
+## Accord du 22 février 2005 relatif aux disponibilités du plan de formation des entreprises employant au minimum 10 salariés
 
-#### Article (préambule / sans numéro)
+> **Source :** Accord du 22 février 2005 relatif aux disponibilités du plan de formation des entreprises employant au minimum 10 salariés — Accord du 22 février 2005 relatif aux disponibilités du plan de formation des entreprises employant au minimum 10 salariés.
 
 En application des dispositions de l'article R. 952-4 du code du travail, les parties signataires du présent accord décident qu'une partie des disponibilités de l'OPCA en 2005, au titre du plan de formation des entreprises employant au minimum 10 salariés, pourra être affectée à la prise en charge de dépenses de formation conduites au titre du plan de formation pour les salariés d'entreprises occupant moins de 10 salariés.
 
 Après l'avis favorable de la commission paritaire nationale de l'emploi émis le 10 février 2005, le conseil d'administration du FAFIEC décide du montant de cette affectation pour l'exercice 2005, à hauteur des besoins relatifs à la couverture des engagements du capital de temps de formation (CTF) et du plan de formation des entreprises de moins de 10 salariés, constatés à la date du 31 décembre 2004.
 
-### Accord du 31 mars 2005 portant abrogation de 2 accords formation
+## Accord du 31 mars 2005 portant abrogation de 2 accords formation
 
-#### Accord national du 13 juillet 2001 relatif au capital temps-formation
+### Accord national du 13 juillet 2001 relatif au capital temps-formation
 
-##### Article 1
+#### Article 1
+
+> **Source :** Article 1 — Accord national du 13 juillet 2001 relatif au capital temps-formation.
 
 L'accord national du 18 février 1999 sur l'insertion des jeunes par la formation en alternance est abrogé.
 
-#### Accord national du 18 février 1999 sur l'insertion des jeunes par la formation en alternance
+### Accord national du 18 février 1999 sur l'insertion des jeunes par la formation en alternance
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Accord national du 18 février 1999 sur l'insertion des jeunes par la formation en alternance.
 
 L'accord national du 13 juillet 2001 relatif au capital temps-formation est abrogé.
 
-#### Entrée en vigueur
+### Entrée en vigueur
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Accord du 31 mars 2005 portant abrogation de 2 accords formation.
 
 Le présent accord entre en vigueur dès sa signature.
 
-### Avenant n° 34 du 15 juin 2007 relatif à la classification et aux salaires ETAM pour les années 2007 et 2008
+## Avenant n° 34 du 15 juin 2007 relatif à la classification et aux salaires ETAM pour les années 2007 et 2008
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 34 du 15 juin 2007 relatif à la classification et aux salaires ETAM pour les années 2007 et 2008.
 
 Le présent avenant a pour objet, d'une part, de réviser les premières positions ETAM et, d'autre part, de déterminer les salaires minimaux conventionnels des ETAM.
 
-#### Révision de la grille de classification ETAM
+### Révision de la grille de classification ETAM
 
-##### Article 1
+#### Article 1
+
+> **Source :** Article 1 — Avenant n° 34 du 15 juin 2007 relatif à la classification et aux salaires ETAM pour les années 2007 et 2008.
 
 Il est convenu par le présent avenant, à compter de sa date d'entrée en vigueur, la suppression des 2 premiers niveaux d'entrée de la grille de classification ETAM de la convention collective nationale (positions 1.1 et 1.2 ; coefficients respectifs 200 et 210).
  Aussi, à compter de la date d'entrée en vigueur du présent avenant, le niveau d'entrée dans la grille de classification ETAM de la convention collective nationale se situe désormais à la position 1.3.1 (coefficient 220).
  Par voie de conséquence, tous les salariés ayant antérieurement à la date d'entrée en vigueur du présent avenant une position 1.1 et 1.2 bénéficient d'une requalification à la position 1.3.1 (coefficient 220).
 
-#### Fixation des minima conventionnels ETAM à compter du 1er juillet 2008
+### Fixation des minima conventionnels ETAM à compter du 1er juillet 2008
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Avenant n° 34 du 15 juin 2007 relatif à la classification et aux salaires ETAM pour les années 2007 et 2008.
 
 A compter du 1er juillet 2008, les salaires minima conventionnels seront déterminés selon la formule suivante :
 Salaire minimum conventionnel = partie fixe + (valeur du point ETAM × coefficient de la position).
 La valeur du point est fixée à compter du 1er juillet 2008 à 2,66 Euros brut et la partie fixe à 734 Euros brut ; les minima conventionnels découlant de l'application de la formule ETAM s'établissent pour toutes les entreprises de la branche, adhérentes ou non à une organisation patronale, aux valeurs suivantes :
 
 Minima conventionnels à compter du 1er juillet 2008
+
+ 
 
 | POSITION | COEFFICIENT | SALAIRE MINIMUM BRUT |
 | --- | --- | --- |
@@ -3541,15 +3795,19 @@ Minima conventionnels à compter du 1er juillet 2008
 
 Cette fixation de la valeur du point et de la partie fixe à compter du 1er juillet 2008 pourra être complétée notamment lors des négociations annuelles obligatoires entre les partenaires sociaux sur les minima conventionnels au titre de l'année 2008.
 
-#### Dispositions transitoires relatives à la période courant de la date d'entrée en vigueur du présent avenant au 30 juin 2008
+### Dispositions transitoires relatives à la période courant de la date d'entrée en vigueur du présent avenant au 30 juin 2008
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Avenant n° 34 du 15 juin 2007 relatif à la classification et aux salaires ETAM pour les années 2007 et 2008.
 
 Afin de faciliter la réintégration des positions ETAM de 1.3.1 à 1.4.2 (coefficients de 220 à 250) dans la formule générale des minima conventionnels, les valeurs des minima conventionnels ETAM sont arrêtés à compter de la date d'entrée en vigueur du présent avenant et jusqu'au 30 juin 2008, conformément au tableau suivant :
 
 Minima conventionnels du 1er juillet 2007 au 30 juin 2008
 
 (En euros.)
+
+ 
 
 | POSITION | COEFFICIENT | SALAIRE MINIMUM BRUT |
 | --- | --- | --- |
@@ -3564,23 +3822,27 @@ Minima conventionnels du 1er juillet 2007 au 30 juin 2008
 | 3.2 | 450 | 1 916 |
 | 3.3 | 500 | 2 064 |
 
-#### Dispositions diverses
+### Dispositions diverses
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Avenant n° 34 du 15 juin 2007 relatif à la classification et aux salaires ETAM pour les années 2007 et 2008.
 
 Les parties signataires conviennent de se revoir dès le 2e trimestre de l'année 2008 afin de démarrer les négociations annuelles obligatoires sur les salaires minima conventionnels au titre de l'année 2008.
 
-#### Date d'application
+### Date d'application
 
-##### Article 5
+#### Article 5
+
+> **Source :** Article 5 — Avenant n° 34 du 15 juin 2007 relatif à la classification et aux salaires ETAM pour les années 2007 et 2008.
 
 Les dispositions du présent avenant entreront en vigueur au 1er jour du mois civil suivant la date de publication de l'arrêté ministériel d'extension du présent avenant au Journal officiel pour l'ensemble des entreprises de la branche entrant dans le champ d'application transitoire de la convention collective nationale tel que défini par l'accord du 21 novembre 1995 (Journal officiel du 21 février 1996).
 
-### Accord du 15 novembre 2007 relatif au portage salarial
+## Accord du 15 novembre 2007 relatif au portage salarial
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 15 novembre 2007 relatif au portage salarial.
 
 Le présent accord a vocation à régir les relations de travail, collectives et individuelles, qui lient les entreprises adhérentes du CICF-SNEPS (syndicat national des entreprises de portage salarial) à leur personnel, qu'il s'agisse du personnel consultant ou, sur certains points, des salariés des services fonctionnels.
 Les entreprises adhérentes du CICF-SNEPS peuvent dispenser tout type de prestation de nature intellectuelle. Le présent accord ne s'applique qu'aux activités qui entrent dans le champ d'application de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987.
@@ -3588,9 +3850,9 @@ Pour ces activités, les entreprises adhérentes du CICF-SNEPS déclarent appliq
 Compte tenu, en particulier, du fait que l'activité des consultants est exercée le plus souvent hors des locaux de l'entreprise, les partenaires sociaux signataires du présent accord ont souhaité inscrire les modes d'organisation du travail en portage salarial dans le cadre des dispositions de l'accord national interprofessionnel du 19 juillet 2005 sur le télétravail, annexé au présent accord (annexe I).
 Les parties signataires tiennent par ailleurs à préciser que les modes d'organisation du travail en portage salarial, tels que définis au présent accord, sont conformes au cahier des charges arrêté par l'OPPS (observatoire paritaire du portage salarial) pour ce type d'activité.
 
-#### Mode d'organisation en portage salarial
+### Mode d'organisation en portage salarial
 
-##### Article (préambule / sans numéro)
+> **Source :** Mode d'organisation en portage salarial — Accord du 15 novembre 2007 relatif au portage salarial.
 
 L'entreprise organisée en portage salarial (EPS) a pour activité de fournir à ses clients des prestations de services de nature intellectuelle, en rapport avec les compétences de ses consultants. Elle doit apporter toute assistante utile aux consultants dans la négociation et la réalisation des contrats de prestations de services, procéder à la rédaction et à la validation de ces derniers.
 Les consultants de l'EPS ont, pour leur part, selon les directives, le contrôle et, dans les limites arrêtées par cette dernière, un rôle commercial (la prospection de missions) et technique (la réalisation des missions dans leurs domaines d'expertise). Ils sont astreints à une obligation stricte de rendre compte de leur activité, notamment par communication d'un compte rendu mensuel d'activité soumis à l'approbation de l'EPS. Ce compte rendu mensuel d'activité a pour objet de permettre à l'EPS d'exercer un suivi et un contrôle de l'activité du consultant. Elle n'exclut pas, le cas échéant, tout autre mode de contrôle que l'EPS souhaiterait mettre en place.
@@ -3617,9 +3879,9 @@ Ils ont en charge la prospection de nouvelles missions dans le respect des règl
 Les consultants s'obligent par ailleurs à tout mettre en oeuvre, compte tenu de leurs compétences, pour procéder à la bonne réalisation des missions qui leur sont confiées jusqu'à leur terme. Si une difficulté, de quelque nature que ce soit, survient pendant la phase de réalisation des missions, les consultants doivent en avertir l'EPS sans délai, afin que toute mesure utile puisse être mise en oeuvre par cette dernière, dans le respect des engagements contractuels à l'égard du client.
 Les consultants doivent, dans les relations commerciales, faire mention que leur activité est réalisée dans le cadre de l'EPS et que cette dernière est seule compétente pour valider le contrat de prestation de services. Ils devront par ailleurs s'assurer, conjointement avec l'EPS, que la mission projetée entre effectivement dans leur champ d'expertise.
 
-#### Processus de recrutement et entrée en activité
+### Processus de recrutement et entrée en activité
 
-##### Article (préambule / sans numéro)
+> **Source :** Processus de recrutement et entrée en activité — Accord du 15 novembre 2007 relatif au portage salarial.
 
 Le processus de recrutement mis en oeuvre par l'EPS doit comporter les étapes suivantes :
 ― information des candidats sur le mode de fonctionnement de l'entreprise et les engagements respectifs des parties (réunions d'information, rendez-vous personnalisés, etc.) ;
@@ -3633,31 +3895,31 @@ L'EPS s'engage par ailleurs, avant la signature du contrat de travail, à transm
 ― la nature des activités couvertes et le montant des garanties de son contrat d'assurance de responsabilité civile professionnelle ;
 ― le fonctionnement précis du compte d'activité, notamment en ce qui concerne les frais imputés sur ce compte.
 
-#### Titre Ier : Représentation du personnel
+### Titre Ier : Représentation du personnel
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre Ier : Représentation du personnel — Accord du 15 novembre 2007 relatif au portage salarial.
 
 Le droit de la représentation du personnel constitue la voie légale et légitime d'expression des salariés. A cet effet, les entreprises visées par le présent accord s'engagent à faciliter l'exercice de cette expression, dans le respect des règles légales et des dispositions qui suivent.
 
-##### 1. Exercice du droit syndical
+#### 1. Exercice du droit syndical
 
-###### Article (préambule / sans numéro)
+> **Source :** 1. Exercice du droit syndical — Accord du 15 novembre 2007 relatif au portage salarial.
 
 L'EPS devra permettre l'exercice du droit syndical au bénéfice de l'ensemble de son personnel. Pour remplir au mieux leur mission, les délégués syndicaux valablement désignés disposeront des moyens instaurés à leur bénéfice par la loi : heures de délégation, liberté de déplacement, diffusion de tracts.
 Les heures de délégation des délégués syndicaux, lorsqu'ils sont consultants, seront rémunérées sur la base du taux journalier (horaire) moyen des 12 derniers mois pour les consultants tels que définis à l'article II.2.6, et les frais de déplacement seront remboursés, sur justificatifs, sur la base des règles définis par l'entreprise pour le remboursement des frais professionnels.
 Les entreprises visées par le présent accord s'engagent également à habiliter les délégués syndicaux à utiliser les nouvelles technologies de l'information disponibles au sein de l'entreprise en permettant notamment aux délégués syndicaux d'utiliser la messagerie de l'entreprise et de réserver un espace aux organisations syndicales sur son site intranet. Les modalités d'utilisation de ces moyens pourront être, si nécessaire, précisées par un accord d'entreprise.
 
-##### 2. Délégués du personnel et comité d'entreprise
+#### 2. Délégués du personnel et comité d'entreprise
 
-###### Article (préambule / sans numéro)
+> **Source :** 2. Délégués du personnel et comité d'entreprise — Accord du 15 novembre 2007 relatif au portage salarial.
 
 La représentation des salariés par les délégués du personnel et aux comités d'entreprise est régie par les dispositions légales en vigueur. Les heures de délégation des représentants élus du personnel, lorsqu'ils sont consultants, seront rémunérées sur la base du taux journalier (horaire) moyen des 12 derniers mois pour consultants tels que définis à l'article II.2.6, et les frais de déplacement seront remboursés, sur justificatifs, sur la base des règles définis par l'entreprise pour le remboursement des frais professionnels.
 Compte tenu des spécificités des EPS qui sont composées, d'une part, de consultants et, d'autre part, d'équipes fonctionnelles, dont le mode d'organisation du travail sont spécifiques (cf. supra), le découpage en collèges électoraux est dérogatoire par rapport au code du travail afin de garantir à ces deux catégories de personnel une représentation au sein des instances de représentation du personnel.
 Par ailleurs, compte tenu du fait que les consultants sont des télétravailleurs, l'EPS s'engage à mettre tout en oeuvre pour faciliter le vote à distance de ceux-ci, notamment par la mise en place du vote par correspondance et du vote électronique, dans le respect des dispositions légales prévues pour cette modalité de vote.
 
-##### 3. Conseiller technique
+#### 3. Conseiller technique
 
-###### Article (préambule / sans numéro)
+> **Source :** 3. Conseiller technique — Accord du 15 novembre 2007 relatif au portage salarial.
 
 Les entreprises du CICF-SNEPS ainsi que la fédération CICF s'engagent à prendre en charge, dès la signature de la présente convention, le financement d'un conseiller technique par organisation syndicale signataire sur la base d'un montant annuel correspondant à 45 jours de la rémunération chargée d'un consultant positionné au coefficient 3. 1 de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987. Ce financement sera mutualisé entre les différentes entreprises du CICF-SNEPS à hauteur de 45 % et de la fédération CICF à hauteur de 55 %.
 Le choix du conseiller technique relève d'une décision de l'organisation syndicale, qui sera notifié au CICF-SNEPS par courrier avec accusé de réception. Lorsque l'organisation syndicale décide de mettre un terme au mandat du conseiller technique, elle devra en informer le CICF-SNEPS par les mêmes moyens.
@@ -3688,22 +3950,22 @@ Elle peut décider d'entendre contradictoirement ou séparément les parties int
 Si une conciliation intervient, les engagements des parties sont consignés immédiatement sur un procès-verbal de conciliation.
 En cas d'échec de la tentative de conciliation, un procès-verbal de non-conciliation reprenant les positions respectives des parties sera établi et adressé au plus tard dans les 15 jours suivant la réunion, chacun recouvrant alors sa liberté d'utiliser les voies de droit qui lui sont ouvertes.
 
-#### Titre II : Relations individuelles de travail
+### Titre II : Relations individuelles de travail
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre II : Relations individuelles de travail — Accord du 15 novembre 2007 relatif au portage salarial.
 
 Au sein des EPS coexistent deux types de relations individuelles de travail pouvant être qualifiés respectivement de « fonctionnel » et d'« opérationnel ».
  Dans les deux cas, l'existence d'un lien de subordination est avérée mais se caractérise par des modes d'expression différents.
  La catégorie du personnel dit fonctionnel englobe les salariés des services supports techniques, administratifs, financiers ou informatiques. Le lien de subordination se concrétise ici par la possibilité d'un contrôle quantitatif et qualitatif du travail effectué dans un lieu de travail principal prédéterminé et fixe (ce qui n'exclut pas des déplacements professionnels occasionnels).
  La catégorie du personnel dit opérationnel vise les consultants de l'EPS, qui assurent, comme cela a déjà été souligné, une fonction de prospection commerciale et de réalisation de missions. Le lien de subordination s'exerce ici dans des conditions de forte autonomie.
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre II : Relations individuelles de travail — Accord du 15 novembre 2007 relatif au portage salarial.
 
 1. Dispositions applicables au personnel fonctionnel
 
 Les contrats de travail du personnel concerné ne présentent pas de réelles spécificités. Ils sont soumis respectivement à la loi, à la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 et au présent accord collectif.
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre II : Relations individuelles de travail — Accord du 15 novembre 2007 relatif au portage salarial.
 
 2. Dispositions applicables aux consultants
 
@@ -3785,9 +4047,9 @@ Un congé sans solde d'une durée maximale de 1 an peut être accordé par l'emp
 
 Dans le cadre défini pour chaque mission, le consultant dispose d'une grande liberté pour effectuer sa tâche. Il doit néanmoins respecter les obligations qui découlent des instructions données par l'EPS et des exigences particulières des missions. Dans cet esprit, en cas d'empêchement (ou de contraintes) à remplir ses fonctions, quelle qu'en soit la cause, le consultant s'oblige à en informer aussitôt sa société. L'employeur se réserve la faculté de procéder à des inspections et contrôles pour vérifier les conditions d'exécution du travail, au cours des missions ou après leurs achèvements. Un consultant qui, après avoir accepté une proposition de mission, se trouve dans l'impossibilité de mener celle-ci à bien en raison d'un empêchement, doit en avertir l'employeur dans les 48 heures et en apporter la justification. En dehors de ces hypothèses, l'inexécution d'une mission dans les délais impartis pourra être considérée comme un manquement à ses obligations contractuelles.
 
-#### Titre IV : Dispositions finales
+### Titre IV : Dispositions finales
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre IV : Dispositions finales — Accord du 15 novembre 2007 relatif au portage salarial.
 
 Le présent accord collectif est conclu pour une période de 2 ans susceptible de renouvellement par tacite reconduction, sauf volonté de l'une des parties, matérialisée par une lettre recommandée avec accusé de réception notifiée à l'autre partie, à la DDTEFP et au secrétariat-greffe du conseil de prud'hommes, au moins 3 mois avant le terme des 2 ans, de ne pas vouloir prolonger l'application de cet accord. L'accord cessera alors de s'appliquer, sans être transformé en accord à durée indéterminée.
 
@@ -3820,18 +4082,20 @@ Le présent accord est établi en 7 exemplaires et déposé :
 ― un exemplaire destiné au secrétariat du conseil de prud'hommes de Paris.
 Un exemplaire de cet accord sera tenu à la disposition du personnel des entreprises adhérentes au CICF-SNEPS, éventuellement sur l'intranet de ces entreprises. Son existence ainsi que la possibilité pour les salariés de consulter cet accord seront mentionnées sur le panneau réservé à la communication de la direction des entreprises du CICF-SNEPS.
 
-### Avenant du 25 octobre 2007 relatif à la révision du préambule de l'accord du 29 mars 2000 relatif au suivi de l'aménagement du temps de travail
+## Avenant du 25 octobre 2007 relatif à la révision du préambule de l'accord du 29 mars 2000 relatif au suivi de l'aménagement du temps de travail
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant du 25 octobre 2007 relatif à la révision du préambule de l'accord du 29 mars 2000 relatif au suivi de l'aménagement du temps de travail.
 
 En application des dispositions de l'article 5 de l'accord national en date du 25 octobre 2007 relatif aux missions élargies de l'ADESATT et au financement du paritarisme au sein de la branche, les parties signataires souhaitent, par le présent avenant, réviser le préambule de l'accord national du 29 mars 2000 sur l'étude et le suivi de l'aménagement du temps de travail.
 En conséquence, les parties signataires ont arrêté les dispositions suivantes :
 
-#### Révision du préambule de l'accord national relatif à l'étude et au suivi de l'aménagement du temps de travail du 29 mars 2000
+### Révision du préambule de l'accord national relatif à l'étude et au suivi de l'aménagement du temps de travail du 29 mars 2000
 
-##### Article 1
+#### Article 1
+
+> **Source :** Article 1 — Avenant du 25 octobre 2007 relatif à la révision du préambule de l'accord du 29 mars 2000 relatif au suivi de l'aménagement du temps de travail.
 
 Au préambule de l'accord national relatif à l'étude et au suivi de l'aménagement du temps de travail du 29 mars 2000, toute référence à la notion de « signataires » sera retirée afin d'élargir la qualité de membre et, de ce fait, favoriser le développement du paritarisme au sein de la branche.
 Ainsi, le préambule de l'accord national relatif à l'étude et au suivi de l'aménagement du temps de travail est rédigé comme suit :
@@ -3839,45 +4103,55 @@ Ainsi, le préambule de l'accord national relatif à l'étude et au suivi de l'a
 Cette association, dénommée ADESATT, bénéficie d'une collecte annuelle auprès des entreprises de la branche d'un montant égal à 0, 2 ‰ de leur masse salariale brute.
 Compte tenu des moyens dont dispose l'ADESATT, cet outil doit être utilisé pour favoriser les relations paritaires au sein de la branche dans l'intérêt des entreprises et des salariés couverts par le champ conventionnel. »
 
-#### Sort des autres dispositions de l'accord national relatif à l'étude et au suivi de l'aménagement du temps de travail du 29 mars 2000
+### Sort des autres dispositions de l'accord national relatif à l'étude et au suivi de l'aménagement du temps de travail du 29 mars 2000
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Avenant du 25 octobre 2007 relatif à la révision du préambule de l'accord du 29 mars 2000 relatif au suivi de l'aménagement du temps de travail.
 
 Les autres dispositions de l'accord relatif à l'étude et au suivi de l'aménagement du temps de travail du 29 mars 2000 demeurent inchangées.
 
-#### Dépôt
+### Dépôt
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Avenant du 25 octobre 2007 relatif à la révision du préambule de l'accord du 29 mars 2000 relatif au suivi de l'aménagement du temps de travail.
 
 Le présent avenant, établi en vertu des articles L. 132-1 et suivants du code du travail, est fait en nombre suffisant d'exemplaires pour remise à chacune des parties signataires et fera l'objet d'un dépôt conformément aux dispositions de l'article L. 132-10 du code du travail :
 ― en 2 exemplaires auprès des services centraux du ministre chargé du travail ;
 ― en 1 exemplaire auprès du greffe du conseil de prud'hommes de Paris.
 
-#### Extension
+### Extension
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Avenant du 25 octobre 2007 relatif à la révision du préambule de l'accord du 29 mars 2000 relatif au suivi de l'aménagement du temps de travail.
 
 Les parties signataires conviennent de demander dans les meilleurs délais l'extension du présent avenant dans les conditions fixées à l'article L. 133-8 du code du travail.
 
-#### Entrée en vigueur
+### Entrée en vigueur
 
-##### Article 5
+#### Article 5
+
+> **Source :** Article 5 — Avenant du 25 octobre 2007 relatif à la révision du préambule de l'accord du 29 mars 2000 relatif au suivi de l'aménagement du temps de travail.
 
 L'entrée en vigueur du présent avenant est conditionnée, d'une part, par son extension sans exclusion et, d'autre part, par l'extension sans exclusion de l'accord national du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme complétant la convention collective nationale du 15 décembre 1987, de l'avenant du 25 octobre 2007 portant révision du chapitre XII de l'accord national du 22 juin 1999 relatif à la réduction du temps de travail et de l'avenant du 25 octobre 2007 portant révision de l'article 3 de la convention collective nationale du 15 décembre 1987.
 Le présent avenant entrera en vigueur au premier jour du mois suivant la date de publication de son arrêté d'extension.
 
-### Avenant du 25 octobre 2007 portant révision du chapitre XII de l'accord du 22 juin 1999 relatif à la réduction du temps de travail
+## Avenant du 25 octobre 2007 portant révision du chapitre XII de l'accord du 22 juin 1999 relatif à la réduction du temps de travail
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant du 25 octobre 2007 portant révision du chapitre XII de l'accord du 22 juin 1999 relatif à la réduction du temps de travail.
 
 En application des dispositions de l'article 4 de l'accord national en date du 25 octobre 2007 relatif aux missions élargies de l'ADESATT et au financement du paritarisme au sein de la branche, les parties signataires souhaitent, par le présent avenant, réviser le chapitre XII de l'accord national du 22 juin 1999 relatif à la réduction du temps de travail.
 En conséquence, les parties signataires ont arrêté les dispositions suivantes :
 
-#### Révision du chapitre XII de l'accord national du 22 juin 1999 relatif à la réduction du temps de travail
+### Révision du chapitre XII de l'accord national du 22 juin 1999 relatif à la réduction du temps de travail
 
-##### Article 1
+#### Article 1
+
+> **Source :** Article 1 — Avenant du 25 octobre 2007 portant révision du chapitre XII de l'accord du 22 juin 1999 relatif à la réduction du temps de travail.
 
 Le chapitre XII de l'accord national sur la réduction du temps de travail du 22 juin 1999 est supprimé et remplacé par les dispositions suivantes :
 
@@ -3886,38 +4160,46 @@ Suivi de l'accord
 
 Les parties signataires confient à une commission la charge permanente de procéder au suivi et au bilan de l'exécution du présent accord. Cette commission prend la forme d'une association loi de 1901. Les statuts de cette association garantissent l'équilibre paritaire quant à la gestion et à l'administration de la commission. Pour remplir sa fonction, elle bénéficie d'une collecte auprès des entreprises de la branche d'un montant égal à 0, 2 ‰ de leur masse salariale. »
 
-#### Sort des autres dispositions de l'accord national relatif à la réduction du temps de travail du 22 juin 1999
+### Sort des autres dispositions de l'accord national relatif à la réduction du temps de travail du 22 juin 1999
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Avenant du 25 octobre 2007 portant révision du chapitre XII de l'accord du 22 juin 1999 relatif à la réduction du temps de travail.
 
 Les autres dispositions de l'accord national relatif à la réduction du temps de travail du 22 juin 1999 demeurent inchangées.
 
-#### Dépôt
+### Dépôt
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Avenant du 25 octobre 2007 portant révision du chapitre XII de l'accord du 22 juin 1999 relatif à la réduction du temps de travail.
 
 Le présent avenant, établi en vertu des articles L. 132-1 et suivants du code du travail, est fait en nombre suffisant d'exemplaires pour remise à chacune des parties signataires et fera l'objet d'un dépôt conformément aux dispositions de l'article L. 132-10 du code du travail :
 ― en 2 exemplaires auprès des services centraux du ministre chargé du travail ;
 ― en 1 exemplaire auprès du greffe du conseil de prud'hommes de Paris.
 
-#### Extension
+### Extension
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Avenant du 25 octobre 2007 portant révision du chapitre XII de l'accord du 22 juin 1999 relatif à la réduction du temps de travail.
 
 Les parties signataires conviennent de demander dans les meilleurs délais l'extension du présent avenant dans les conditions fixées à l'article L. 133-8 du code du travail.
 
-#### Entrée en vigueur
+### Entrée en vigueur
 
-##### Article 5
+#### Article 5
+
+> **Source :** Article 5 — Avenant du 25 octobre 2007 portant révision du chapitre XII de l'accord du 22 juin 1999 relatif à la réduction du temps de travail.
 
 L'entrée en vigueur du présent avenant est conditionnée, d'une part, par son extension sans exclusion et, d'autre part, par l'extension sans exclusion de l'accord national du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme complétant la convention collective nationale du 15 décembre 1987, de l'avenant du 25 octobre 2007 portant révision de l'article 3 de la convention collective nationale du 15 décembre 1987 et de l'avenant du 25 octobre 2007 portant révision du préambule de l'accord national relatif à l'étude et au suivi de l'aménagement du temps de travail du 29 mars 2000.
 Le présent avenant entrera en vigueur au premier jour du mois suivant la date de publication de son arrêté d'extension.
 
-### Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme
+## Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Soucieuses de s'inscrire dans le cadre des nouvelles orientations en matière de paritarisme, les parties signataires souhaitent en favoriser l'application au niveau de la branche en renforçant les dispositifs existants prévus par :
 
@@ -3943,9 +4225,11 @@ Les parties signataires reconnaissent que l'objectif de promotion de la négocia
 
 En conséquence, les parties signataires ont arrêté les dispositions suivantes.
 
-#### Conditions d'adhésion et perte de la qualité de membre de l'ADESATT
+### Conditions d'adhésion et perte de la qualité de membre de l'ADESATT
 
-##### Article 1er
+#### Article 1er
+
+> **Source :** Article 1er — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 La qualité de membre de l'ADESATT est obtenue par voie d'adhésion ; toute adhésion est subordonnée aux conditions cumulatives suivantes :
 
@@ -3969,9 +4253,11 @@ La qualité de membre se perd par l'une des raisons suivantes :
 
 – la radiation, pour non-paiement des cotisations, prononcée par l'assemblée générale.
 
-#### Elargissement des missions de l'ADESATT
+### Elargissement des missions de l'ADESATT
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 La volonté des parties signataires de développer le paritarisme au sein de la branche nécessite que l'objet social de l'ADESATT soit élargi en conséquence, ce qui induit une modification des statuts de l'ADESATT qui devra intervenir dans les plus brefs délais à compter de la publication de l'arrêté d'extension du présent accord.
 
@@ -3999,15 +4285,19 @@ Pour favoriser le paritarisme au niveau de la branche en assurant le financement
 
 Cette énumération n'est pas exhaustive.
 
-#### Accès aux accords d'entreprise
+### Accès aux accords d'entreprise
 
-##### Article 2 bis
+#### Article 2 bis
+
+> **Source :** Article 2 bis — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Pour mener leurs missions, les représentants des membres de l'ADESATT s'appuient sur les accords d'entreprise dont l'objet entre dans le champ des travaux d'observation de l'ADESATT. Ces accords sont ceux publiés par le service public de diffusion du droit « Légifrance » et ceux communiqués à la branche conformément à l'accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
-#### Gestion des ressources de l'ADESATT
+### Gestion des ressources de l'ADESATT
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 3.1. Composition des ressources de l'ADESATT
 
@@ -4059,39 +4349,49 @@ Les fédérations professionnelles d'employeurs s'engagent à informer, conjoint
 
 NOTA : (1) Voir également les dispositions de l'article 2 de l'accord du 27 mars 2008 relatif aux missions de l'ADESATT et au financement du paritarisme (annexe à l'accord du 25 octobre 2007) - BO 2008/26
 
-#### Révision du chapitre XII de l'accord national du 22 juin 1999 relatif à la réduction du temps de travail
+### Révision du chapitre XII de l'accord national du 22 juin 1999 relatif à la réduction du temps de travail
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Les parties signataires conviennent de réviser le chapitre XII de l'accord national du 22 juin 1999 relatif à la réduction du temps de travail dans le cadre d'un avenant de révision annexé au présent accord.
 
 Les autres dispositions de l'accord national du 22 juin 1999 relatif à la réduction du temps de travail demeureront inchangées.
 
-#### Révision de l'accord national relatif à l'étude et au suivi de l'aménagement du temps de travail du 29 mars 2000
+### Révision de l'accord national relatif à l'étude et au suivi de l'aménagement du temps de travail du 29 mars 2000
 
-##### Article 5
+#### Article 5
+
+> **Source :** Article 5 — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Les parties signataires conviennent de réviser le préambule de l'accord national du 29 mars 2000 relatif à l'étude et au suivi de l'aménagement du temps de travail dans le cadre d'un avenant de révision annexé au présent accord.
 
 Les autres dispositions de l'accord national du 29 mars 2000 relatif à l'étude et au suivi de l'aménagement du temps de travail demeureront inchangées.
 
-#### Révision de l'article 3 de la convention collective nationale du 15 décembre 1987
+### Révision de l'article 3 de la convention collective nationale du 15 décembre 1987
 
-##### Article 6
+#### Article 6
+
+> **Source :** Article 6 — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Les parties signataires conviennent de réviser le paragraphe 3 de l'article 3 de la convention collective nationale du 15 décembre 1987 dans le cadre d'un avenant de révision annexé au présent accord.
 
 Les autres dispositions de la convention collective nationale du 15 décembre 1987 demeureront inchangées.
 
-#### Durée
+### Durée
 
-##### Article 7
+#### Article 7
+
+> **Source :** Article 7 — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Le présent accord est conclu pour une durée indéterminée.
 
-#### Evolutions législative et/ou réglementaire
+### Evolutions législative et/ou réglementaire
 
-##### Article 8
+#### Article 8
+
+> **Source :** Article 8 — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Les parties signataires rappellent que le présent accord relatif au financement du paritarisme dans la branche a été négocié et conclu en considération, d'une part, des dispositions législatives et réglementaires relatives à la représentativité des fédérations syndicales de salariés au niveau national et au niveau de la branche en vigueur à la date de sa signature et, d'autre part, de l'absence de toutes dispositions législatives ou réglementaires relatives au financement du paritarisme de branche.
 
@@ -4103,9 +4403,11 @@ Dans l'hypothèse où ces nouvelles dispositions législatives ou réglementaire
 
 Dans l'hypothèse où les nouvelles dispositions législatives ou réglementaires prévoiraient un système de financement du paritarisme de branche instaurant un prélèvement sur les entreprises inférieur au montant en euros correspondant à 0,2 ‰ de la masse salariale brute annuelle, les parties s'engagent à se réunir dans un délai de 3 mois afin de négocier de bonne foi un nouveau dispositif conventionnel de financement du paritarisme de branche, en vue de compléter les nouvelles dispositions législatives ou réglementaires relatives au financement du paritarisme, étant entendu et précisé que les fédérations professionnelles d'employeurs s'engagent à négocier un accord qui aura pour effet, après extension, de maintenir l'effort contributif global des entreprises de la branche en matière de financement du paritarisme de branche, au titre à la fois des nouvelles dispositions légales et réglementaires et des nouvelles dispositions conventionnelles de branche ainsi négociées, à un niveau identique à celui actuellement prévu par le présent accord, soit à 0,2 ‰ de la masse salariale brute annuelle.
 
-#### Dépôt
+### Dépôt
 
-##### Article 9
+#### Article 9
+
+> **Source :** Article 9 — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Le présent accord est établi en nombre suffisant d'exemplaires pour remise à chacune des fédérations syndicales signataires et fera l'objet d'un dépôt conformément aux dispositions de l'article L. 132-10 du code du travail :
 
@@ -4113,23 +4415,27 @@ Le présent accord est établi en nombre suffisant d'exemplaires pour remise à 
 
 ― en 1 exemplaire auprès du greffe du conseil de prud'hommes de Paris.
 
-#### Extension
+### Extension
 
-##### Article 10
+#### Article 10
+
+> **Source :** Article 10 — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Les parties signataires conviennent de demander dans les meilleurs délais l'extension du présent accord dans les conditions fixées à l'article L. 133-8 du code du travail.
 
-#### Entrée en vigueur
+### Entrée en vigueur
 
-##### Article 11
+#### Article 11
+
+> **Source :** Article 11 — Accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 L'entrée en vigueur du présent accord est conditionnée, d'une part, par son extension sans exclusion et, d'autre part, par l'extension sans exclusion des trois avenants mentionnés aux articles 4, 5 et 6 du présent accord.
 
 Le présent accord entrera en vigueur au premier jour du mois suivant la date de publication de son arrêté d'extension.
 
-### Adhésion par lettre du 6 mai 2008 de la CGT à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme
+## Adhésion par lettre du 6 mai 2008 de la CGT à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme
 
-#### Article (préambule / sans numéro)
+> **Source :** Adhésion par lettre du 6 mai 2008 de la CGT à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme — Adhésion par lettre du 6 mai 2008 de la CGT à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Paris, le 6 mai 2008.
 
@@ -4138,11 +4444,11 @@ Madame, Monsieur,
 Conformément à l'article L. 132-9 du code du travail, nous vous informons que la fédération nationale des personnels, des sociétés d'études, de conseil et de prévention adhère à l'accord national du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme complétant la convention collective nationale du 15 décembre 1987 des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseil ainsi qu'à son annexe, signé par les organisations syndicales de salariés CFE-CGC FIECI, CFDT-F3C, CFTC-CSFV et FEC CGT-FO.
 Recevez, Madame, Monsieur, l'expression de nos salutations distinguées.
 
-### Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC)
+## Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC)
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC).
 
 A partir de 2004, au sein de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils, les partenaires sociaux ont souhaité inscrire une logique de recherche d'anticipation et de prévention dans leurs principes directeurs. Ainsi, l'accord sur la formation professionnelle conclu le 27 décembre 2004 par l'ensemble des acteurs de la branche a eu pour objectif d'instituer la formation et le développement des compétences des salariés en tant que priorité.
 Les parties y ont affirmé l'importance d'assurer le développement professionnel et personnel des salariés et de maintenir une adéquation entre les services proposés par les entreprises et les besoins du marché.
@@ -4158,15 +4464,19 @@ A l'issue des négociations, les parties sont convenues des dispositions suivant
 (2) Articles L. 2242-15 du code du travail (anc. L. 320-2).
 (3) Article 9 de l'ANI du 11 janvier 2008 extraits annexés au présent accord.
 
-#### Champ d'application de l'accord
+### Champ d'application de l'accord
 
-##### Article 1er
+#### Article 1er
+
+> **Source :** Article 1er — Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC).
 
 Le présent accord national s'applique à l'ensemble des salariés et des entreprises quels que soient le métier et l'activité exercés, et relevant de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils du 15 décembre 1987 (IDCC 1486) et de l'ensemble de ses annexes.
 
-#### Objectifs de l'accord
+### Objectifs de l'accord
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC).
 
 Les partenaires sociaux mettent en place une démarche permettant aux différents acteurs de la branche tant nationaux que régionaux ― partenaires sociaux, entreprises, représentants des salariés ― d'accompagner et de sécuriser les parcours professionnels des salariés.
 Cette démarche paritaire doit permettre la mise en place d'outils et dispositions permettant aux entreprises de mettre en place une démarche GPEC et aux salariés d'être acteurs de leur évolution. Il peut s'agir, par exemple de dispositifs tels que les entretiens professionnels, les bilans de compétences, ou le développement de la formation.
@@ -4176,15 +4486,19 @@ Conformément à l'accord interprofessionnel du 11 janvier 2008 (1), les parties
 
 (1) Principe directeur édicté par l'ANI du 11 janvier 2008 et devant être repris dans l'accord de branche, en tant que principes et/ou actions.
 
-#### Mise en place de la démarche prospective
+### Mise en place de la démarche prospective
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC).
 
 *(pas de contenu)*
 
-#### Principes de cette démarche
+### Principes de cette démarche
 
-##### Article 3.1
+#### Article 3.1
+
+> **Source :** Article 3.1 — Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC).
 
 Les parties signataires entendent axer la démarche autour de 2 principes :
  ― éclairer les entreprises sur les tendances d'évolution de l'environnement économique et technologique.
@@ -4205,9 +4519,11 @@ Les parties signataires entendent axer la démarche autour de 2 principes :
  ― le handicap ;
  ― l'égalité professionnelle.
 
-#### Acteurs de la démarche méthodologique
+### Acteurs de la démarche méthodologique
 
-##### Article 3.2
+#### Article 3.2
+
+> **Source :** Article 3.2 — Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC).
 
 La définition et le pilotage de cette démarche s'appuient sur les contributions des 5 instances paritaires de la branche, en fonction de leur objet respectif : la commission paritaire de la convention collective nationale (CPCCN) (1), la commission paritaire nationale à l'emploi (CPNE) (2), l'observatoire paritaire de l'ingénierie informatique études et conseils (OPIIEC) (3), le fonds d'assurance sur la formation ingénierie études et conseil (FAFIEC) (4) et l'observatoire paritaire de la négociation collective (OPNC) (5).
 Afin d'encadrer la démarche, les parties signataires rappellent que la CPNE en tant qu'instance de la branche en charge de l'emploi, formation et compétences est compétente pour traiter de la GPEC.
@@ -4219,9 +4535,11 @@ Aussi, les parties conviennent de formaliser cette prise en charge de la GPEC pa
 (4) Accord du 14 décembre 1994 et ses avenants des 24 janvier 1995, 15 janvier 1999 et 17 mai 2005.
 (5) Accord du 15 septembre 2005.
 
-#### Etapes de la démarche méthodologique
+### Etapes de la démarche méthodologique
 
-##### Article 3.3
+#### Article 3.3
+
+> **Source :** Article 3.3 — Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC).
 
 La démarche établie au sein de la branche et pour chaque métier étudié tant au niveau national que régional sera conduite selon un calendrier de travail réparti sur 3 années glissantes.
  Une première phase, dite de recherche et de compréhension, doit permettre aux différents acteurs d'obtenir une vision et/ou un diagnostic des métiers émergents, des métiers en évolution, des métiers à risques, des tendances à surveiller ou à approfondir.
@@ -4234,15 +4552,19 @@ La démarche établie au sein de la branche et pour chaque métier étudié tant
  Les modalités de restitution paritaire des travaux seront déterminées par la CPNE.
  Sauf décision contraire de la CPNE les fédérations constitutives de la branche peuvent communiquer de façon libre sur les contributions et les études, dans le respect de l'exactitude des informations issues de chaque contribution ou étude et de la propriété des études.
 
-#### Suivi de la mise en oeuvre de l'accord
+### Suivi de la mise en oeuvre de l'accord
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC).
 
 Les partenaires sociaux conviennent de se réunir à l'issue de la troisième année. Il sera ainsi procédé à l'examen de la démarche, afin d'évaluer son efficacité et de convenir des conditions de sa mise en oeuvre.
 
-#### Dispositions finales
+### Dispositions finales
 
-##### Article 5
+#### Article 5
+
+> **Source :** Article 5 — Accord du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences (GPEC).
 
 Le présent accord est conclu pour une durée indéterminée. Il est susceptible d'être modifié, par avenant, notamment en cas d'évolution des dispositions législatives, réglementaires ou conventionnelles qui nécessiteraient l'adaptation de l'une ou de plusieurs de ses dispositions.
 Le présent accord entrera en vigueur à compter du premier jour du mois civil qui suit sa signature.
@@ -4253,9 +4575,9 @@ Le présent accord sera déposé par la partie la plus diligente, conformément 
 
 (1) Ancien art.L. 132-10.
 
-### Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi
+## Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi
 
-#### Article (préambule / sans numéro)
+> **Source :** Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi — Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 Négocié dans le cadre du développement de la gestion prévisionnelle des emplois et des compétences au sein de la branche et conformément aux dispositions de l'accord national du 3 juillet 2008, le présent accord annule et remplace l'accord du 19 mai 1995 et l'avenant du 17 mai 2005 sur la commission paritaire nationale à l'emploi.
 
@@ -4270,15 +4592,19 @@ Ayant la volonté de préserver l'autonomie de la branche de l'ingénierie, des 
 ― de développer la démarche prospective au sein de la branche.
 Pour réaliser ces objectifs, les partenaires sociaux ont décidé de promouvoir le rôle de la commission paritaire nationale de l'emploi en redéfinissant sa composition et son fonctionnement ; en élargissant ses missions et en assurant ses moyens dans le cadre des accords nationaux interprofessionnels.
 
-#### Compétence
+### Compétence
 
-##### Article 1er
+#### Article 1er
+
+> **Source :** Article 1er — Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 La commission paritaire nationale de l'emploi est compétente pour toutes les entreprises ayant une activité principale relevant du champ d'application de la convention collective nationale étendue des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils du 15 décembre 1987, modifiée.
 
-#### Composition de la commission paritaire nationale de l'emploi
+### Composition de la commission paritaire nationale de l'emploi
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 La commission paritaire nationale de l'emploi statuant en matière de formation est constituée de représentants des organisations syndicales de salariés et d'employeurs représentatives au niveau national.
  Les représentants désignés sont au nombre de :
@@ -4289,9 +4615,11 @@ La commission paritaire nationale de l'emploi statuant en matière de formation 
  La présidence et la vice-présidence de la CPNE sont paritairement alternées.
  Toutefois, lorsque la commission statue en matière de sauvegarde de l'emploi, la présidence en est confiée au représentant du collège patronal (président ou vice-président de la CPNE en fonction de l'alternance en cours).
 
-#### Fonctionnement
+### Fonctionnement
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 Un calendrier de travail est établi. Ce calendrier de travail comporte notamment :
 
@@ -4319,9 +4647,11 @@ La commission peut alors décider d'intervenir en soutien afin d'accompagner l'e
 
 En cas de défaut d'information de la commission paritaire nationale de l'emploi par l'entreprise, le délai de 14 jours mentionné au paragraphe précédent court à compter du jour où une organisation syndicale de salariés ou d'employeurs aura saisi la commission paritaire nationale de l'emploi.
 
-#### Missions de la commission paritaire nationale de l'emploi
+### Missions de la commission paritaire nationale de l'emploi
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 La commission paritaire nationale de l'emploi a pour mission :
  1. D'examiner la situation de l'emploi et son évolution dans la branche afin de permettre l'information réciproque des partenaires sociaux.
@@ -4337,18 +4667,22 @@ La commission paritaire nationale de l'emploi a pour mission :
  Elle doit consacrer chaque année au moins une de ses réunions à l'examen des thèmes relatifs à la formation professionnelle.
  Dans l'exercice de ses différentes missions, la CPNE pourra mettre en place des groupes de travail ad hoc, dont elle arrêtera la composition, en fixera le cahier des charges ainsi que le terme prévisionnel de la mission. Mandatés par leurs organisations, les participants au groupe de travail relèvent des dispositions de l'article 3 de la CCN relatif au droit syndical et à la liberté d'opinion.
 
-#### Modalités d'application de la démarche GPEC
+### Modalités d'application de la démarche GPEC
 
-##### Article 5
+#### Article 5
+
+> **Source :** Article 5 — Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 Conformément aux étapes de la démarche prospective édictées par les dispositions de l'article 3.3 de l'accord national du 3 juillet 2008 relatif à la gestion prévisionnelle des emplois et des compétences, il appartient aux membres de la CPNE de définir les modalités de cette démarche autour des 3 étapes suivantes :
  1. Analyse et débats autour des résultats de la démarche prospective entre les représentants des syndicats patronaux et les partenaires sociaux.
  2. Elaboration de préconisations d'actions pour approfondir les points qui s'imposent.
  3. Mise en oeuvre d'actions : études complémentaires, veilles, interviews, formations, dispositifs particuliers d'accompagnement collectif et individuel de la GPEC.
 
-#### Suivi
+### Suivi
 
-##### Article 6
+#### Article 6
+
+> **Source :** Article 6 — Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 Dans le cadre de sa mission, la commission paritaire nationale de l'emploi assure le suivi :
  ― de l'application des accords de branche conclus dans le cadre de l'obligation triennale de négocier sur la formation ;
@@ -4358,24 +4692,30 @@ Dans le cadre de sa mission, la commission paritaire nationale de l'emploi assur
  ― de tout accord conclu par la branche avec les pouvoirs publics ;
  ― de la réalisation de la politique de formation de la branche.
 
-#### Délibérations et avis
+### Délibérations et avis
 
-##### Article 7
+#### Article 7
+
+> **Source :** Article 7 — Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 Les décisions de la CPNE requièrent une majorité dans chacun des deux collèges. Pour le collège patronal, la majorité est une majorité qualifiée des 2/3.
  Seules les organisations signataires ou adhérentes du présent accord ont une voix délibérative.
  Dans le cas de saisine portant sur l'étude d'un projet de licenciement collectif d'ordre économique visé à l'article 3, les décisions de la commission font l'objet d'un avis qui sera notifié par lettre recommandée avec avis de réception à l'entreprise concernée.
 
-#### Moyens
+### Moyens
 
-##### Article 8
+#### Article 8
+
+> **Source :** Article 8 — Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 Afin d'asseoir le développement d'une politique régionale, la CPNE définira des moyens spécifiques attachés aux différentes missions qui lui sont dévolues.
  Le secrétariat est assuré par la fédération SYNTEC, affaires sociales, 3, rue Léon-Bonnat, 75016 Paris.
 
-#### Entrée en vigueur et durée de l'accord
+### Entrée en vigueur et durée de l'accord
 
-##### Article 9
+#### Article 9
+
+> **Source :** Article 9 — Accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 Le présent accord est conclu pour une durée indéterminée. Le présent accord entrera en vigueur à compter du jour de sa signature.
 Par ailleurs, le présent accord sera porté à extension.
@@ -4387,26 +4727,30 @@ Le présent accord sera déposé par la partie la plus diligente, conformément 
 
 (1) Ancien article L. 132-10.
 
-### Annexe du 11 février 2009 à l'accord du 25 octobre 2007 relatif au paritarisme
+## Annexe du 11 février 2009 à l'accord du 25 octobre 2007 relatif au paritarisme
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Annexe du 11 février 2009 à l'accord du 25 octobre 2007 relatif au paritarisme.
 
 Les fédérations professionnelles d'employeurs et les fédérations syndicales de salariés ont unanimement exprimé leur volonté de négocier une annexe (« l'annexe ») relative aux modalités de répartition de la dotation (« la dotation ») dévolue aux fédérations syndicales de salariés visée à l'article 3. 3. 2 de l'accord national du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme complétant la convention collective nationale du 15 décembre 1987 des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils.
 La présente annexe, qui est le fruit de cette négociation, complète et révise l'accord national du 25 octobre 2007 dans les conditions ci-après :
 
-#### Révision de l'article 3.3.3 de l'accord national du 25 octobre 2007
+### Révision de l'article 3.3.3 de l'accord national du 25 octobre 2007
 
-##### Article 1er
+#### Article 1er
+
+> **Source :** Article 1er — Annexe du 11 février 2009 à l'accord du 25 octobre 2007 relatif au paritarisme.
 
 L'article 3. 3. 3 de l'accord national du 25 octobre 2007 est modifié comme suit :
 « La dotation dévolue aux fédérations syndicales de salariés représentatives au niveau national (soit 50 % du montant cumulé du budget affecté au financement des actions relatives au suivi de l'accord national relatif à la réduction du temps de travail et du budget affecté au financement des actions liées au paritarisme) est répartie comme indiqué dans l'annexe.
 La dotation dévolue aux fédérations syndicales de salariés représentatives au niveau national est répartie comme indiqué à l'article 2 de la présente annexe. »
 
-#### Modalités de répartition de la dotation dévolue aux fédérations syndicales de salariés
+### Modalités de répartition de la dotation dévolue aux fédérations syndicales de salariés
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Annexe du 11 février 2009 à l'accord du 25 octobre 2007 relatif au paritarisme.
 
 L'article 3.3.2 de l'accord national du 25 octobre 2007 attribue aux fédérations syndicales de salariés représentatives au niveau national une dotation égale à 50 % du montant cumulé (i) du budget affecté au financement des actions relatives au suivi de l'accord national sur la réduction du temps de travail et (ii) du budget affecté au financement des actions liées au paritarisme.
 
@@ -4418,45 +4762,53 @@ La participation aux activités du FAFIEC est exclue de ce dispositif, celles-ci
 
 La participation de chaque fédération syndicale de salariés représentative ne sera décomptée qu'une fois, quel que soit le nombre de ses représentants à la réunion. Il ne sera comptabilisé que la présence aux réunions ayant fait l'objet à la fois d'une convocation et de la tenue d'une feuille de présence dument émargée. En fin d'exercice, le nombre total de réunions à laquelle une fédération syndicale de salariés a été conviée sera divisé par le nombre de réunions auxquelles elle a effectivement été présente afin de déterminer pour l'exercice suivant sa part de la dotation, laquelle sera proportionnelle à son taux de présence.
 
-#### Sort des autres dispositions de l'accord national du 25 octobre 2007
+### Sort des autres dispositions de l'accord national du 25 octobre 2007
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Annexe du 11 février 2009 à l'accord du 25 octobre 2007 relatif au paritarisme.
 
 L'annexe à l'accord national du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme signée le 27 mars 2008 est annulée par la présente annexe. Les autres dispositions de l'accord national du 25 octobre 2007 demeurent inchangées.
 
-#### Dépôt
+### Dépôt
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Annexe du 11 février 2009 à l'accord du 25 octobre 2007 relatif au paritarisme.
 
 La présente annexe, établie en vertu des articles L. 132-1 et suivants du code du travail, est fait en nombre suffisant d'exemplaires pour remise à chacune des parties et fera l'objet d'un dépôt conformément aux dispositions de l'article L. 132-10 du code du travail :
  ― en 2 exemplaires auprès des services centraux du ministre chargé du travail ;
  ― en 1 exemplaire auprès du greffe du conseil de prud'hommes de Paris.
 
-#### Extension
+### Extension
 
-##### Article 5
+#### Article 5
+
+> **Source :** Article 5 — Annexe du 11 février 2009 à l'accord du 25 octobre 2007 relatif au paritarisme.
 
 Les parties signataires conviennent de demander l'extension de la présente annexe concomitamment à celle de l'accord national du 25 octobre 2007 .
 
-#### Entrée en vigueur
+### Entrée en vigueur
 
-##### Article 6
+#### Article 6
+
+> **Source :** Article 6 — Annexe du 11 février 2009 à l'accord du 25 octobre 2007 relatif au paritarisme.
 
 L'entrée en vigueur de la présente annexe est conditionnée, d'une part, par son extension sans exclusion et, d'autre part, par l'extension sans exclusion de l'accord national du 25 octobre 2007.La présente annexe entrera en vigueur au premier jour du mois suivant la date de publication de son arrêté d'extension.
 
-### Avenant n° 3 du 25 mars 2009 à l'accord du 27 mars 1997 relatif à la prévoyance
+## Avenant n° 3 du 25 mars 2009 à l'accord du 27 mars 1997 relatif à la prévoyance
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 3 du 25 mars 2009 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 Les organisations professionnelles d'employeurs et les syndicats de salariés relevant de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseil du 15 décembre 1987 se sont réunis afin :
 ― d'entériner les dispositions relatives à la mise en conformité de l' accord du 27 mars 1997 avec les nouvelles règles sociales issues des articles 111 et 113 de la loi Fillon, de ses textes d'application, et notamment la circulaire DSS / 5B / 2009 / 32 du 30 janvier 2009 ;
 ― d'améliorer les prestations prévues par l'accord relatif à la prévoyance du 27 mars 1997.
 
-#### Article 1
+### Article 1 — Mise en conformité
 
-*Mise en conformité*
+> **Source :** Article 1 — Mise en conformité — Avenant n° 3 du 25 mars 2009 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 Les dispositions relatives aux salariés relevant de l' accord du 27 mars 1997 sont modifiées comme suit :
 
@@ -4540,9 +4892,9 @@ Il est rappelé que les salariés dont le contrat de travail est suspendu sans r
 
 Ces dispositions, à l'exception de celles relatives à l'article 3. 3 de l'accord, s'appliquent à effet immédiat pour les prestations en cours de liquidation ou de versement.
 
-#### Article 2
+### Article 2 — Prestations
 
-*Prestations*
+> **Source :** Article 2 — Prestations — Avenant n° 3 du 25 mars 2009 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 L' article 3. 2 de l'accord du 27 mars 1997 prévoit :
 
@@ -4580,11 +4932,11 @@ Ces dispositions concernent les faits générateurs (décès ou reconnaissance �
 
 Ces dispositions s'appliquent à compter du premier jour du mois civil suivant la parution de l'arrêté d'extension au Journal officiel.
 
-### Avenant n° 4 du 15 juillet 2009 à l'accord du 27 mars 1997 relatif à la prévoyance
+## Avenant n° 4 du 15 juillet 2009 à l'accord du 27 mars 1997 relatif à la prévoyance
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 4 du 15 juillet 2009 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 Les organisations professionnelles d'employeurs et les syndicats de salariés relevant de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseils du 15 décembre 1987 se sont réunis afin :
 
@@ -4592,9 +4944,11 @@ Les organisations professionnelles d'employeurs et les syndicats de salariés re
 
 ― de modifier l'avenant n° 3 signé le 25 mars 2009.
 
-#### Désignation des organismes assureurs
+### Désignation des organismes assureurs
 
-##### Article 1er
+#### Article 1er
+
+> **Source :** Article 1er — Avenant n° 4 du 15 juillet 2009 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 Conformément aux dispositions de l'article L. 912-1 du code de la sécurité sociale, et après examen du bilan établi, les partenaires sociaux conviennent de reconduire, pour une période de 5 années maximum, la désignation des organismes assureurs :
 
@@ -4606,9 +4960,11 @@ Le premier alinéa de l'article 1er de l'annexe à l'accord de prévoyance du 27
 
 « Les partenaires sociaux soussignés, membres de la commission paritaire de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs conseils et des sociétés de conseils, conviennent de confier la gestion du régime de prévoyance de la branche à Médéric Prévoyance et l'URRPIMMEC (institutions de prévoyance du groupe Malakoff Médéric), aux conditions suivantes : ».
 
-#### Modification de l'avenant n° 3 du 25 mars 2009
+### Modification de l'avenant n° 3 du 25 mars 2009
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Avenant n° 4 du 15 juillet 2009 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 L'avenant à l'accord de prévoyancen° 3 du 25 mars 2009 prévu à l'article 1er, 5e paragraphe, 4e alinéa, est modifié comme suit :
 
@@ -4622,9 +4978,11 @@ Nouveau texte :
 
 « Les salariés dont la suspension du contrat de travail a pour origine un arrêt de travail indemnisé par la sécurité sociale bénéficient de ce maintien de garantie jusqu'à la date de reprise d'activité ou jusqu'à la date de prise d'effet de la retraite sécurité sociale. Aucune cotisation n'est due au titre des prestations incapacité de travail ou invalidité prévues par le présent accord de prévoyance. »
 
-#### Date d'effet, dépôt et extension
+### Date d'effet, dépôt et extension
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Avenant n° 4 du 15 juillet 2009 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 Le présent avenant prend effet au premier jour du mois civil suivant l'arrêté d'extension.
 
@@ -4632,23 +4990,27 @@ Il sera établi en nombre suffisant d'exemplaires pour être remis à chacune de
 
 Par ailleurs, en application de l'article 911-3 du code de la sécurité sociale, les parties conviennent de demander au ministère du travail, des relations sociales, de la famille, de la solidarité et de la ville l'extension et l'élargissement du présent avenant, afin de le rendre applicable à toutes les entreprises entrant dans le champ de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseils.
 
-### Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP
+## Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 Depuis plusieurs années, convaincue du rôle important de la formation professionnelle dans l'évolution de l'emploi, la branche a développé différents outils et dispositifs destinés à favoriser l'accès à la formation professionnelle. Par l'accord sur la formation professionnelle, signé le 23 octobre 2008, les partenaires sociaux de la branche ont réaffirmé leur attachement au développement de la formation professionnelle et à la validation des acquis de l'expérience (VAE) pour la délivrance de titres et de diplômes, et notamment des certificats de qualification professionnelle (CQP). Depuis 2001, la branche a déjà mis en place des formations et dispositifs de VAE débouchant sur des certificats de qualification professionnelle (CQP). Souhaitant développer et élargir les initiatives déjà prises, les partenaires sociaux de la branche précisent dans le présent accord les moyens et modalités de création et de délivrance des certificats de qualification professionnelle (CQP). Le présent accord annule et remplace l' accord du 8 mars 2001 sur la mise en place d'un dispositif permettant la délivrance de certificats de qualification professionnelle.Il est entendu que l'ensemble des dispositions du présent accord visant les certificats de qualification professionnelle (CQP) pourra également être applicable aux certificats de qualification professionnelle interbranches (CQPI). Il a ainsi été convenu ce qui suit :
 
-#### Entreprises concernées
+### Entreprises concernées
 
-##### Article 1er
+#### Article 1er
+
+> **Source :** Article 1er — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 Le dispositif de délivrance de certificats de qualification professionnelle (CQP) concerne l'ensemble des entreprises entrant dans le champ professionnel d'application de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils.
 
-#### Définition et objet
+### Définition et objet
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 Le certificat de qualification professionnelle (CQP) est une reconnaissance de qualification professionnelle créée et délivrée au sein de la branche professionnelle par la commission paritaire nationale pour l'emploi (CPNE) siégeant en matière de formation.
  Ce certificat atteste d'une qualification dans un emploi propre à la branche. Cette qualification est acquise sur la base d'épreuves dont la nature et la forme sont prédéfinies, et ce dans le cadre de deux dispositifs possibles, formalisés dans le référentiel de certification rédigé lors de la création du CQP :
@@ -4661,9 +5023,11 @@ Le certificat de qualification professionnelle (CQP) est une reconnaissance de q
  ― des modalités et conditions de mise en oeuvre communes.
  L'ensemble de ces éléments sont définis dans les différents référentiels rédigés lors de la création du CQP.
 
-#### Procédure de création d'un certificat de qualification professionnelle (CQP)
+### Procédure de création d'un certificat de qualification professionnelle (CQP)
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 3.1. Initiateurs du projet
 
@@ -4728,9 +5092,11 @@ Le certificat de qualification professionnelle (CQP) est une reconnaissance de q
 
  L'OPCA de la branche peut contribuer au financement de l'ingénierie de certification, et notamment à la mise en place de certifications communes de type certificat de qualification professionnelle interbranches (CQPI).
 
-#### Publics concernés
+### Publics concernés
 
-##### Article 4
+#### Article 4
+
+> **Source :** Article 4 — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 Les certificats de qualification professionnelle (CQP) de la branche sont accessibles :
  ― aux jeunes de 16 à 25 ans ou demandeurs d'emploi dans le cadre d'un contrat de professionnalisation ;
@@ -4739,9 +5105,11 @@ Les certificats de qualification professionnelle (CQP) de la branche sont access
  La durée de l'expérience requise pour obtenir un certificat de qualification professionnelle (CQP) est précisée dans le référentiel de certification propre à chaque certificat de qualification professionnelle (CQP) ;
  ― aux demandeurs d'emploi inscrits à Pôle emploi.
 
-#### Délivrance du certificat de qualification professionnelle (CQP)
+### Délivrance du certificat de qualification professionnelle (CQP)
 
-##### Article 5
+#### Article 5
+
+> **Source :** Article 5 — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 La délivrance du certificat de qualification professionnelle (CQP) est organisée, sous la responsabilité de la CPNE, selon des modalités permettant de couvrir les différents domaines de compétences du métier, et définies dans le référentiel de certification du certificat de qualification professionnelle (CQP).
 Ces modalités peuvent notamment consister en une série d'épreuves évaluées par un jury, ou sous forme de contrôle continu.
@@ -4815,16 +5183,20 @@ Lorsque la délivrance du certificat de qualification professionnelle (CQP) est 
 La formation en entreprise est évaluée en partie sous forme d'un contrôle continu et en partie par la soutenance d'un rapport d'activité en entreprise devant un jury.
 Le contrôle continu de la formation en entreprise est effectué par le tuteur avec la participation du centre de formation.
 
-#### Enregistrement des certificats de qualification professionnelle (CQP)
+### Enregistrement des certificats de qualification professionnelle (CQP)
 
-##### Article 6
+#### Article 6
+
+> **Source :** Article 6 — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 Les certificats de qualification de la branche sont inscrits à la liste des qualifications reconnues par la branche.
  Chaque année, la commission paritaire nationale pour l'emploi (CPNE) siégeant en matière de formation procède à la mise à jour annuelle de la liste des certificats en vigueur dans la branche, et prend toutes dispositions, notamment auprès de la commission paritaire de la convention collective nationale (CPCCN), pour permettre l'enregistrement des nouveaux certificats de qualification professionnelle (CQP).
 
-#### Bilan annuel
+### Bilan annuel
 
-##### Article 7
+#### Article 7
+
+> **Source :** Article 7 — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 Chaque année, l'OPCA de branche présente auprès de la commission paritaire nationale pour l'emploi (CPNE) siégeant en matière de formation un bilan des certificats de qualification professionnelle (CQP) de la branche, et notamment :
  ― bilans quantitatif et qualitatif des certificats de qualification professionnelle (CQP) réalisés au cours de l'année ;
@@ -4834,25 +5206,31 @@ Chaque année, l'OPCA de branche présente auprès de la commission paritaire na
  ― bilan financier, notamment de la prise en charge des frais de jurys, telle que prévue à l'article 5.1.6 du présent accord ;
  ― tout autre élément qu'il jugerait utile de faire connaître à la commission paritaire nationale pour l'emploi (CPNE) siégeant en matière de formation.
 
-#### Modification et suppression des certificats de qualification professionnelle (CQP)
+### Modification et suppression des certificats de qualification professionnelle (CQP)
 
-##### Article 8
+#### Article 8
+
+> **Source :** Article 8 — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 Les certificats de qualification professionnelle (CQP) sont créés pour une durée indéterminée.
  La commission paritaire nationale pour l'emploi (CPNE) siégeant en matière de formation peut décider de réviser ou de supprimer tout certificat de qualification professionnelle (CQP) qu'elle a créé et validé.
  Les organisations membres de la commission paritaire nationale pour l'emploi (CPNE) siégeant en matière de formation peuvent demander à tout moment la modification des référentiels des certificats de qualification professionnelle (CQP).
  Dans le cas d'une suppression, la commission paritaire nationale pour l'emploi (CPNE) siégeant en matière de formation transmettra l'information à la commission paritaire de la convention collective nationale pour radiation. Dans ce cas, toute action engagée restera éligible à la délivrance du certificat de qualification professionnelle (CQP).
 
-#### Durée de l'accord
+### Durée de l'accord
 
-##### Article 9
+#### Article 9
+
+> **Source :** Article 9 — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 Le présent accord est conclu pour une durée indéterminée. Toutefois, les parties signataires se réservent la possibilité de revoir telle disposition qui leur semblerait utile, selon les règles de révision de la convention collective nationale.
 Les divergences qui pourraient se manifester dans l'application du présent accord seront examinées par la commission nationale d'interprétation en application de l'article 85 de la convention collective nationale.
 
-#### Application de l'accord
+### Application de l'accord
 
-##### Article 10
+#### Article 10
+
+> **Source :** Article 10 — Accord du 28 octobre 2009 relatif à la mise en oeuvre des CQP.
 
 Le présent accord est susceptible d'être modifié, par avenant, notamment en cas d'évolution des dispositions législatives, réglementaires ou conventionnelles qui nécessiteraient l'adaptation de l'une ou de plusieurs de ces dispositions.
  Le présent accord entrera en vigueur à compter du premier jour du mois civil qui suit la publication de l'arrêté ministériel d'extension.
@@ -4860,22 +5238,22 @@ Le présent accord est susceptible d'être modifié, par avenant, notamment en c
  La partie qui dénoncera l'accord devra accompagner sa notification d'un nouveau projet afin que les négociations puissent commencer sans retard.
  Le présent accord sera déposé par la partie la plus diligente, conformément à l'article L. 132-10 du code du travail, et les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal.
 
-### Procès-verbal de désaccord du 10 mars 2010 relatif à la mise en place d'un système de participation des salariés
+## Procès-verbal de désaccord du 10 mars 2010 relatif à la mise en place d'un système de participation des salariés
 
-#### Article (préambule / sans numéro)
+> **Source :** Procès-verbal de désaccord du 10 mars 2010 relatif à la mise en place d'un système de participation des salariés — Procès-verbal de désaccord du 10 mars 2010 relatif à la mise en place d'un système de participation des salariés.
 
 Suivant le calendrier de négociation convenu entre les parties lors de la CPCCN du 25 novembre 2009 et conformément à l'alinéa 3 de l'article L. 3322-9 du code du travail issu de la loi n° 2006-1770 du 30 décembre 2006 pour le développement de la participation et de l'actionnariat salarié, portant diverses dispositions d'ordre économique et social, une négociation pour la mise en place d'un système de participation pour les entreprises de moins de 50 salariés de la branche a été engagée par les organisations patronales lors de la CPCCN du 20 janvier 2010.
 Les échanges au cours des CPCCN des 20 janvier 2010 et 24 février 2010 n'ayant pas abouti à un accord, les parties conviennent d'établir un constat de désaccord.
 
-#### Article 1er
+### Article 1er — Dernier état des propositions respectives des parties
 
-*Dernier état des propositions respectives des parties*
+> **Source :** Article 1er — Dernier état des propositions respectives des parties — Procès-verbal de désaccord du 10 mars 2010 relatif à la mise en place d'un système de participation des salariés.
 
 Les dernières propositions des parties sont les suivantes.
 
-#### Article 1.1
+### Article 1.1 — Position des organisations patronales
 
-*Position des organisations patronales*
+> **Source :** Article 1.1 — Position des organisations patronales — Procès-verbal de désaccord du 10 mars 2010 relatif à la mise en place d'un système de participation des salariés.
 
 Les fédérations patronales ont formulé les principes directeurs suivants pour mettre en place la participation de branche :
 
@@ -4884,34 +5262,34 @@ Les fédérations patronales ont formulé les principes directeurs suivants pour
 – la répartition de la réserve spéciale de participation entre les bénéficiaires ; proportionnellement au salaire perçu dans la limite des plafonds réglementaires ;
 – l'application du calcul de droit commun.
 
-#### Article 1.2
+### Article 1.2 — Position des organisations de salariés
 
-*Position des organisations de salariés*
+> **Source :** Article 1.2 — Position des organisations de salariés — Procès-verbal de désaccord du 10 mars 2010 relatif à la mise en place d'un système de participation des salariés.
 
 L'ensemble des organisations syndicales souhaitent un accord de participation s'appliquant à l'ensemble des salariés de la branche, une collecte organisée au niveau de la branche et une répartition égalitaire pour les salariés des entreprises ne disposant pas de système de participation.
 
-#### Article 2
+### Article 2 — Constat de désaccord
 
-*Constat de désaccord*
+> **Source :** Article 2 — Constat de désaccord — Procès-verbal de désaccord du 10 mars 2010 relatif à la mise en place d'un système de participation des salariés.
 
 Les organisations syndicales de salariés et les fédérations professionnelles SYNTEC et CICF constatant leur désaccord sur la mise en place d'un régime de participation dans la branche prennent acte de ce que les négociations ne peuvent aboutir à un accord.
 Chacune des parties signataires du présent constat de désaccord a la faculté d'en assurer la diffusion. Le présent constat de désaccord fera l'objet d'une publication sur les sites officiels des fédérations SYNTEC et CICF.
 
-### Procès-verbal de désaccord du 21 avril 2010 relatif à l'emploi des salariés âgés
+## Procès-verbal de désaccord du 21 avril 2010 relatif à l'emploi des salariés âgés
 
-#### Article (préambule / sans numéro)
+> **Source :** Procès-verbal de désaccord du 21 avril 2010 relatif à l'emploi des salariés âgés — Procès-verbal de désaccord du 21 avril 2010 relatif à l'emploi des salariés âgés.
 
 Conformément aux dispositions législatives et réglementaires, notamment l'article L. 2331-1 du code du travail, des négociations ont été engagées entre les partenaires sociaux le 15 juillet 2009 et ont fait l'objet de plusieurs réunions. Un accord national relatif à l'emploi des salariés âgés, joint en annexe, a été soumis à signature lors de la CPCCN du 24 mars 2010. Lors de cette réunion, les parties ont présenté leur position et ont débattu en fonction des arguments présentés par chacune d'elles. Ces échanges n'ayant pas abouti à un accord, les parties conviennent d'établir un constat de désaccord.
 
-#### Article 1er
+### Article 1er — Dernier état des propositions respectives des parties
 
-*Dernier état des propositions respectives des parties*
+> **Source :** Article 1er — Dernier état des propositions respectives des parties — Procès-verbal de désaccord du 21 avril 2010 relatif à l'emploi des salariés âgés.
 
 Les dernières propositions des parties sont les suivantes.
 
-#### Article 1.1
+### Article 1.1 — Position des organisations patronales
 
-*Position des organisations patronales*
+> **Source :** Article 1.1 — Position des organisations patronales — Procès-verbal de désaccord du 21 avril 2010 relatif à l'emploi des salariés âgés.
 
 L'accord comprend deux parties : la première concerne la branche et la deuxième porte sur les entreprises de 50 à 299 salariés.
 Le texte proposé à la signature comprend un objectif de progression du taux moyen d'emploi des salariés de 55 ans et plus fixé à 2 points en valeur absolue pour la branche.
@@ -4920,9 +5298,9 @@ Un certain nombre d'entreprises ont signé des accords d'entreprise ou mis en pl
 Compte tenu de ce contexte, le collège patronal souhaite que l'accord de branche soit supplétif et ne vienne pas se substituer aux dispositifs valides déjà en place.
 En tout état de cause, les accords signés ou plans d'action mis en œuvre dans les entreprises sont limités dans le temps, et à l'issue de 3 ans l'accord de branche s'appliquera.
 
-#### Article 1.2
+### Article 1.2 — Position des organisations de salariés
 
-*Position des organisations de salariés*
+> **Source :** Article 1.2 — Position des organisations de salariés — Procès-verbal de désaccord du 21 avril 2010 relatif à l'emploi des salariés âgés.
 
 La CGT, la CFTC et la CFDT souhaitent que leur soit transmis un état de la mise en place d'accords et plans d'action dans les entreprises de la branche : nombre d'accords d'entreprise signés et validés par l'administration, nombre de plans d'action valides.
  FO souhaite un accord non supplétif et obligatoire pour toutes les entreprises de la branche quels que soient les effectifs de l'entreprise et comprenant des critères précis mesurables. Elle considère que les conditions légales de validité de l'accord relatives aux objectifs ne sont pas remplies. Elle demande en outre que soit jointe au présent procès-verbal sa déclaration liminaire.
@@ -4930,16 +5308,16 @@ La CGT, la CFTC et la CFDT souhaitent que leur soit transmis un état de la mise
  La CGT déclare que pratiquement aucune de ses propositions n'ont été reprises dans l'accord et qu'elle ne signera pas l'accord.
  La CFDT constate que si l'accord a supprimé l'un des deux points bloquant la négociation, elle s'interroge sur la nécessité du caractère supplétif de l'accord et demande une application de celui-ci au plus tard au 31 décembre 2010. La CFDT note cependant que pour la première fois la branche prend en compte les négociations des acteurs locaux.
 
-#### Article 2
+### Article 2 — Constat de désaccord
 
-*Constat de désaccord*
+> **Source :** Article 2 — Constat de désaccord — Procès-verbal de désaccord du 21 avril 2010 relatif à l'emploi des salariés âgés.
 
 Les organisations syndicales de salariés et les fédérations professionnelles SYNTEC et CICF constatant leur désaccord sur la mise en place d'un accord de branche sur l'emploi des seniors portés à l'ordre du jour de la CPCCN du 24 mars 2010 prennent acte que les négociations ne peuvent aboutir à un accord.
 Chacune des parties signataires du présent constat de désaccord a la faculté d'en assurer la diffusion. Le présent constat de désaccord fera l'objet d'une publication sur les sites officiels des fédérations SYNTEC et CICF.
 
-#### Annexe
+### Annexe
 
-##### Article (préambule / sans numéro)
+> **Source :** Annexe — Procès-verbal de désaccord du 21 avril 2010 relatif à l'emploi des salariés âgés.
 
 Déclaration lors de la CPCCN du 24 mars 2010 concernant la négociation d'un d'accord « Seniors »
 
@@ -4953,23 +5331,29 @@ Déclaration lors de la CPCCN du 24 mars 2010 concernant la négociation d'un d'
  Comme dans toute activité, l'entreprise et la branche devront être jugées sur des résultats à partir d'objectifs annuels.
  Cette absence de réelle volonté du patronat sur l'emploi des seniors, à l'exception de sa stratégie qui consiste à échapper aux pénalités prévues dans les textes, est d'autant plus préjudiciable aux salariés que le patronat milite pour l'allongement de la durée du travail et le recul de l'âge de la retraite. Sans politique sérieuse d'emploi, notamment des seniors, cela revient à faire augmenter le taux de chômage, faire supporter par la collectivité le coût social et à précariser encore plus les salariés ayant un travail ou non.
 
-### Avenant du 17 novembre 2010 à l'accord du 23 octobre 2008 relatif à la formation professionnelle
+## Avenant du 17 novembre 2010 à l'accord du 23 octobre 2008 relatif à la formation professionnelle
 
-#### Article (préambule / sans numéro)
+> **Source :** Avenant du 17 novembre 2010 à l'accord du 23 octobre 2008 relatif à la formation professionnelle — Avenant du 17 novembre 2010 à l'accord du 23 octobre 2008 relatif à la formation professionnelle.
 
 Dans le cadre du dispositif de suivi de l'accord tel que décrit à l'article 9.3, les partenaires sociaux ont au cours de l'année 2010 engagé une réflexion et des négociations qui ont abouti à une volonté de révision partielle de l'accord national de branche du 23 octobre 2008 sur la formation professionnelle.
 
-#### Article 1er
+### Article 1er
+
+> **Source :** Article 1er — Avenant du 17 novembre 2010 à l'accord du 23 octobre 2008 relatif à la formation professionnelle.
 
 A la suite du titre III « Le développement de la professionnalisation et de l'apprentissage » sont ajoutées les dispositions suivantes :
 « Ces ressources devront respecter l'affectation d'un minimum de 50 % au financement des actions de formation liées aux contrats de professionnalisation, à des périodes de professionnalisation d'une durée minimum de 120 heures visant une qualification soit enregistrée dans le répertoire national des certifications, soit ouvrant droit à un certificat de qualification professionnelle, au regard des orientations définies par le fonds de sécurisation des parcours professionnels, sous réserves des dispositions législatives et réglementaires en vigueur. »
 
-#### Article 2
+### Article 2
+
+> **Source :** Article 2 — Avenant du 17 novembre 2010 à l'accord du 23 octobre 2008 relatif à la formation professionnelle.
 
 Les dispositions de l'article 3.1.6 « Critères d'éligibilité et prise en charge financière par le FAFIEC » sont annulées et remplacées par les dispositions suivantes :
 « Les contrats de professionnalisation pris en charge par le FAFIEC concernent les métiers de la branche ainsi que les métiers transverses.
 Les montants de prises en charge par le FAFIEC sont définis annuellement par la CPNE dans sa note de politique de formation.
 Les montants et les critères de prise en charge des contrats de professionnalisation par le FAFIEC sont les suivants.
+
+ 
 
 | Qualification visée sanction de la formation | Métiers de la branche et métiers transverses | Niveau d'entrée du bénéficiaire | Amplitude/ durée du contrat | Durée de la formation (en % du temps du contrat) | Prise en charge PAR L'OPCA (2) |
 | --- | --- | --- | --- | --- | --- |
@@ -4981,10 +5365,14 @@ Les montants et les critères de prise en charge des contrats de professionnalis
 | Nouveaux publics (1) | Tous |  | Jusqu'à 24 mois | 15 € par heure |  |
 | (1) Le contrat de professionnalisation est étendu aux bénéficiaires du revenu de solidarité active, de l'allocation de solidarité spécifique, de l'allocation pour adultes handicapés, aux bénéficiaires du RMI et de l'allocation parent isolé en outre-mer, ainsi qu'aux personnes ayant bénéficié du contrat unique d'insertion. L'accès au contrat de professionnalisation est également facilité pour certains jeunes sans qualification. Pour ces publics, la durée du contrat de professionnalisation peut être portée à 24 mois. La prise en charge des contrats de professionnalisation conclus avec ces publics fait l'objet d'une prise en charge spécifique de 15 €. Ces dispositions s'appliquent sous réserve des dispositions législatives et réglementaires en vigueur. (2) Les montants de prise en charge par le FAFIEC applicables en 2011 figurent dans le tableau ci-dessus. Ils pourront être révisés par la CPNE dans sa note de politique de formation, pour les prises en charges postérieures au 31 décembre 2011, dans les limites suivantes : – le montant de 9,15 €, de 9,15 € à 15 € ; – le montant de 10 €, de 10 € à 15 € ; – le montant de 14 €, de 14 € à 20 €. Ces montants ne peuvent être inférieurs à ceux fixés par les dispositions légales et réglementaires en vigueur. Le coût moyen annuel de prise en charge des contrats de professionnalisation ne pouvant excéder 6 800 € au regard des critères de prise en charge du FPSPP (3), la CPNE fixe annuellement et par catégories telles que définies dans le tableau de prise en charge ci-dessus, des plafonds de prise en charge permettant de respecter le montant moyen annuel. (3) Le coût moyen annuel maximum de prise en charge des contrats de professionnalisation est modifié de droit par les critères de péréquation du FPSPP et sous réserve des dispositions légales et réglementaires en vigueur. » |  |  |  |  |  |
 
-#### Article 3
+### Article 3
+
+> **Source :** Article 3 — Avenant du 17 novembre 2010 à l'accord du 23 octobre 2008 relatif à la formation professionnelle.
 
 Les dispositions de l'article 3.2.4 « Soutien du FAFIEC » sont remplacées par les dispositions suivantes :
 « Les critères d'éligibilité et les taux de prise en charge par le FAFIEC pour les publics visés à l'article 3.2.3 sont définis dans le tableau ci-dessous :
+
+ 
 
 |  | Catégorie 1 | Catégorie 2 |
 | --- | --- | --- |
@@ -4995,35 +5383,41 @@ Les dispositions de l'article 3.2.4 « Soutien du FAFIEC » sont remplacées par
 | En cas d'utilisation du DIF hors temps de travail | Prise en charge par le FAFIEC des frais pédagogiques dans la limite de 80 heures (à hauteur de 10 € par heure) | Prise en charge par le FAFIEC des frais pédagogiques dans la limite de 80 heures (à hauteur de 10 € par heure) |
 | (1) Le montant total des prises en charge est plafonné aux coûts réels des frais pédagogiques et des salaires. Les montants de prise en charge par le FAFIEC pourront être révisés par la CPNE dans sa note de politique de formation dans les limites suivantes : – le taux de 10 €, de 10 € à 40 € ; – le taux de 15 €, de 15 € à 50 € ; – le taux de 25 €, de 25 € à 60 € ; – le taux de 35 €, de 35 € à 70 €. |  |  |
 
-Ces dispositions s'appliquent sous réserve des dispositions législatives et réglementaires en vigueur.
+ Ces dispositions s'appliquent sous réserve des dispositions législatives et réglementaires en vigueur.
 Délai de franchise entre deux périodes de professionnalisation prises en charge par le FAFIEC : un délai de franchise de 2 ans, courant de la fin d'une période prise en charge au début de la suivante, devra être respecté pour un même salarié.
 Ces plafonds sont d'application instantanée et ne constituent pas des plafonds annuels.
 Quelle que soit la décision de l'employeur, la période de professionnalisation est subordonnée à l'accord de prise en charge totale ou partielle par l'OPCA. »
 
-#### Article 4
+### Article 4
+
+> **Source :** Article 4 — Avenant du 17 novembre 2010 à l'accord du 23 octobre 2008 relatif à la formation professionnelle.
 
 Le présent avenant entrera en vigueur à compter du premier jour du mois civil qui suit la publication de son arrêté ministériel d'extension au Journal officiel.
 Il sera déposé par la partie la plus diligente, conformément aux articles L. 2231-6, L. 2261-1, L. 2262-8 et D. 2232 du code du travail (art. L. 132-10 ancien du code du travail) et les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal d'opposition.
 
-### Avenant du 21 décembre 2011 à l'accord du 28 octobre 2009 relatif aux CQP
+## Avenant du 21 décembre 2011 à l'accord du 28 octobre 2009 relatif aux CQP
 
-#### Article 1er
+### Article 1er
+
+> **Source :** Article 1er — Avenant du 21 décembre 2011 à l'accord du 28 octobre 2009 relatif aux CQP.
 
 Les dispositions de l'article 5.1.7 « Prise en charge des frais liés à l'organisation des jurys » sont complétées comme suit :
 « Les partenaires sociaux décident d'accorder, pour la préparation des jurys de CQP, une durée de préparation équivalente à celle de la participation au jury afférent.
 La préparation des jurys de CQP et la prise en charge de ses frais sont réalisées dans les mêmes conditions que celles prévues pour la participation audit jury. »
 
-#### Article 2
+### Article 2 — Dépôt et extension
 
-*Dépôt et extension*
+> **Source :** Article 2 — Dépôt et extension — Avenant du 21 décembre 2011 à l'accord du 28 octobre 2009 relatif aux CQP.
 
 Le présent accord sera déposé par la partie la plus diligente dans le cadre des articles L. 2231-6, L. 2261-1, L. 2262-8 et D. 2231-2 du code du travail.
 Les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal d'opposition.
 Le présent accord prendra effet au premier jour du mois civil suivant la date de publication de l'arrêté ministériel d'extension de l'accord au Journal officiel.
 
-### Avenant du 18 janvier 2012 à l'accord du 28 juin 2011 relatif à la professionnalisation
+## Avenant du 18 janvier 2012 à l'accord du 28 juin 2011 relatif à la professionnalisation
 
-#### Article 1er
+### Article 1er
+
+> **Source :** Article 1er — Avenant du 18 janvier 2012 à l'accord du 28 juin 2011 relatif à la professionnalisation.
 
 Les dispositions du titre II, section 1, article 1er, concernant les contrats de professionnalisation sont annulées et remplacées par les dispositions suivantes :
 
@@ -5058,6 +5452,8 @@ Un tuteur est désigné par l'employeur pour accueillir et guider le (la) salari
 Le niveau du salaire et le coefficient d'entrée doivent correspondre à l'emploi occupé pendant le contrat de professionnalisation.
 Sous réserve de l'application des articles L. 6325-8, L. 6325-9 et D. 6325-14 du code du travail et des articles D. 6325-14 et D. 6325-18 du code du travail portant fixation des rémunérations minimales des salariés titulaires d'un contrat de professionnalisation, le niveau minimal de rémunération est défini dans le tableau ci-dessous, après vérification que les minima conventionnels ne soient pas inférieurs au Smic.
 Au terme du contrat de professionnalisation en CDD, ou de l'action de professionnalisation, en cas de contrat de professionnalisation en CDI, le niveau de salaire et le coefficient de sortie doivent correspondre à l'emploi qui sera occupé, tout en respectant le coefficient minimum de sortie, défini dans le tableau ci-dessous, ou celui inscrit dans les accords conclus dans le cadre d'un CQP ou un CQPI.
+
+ 
 
 | Niveau de formation à l'entrée (Niveau éduction nationale) | Année d'exécution du CP | Coefficient d'entrée | Coefficient de sortie | Taux de rémunération (En % du SMC) |  |
 | --- | --- | --- | --- | --- | --- |
@@ -5095,6 +5491,8 @@ La CPNE conduira une réflexion pour mettre en place des outils destinés à fav
 Les contrats de professionnalisation pris en charge par le FAFIEC concernent les métiers de la branche ainsi que les métiers transverses.
 Le tableau ci-dessous détaille les critères de prise en charge des contrats de professionnalisation par le FAFIEC, les montants de prises en charge par le FAFIEC étant définis annuellement par la CPNE dans sa note de politique de formation.
 
+ 
+
 | Qualification visée/ sanction de la formation | Métiers de la branche et métiers transverses | Niveau d'entrée du bénéficiaire | Amplitude/ durée du contrat | Durée de la formation (en % du temps du contrat) | Prise en charge par l'OPCA (2) |
 | --- | --- | --- | --- | --- | --- |
 | Diplôme Titre (RNCP) CQP et CQPI (art. L. 6314-1 et D. 6314-1) | Tous | Bac + 2 et au-delà | De 6 à 24 mois | 15 % à 50 % > 150 heures | De 14 € à 20 € et de 9,15 € à 15 € pour les métiers transverses |
@@ -5105,54 +5503,54 @@ Le tableau ci-dessous détaille les critères de prise en charge des contrats de
 | Jeunes sans qualification | Tous |  | De 6 à 24 mois selon la qualification visée | 18 €/ heure |  |
 | (1) Le contrat de professionnalisation est étendu aux bénéficiaires du revenu de solidarité active, de l'allocation de solidarité spécifique, de l'allocation pour adultes handicapés, aux bénéficiaires du RMI et de l'allocation parent isolé en outre-mer, ainsi qu'aux personnes ayant bénéficié du contrat unique d'insertion. Ces dispositions s'appliquent sous réserve des dispositions législatives et réglementaires en vigueur. (2) Les montants de prise en charge par le FAFIEC sont déterminés chaque année dans le respect des dispositions des accords de branche et/ ou de la politique de formation. Ces montants ne peuvent être inférieurs à ceux fixés par les dispositions légales et réglementaires en vigueur. |  |  |  |  |  |
 
-1.7. Tutorat des contrats de professionnalisation
+ 1.7. Tutorat des contrats de professionnalisation
 
 Dans le respect des dispositions législatives et réglementaires, le FAFIEC prend en charge l'exercice de la fonction tutorale à la condition que le tuteur ait suivi la formation spécifique prévue au titre VI, section 1, du présent accord.
 La prise en charge par le FAFIEC de l'exercice de la fonction tutorale est limitée à 25 % de la durée du contrat de professionnalisation et au montant mensuel fixé par décret. »
 
-#### Article 2
+### Article 2 — Dépôt et extension
 
-*Dépôt et extension*
+> **Source :** Article 2 — Dépôt et extension — Avenant du 18 janvier 2012 à l'accord du 28 juin 2011 relatif à la professionnalisation.
 
 Le présent accord sera déposé par la partie la plus diligente dans le cadre des articles L. 2231-6, L. 2261-1, L. 2262-8 et D. 2231-2 du code du travail.
 Les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal d'opposition.
 Le présent accord prendra effet au premier jour du mois civil suivant la date de publication de l'arrêté ministériel d'extension de l'accord au Journal officiel.
 
-### Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC
+## Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Dans le cadre de l'article 49 de la convention collective des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils, les partenaires sociaux ont créé l'OPCA FAFIEC par accord du 14 décembre 1994.
 Afin de prendre en compte les dispositions de la loi du 24 novembre 2009 relatives à l'orientation et à la formation professionnelle tout au long de la vie et d'adapter en conséquence les dispositions de branche, les partenaires sociaux décident de substituer le présent accord à l'accord du 14 décembre 1994 modifié par les avenants des 24 janvier 1995,15 janvier 1999 et 17 mai 2005.
 
-#### Article 1er
+### Article 1er — Agrément
 
-*Agrément*
+> **Source :** Article 1er — Agrément — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Les organisations signataires demandent l'agrément pour une durée indéterminée d'un organisme paritaire collecteur agréé (OPCA) doté de la personnalité morale conformément aux dispositions des articles L. 6332-1 et L. 6332-7 du code du travail.
 L'organisme paritaire collecteur agréé reprend l'ensemble des biens meubles ou immeubles, ainsi que l'ensemble des engagements du fonds d'assurance formation ingénierie études et conseil.
 
-#### Article 2
+### Article 2 — Dénomination
 
-*Dénomination*
+> **Source :** Article 2 — Dénomination — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Le siège social de l'organisme paritaire collecteur agréé, dénommé FAFIEC, est fixé au 25, quai Panhard-et-Levassor, 75013 Paris.
 
 Il peut être transféré à tout autre endroit par décision du conseil d'administration.
 
-#### Article 3
+### Article 3 — Champ d'intervention
 
-*Champ d'intervention*
+> **Source :** Article 3 — Champ d'intervention — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Le FAFIEC intervient sur tout le territoire national y compris les départements d'outre-mer, et pour les salariés des secteurs d'activité relevant du champ d'application de la convention collective nationale étendue du 15 décembre 1987 des bureaux d'études techniques cabinets d'ingénieurs conseils et sociétés de conseils, idcc 1486.
 Le FAFIEC regroupe les entreprises concernées par la convention collective nationale et assujetties à la formation professionnelle continue prévue par le code du travail aux articles L. 6331-1 et suivants.
 Les partenaires sociaux examineront la possibilité pour le FAFIEC d'intervenir au titre d'autres secteurs d'activité.
 
-#### Article 4
+### Article 4 — Collecte
 
-*Collecte*
+> **Source :** Article 4 — Collecte — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Le FAFIEC a pour objet de percevoir et de gérer les contributions financières des entreprises ou établissements au titre (1) :
 
@@ -5172,9 +5570,9 @@ Le FAFIEC a pour objet de percevoir et de gérer les contributions financières 
 
 (Arrêté du 20 novembre 2015 - art. 1)
 
-#### Article 5
+### Article 5 — Missions
 
-*Missions*
+> **Source :** Article 5 — Missions — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Le FAFIEC assurera les missions définies par les dispositions légales et réglementaires.
 
@@ -5182,15 +5580,15 @@ En outre, il mettra à la disposition des salariés les informations utiles à l
 
 Les partenaires sociaux, souhaitant concilier au mieux les intérêts des entreprises, des salariés et le respect du droit de la concurrence, décident que les activités de services et de conseil concernant la formation professionnelle en faveur des entreprises qui peuvent être qualifiées d'activités économiques seront externalisées par le FAFIEC, conformément aux préconisations administratives.
 
-#### Article 6
+### Article 6 — Mobilisation des ressources
 
-*Mobilisation des ressources*
+> **Source :** Article 6 — Mobilisation des ressources — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Les ressources financières du FAFIEC, telles que définies à l'article 4 du présent accord constitutif, sont gérées et mobilisées en application des articles R. 6332-16 et suivants du code du travail. Le FAFIEC ne peut posséder d'autres biens meubles ou immeubles que ceux nécessaires à son fonctionnement.
 
-#### Article 7
+### Article 7 — Utilisation des ressources
 
-*Utilisation des ressources*
+> **Source :** Article 7 — Utilisation des ressources — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Les fonds collectés par le FAFIEC sont gérés au sein des sections et des sous-sections financières suivantes :
 
@@ -5226,9 +5624,9 @@ Les fonds susceptibles d'être collectés au sein des sections 4 et 5 sont affec
 
 Les fonds collectés au sein de la section 8 sont gérés selon les principes et techniques comptables prévus par le code de commerce et conformément aux dispositions de l'article R. 6242-2 du code du travail, pour permettre notamment de suivre les répartitions en différentes fractions.
 
-#### Article 8
+### Article 8 — Administration
 
-*Administration*
+> **Source :** Article 8 — Administration — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 A. – Attributions du conseil d'administration
 
@@ -5320,34 +5718,34 @@ Le bureau peut être amené à prendre des décisions uniquement dans le cadre d
 Il se réunit entre deux conseils d'administration.
 Les règles de fonctionnement du bureau sont définies au règlement intérieur.
 
-#### Article 9
+### Article 9 — Conditions d'application
 
-*Conditions d'application*
+> **Source :** Article 9 — Conditions d'application — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Le présent accord annule et remplace l'accord constitutif de l'organisme paritaire collecteur agréé (OPCA FAFIEC) du 14 décembre 1994 modifié par les avenants des 24 janvier 1995,15 janvier 1999 et 17 mai 2005, l'accord portant sur l'organisme paritaire collecteur agréé (OPCA FAFIEC) des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils du 15 juin 2011 modifié par l'avenant du 13 octobre 2011, dans les conditions des articles L. 2261-9 et suivants du code du travail.
 Le présent accord sera déposé par la partie la plus diligente dans le cadre des articles L. 2231-6, L. 2261-1, L. 2262-8 et D. 2231-2 du code du travail. Les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal d'opposition.
 Le présent accord prendra effet au premier jour du mois civil suivant la date de publication de l'arrêté ministériel d'extension de l'accord au Journal officiel.
 
-#### Article 10
+### Article 10 — Révision de l'accord constitutif
 
-*Révision de l'accord constitutif*
+> **Source :** Article 10 — Révision de l'accord constitutif — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Les modifications à apporter au présent accord constitutif peuvent être demandées par l'une des parties signataires du présent accord.
 Dans ce cas, la commission paritaire de la convention collective nationale doit se réunir dans un délai de 2 mois afin de délibérer sur les modifications proposées.
 
-#### Article 11
+### Article 11 — Cessation d'activité
 
-*Cessation d'activité*
+> **Source :** Article 11 — Cessation d'activité — Accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Si le FAFIEC venait à cesser ses activités pour quelque cause que ce soit, ses biens seraient dévolus à un ou plusieurs organismes de même nature désignés par le conseil d'administration.
 La dévolution des biens est soumise à l'accord préalable du ministre chargé de la formation professionnelle continue.
 A défaut, les biens sont dévolus au Trésor public.
 
-### avenant n° 5 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance
+## avenant n° 5 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — avenant n° 5 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 Les organisations professionnelles d'employeurs et les syndicats de salariés relevant de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseil du 15 décembre 1987 se sont réunis afin, notamment, d'étudier les conséquences sur le régime conventionnel de prévoyance de la loi n° 2010-1330 du 9 novembre 2010 portant réforme des retraites.
 En effet, ladite loi prévoit en son article 18 un recul progressif de l'âge de départ à la retraite, à terme fixé à 62 ans (l'âge de la retraite à taux plein en cas de durée d'assurance non atteinte étant par voie de conséquence porté à 67 ans).
@@ -5355,9 +5753,9 @@ Cette mesure induit de fait un allongement de la durée de versement des prestat
 Les partenaires sociaux ont préalablement pris conseil auprès d'un expert indépendant, qui a procédé à un audit des comptes de résultats du régime conventionnel et de ses perspectives d'évolution.
 Il a été convenu ce qui suit :
 
-#### Article 1er
+### Article 1er — Taux des cotisations
 
-*Taux des cotisations*
+> **Source :** Article 1er — Taux des cotisations — avenant n° 5 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 L'article 2.2 de l'avenant n° 1 du 25 janvier 1998 à l'accord du 27 mars 1997 est désormais libellé comme suit :
 « Pour l'ensemble des risques garantis par l'accord « Prévoyance » du 27 mars 1997, les entreprises adhérentes du régime de branche auprès des organismes désignés acquitteront une cotisation calculée comme suit :
@@ -5367,9 +5765,9 @@ L'article 2.2 de l'avenant n° 1 du 25 janvier 1998 à l'accord du 27 mars 1997 
 – sur la tranche C : 1,13 %.
 Les taux de cotisations seront maintenus pendant 3 ans par les institutions de prévoyance, et ce à compter du 1er janvier 2013. »
 
-#### Article 2
+### Article 2 — Impact de la réforme des retraites
 
-*Impact de la réforme des retraites*
+> **Source :** Article 2 — Impact de la réforme des retraites — avenant n° 5 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 L'article 2.4 « Clause de révision » de l'annexe à l'accord du 27 mars 1997 est supprimé. Il est remplacé par un article 2 libellé comme suit :
 
@@ -5385,24 +5783,24 @@ Toutefois, cette indemnité ne sera pas exigible si l'organisme assureur ne pour
 A l'inverse, dans le cas d'une entreprise relevant du champ d'application de la convention collective qui déciderait de rejoindre le régime conventionnel avant l'expiration de la période transitoire, celle-ci devra s'assurer auprès de l'assureur dont le contrat aura été résilié que les prestations nées ou à naître sont intégralement provisionnées. A défaut, et en cas de reprise des engagements par les organismes désignés, l'entreprise devra procéder au paiement du solde restant à provisionner.
 Les dispositions de l'article 26 de la loi susvisée relatives au provisionnement sont d'ordre public. »
 
-#### Article 3
+### Article 3 — Date d'effet, dépôt et extension
 
-*Date d'effet, dépôt et extension*
+> **Source :** Article 3 — Date d'effet, dépôt et extension — avenant n° 5 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 Eu égard au caractère d'ordre public de la loi portant réforme des retraites et dans le souci d'une bonne gestion des comptes du régime conventionnel de prévoyance, les partenaires sociaux décident que les dispositions du présent avenant entreront en vigueur le 1er janvier 2013.
 Le présent avenant sera établi en un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires. Il sera déposé en application de l'article L. 2231-6 du code du travail et son extension sera demandée.
 
-### Avenant n° 6 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance
+## Avenant n° 6 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 6 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 Les organisations professionnelles d'employeurs et les syndicats de salariés relevant de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseil du 15 décembre 1987 se sont réunis afin de préciser les conséquences d'un éventuel changement d'assureur sur le régime mutualisé auprès des organismes désignés.
 
-#### Article 1er
+### Article 1er — Modifications apportées à l'article 1er de l'avenant n° 1 du 25 juin 1998 à l'accord de prévoyance
 
-*Modifications apportées à l'article 1er de l'avenant n° 1 du 25 juin 1998 à l'accord de prévoyance*
+> **Source :** Article 1er — Modifications apportées à l'article 1er de l'avenant n° 1 du 25 juin 1998 à l'accord de prévoyance — Avenant n° 6 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 Afin de tenir compte de la fusion intervenue entre l'URRPIMMEC et Médéric Prévoyance, la dénomination de l'organisme désigné mentionnée au premier alinéa de l'article 1er de l'avenant n° 1 du 25 juin 1998 à l'accord du 27 mars 1997 est modifié comme suit :
 Ancienne dénomination : « Médéric Prévoyance et l'URRPIMMEC (institutions de prévoyance du groupe Malakoff Médéric) ».
@@ -5411,9 +5809,9 @@ D'autre part, la phrase suivante est modifiée :
 Ancienne rédaction : « 3. De même les entreprises en création disposent d'un délai de 6 mois pour satisfaire aux garanties prévues par l'accord''Prévoyance''du 27 mars 1997, et ce auprès de tout organisme de leur choix. »
 Nouvelle rédaction : « 3. De même les entreprises en création disposent d'un délai de 3 mois pour satisfaire aux garanties prévues par l'accord''Prévoyance''du 27 mars 1997, et ce auprès de tout organisme de leur choix. »
 
-#### Article 2
+### Article 2 — Organisation du régime de prévoyance de branche
 
-*Organisation du régime de prévoyance de branche*
+> **Source :** Article 2 — Organisation du régime de prévoyance de branche — Avenant n° 6 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 L'avenant n° 1 du 25 juin 1998 à l'accord du 27 mars 1997 est modifié comme suit :
 
@@ -5437,18 +5835,18 @@ En cas de dénonciation ou du non-renouvellement de la désignation, les disposi
 Les partenaires sociaux organiseront la poursuite de la revalorisation des prestations en cours de service ainsi que de la base de calcul des prestations relatives à la couverture du risque décès maintenu, conformément aux dispositions de l'article L. 912-3 du code de la sécurité sociale.
 L'ensemble des dispositions qui précèdent s'applique également dans le cas d'une entreprise adhérente qui cesserait de relever du champ d'application de l'accord de prévoyance, cet événement entraînant la résiliation de son adhésion au régime de branche ; les modalités d'organisation des revalorisations futures seront alors de son ressort.
 
-#### Article 3
+### Article 3 — Date d'effet, dépôt et extension
 
-*Date d'effet, dépôt et extension*
+> **Source :** Article 3 — Date d'effet, dépôt et extension — Avenant n° 6 du 12 septembre 2012 à l'accord du 27 mars 1997 relatif à la prévoyance.
 
 Les dispositions du présent avenant entreront en vigueur à compter du premier jour du mois civil suivant la parution de l'arrêté d'extension.
 Le présent avenant sera établi en un nombre suffisant d'exemplaires pour être remis à chacune des parties signataires. Il sera déposé en application de l'article L. 2231-6 du code du travail et son extension sera demandée.
 
-### Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux
+## Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 La préservation et l'amélioration de la santé au travail étant une priorité qui s'appréhendent dans un cadre nécessairement pluridisciplinaire et dans le cadre d'une prise en charge collective, les partenaires sociaux de la branche ont engagé des négociations encadrées par l'accord de méthode qu'ils ont signé le 10 mars 2011.
 
@@ -5494,9 +5892,9 @@ Les partenaires sociaux considèrent que concernant les domaines ci-après list�
 
 Les partenaires sociaux, sans rappeler ces règles, conviennent que les dispositions du présent accord s'inscrivent dans leur cadre, et qu'il appartient à l'employeur de les respecter.
 
-#### Article 1er
+### Article 1er — Prévention des risques dans le cadre de l'obligation générale de santé et de sécurité
 
-*Prévention des risques dans le cadre de l'obligation générale de santé et de sécurité*
+> **Source :** Article 1er — Prévention des risques dans le cadre de l'obligation générale de santé et de sécurité — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 L'employeur se fixe l'objectif d'identifier, au préalable, les facteurs de risques au moyen des indicateurs inscrits dans le document unique des risques professionnels qu'il établit (par exemple : absentéisme, arrêts maladie, enquêtes internes, taux des accidents du travail et maladies professionnelles, analyse des plaintes individuelles ou collectives, etc.).
 
@@ -5508,9 +5906,9 @@ En particulier, le programme annuel de prévention des risques professionnels et
 
 L'employeur se dote des moyens suffisants pour assurer la santé et la sécurité de ses salariés, notamment dans le cadre des entretiens annuels permettant de contrôler les conditions de travail.
 
-#### Article 2
+### Article 2 — Moyens du CHSCT
 
-*Moyens du CHSCT*
+> **Source :** Article 2 — Moyens du CHSCT — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Les partenaires sociaux rappellent que les institutions représentatives du personnel compétentes doivent, par l'analyse des risques professionnels et des conditions de travail, concourir à l'amélioration de la politique de prévention des risques menée dans l'entreprise dans le cadre des dispositions légales et réglementaires.
 
@@ -5524,9 +5922,9 @@ Les entreprises permettent au CHSCT ou, à défaut, les délégués du personnel
 
 (Arrêté du 23 octobre 2013 - art. 1)
 
-#### Article 2.1
+### Article 2.1 — Crédit d'heures additionnel annuel forfaitaire pour le CHSCT et plans de prévention
 
-*Crédit d'heures additionnel annuel forfaitaire pour le CHSCT et plans de prévention*
+> **Source :** Article 2.1 — Crédit d'heures additionnel annuel forfaitaire pour le CHSCT et plans de prévention — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Dans le cadre de la mise en œuvre et du suivi d'un ou de plusieurs plans de prévention, sans préjudice des dispositions légales et réglementaires, les entreprises accorderont à chaque membre titulaire du CHSCT :
 
@@ -5538,9 +5936,9 @@ Dans le cadre de la mise en œuvre et du suivi d'un ou de plusieurs plans de pr�
 
 Ce temps, qui ne sera pas décompté des heures de délégation, n'est pas mutualisable entre membres du CHSCT et ne peut être reporté d'un mois sur l'autre.
 
-#### Article 2.2
+### Article 2.2 — Coordination périodique des CHSCT des entreprises d'un même groupe ou d'établissements d'une même entreprise
 
-*Coordination périodique des CHSCT des entreprises d'un même groupe ou d'établissements d'une même entreprise*
+> **Source :** Article 2.2 — Coordination périodique des CHSCT des entreprises d'un même groupe ou d'établissements d'une même entreprise — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 En cas de présence de plusieurs CHSCT au sein des entreprises relevant du champ de la branche au sein d'un même groupe ou au sein des établissements d'une même entreprise, des mesures de coordination des CHSCT sont mises en place. (1)
 
@@ -5550,15 +5948,15 @@ L'employeur assurera, en sus des réunions ordinaires des CHSCT, la prise en cha
 
 (Arrêté du 23 octobre 2013 - art. 1)
 
-#### Article 3
+### Article 3 — Protection de la santé au travail et prévention des risques dans le cadre de la durée du travail
 
-*Protection de la santé au travail et prévention des risques dans le cadre de la durée du travail*
+> **Source :** Article 3 — Protection de la santé au travail et prévention des risques dans le cadre de la durée du travail — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 *(pas de contenu)*
 
-#### Article 3.1
+### Article 3.1 — Dispositions communes
 
-*Dispositions communes*
+> **Source :** Article 3.1 — Dispositions communes — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Les présentes dispositions se situent dans le prolongement des dispositions de l'accord de branche du 22 juin 1999 sur la durée du travail qu'elles complètent.
 
@@ -5612,9 +6010,9 @@ Lors de l'entretien individuel l'employeur considère les modalités et le temps
 
 L'employeur rappelle régulièrement par l'envoi de notes de service à tous les salariés, les règles en termes d'organisation et de durée du travail.
 
-#### Article 3.2
+### Article 3.2 — Dispositions spécifiques aux salariés relevant des modalités de réalisation de missions avec autonomie complète (forfait annuel en jours)
 
-*Dispositions spécifiques aux salariés relevant des modalités de réalisation de missions avec autonomie complète (forfait annuel en jours)*
+> **Source :** Article 3.2 — Dispositions spécifiques aux salariés relevant des modalités de réalisation de missions avec autonomie complète (forfait annuel en jours) — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 En application des dispositions de l'accord du 22 juin 1999, les salariés relevant d'un forfait annuel en jours ne peuvent pas travailler, hors dispositions spécifiques, plus de 217 jours sur l'année civile (hors journée de solidarité), compte non tenu des éventuels jours d'ancienneté.
 
@@ -5640,9 +6038,9 @@ Les dispositions du dernier alinéa de l'article 3.1.2 sont applicables aux sala
 
 (Arrêté du 23 octobre 2013 - art. 1)
 
-#### Article 4
+### Article 4 — Trajets et déplacements des salariés
 
-*Trajets et déplacements des salariés*
+> **Source :** Article 4 — Trajets et déplacements des salariés — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Afin de favoriser les déplacements en transport en commun, l'employeur pourra notamment mettre en place une incitation financière dans le cadre de la prise en charge des frais de transport individuel ou collectif.
 
@@ -5656,15 +6054,15 @@ L'employeur étudie et propose des modes alternatifs d'organisation du travail s
 
 Dans l'hypothèse où le salarié pourrait parcourir plus de 60 000 km en moyenne sur 3 ans au volant d'un véhicule automobile, à titre professionnel, l'employeur s'engage à lui faire exécuter tous les 3 ans un stage de conduite (type Centaure, ou toute autre action du même type).
 
-#### Article 5
+### Article 5 — Dispositions relatives à l'organisation du travail dans le cadre de la mission
 
-*Dispositions relatives à l'organisation du travail dans le cadre de la mission*
+> **Source :** Article 5 — Dispositions relatives à l'organisation du travail dans le cadre de la mission — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Les partenaires sociaux rappellent que la mission doit être organisée dans le cadre d'un équilibre entre les enjeux économiques et managériaux de l'entreprise, l'obligation de santé-sécurité de l'employeur et la vie personnelle du salarié.
 
-#### Article 5.1
+### Article 5.1 — Mission du (de la) salarié(e) chez le client
 
-*Mission du (de la) salarié(e) chez le client*
+> **Source :** Article 5.1 — Mission du (de la) salarié(e) chez le client — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Dans le cadre des dispositions de la convention collective nationale, avant l'envoi d'un(e) salarié(e) en déplacement, l'employeur doit informer le (la) salarié(e) des conditions de réalisation de sa prestation de travail en établissant un ordre de mission.
 
@@ -5692,9 +6090,9 @@ L'employeur s'engage à organiser un suivi des salariés se trouvant sur plusieu
 
 L'employeur devra fournir du matériel de travail adapté à tous les salariés, et le matériel le plus adapté possible aux salariés nomades, sur la base de l'avis du médecin du travail. Il procédera à une sensibilisation des salariés à l'utilisation de matériels de protection de la santé adaptés aux conditions particulières de l'entreprise et de l'emploi du (de la) salarié(e).
 
-#### Article 5.2
+### Article 5.2 — Mission à l'étranger
 
-*Mission à l'étranger*
+> **Source :** Article 5.2 — Mission à l'étranger — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Les dispositions relatives à l'ordre de mission de l'article 5.1 doivent être respectées.
 
@@ -5718,15 +6116,15 @@ Il est rappelé en outre que les entreprises qui exercent habituellement ou occa
 
 L'employeur apportera toute information sur les pays de destination (culture, vie sociale, par la remise d'une fiche d'information sur le pays, coordonnées des consulats et marche à suivre notamment).
 
-#### Article 6
+### Article 6 — Mise en place d'actions d'information, de sensibilisation et de formation
 
-*Mise en place d'actions d'information, de sensibilisation et de formation*
+> **Source :** Article 6 — Mise en place d'actions d'information, de sensibilisation et de formation — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 *(pas de contenu)*
 
-#### Article 6.1
+### Article 6.1 — Information, sensibilisation et formation des salariés
 
-*Information, sensibilisation et formation des salariés*
+> **Source :** Article 6.1 — Information, sensibilisation et formation des salariés — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Les partenaires sociaux considèrent qu'une sensibilisation du management est essentielle.
 
@@ -5744,9 +6142,9 @@ Afin de maintenir son lien avec le (la) salarié(e), l'employeur devra favoriser
 
 Les partenaires sociaux mettront en place une action collective avec le FAFIEC destinée au management pour permettre à l'employeur d'assurer des actions notamment de « reconnaissance et qualité de vie au travail », de redynamisation du document unique, des actions de formation à l'attention du management afin de « conserver son efficacité dans les situations difficiles ».
 
-#### Article 6.2
+### Article 6.2 — Information, sensibilisation et formation des représentants du personnel
 
-*Information, sensibilisation et formation des représentants du personnel*
+> **Source :** Article 6.2 — Information, sensibilisation et formation des représentants du personnel — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Une démarche complète et durable tendant à développer une culture santé et sécurité dans l'entreprise, une prise de conscience de la nécessité d'une action sur les facteurs organisationnels et psychosociaux et/ou relationnels, une information et la participation du personnel sont recherchées par l'employeur en collaboration avec ses partenaires (notamment le CHSCT).
 
@@ -5758,9 +6156,9 @@ L'employeur confie au médecin du travail ou à des experts des conditions de tr
 
 L'employeur incite les membres du CHSCT, ou à défaut, les délégués du personnel, dans le cadre d'une expertise, à participer aux portes ouvertes organisées par les services de santé. De son côté, l'employeur pourra s'impliquer dans les conseils d'administration et assemblées générales des services de santé au travail.
 
-#### Article 7
+### Article 7 — Suivi de l'accord
 
-*Suivi de l'accord*
+> **Source :** Article 7 — Suivi de l'accord — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Les partenaires sociaux décident la mise en place d'un suivi de l'accord organisé dans le cadre de l'OPNC et de l'ADESATT.
 
@@ -5770,71 +6168,71 @@ Ils conviennent de diligenter une étude triennale auprès de l'ADESATT qui sera
 
 Dans les 3 mois qui suivent la publication de l'arrêté d'extension, un groupe de travail composé de deux représentants par signataire du présent accord sera chargé de formaliser les conditions du cahier des charges de l'étude qui sera réalisée par l'ADESATT dans le cadre de son plan de travail.
 
-#### Article 8
+### Article 8 — Dépôt, durée et extension
 
-*Dépôt, durée et extension*
+> **Source :** Article 8 — Dépôt, durée et extension — Accord du 19 février 2013 relatif à la santé et aux risques psychosociaux.
 
 Le présent accord prendra effet au premier jour du mois civil suivant la date de publication de l'arrêté ministériel d'extension de l'accord au Journal officiel.
 
 Il est conclu pour une durée de 3 ans à compter de la date de son entrée en vigueur. Les parties conviennent de se rencontrer dans les 12 mois précédant l'échéance du délai de 3 ans afin de déterminer autant que de besoin, notamment à partir des remontées produites par la commission de suivi, les évolutions possibles de l'accord.
 
-### Avenant n° 7 du 24 avril 2013 relatif à la désignation d'organismes assureurs
+## Avenant n° 7 du 24 avril 2013 relatif à la désignation d'organismes assureurs
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 7 du 24 avril 2013 relatif à la désignation d'organismes assureurs.
 
 Conformément aux dispositions de l'avenant n° 4 du 15 juillet 2009 à l'accord du 27 mars 1997, l'assurance du régime conventionnel de prévoyance de la convention collective nationale des bureaux d'études techniques est actuellement confiée à Malakoff Médéric Prévoyance (institution adhérente à l'OCIRP qui assure la rente éducation).
 La période quinquennale prévue par l'article L. 912-1 du code de la sécurité sociale arrivant à échéance, les organisations professionnelles d'employeurs et les syndicats de salariés ont procédé à un examen des conditions d'assurance et de gestion dudit régime, de mutualisation des risques, des perspectives d'évolution du régime. Afin de les aider dans cette démarche, les partenaires sociaux ont fait appel au cours de l'exercice 2012 à un actuaire conseil afin que ce dernier apporte son expertise.
 Outre les données strictement assurancielles, les éléments d'ordre qualitatif ont également été pris en compte dans cette approche.
 
-#### Article 1er
+### Article 1er — Désignation des organismes assureurs
 
-*Désignation des organismes assureurs*
+> **Source :** Article 1er — Désignation des organismes assureurs — Avenant n° 7 du 24 avril 2013 relatif à la désignation d'organismes assureurs.
 
 Dans le cadre des dispositions de l'article L. 912-1 du code de la sécurité sociale, après examen du régime de prévoyance à l'issue de la période quinquennale écoulée et de ses perspectives d'évolution, les partenaires sociaux conviennent de reconduire la désignation actuelle, pour une période de 5 années maximum. Le premier alinéa de l'article 1er de l'annexe à l'accord de prévoyance du 27 mars 1997 est en conséquence maintenu dans sa rédaction antérieure :
 « Les partenaires sociaux soussignés, membres de la commission paritaire de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs conseils et des sociétés de conseils, conviennent de confier la gestion du régime de prévoyance de la branche à Malakoff Médéric Prévoyance (institution de prévoyance du groupe Malakoff Médéric), aux conditions suivantes : ».
 
-#### Article 2
+### Article 2 — Dépôt, extension et date d'effet
 
-*Dépôt, extension et date d'effet*
+> **Source :** Article 2 — Dépôt, extension et date d'effet — Avenant n° 7 du 24 avril 2013 relatif à la désignation d'organismes assureurs.
 
 Le présent avenant sera établi en nombre suffisant d'exemplaires pour être remis à chacune des parties signataires. Il sera déposé en application de l'article L. 2231-6 du code du travail et son extension sera demandée.
 Les dispositions du présent avenant entreront en vigueur à compter du premier jour du mois civil suivant la parution de l'arrêté d'extension.
 
-### Accord du 12 juin 2013 relatif à la prévoyance
+## Accord du 12 juin 2013 relatif à la prévoyance
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 12 juin 2013 relatif à la prévoyance.
 
 A la suite de l'accord national interprofessionnel du 11 janvier 2013, et dans l'attente des dispositions légales et réglementaires, les partenaires sociaux de la branche ont engagé le 20 mars 2013 une négociation relative à la mise en place, par accord de branche, d'une couverture collective à adhésion obligatoire en matière de remboursements complémentaires des frais occasionnés par une maladie, une maternité ou un accident couvrant les salariés ne bénéficiant pas de couverture complémentaire dans le cadre de leur entreprise.
 La mise en place de cette couverture s'inscrit dans le cadre de l'évolution des dispositions légales, réglementaires et interprofessionnelles applicables. Les partenaires sociaux de la branche souhaitent la conclusion du présent accord de méthode afin de préparer la négociation de l'accord de branche dans les meilleures conditions et aboutir à un accord de branche dans les délais imposés.
 
-#### Chapitre Ier Objet de la négociation
+### Chapitre Ier Objet de la négociation
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre Ier Objet de la négociation — Accord du 12 juin 2013 relatif à la prévoyance.
 
 Les parties signataires, à travers la conduite d'une négociation de branche sur le thème de la mise en place d'une couverture collective à adhésion obligatoire en matière de remboursements complémentaires des frais occasionnés par une maladie, une maternité ou un accident et la recherche du présent accord, affirment par la signature du présent accord leur volonté commune d'améliorer le dispositif de protection sociale dans la branche.
 Cet accord de méthode a vocation à permettre aux partenaires sociaux de la branche de déterminer les bases de la négociation d'un accord de branche, applicable au plus tard au 30 juin 2014.
 Le présent accord définit pour ce faire une méthode de travail et un calendrier qui s'appliquent à toutes les parties.
 Les parties signataires rappellent que tout dispositif visant à améliorer les conditions de travail des salariés doit être conçu comme une démarche de progrès constante, adaptée et réactualisée, prenant en compte, notamment, les retours d'expérience.
 
-#### Chapitre II Préparation et méthode
+### Chapitre II Préparation et méthode
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre II Préparation et méthode — Accord du 12 juin 2013 relatif à la prévoyance.
 
 Afin d'aborder la négociation de l'accord sur la couverture collective à adhésion obligatoire en matière de remboursements complémentaires des frais occasionnés par une maladie, une maternité ou un accident dans les meilleures conditions, les organisations syndicales et patronales décident que les différentes phases de préparation de la négociation sont les suivantes.
 
-##### Article 1er
+#### Article 1er — Principes
 
-*Principes*
+> **Source :** Article 1er — Principes — Accord du 12 juin 2013 relatif à la prévoyance.
 
 L'objectif de la CPCCN consiste à élaborer un accord de branche qui instaure une couverture collective à adhésion obligatoire en matière de remboursements complémentaires des frais occasionnés par une maladie, une maternité ou un accident couvrant les salariés ne bénéficiant pas de couverture complémentaire dans le cadre de leur entreprise, selon le cadre de négociation et le calendrier fixés aux articles 2 et 3 du présent accord, et en respect des principes suivants.
 
-##### Article 2
+#### Article 2 — Cadre de négociation de l'accord de branche
 
-*Cadre de négociation de l'accord de branche*
+> **Source :** Article 2 — Cadre de négociation de l'accord de branche — Accord du 12 juin 2013 relatif à la prévoyance.
 
 Pour permettre à la CPCCN de préparer au mieux les éléments du futur accord, les parties signataires conviennent, sur la base des dispositions légales, réglementaires et interprofessionnelles applicables, d'un cadre qui servira de base aux futures négociations.
 
@@ -5866,9 +6264,9 @@ L'accord de branche s'articule notamment autour des éléments suivants :
 
 – les conditions de la portabilité des droits.
 
-##### Article 3
+#### Article 3 — Prévention et traitement des situations de conflit d'intérêts
 
-*Prévention et traitement des situations de conflit d'intérêts*
+> **Source :** Article 3 — Prévention et traitement des situations de conflit d'intérêts — Accord du 12 juin 2013 relatif à la prévoyance.
 
 Les représentants ne doivent en aucun cas se trouver en situation de conflit d'intérêts.
 Est considéré comme une situation de conflit d'intérêts le cas où l'un des représentants mandatés de la CPCCN exerce ou a exercé au cours des 5 dernières années des fonctions au sein d'une instance dirigeante, telle qu'un conseil d'administration, de l'organisme candidat, d'une instance non dirigeante, de type commission de suivi du régime de prévoyance de branche (des organismes d'assurance habilités à pratiquer les opérations visées aux branches 1 et 2 de l'article R. 321-1 du code des assurances, des institutions de prévoyance habilitées à pratiquer les opérations visées par l'article L. 931-1 du code de la sécurité sociale ; des mutuelles habilitées à pratiquer les opérations visées par l'article L. 211-1 du code de la mutualité ou des organismes qui leur sont affiliés au sens de la directive 98/78/CE sur la surveillance complémentaire des groupes d'assurance).
@@ -5878,9 +6276,9 @@ La CPCCN doit alors statuer sur ces situations dans un délai qu'elle aurait ell
 La CPCCN s'assure en conséquence, au début de chaque séance, qu'aucun des représentants mandatés n'est en situation de conflit d'intérêts, par déclaration sur l'honneur de chacun de ses membres au début de chaque réunion. Cette information figure au procès-verbal synthétique de la séance.
 A l'issue de l'appel d'offres, aucun représentant mandaté de la CPCCN ne peut exercer de fonctions délibérantes ou dirigeantes au sein de l'organisme retenu pendant la durée du contrat.
 
-##### Article 4
+#### Article 4 — Calendrier et signature
 
-*Calendrier et signature*
+> **Source :** Article 4 — Calendrier et signature — Accord du 12 juin 2013 relatif à la prévoyance.
 
 A titre indicatif, le nombre des réunions (calendrier) défini par les partenaires sociaux signataires du présent accord de branche est le suivant :
 
@@ -5902,28 +6300,28 @@ A titre indicatif, le nombre des réunions (calendrier) défini par les partenai
 
 Le projet d'accord sur la mise en place de la couverture collective à adhésion obligatoire en matière de remboursements complémentaires des frais occasionnés par une maladie, une maternité ou un accident sera soumis à la signature lors de la CPCCN du mois de février 2014.
 
-#### Chapitre III Durée de l'accord
+### Chapitre III Durée de l'accord
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre III Durée de l'accord — Accord du 12 juin 2013 relatif à la prévoyance.
 
 Le présent accord est conclu, à compter de sa date de signature sans réserve, pour la durée des négociations et jusqu'à la date de signature de l'accord de branche relatif à la mise en place de la couverture collective à adhésion obligatoire en matière de remboursements complémentaires des frais occasionnés par une maladie, une maternité ou un accident.
 
-#### Chapitre IV Révision. – Dénonciation
+### Chapitre IV Révision. – Dénonciation
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre IV Révision. – Dénonciation — Accord du 12 juin 2013 relatif à la prévoyance.
 
 Le présent accord est susceptible d'être modifié, par avenant, pendant toute la durée de son application d'un commun accord entre les parties.
 Les conditions de dénonciation et révision sont respectivement régies par les articles 81 et 82 de la convention collective nationale.
 
-#### Chapitre V Dépôt
+### Chapitre V Dépôt
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre V Dépôt — Accord du 12 juin 2013 relatif à la prévoyance.
 
 Le présent accord est déposé par la partie la plus diligente, conformément aux dispositions légales, réglementaires et conventionnelles.
 
-### Accord du 16 octobre 2013 relatif à l'activité partielle des salariés
+## Accord du 16 octobre 2013 relatif à l'activité partielle des salariés
 
-#### Article (préambule / sans numéro)
+> **Source :** Accord du 16 octobre 2013 relatif à l'activité partielle des salariés — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 L'accord s'applique à toutes les entreprises de la branche affectées par les circonstances exceptionnelles telles que mentionnées par les dispositions légales et réglementaires en vigueur.
  Soucieux d'éviter d'éventuels recours à l'activité partielle dans une acception trop extensive, les partenaires sociaux souhaitent, en complément du rappel des dispositions légales, encadrer le recours à l'activité partielle, soit par des recommandations, soit par des dispositions normatives.
@@ -5931,9 +6329,9 @@ L'accord s'applique à toutes les entreprises de la branche affectées par les c
  Dans le cadre des accords nationaux interprofessionnels du 6 février 2012 et du 11 janvier 2013, du plan de mobilisation décidé par l'Etat et les partenaires sociaux le 1er octobre 2012, de l'article 16 de la loi n° 2013-504 du 14 juin 2013 et du décret n° 2013-551 du 26 juin 2013 de l'arrêté du 6 septembre 2013 fixant le contingent annuel d'heures indemnisables, de l'instruction 2013-12 du 12 juillet 2013, les partenaires sociaux souhaitent ainsi appliquer des solutions adaptées au maintien dans l'emploi face aux difficultés conjoncturelles.
  Dans ce cadre particulier, les partenaires sociaux conviennent des dispositions suivantes.
 
-#### Article 1er
+### Article 1er — Principes et généralités
 
-*Principes et généralités*
+> **Source :** Article 1er — Principes et généralités — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 L'application des dispositions du présent accord, relatives au placement des salariés en activité partielle, s'effectue, suite à une demande préalable à l'administration, dans le cadre des dispositions légales et réglementaires en vigueur.
  Les partenaires sociaux rappellent que :
@@ -5946,30 +6344,30 @@ L'application des dispositions du présent accord, relatives au placement des sa
  Les entreprises visées par le présent accord qui ont besoin de recourir à l'activité partielle pour pallier une réduction ou suspension d'activité résultant notamment de la conjoncture économique, le font en respectant les conditions définies par les dispositions légales, réglementaires et conventionnelles en vigueur.
  Des mesures additionnelles de nature à améliorer la situation de leurs salariés sont décrites ci- après.
 
-#### Article 2
+### Article 2 — Mesures préalables à la mise en place de l'activité partielle
 
-*Mesures préalables à la mise en place de l'activité partielle*
+> **Source :** Article 2 — Mesures préalables à la mise en place de l'activité partielle — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Préalablement à leur demande de mise en œuvre de l'activité partielle, les entreprises relevant du présent accord prennent les dispositions suivantes de nature à limiter le recours à l'activité partielle.
 
-#### Article 2.1
+### Article 2.1 — Consultation préalable et information des représentants du personnel dans le cadre des dispositions légales et réglementaires
 
-*Consultation préalable et information des représentants du personnel dans le cadre des dispositions légales et réglementaires*
+> **Source :** Article 2.1 — Consultation préalable et information des représentants du personnel dans le cadre des dispositions légales et réglementaires — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 *(pas de contenu)*
 
-#### Article 2.1.1
+### Article 2.1.1 — Consultation des représentants du personnel
 
-*Consultation des représentants du personnel*
+> **Source :** Article 2.1.1 — Consultation des représentants du personnel — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Avant la mise en activité partielle, les informations détaillées seront données aux institutions représentatives du personnel pour consultation, conformément aux dispositions légales et réglementaires.
 L'avis du comité d'entreprise, à défaut de la délégation unique du personnel ou des délégués du personnel, s'ils existent, sera versé au dossier d'instruction de l'administration.
 Lorsque des mesures de nature à affecter les conditions de travail, le CHSCT doit être consulté conformément aux dispositions légales et réglementaires.
 En cas d'absence de représentant du personnel, l'employeur doit informer les salariés du projet de mise en place de l'activité partielle.
 
-#### Article 2.1.2
+### Article 2.1.2 — Information des représentants du personnel
 
-*Information des représentants du personnel*
+> **Source :** Article 2.1.2 — Information des représentants du personnel — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 La liste nominative des salariés concernés par l'activité partielle sera, après acceptation de l'administration, communiquée au comité d'entreprise sur les postes affectés par l'activité partielle.
 En cas de modification des horaires collectifs de travail et conformément aux dispositions légales et réglementaires en vigueur, l'employeur est tenu :
@@ -5977,30 +6375,30 @@ En cas de modification des horaires collectifs de travail et conformément aux d
 – d'afficher les nouveaux horaires dans l'entreprise ;
 – d'en informer les organisations syndicales de l'entreprise et les représentants du personnel.
 
-#### Article 2.2
+### Article 2.2 — Information des salariés
 
-*Information des salariés*
+> **Source :** Article 2.2 — Information des salariés — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Dans le cadre des dispositions légales en vigueur, en cas de diminution collective de l'horaire de travail, les salariés peuvent être placés en position d'activité partielle individuellement ou collectivement.
 En tout état de cause, l'employeur informe individuellement les salariés sur toutes les mesures d'activité partielle les concernant (temps de travail, indemnisation…).
 
-#### Article 2.3
+### Article 2.3 — Prise des soldes de jours de congés et de RTT
 
-*Prise des soldes de jours de congés et de RTT*
+> **Source :** Article 2.3 — Prise des soldes de jours de congés et de RTT — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 A titre préventif, sous réserve du respect des accords d'entreprise ou des politiques internes en la matière, les entreprises mettent en œuvre des dispositions incitant les salariés à prendre tout ou partie de leurs congés acquis et de leurs journées de RTT. Une information de l'existence éventuelle d'un fractionnement de son congé payé principal est donnée au (à la) salarié(e).
 
-#### Article 2.3.1
+### Article 2.3.1 — RTT
 
-*RTT*
+> **Source :** Article 2.3.1 — RTT — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 En cas d'accord d'entreprise sur le temps de travail, les salariés prennent les jours de RTT relevant du quota de l'employeur.
 L'employeur pourra demander au (à la) salarié(e) de prendre les jours de RTT dont il (elle) peut disposer librement sans pouvoir toutefois le lui imposer.
 Si l'accord d'entreprise ne prévoit rien ou n'existe pas, il convient d'appliquer l'usage ou l'accord atypique en vigueur dans l'entreprise.
 
-#### Article 2.3.2
+### Article 2.3.2 — Congés payés
 
-*Congés payés*
+> **Source :** Article 2.3.2 — Congés payés — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Le choix des dates de congés payés relève du pouvoir de direction de l'employeur. Il fixe la date de départ, accepte ou refuse les demandes des salariés, dans le cadre des dispositions légales et réglementaires en vigueur.
  Il doit notamment permettre au (à la) salarié(e) de prendre, dans la limite des congés acquis, au minimum 12 jours ouvrables de congés payés, conformément aux dispositions légales, réglementaires et de l'accord d'entreprise s'il existe.
@@ -6008,9 +6406,9 @@ Le choix des dates de congés payés relève du pouvoir de direction de l'employ
  Dans le cadre des dispositions de l'article L. 3141-16 du code du travail et par dérogation aux dispositions de la convention collective nationale du 15 décembre 1987 des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseils, le délai d'information du (de la) salarié(e) de ses dates de départ pourra être de 15 jours calendaires après consultation des délégués du personnel, s'ils existent.
  Après avis favorable des délégués du personnel, s'ils existent, et sur accord des parties, les jours RTT et/ou les congés payés acquis sur la période de référence peuvent être pris par anticipation.
 
-#### Article 2.4
+### Article 2.4 — Dispositions générales applicables à l'activité partielle
 
-*Dispositions générales applicables à l'activité partielle*
+> **Source :** Article 2.4 — Dispositions générales applicables à l'activité partielle — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Il est entendu entre les différents acteurs sociaux qui composent la branche que l'activité partielle ne peut être mise en place que dans le strict cadre des dispositions légales et réglementaires en vigueur.
 A ce titre, il n'est pas possible d'inclure dans la demande d'indemnisation de l'activité partielle les salariés dits en attente de mission, inter-contrat ou inter-chantier, sauf fermeture totale de l'entreprise.
@@ -6019,37 +6417,39 @@ Les salariés qui sont en situation de suspension de contrat de travail ne peuve
 Tous les salariés, en dehors des cas particuliers au sens des dispositions légales et réglementaires, ont vocation à bénéficier du régime de compensation de l'activité partielle.
 Les salariés en CDD ont le droit aux allocations d'activité partielle dans les mêmes conditions que les CDI.
 
-#### Article 3
+### Article 3 — Indemnisation de l'activité partielle
 
-*Indemnisation de l'activité partielle*
+> **Source :** Article 3 — Indemnisation de l'activité partielle — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 *(pas de contenu)*
 
-#### Article 3.1
+### Article 3.1 — Allocation prise en charge par l'Etat et l'organisme gestionnaire de l'assurance chômage et indemnité conventionnelle
 
-*Allocation prise en charge par l'Etat et l'organisme gestionnaire de l'assurance chômage et indemnité conventionnelle*
+> **Source :** Article 3.1 — Allocation prise en charge par l'Etat et l'organisme gestionnaire de l'assurance chômage et indemnité conventionnelle — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Chaque heure d'activité partielle est indemnisée par l'employeur, dans la limite du contingent annuel d'heures indemnisables. Le taux d'indemnisation est fixé par décret. L'indemnité d'activité partielle versée par l'employeur à ses salarié(e)s est égale à 70 % de la rémunération brute horaire.
 Il est rappelé que cette indemnité est majorée lorsque le salarié choisit de suivre une formation pendant sa période d'activité partielle, notamment dans le cadre du plan de formation. Cette indemnité atteint alors 100 % de la rémunération nette antérieure du (de la) salarié(e), suivant les dispositions légales et réglementaires en vigueur.
 
-#### Article 3.2
+### Article 3.2 — Indemnisation garantie
 
-*Indemnisation garantie*
+> **Source :** Article 3.2 — Indemnisation garantie — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Le salarié qui réduit ses horaires a la garantie de percevoir une indemnisation mensuelle au moins égale au Smic.
 
-#### Article 3.3
+### Article 3.3 — Indemnisation complémentaire conventionnelle d'activité partielle
 
-*Indemnisation complémentaire conventionnelle d'activité partielle*
+> **Source :** Article 3.3 — Indemnisation complémentaire conventionnelle d'activité partielle — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Les salariés admis par les pouvoirs publics au bénéfice du dispositif de l'activité partielle dans le cadre de l'article 2.3 et bénéficiant de l'indemnisation exposée à l'article 3.1 ont droit à une indemnisation complémentaire conventionnelle, prise en charge par l'employeur, calculée de telle sorte que la garantie de rémunération dont bénéficie le (la) salarié(e) soit, sauf exception définie par les dispositions légales et réglementaires, la suivante.
 
-#### Article 3.3.1
+### Article 3.3.1 — Assiette de l'indemnisation conventionnelle complémentaire d'activité partielle et garantie de rémunération
 
-*Assiette de l'indemnisation conventionnelle complémentaire d'activité partielle et garantie de rémunération*
+> **Source :** Article 3.3.1 — Assiette de l'indemnisation conventionnelle complémentaire d'activité partielle et garantie de rémunération — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 L'assiette de l'indemnisation horaire conventionnelle complémentaire est la rémunération brute servant d'assiette au calcul de l'indemnité de congés payés, sur la base de la durée légale du travail applicable dans l'entreprise ou, lorsqu'elle est inférieure, la durée collective du travail ou la durée stipulée au contrat de travail.
  Sous réserve des dispositions légales et réglementaires prévoyant un taux de maintien de salaire supérieur, notamment quand il y a une action de formation, la garantie de salaire est déterminée comme suit :
+
+ 
 
 | Assiette | Indemnisation garantie (*) |
 | --- | --- |
@@ -6062,15 +6462,15 @@ L'assiette de l'indemnisation horaire conventionnelle complémentaire est la ré
  L'indemnisation de l'activité partielle pour les salariés en forfait annuel en jours s'effectue au regard des dispositions légales et réglementaires en vigueur.
  Pour rappel, les allocations spécifiques réglementaires et conventionnelles reçues au titre de l'activité partielle sont traitées socialement et fiscalement conformément aux dispositions légales et réglementaires en vigueur.
 
-#### Article 4
+### Article 4 — Bilan d'étape professionnel
 
-*Bilan d'étape professionnel*
+> **Source :** Article 4 — Bilan d'étape professionnel — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Tout(e) salarié(e) positionné(e) en activité partielle a droit à la réalisation d'un bilan d'étape professionnel, quelles que soient son expérience professionnelle et son ancienneté dans l'entreprise. La finalité de ce bilan est de définir le besoin de formation dans la perspective soit d'une reconversion, soit d'un approfondissement des compétences du (de la) salarié(e).
 
-#### Article 5
+### Article 5 — Formation professionnelle
 
-*Formation professionnelle*
+> **Source :** Article 5 — Formation professionnelle — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 En complément des dispositions légales et réglementaires relatives à la formation professionnelle et à la GPEC, en particulier celles issues de la loi n° 2013-504 du 14 juin 2013 sur la sécurisation de l'emploi, les partenaires sociaux décident des dispositions conventionnelles suivantes.
 Les partenaires sociaux rappellent que, dans les entreprises de plus de 50 salariés, les dispositifs de formation envisagés dans le cadre de l'activité partielle sont soumis à la consultation préalable des institutions représentatives du personnel.
@@ -6094,9 +6494,9 @@ Les prestataires sélectionnés procéderont à :
 Les prestataires transmettent au FAFIEC un bilan quantitatif et qualitatif, dont la périodicité sera fixée dans la convention passée entre le FAFIEC et les prestataires.
 Le FAFIEC met en œuvre une procédure d'évaluation du dispositif dont a bénéficié chaque salarié pour les actions de formation réalisées suite à un diagnostic réalisé dans le cadre du présent article.
 
-#### Article 6
+### Article 6 — Conséquences de l'activité partielle
 
-*Conséquences de l'activité partielle*
+> **Source :** Article 6 — Conséquences de l'activité partielle — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Les heures d'activité partielle ouvrent des droits au titre de l'assurance vieillesse et permettent l'acquisition de points gratuits de retraite complémentaire.
 Il est en outre rappelé que, dans le cadre de l'acquisition des droits à congés payés, les périodes d'activité partielle sont intégralement prises en compte pour le calcul de la durée des congés payés.
@@ -6107,52 +6507,52 @@ La totalité des heures chômées est prise en compte pour la répartition de la
 D'autre part, les entreprises pourront, lors de la négociation annuelle obligatoire suivant la période d'activité partielle en cas de retour à une meilleure situation économique, prendre des mesures de nature à amortir les baisses de rémunération subies du fait de l'activité partielle.
 L'employeur ne peut procéder au licenciement économique du (de la) salarié(e) ayant bénéficié d'une formation financée par le FAFIEC suite à une période d'activité partielle durant une période équivalente à deux fois la période d'activité partielle, sauf liquidation de l'entreprise.
 
-#### Article 7
+### Article 7 — Sortie de l'activité partielle
 
-*Sortie de l'activité partielle*
+> **Source :** Article 7 — Sortie de l'activité partielle — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 L'activité partielle ne peut s'étendre au-delà de la période couvrant le versement de l'allocation spécifique de l'Etat conformément aux dispositions légales et réglementaires.
 
-#### Article 8
+### Article 8 — Rupture du contrat de travail
 
-*Rupture du contrat de travail*
+> **Source :** Article 8 — Rupture du contrat de travail — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Un(e) salarié(e) positionné(e) en activité partielle qui a trouvé un autre emploi est libre de quitter son entreprise.
 A la demande du salarié, et d'un commun accord, le préavis pourra ne pas être exécuté.
 L'employeur devra ainsi lever la clause de non-concurrence et/ou de dédit-formation à laquelle le (la) salarié(e) était tenu(e).
 
-#### Article 9
+### Article 9 — Durée de l'accord
 
-*Durée de l'accord*
+> **Source :** Article 9 — Durée de l'accord — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Le présent accord est conclu pour une durée indéterminée et entrera en vigueur à compter du premier jour du mois civil qui suit la publication de son arrêté ministériel d'extension au Journal officiel.
 
-#### Article 9.1
+### Article 9.1 — Révision et clause de revoyure
 
-*Révision et clause de revoyure*
+> **Source :** Article 9.1 — Révision et clause de revoyure — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Le présent accord est susceptible d'être modifié, par avenant, notamment en cas d'évolution des dispositions législatives, réglementaires ou conventionnelles qui nécessiteraient l'adaptation de l'une ou de plusieurs de ses dispositions.
 En tout état de cause, les partenaires sociaux s'engagent à réexaminer ses dispositions avant le 31 décembre 2016.
 
-#### Article 9.2
+### Article 9.2 — Conditions de dénonciation
 
-*Conditions de dénonciation*
+> **Source :** Article 9.2 — Conditions de dénonciation — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Les conditions de dénonciation et de révision sont respectivement régies par les articles 81 et 82 de la convention collective nationale.
 Le présent accord peut être dénoncé partiellement ou en totalité par l'un ou l'ensemble des signataires employeurs ou salariés du présent accord après un préavis minimal de 2 mois. Sous peine de nullité, ce préavis devra être donné à toutes les organisations signataires du présent accord par pli recommandé avec avis de réception. La dénonciation partielle ou totale du présent accord n'emporte pas dénonciation de la convention collective nationale. La partie qui dénoncera l'accord devra accompagner sa notification d'un nouveau projet afin que les négociations puissent commencer sans retard.
 
-#### Article 10
+### Article 10 — Notification, dépôt et extension
 
-*Notification, dépôt et extension*
+> **Source :** Article 10 — Notification, dépôt et extension — Accord du 16 octobre 2013 relatif à l'activité partielle des salariés.
 
 Le présent accord est présenté à l'extension auprès du ministère compétent à l'expiration du délai légal d'opposition.
 Le présent accord, qui ne peut faire l'objet de dispositions moins favorables par accord d'entreprise ou d'établissement relevant de son champ d'application, est déposé à la direction générale (DGT) du ministère du travail, à l'initiative de la partie la plus diligente, conformément à l'article D. 2231-2 du code du travail.
 
-### Avenant du 1er avril 2014 à l'accord du 22 juin 1999 relatif à la durée du travail
+## Avenant du 1er avril 2014 à l'accord du 22 juin 1999 relatif à la durée du travail
 
-#### Chapitre Ier Révision de l'accord
+### Chapitre Ier Révision de l'accord
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre Ier Révision de l'accord — Avenant du 1er avril 2014 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Le présent avenant modifie l'article 4 du chapitre II de l'accord du 22 juin 1999 comme suit :
 
@@ -6286,9 +6686,9 @@ Dans une logique de protection de la santé et de la sécurité des salariés, i
 
 (1) Article étendu sous réserve du respect de la jurisprudence de la Cour de Cassation (Cass. soc, 31 janvier 2012, n° 10-17593), qui précise qu'une convention individuelle de fofrait en jours sur l'année doit fixer le nombre de jours travaillés et préciser les modalités de décompte des journées ou demi-journées travaillées et de prises de journées ou demi-journées de repos, et par conséquent qu'un simple renvoi par le contrat de travail aux dispositions de la convention collective ou de l'accord d'entreprise prévoyant le forfait jours est insuffisant (arrêté du 26 juin 2014, art. 1er).
 
-#### Chapitre II Effets de l'accord
+### Chapitre II Effets de l'accord
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre II Effets de l'accord — Avenant du 1er avril 2014 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Tenant compte des conditions de travail des salariés concernés aboutissant à une obligation de protection de la santé et de la sécurité de la part de l'employeur, les partenaires sociaux décident que les dispositions des articles 4.2,4.7,4.8.1,4.8.2,4.8.3,4.9 et 4.10 sont impératives tant pour les accords existants que pour ceux à venir. Pour la mise en place de ces mesures, les entreprises disposent d'un délai de 6 mois à compter de la publication au Journal officiel de l'arrêté d'extension du présent avenant. (1)
 Pour les entreprises dépourvues d'accord ou celles dépourvues de délégué syndical et de représentant du personnel – et cela en l'absence d'accord –, l'ensemble des dispositions du présent avenant sont d'application directe.
@@ -6296,17 +6696,19 @@ Pour les entreprises dépourvues d'accord ou celles dépourvues de délégué sy
 (1) Alinéa étendu, sous réserve qu'en vertu des dispositions de l'article L. 3121-39 du code du travail, l'accord ne fasse pas obstacle à ce que puissent être fixées par un accord d'entreprise ou d'établissement les caractéristiques principales des conventions individuelles de forfait, dès lors qu'elles garantissent la protection de la sécurité et de la santé des salariés, conformément à la jurisprudence de la Cour de cassation (Cass. soc, 14 mai 2014, n° 12-35033).
 (ARRÊTÉ du 26 juin 2014 - art. 1)
 
-#### Chapitre III Dépôt et extension
+### Chapitre III Dépôt et extension
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre III Dépôt et extension — Avenant du 1er avril 2014 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Le présent avenant sera déposé par la partie la plus diligente dans le cadre des articles L. 2231-6, L. 2261-1, L. 2262-8 et D. 2231-2 du code du travail.
 Les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal d'opposition.
 Le présent avenant prendra effet au premier jour du mois civil suivant la date de publication de l'arrêté ministériel d'extension de l'avenant au Journal officiel.
 
-### Avenant du 9 avril 2014 à l'accord du 28 octobre 2009 relatif aux CQP
+## Avenant du 9 avril 2014 à l'accord du 28 octobre 2009 relatif aux CQP
 
-#### Article 1er
+### Article 1er
+
+> **Source :** Article 1er — Avenant du 9 avril 2014 à l'accord du 28 octobre 2009 relatif aux CQP.
 
 Les dispositions de l'article 5.1.7 « Prise en charge des frais liés à l'organisation des jurys » sont complétées comme suit :
 « Les partenaires sociaux décident d'accorder, pour la préparation des jurys de CQP, une durée de préparation équivalente à celle de la participation au jury afférent.
@@ -6314,7 +6716,9 @@ Ils décident en outre d'accorder, pour l'ouverture des sessions de CQP, le temp
 Lorsque l'ouverture d'une session de CQP ne peut être réalisée par un membre défini à l'alinéa précédent, l'ouverture de la session est assurée par l'organisme de formation.
 La préparation des jurys et l'ouverture des sessions de CQP ainsi que la prise en charge des frais afférents sont réalisées dans les mêmes conditions que celles prévues pour la participation audit jury, les modalités de prise en charge et de remboursement étant définies et communiquées par l'OPCA. »
 
-#### Article 2
+### Article 2
+
+> **Source :** Article 2 — Avenant du 9 avril 2014 à l'accord du 28 octobre 2009 relatif aux CQP.
 
 Les dispositions de l'article 5.1.4 « Composition du jury » sont modifiées comme suit :
 « Il est composé, outre son président, d'au minimum deux personnes figurant sur la liste des membres de jurys habilités par la commission paritaire nationale pour l'emploi (CPNEFP) siégeant en matière de formation. Les membres de la CPNEFP figurent de droit et au même rang sur cette liste.
@@ -6323,17 +6727,17 @@ Un même membre peut figurer sur chacune de ces deux listes.
 Si un membre du jury, qu'il soit président ou non, ne peut, à titre exceptionnel, assumer sa mission, il peut se faire remplacer par une personne de son choix parmi les membres de la liste idoine établie par la CPNEFP siégeant en matière de formation.
 Les tuteurs et représentants de l'organisme de formation peuvent assister au jury sans voix délibérative. »
 
-#### Article 3
+### Article 3 — Dépôt et extension
 
-*Dépôt et extension*
+> **Source :** Article 3 — Dépôt et extension — Avenant du 9 avril 2014 à l'accord du 28 octobre 2009 relatif aux CQP.
 
 Le présent accord sera déposé par la partie la plus diligente dans le cadre des articles L. 2231-6, L. 2261-1, L. 2262-8 et D. 2231-2 du code du travail.
 Les parties conviennent de le présenter à l'extension auprès du ministère compétent à l'expiration du délai légal d'opposition.
 Le présent accord prendra effet au premier jour du mois civil suivant la date de publication de l'arrêté ministériel d'extension de l'accord au Journal officiel.
 
-### Accord du 17 décembre 2014 relatif au pacte social pour la compétitivité et à un calendrier social responsable
+## Accord du 17 décembre 2014 relatif au pacte social pour la compétitivité et à un calendrier social responsable
 
-#### Article (préambule / sans numéro)
+> **Source :** Accord du 17 décembre 2014 relatif au pacte social pour la compétitivité et à un calendrier social responsable — Accord du 17 décembre 2014 relatif au pacte social pour la compétitivité et à un calendrier social responsable.
 
 A cette étape de la concertation initiée le 11 juin 2014 dans le cadre de la commission paritaire de la convention collective nationale des bureaux d'études sur le pacte de responsabilité, les organisations syndicales de salariés signataires prennent acte de l'engagement des employeurs pour créer 3 % d'emplois nets d'ici à 2018 dans la branche.
 Les prérequis ayant été explicités, pour ce faire, et collectant 76 millions d'euros de taxe d'apprentissage en 2014, les entreprises de la branche s'engagent à mobiliser tous les moyens pour poursuivre le développement du recrutement de jeunes en alternance avec un objectif de 15 % de plus qu'en 2014.
@@ -6346,9 +6750,9 @@ C'est pourquoi, dans le cadre du pacte social pour la compétitivité, toutes le
 – négocier et déployer un accord de branche en faveur de la diversité dans les entreprises (cf. ANI du 12 octobre 2006).
 La formation des demandeurs d'emploi, avec un budget dédié de l'OPCA FAFIEC de 16 % supplémentaires (accord de branche sur l'activité réduite, POEC et POEI, CSP…), constitue par ailleurs un objectif commun avec les partenaires sociaux pour accompagner les salariés et les demandeurs d'emploi avec un point d'attention sur les personnes sorties du système scolaire ou universitaire sans diplôme et le maintien dans l'emploi, en particulier des seniors.
 
-### Avenant du 20 janvier 2015 à l'avenant du 30 octobre 2008 relatif à la CPNE
+## Avenant du 20 janvier 2015 à l'avenant du 30 octobre 2008 relatif à la CPNE
 
-#### Article (préambule / sans numéro)
+> **Source :** Avenant du 20 janvier 2015 à l'avenant du 30 octobre 2008 relatif à la CPNE — Avenant du 20 janvier 2015 à l'avenant du 30 octobre 2008 relatif à la CPNE.
 
 L'article 3 de l'avenant du 30 octobre 2008 portant révision de l'accord du 19 mai 1995 est modifié comme suit :
 « Un calendrier de travail est établi. Ce calendrier de travail comporte notamment :
@@ -6365,25 +6769,25 @@ Lorsque l'entreprise demande à bénéficier de dispositifs d'accompagnement, le
 La commission peut alors décider d'intervenir en soutien afin d'accompagner l'entreprise et les salariés, en utilisant les fonds dédiés gérés par le FAFIEC.
 En cas de défaut d'information de la commission paritaire nationale de l'emploi par l'entreprise, le délai de 14 jours mentionné au paragraphe précédent court à compter du jour où une organisation syndicale de salariés ou d'employeurs aura saisi la commission paritaire nationale de l'emploi. »
 
-### Avenant du 17 mars 2015 à l'accord du 13 mars 2012 relatif à l'OPCA FAFIEC
+## Avenant du 17 mars 2015 à l'accord du 13 mars 2012 relatif à l'OPCA FAFIEC
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant du 17 mars 2015 à l'accord du 13 mars 2012 relatif à l'OPCA FAFIEC.
 
 Dans le cadre de l'article 49 de la convention collective des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils, les partenaires sociaux ont créé l'OPCA FAFIEC par accord du 14 décembre 1994. Afin de prendre en compte les dispositions de la loi du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale et d'adapter en conséquence les dispositions de branche, les partenaires sociaux décident que l'accord du 13 mars 2012est modifié comme suit, en vue de sa mise en conformité avec les dispositions de la loi du 5 mars 2014.
 
-#### Article 1er
+### Article 1er — Dénomination
 
-*Dénomination*
+> **Source :** Article 1er — Dénomination — Avenant du 17 mars 2015 à l'accord du 13 mars 2012 relatif à l'OPCA FAFIEC.
 
 L'article 2 de l'accord du 13 mars 2012 est modifié comme suit :
 « Le siège social de l'organisme paritaire collecteur agréé, dénommé FAFIEC, est fixé au 25, quai Panhard-et-Levassor, 75013 Paris. »
 Il peut être transféré à tout autre endroit par décision du conseil d'administration.
 
-#### Article 2
+### Article 2 — Collecte
 
-*Collecte*
+> **Source :** Article 2 — Collecte — Avenant du 17 mars 2015 à l'accord du 13 mars 2012 relatif à l'OPCA FAFIEC.
 
 L'article 4 de l'accord du 13 mars 2012 est modifié comme suit :
 « Le FAFIEC a pour objet de percevoir et de gérer les contributions financières des entreprises ou établissements au titre :
@@ -6393,9 +6797,9 @@ L'article 4 de l'accord du 13 mars 2012 est modifié comme suit :
 – et, d'une façon générale, toutes recettes autorisées par la loi.
 3. Et de toutes autres contributions des entreprises issues d'accords des partenaires sociaux, conclus dans le cadre de la convention collective nationale du 15 décembre 1987. »
 
-#### Article 3
+### Article 3 — Utilisation des ressources
 
-*Utilisation des ressources*
+> **Source :** Article 3 — Utilisation des ressources — Avenant du 17 mars 2015 à l'accord du 13 mars 2012 relatif à l'OPCA FAFIEC.
 
 L'article 7 de l'accord du 13 mars 2012 est modifié comme suit :
 « Les fonds collectés par le FAFIEC sont gérés au sein des sections et sous-sections financières suivantes selon les directives du plan comptable des OPCA :
@@ -6414,33 +6818,35 @@ Les fonds gérés au sein des sections 1 à 4 ci-dessus sont mutualisés.
 Les fonds collectés au sein des sections 6 et 7 sont reversés aux organismes habilités à les gérer, conformément aux règles en vigueur.
 Les fonds susceptibles d'être collectés au sein des sections 4 et 5 sont affectés à la prise en charge des dépenses des entreprises en faveur du développement de la formation professionnelle continue.
 
-#### Article 4
+### Article 4 — Conditions d'application
 
-*Conditions d'application*
+> **Source :** Article 4 — Conditions d'application — Avenant du 17 mars 2015 à l'accord du 13 mars 2012 relatif à l'OPCA FAFIEC.
 
 Le présent avenant modifie l'accord portant sur l'organisme paritaire collecteur agréé (OPCFA FIEC) des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils du 13 mars 2012, dans les conditions des articles L. 2261-9 et suivants du code du travail.
 Le présent avenant sera déposé par la partie la plus diligente, dans le cadre des articles L. 2231-6, L. 2261-1, L. 2262-8 et D. 2231-2 du code du travail.
 Les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal d'opposition.
 Le présent accord prendra effet au premier jour du mois civil suivant la date de publication de l'arrêté ministériel d'extension de l'accord au Journal officiel et, en tout état de cause, au plus tard le 31 décembre 2015.
 
-#### Article 5
+### Article 5 — Révision
 
-*Révision*
+> **Source :** Article 5 — Révision — Avenant du 17 mars 2015 à l'accord du 13 mars 2012 relatif à l'OPCA FAFIEC.
 
 Les modifications à apporter au présent avenant peuvent être demandées par l'une des parties signataires du présent avenant.
 Dans ce cas, la commission paritaire de la convention collective nationale doit se réunir dans un délai de 2 mois, afin de délibérer sur les modifications proposées.
 
-### Avenant du 25 juin 2015 à l'accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC
+## Avenant du 25 juin 2015 à l'accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant du 25 juin 2015 à l'accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Dans le cadre de l'article 49 de la convention collective des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils, les partenaires sociaux ont créé l'OPCA FAFIEC par accord du 14 décembre 1994. Afin de prendre en compte les dispositions de la loi du 5 mars 2014 relative à la formation professionnelle, à l'emploi et à la démocratie sociale et d'adapter en conséquence les dispositions de branche, les partenaires sociaux ont signé un premier avenant le 13 mars 2015.
 
 Les partenaires sociaux décident de le compléter d'un second avenant comme ci-dessous pour permettre l'habilitation du FAFIEC en tant qu'organisme collecteur de la taxe d'apprentissage (OCTA) et le fonctionnement associé, en application des articles L. 6242-1 et R. 6241-1 du code du travail.
 
-#### Article 1er
+### Article 1er
+
+> **Source :** Article 1er — Avenant du 25 juin 2015 à l'accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 L'article 4 de l'accord du 13 mars 2012 modifié par l'article 2 de l'avenant du 13 mars 2015 est remplacé comme suit :
 « Le FAFIEC a pour objet de percevoir et de gérer les contributions financières des entreprises ou établissements au titre :
@@ -6451,7 +6857,9 @@ L'article 4 de l'accord du 13 mars 2012 modifié par l'article 2 de l'avenant du
 3. De la taxe d'apprentissage en application des articles L. 6242-1 et suivants, à compter de son habilitation en tant qu'organisme collecteur de la taxe d'apprentissage (OCTA).
 4. Et de toutes autres contributions des entreprises issues d'accords des partenaires sociaux, conclus dans le cadre de la convention collective nationale du 15 décembre 1987. »
 
-#### Article 2
+### Article 2
+
+> **Source :** Article 2 — Avenant du 25 juin 2015 à l'accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 L'article 7 de l'accord du 13 mars 2012 modifié par l'article 3 de l'avenant du 13 mars 2015 est remplacé comme suit :
 « Les fonds collectés par le FAFIEC sont gérés au sein des sections et des sous-sections financières suivantes :
@@ -6472,7 +6880,9 @@ Les fonds collectés au sein des sections 6 et 7 sont reversés aux organismes h
 Les fonds susceptibles d'être collectés au sein des sections 4 et 5 sont affectés à la prise en charge des dépenses des entreprises en faveur du développement de la formation professionnelle continue.
 Les fonds collectés au sein de la section 8 sont gérés selon les principes et techniques comptables prévus par le code de commerce et conformément aux dispositions de l'article R. 6242-2 du code du travail, pour permettre notamment de suivre les répartitions en différentes fractions. »
 
-#### Article 3
+### Article 3
+
+> **Source :** Article 3 — Avenant du 25 juin 2015 à l'accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 L'article 8, pour la partie A-3 « Attributions du conseil d'administration/ gestion administrative et financière de l'OPCA », est modifié comme suit :
 « 3. Gestion administrative et financière de l'OPCA
@@ -6486,54 +6896,54 @@ Il pilote et contrôle la gestion des fonds collectés au titre de la formation 
 Il vote le budget, approuve son exécution et arrête les comptes sous le contrôle du commissaire aux comptes.
 Il délibère sur le rapport annuel d'activité et approuve les états statistiques et financiers présentés chaque année aux pouvoirs publics.
 
-#### Article 4
+### Article 4 — Conditions d'application
 
-*Conditions d'application*
+> **Source :** Article 4 — Conditions d'application — Avenant du 25 juin 2015 à l'accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Le présent avenant modifie l'accord portant sur l'organisme collecteur agréé des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseil (OPCA FAFIEC) du 13 mars 2012, modifié par l'avenant du 13 mars 2015, dans les conditions des articles L. 2261-9 et suivant du code du travail.
 Le présent avenant sera déposé par la partie la plus diligente, dans le cadre des articles L. 2231-6, L. 2261-1, L. 2262-8 et D. 2231-2 du code du travail.
 Les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal d'opposition.
 Le présent avenant prendra effet au premier jour du mois civil suivant la date de publication de l'arrêté ministériel d'extension le concernant au Journal officiel et, en tout état de cause, au plus tard le 31 décembre 2015.
 
-#### Article 5
+### Article 5 — Révision
 
-*Révision*
+> **Source :** Article 5 — Révision — Avenant du 25 juin 2015 à l'accord du 13 mars 2012 relatif au fonctionnement de l'OPCA FAFIEC.
 
 Les modifications à apporter au présent avenant peuvent être demandées par l'une des parties signataires.
 Dans ce cas, la commission paritaire de la convention collective nationale doit se réunir dans un délai de 2 mois, afin de délibérer sur les modifications proposées.
 
-### Accord du 25 juin 2015 portant création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP)
+## Accord du 25 juin 2015 portant création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP)
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 25 juin 2015 portant création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP).
 
 Pour être compétitives, les entreprises doivent faire évoluer en permanence leurs services avec, en corollaire, l'évolution des emplois et des compétences des salariés.
 Les partenaires sociaux de la branche considèrent qu'ils peuvent contribuer à aider les entreprises dans la gestion des emplois, le développement des carrières et la sécurisation des parcours professionnels.
 Dans un contexte où les politiques d'emploi et de formation, tout comme l'attribution des fonds de la formation professionnelle et de l'apprentissage, sont de plus en plus souvent décidées et mises en œuvre en région, les partenaires sociaux de la branche ont décidé en 2012 de créer, à titre expérimental, deux commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP) en Nord - Pas-de-Calais et en Rhône-Alpes.
 Sur la base des résultats positifs présentés par les deux commissions paritaires régionales à l'issue de l'expérimentation, les partenaires sociaux décident de développer le dispositif dans chacune des régions administratives issues de la loi portant nouvelle organisation territoriale de la République.
 
-#### Article 1er
+### Article 1er — Définition et champ de compétences
 
-*Définition et champ de compétences*
+> **Source :** Article 1er — Définition et champ de compétences — Accord du 25 juin 2015 portant création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP).
 
 Les partenaires sociaux décident de créer une commission paritaire régionale de l'emploi et de la formation professionnelle (CPREFP) dans chacune des régions administratives issues de la loi portant nouvelle organisation territoriale de la République de 2015, en cohérence avec les implantations et missions régionales du FAFIEC.
 Chaque CPREFP agit dans le strict cadre de son champ régional de compétences.
 Représentantes régionales de la commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP), les CPREFP mettent à ce titre en œuvre au plan régional les priorités annuelles et la politique nationale de formation professionnelle établies par la CPNEFP.
 Pour la réalisation de ses missions, la CPREFP assure les liaisons et interventions régionales nécessaires auprès des acteurs locaux de la formation professionnelle et de l'emploi (par exemple, les COPAREF, les CREFOP, les conseils régionaux…).
 
-#### Article 2
+### Article 2 — Composition
 
-*Composition*
+> **Source :** Article 2 — Composition — Accord du 25 juin 2015 portant création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP).
 
 La CPREFP est constituée de :
 – 1 titulaire et de 1 suppléant pour chaque organisation syndicale de salariés représentative au niveau national dans la branche ;
 – d'un nombre de représentants des fédérations patronales égal au nombre des organisations syndicales de salariés.
 Les désignations de ces représentants sont effectuées par les fédérations patronales et les organisations syndicales de salariés représentatives au niveau national dans la branche.
 
-#### Article 3
+### Article 3 — Fonctionnement
 
-*Fonctionnement*
+> **Source :** Article 3 — Fonctionnement — Accord du 25 juin 2015 portant création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP).
 
 La CPREFP est présidée par le représentant du collège salariés ou par la fédération patronale présidant la CPNEFP. La même règle s'applique à la vice-présidence.
 La CPREFP se réunit dans le cadre de trois réunions plénières et d'une réunion supplémentaire de cadrage la première année.
@@ -6553,9 +6963,9 @@ Conformément à l'avis d'interprétation du 8 janvier 2010, sont considérées 
 
 (Arrêté du 20 novembre 2015 - art. 1)
 
-#### Article 4
+### Article 4 — Missions
 
-*Missions*
+> **Source :** Article 4 — Missions — Accord du 25 juin 2015 portant création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP).
 
 La CPREFP a pour missions de :
 – mettre en œuvre en régions les orientations de la CPNEFP ;
@@ -6571,68 +6981,70 @@ La CPREFP a pour missions de :
 Pour atteindre leurs objectifs, les CPREFP ont besoin de données socio-démographiques (nombre d'entreprises, nombre de salariés, répartition par niveaux de formation et par secteurs d'activité) et d'une vision prospective portant sur le territoire couvert. Pour cela, elles s'appuient sur les travaux de portée nationale et régionale, et plus particulièrement sur ceux de la branche.
 La CPNEFP transmet systématiquement aux présidents et vice-présidents de la CPREFP ses relevés de décisions ainsi que les études et travaux validés par elle.
 
-#### Article 5
+### Article 5 — Bilan des CPREFP
 
-*Bilan des CPREFP*
+> **Source :** Article 5 — Bilan des CPREFP — Accord du 25 juin 2015 portant création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP).
 
 Un bilan annuel des missions conduites est établi par la CPREFP et présenté au cours d'une journée, voyages compris, d'échanges entre les présidents et vice-présidents des CPREFP et la CPNEFP.
 
-#### Article 6
+### Article 6 — Caducité de certaines dispositions conventionnelles
 
-*Caducité de certaines dispositions conventionnelles*
+> **Source :** Article 6 — Caducité de certaines dispositions conventionnelles — Accord du 25 juin 2015 portant création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP).
 
 Le présent accord annule et remplace l'accord du 10 octobre 2012 portant création de deux commissions paritaires régionales de l'emploi et de la formation.
 
-#### Article 7
+### Article 7 — Entrée en vigueur
 
-*Entrée en vigueur*
+> **Source :** Article 7 — Entrée en vigueur — Accord du 25 juin 2015 portant création des commissions paritaires régionales de l'emploi et de la formation professionnelle (CPREFP).
 
 Le présent accord sera déposé par la partie la plus diligente, dans le cadre des articles L. 2231-6, L. 2261-1, L. 2262-8 et D. 2231-2 du code du travail.
 Les parties conviennent de le présenter à l'extension auprès du ministère compétent, à l'expiration du délai légal d'opposition.
 Le présent accord prendra effet au premier jour du mois civil suivant la date de publication de l'arrêté ministériel d'extension de l'accord au Journal officiel.
 
-### Avenant du 25 juin 2015 à l'accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi
+## Avenant du 25 juin 2015 à l'accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi
 
-#### Article 1er
+### Article 1er — Dénomination
 
-*Dénomination*
+> **Source :** Article 1er — Dénomination — Avenant du 25 juin 2015 à l'accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 Les partenaires sociaux décident que la commission paritaire nationale de l'emploi de la branche est désormais dénommée « commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) ».
 
-#### Article 2
+### Article 2 — Suppression des comités de suivi des actions collectives et CQP
 
-*Suppression des comités de suivi des actions collectives et CQP*
+> **Source :** Article 2 — Suppression des comités de suivi des actions collectives et CQP — Avenant du 25 juin 2015 à l'accord du 30 octobre 2008 relatif à la commission paritaire nationale de l'emploi.
 
 Souhaitant organiser différemment les travaux portant sur la création et le suivi des actions collectives et des certificats de qualification professionnelle, les partenaires sociaux décident de sup-primer :
 – l'article 3.1 « Comité de suivi des actions collectives » de l'accord du 30 octobre 2008, créé par l'avenant du 20 octobre 2010 ;
 – l'article 3.2 « Comité CQP » de l'accord du 30 octobre 2008, créé par l'avenant du 15 décembre 2010.
 Cet avenant prend effet à la date de sa signature.
 
-### Accord du 7 octobre 2015 relatif à la complémentaire santé
+## Accord du 7 octobre 2015 relatif à la complémentaire santé
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 La loi du 14 juin 2013 relative à la sécurisation de l'emploi transpose, en les aménageant, les principales dispositions de l'accord national interprofessionnel (ANI) du 11 janvier 2013. L'article 1er de cette loi consacre la généralisation de la complémentaire santé pour tous les salariés du secteur privé, quelles que soient l'activité et la taille de l'entreprise, d'ici au 1er janvier 2016. Soucieuses d'améliorer le statut social des salariés qui ne disposent pas encore d'une couverture santé, tout en préservant les régimes de couverture préexistant dans les entreprises de la branche, les organisations professionnelles d'employeurs et les syndicats de salariés relevant de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils, sociétés de conseils du 15 décembre 1987 instaurent, par le présent accord, une couverture minimum de branche, plus favorable que la couverture réglementaire, qui devra être assurée pour chaque salarié relevant de la convention collective, quels que soient le prestataire ou le régime qui le couvre. Les partenaires sociaux de la branche recommandent paritairement les prestataires qui proposeront un contrat de branche reprenant la couverture minimum de branche définie dans le présent accord, dans le respect de la procédure de mise en concurrence préalable imposée par la loi (art. L. 912-1, II, du code de la sécurité sociale) et selon les modalités prévues par le décret n° 2014-1498 du 11 décembre 2014 et le décret n° 2015-13 du 8 janvier 2015. Les partenaires sociaux de la branche rappellent que l'adhésion des entreprises à l'un des organismes recommandés par la branche permet, d'une part, de mettre en œuvre une mutualisation entre tout ou partie des entreprises de la branche et, d'autre part, de bénéficier d'une meilleure prise en compte des spécificités de la branche ainsi que des services associés à cette mutualisation (action sociale, réseau de soins, actions de prévention santé …). Les partenaires sociaux de la branche invitent donc les entreprises à adhérer à l'un des organismes assureurs recommandés en rappelant, toutefois, que les entreprises de la branche sont libres d'adhérer à l'organisme de leur choix.
 
-#### Détermination du champ territorial et professionnel
+### Détermination du champ territorial et professionnel
 
-##### Article (préambule / sans numéro)
+> **Source :** Détermination du champ territorial et professionnel — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Le champ d'application du présent accord est celui défini à l'article 1er de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseil du 15 décembre 1987 (IDCC 1486).
 
 Les dispositions du présent accord permettent une régulation économique équitable entre toutes les entreprises de la branche. Elles s'appliquent donc indistinctement à tous les salariés des entreprises relevant de la convention de branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseil, quel que soit leur effectif.
 
-#### Principes généraux de la couverture minimum de branche de remboursements complémentaires des frais occasionnés par une maladie, une maternité ou un accident
+### Principes généraux de la couverture minimum de branche de remboursements complémentaires des frais occasionnés par une maladie, une maternité ou un accident
 
-##### Article 1.1
+#### Article 1.1
+
+> **Source :** Article 1.1 — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 *(pas de contenu)*
 
-##### Article 1.1.1
+#### Article 1.1.1 — Adhésion du salarié
 
-*Adhésion du salarié*
+> **Source :** Article 1.1.1 — Adhésion du salarié — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Sont bénéficiaires de la couverture minimale de branche en matière de remboursements complémentaires des frais de santé, tous les salariés d'une entreprise relevant dudit champ d'application.
 
@@ -6642,9 +7054,9 @@ Cette couverture s'étend :
 
 – le cas échéant, dans le cadre de la structure “ isolé/ famille obligatoire ”, aux enfants à charge et/ ou au conjoint du salarié.
 
-##### Article 1.1.2
+#### Article 1.1.2 — Dispenses d'adhésion à l'initiative du salarié
 
-*Dispenses d'adhésion à l'initiative du salarié*
+> **Source :** Article 1.1.2 — Dispenses d'adhésion à l'initiative du salarié — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'adhésion des salariés au régime de complémentaire santé est obligatoire.
 
@@ -6672,9 +7084,9 @@ Dans tous les cas, l'employeur doit être en mesure de produire, chaque année, 
 
 La mise en œuvre des cas de dispense prévus par le présent article s'entend sans préjudice de l'application aux salariés concernés qui le souhaitent des dispositions de l'article 11 de la loi n° 89-1009 du 31 décembre 1989 faisant obstacle à ce que les salariés employés par l'entreprise lors de la mise en place par voie de décision unilatérale de l'employeur d'un système de garanties collectif couvrant les risques que ces dispositions mentionnent soient contraints de cotiser contre leur gré à ce système.
 
-##### Article 1.1.3
+#### Article 1.1.3 — Maintien de la couverture minimum de branche en cas de suspension du contrat de travail
 
-*Maintien de la couverture minimum de branche en cas de suspension du contrat de travail*
+> **Source :** Article 1.1.3 — Maintien de la couverture minimum de branche en cas de suspension du contrat de travail — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 a) Cas de maintien du bénéfice du régime
 Les garanties sont maintenues aux salariés dont le contrat de travail est suspendu dans les conditions légales et réglementaires suivantes :
@@ -6686,9 +7098,9 @@ Dans tous les autres cas de suspension du contrat de travail, n'ouvrant pas ou p
 Les salariés pourront, sur simple demande écrite auprès de l'employeur, toutefois, continuer à adhérer au régime pendant la période de suspension de leur contrat de travail, sous réserve de s'acquitter de l'intégralité de la cotisation (part patronale et part salariale).
 La cotisation afférente aux garanties précitées est réglée directement par le salarié auprès de l'organisme assureur.
 
-##### Article 1.1.4
+#### Article 1.1.4 — Maintien des garanties en cas de rupture du contrat de travail
 
-*Maintien des garanties en cas de rupture du contrat de travail*
+> **Source :** Article 1.1.4 — Maintien des garanties en cas de rupture du contrat de travail — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 La cessation de l'affiliation obligatoire des salariés et le maintien de la couverture minimum de branche mise en place par le présent accord de branche dans le cadre de la portabilité sont régis par les dispositions légales et réglementaires en vigueur, et en particulier par l'article L. 911-8 du code de la sécurité sociale.
 L'affiliation du salarié et le droit aux garanties cessent de produire ses effets :
@@ -6703,22 +7115,22 @@ A l'issue de cette période, l'ancien salarié peut demander à l'organisme, dan
 L'ancien salarié titulaire d'une pension d'incapacité ou d'invalidité, participant de la couverture collective au jour de la rupture de son contrat de travail, peut demander à l'organisme, dans les 6 mois qui suivent la rupture de son contrat de travail, le maintien de la garantie conventionnelle obligatoire du salarié en vigueur à cette date. La cotisation totale est alors entièrement à sa charge.
 L'ancien salarié titulaire d'une pension de retraite, participant de la couverture collective au jour de la rupture définitive de son contrat de travail, peut demander à l'organisme, dans les 6 mois qui suivent la rupture de son contrat de travail, le maintien de la garantie conventionnelle obligatoire du salarié en vigueur à cette date. L'organisme met au point la procédure permettant d'évaluer la cotisation entièrement à la charge de l'intéressé, sans qu'elle puisse excéder les limites fixées par la loi n° 89-1009 du 31 décembre 1989 et ses décrets d'application.
 
-##### Article 1.1.5
+#### Article 1.1.5 — Répartition de la cotisation entre employeur et salarié
 
-*Répartition de la cotisation entre employeur et salarié*
+> **Source :** Article 1.1.5 — Répartition de la cotisation entre employeur et salarié — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les cotisations au titre de la couverture minimum de branche obligatoire sont réparties entre l'entreprise et le salarié selon des taux d'au moins 50 % à la charge de l'employeur et au plus 50 % la charge du salarié.
 La quote-part salariale de la cotisation de la couverture collective obligatoire est retenue mensuellement par précompte sur la rémunération brute du salarié et figure sur le bulletin de paie.
 
-##### Article 1.1.6
+#### Article 1.1.6 — Cotisation et répartition de la cotisation en cas de pluralité d'employeurs et de travail à temps très partiel
 
-*Cotisation et répartition de la cotisation en cas de pluralité d'employeurs et de travail à temps très partiel*
+> **Source :** Article 1.1.6 — Cotisation et répartition de la cotisation en cas de pluralité d'employeurs et de travail à temps très partiel — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Il est renvoyé aux dispositions du futur décret.
 
-##### Article 1.1.7
+#### Article 1.1.7 — Adhésion optionnelle du salarié
 
-*Adhésion optionnelle du salarié*
+> **Source :** Article 1.1.7 — Adhésion optionnelle du salarié — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 1.1.7.1 Extension du périmètre de couverture
 
@@ -6756,9 +7168,9 @@ Le conjoint du salarié s'entend comme :
 
 Au-delà du niveau de garanties minimum ayant été choisi par l'employeur, et sauf à ce que ce dernier ait opté pour le niveau de couverture le plus avantageux, l'employeur doit proposer des options permettant une prise en charge renforcée des frais de santé de ses salariés. Ces options facultatives sont financées par les salariés.
 
-##### Article 1.2
+#### Article 1.2 — Choix des organismes assureurs
 
-*Choix des organismes assureurs*
+> **Source :** Article 1.2 — Choix des organismes assureurs — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les partenaires sociaux souhaitent préserver la liberté de choix de l'employeur tout en permettant aux entreprises et aux salariés de bénéficier d'une couverture de remboursements complémentaires des frais médicaux, chirurgicaux ou d'hospitalisation, répondant à leurs besoins et aux conditions tarifaires définies par les partenaires sociaux.
 A l'issue d'une procédure transparente de mise en concurrence prévue par les dispositions légales et réglementaires, plusieurs organismes assureurs seront recommandés par les partenaires sociaux dans le but de proposer un contrat de branche aux entreprises.
@@ -6766,21 +7178,21 @@ Ces recommandations n'ont aucune valeur contraignante ou pénalisante pour les e
 Afin de garantir aux salariés et à leurs enfants à charge une couverture frais de santé optimale et d'assurer la meilleure efficacité possible du régime de branche, les partenaires sociaux s'engagent à procéder à un nouvel appel d'offres tous les 5 ans, sauf si le régime présente un déséquilibre financier marqué et/ou des prestations liées aux garanties non conformes au cahier des charges, nécessitant dès lors un appel d'offres anticipé.
 Par souci d'assurer au mieux l'équilibre financier du régime et de diviser les risques, les partenaires sociaux devront définir dans l'appel d'offres des dispositions permettant de répondre à cet objectif et prévoiront la désignation parmi les organismes assureurs recommandés d'une société apéritrice, en charge de la gestion du contrat commun (convention d'assurance), de la consolidation et de la sinistralité.
 
-##### Article 1.3
+#### Article 1.3 — Action sociale de branche
 
-*Action sociale de branche*
+> **Source :** Article 1.3 — Action sociale de branche — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les partenaires sociaux souhaitent mettre en place des garanties collectives présentant un haut degré de solidarité et comprenant, à ce titre, des prestations à caractère non directement contributif.
 
-##### Article 1.3.1
+#### Article 1.3.1 — Bénéficiaires de l'action sociale
 
-*Bénéficiaires de l'action sociale*
+> **Source :** Article 1.3.1 — Bénéficiaires de l'action sociale — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'action sociale est mise en œuvre au profit des bénéficiaires du régime complémentaire santé de branche.
 
-##### Article 1.3.2
+#### Article 1.3.2 — Garanties de l'action sociale
 
-*Garanties de l'action sociale*
+> **Source :** Article 1.3.2 — Garanties de l'action sociale — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'action sociale mise en place par le présent accord peut concerner des actions collectives de prévention ainsi que des actions individuelles en cas de difficultés d'ordre social ou économique, notamment sous forme d'aides exceptionnelles sous conditions de ressources.
 
@@ -6806,9 +7218,9 @@ Ces actions s'intègrent dans le cadre global de la politique santé-prévention
 
 Il est rappelé que ces actions prioritaires ainsi que la communication associée à leur déploiement, sont financées selon les modalités définies au 1er alinéa de l'article 1.3.5.
 
-##### Article 1.3.3
+#### Article 1.3.3 — Comité paritaire de surveillance
 
-*Comité paritaire de surveillance*
+> **Source :** Article 1.3.3 — Comité paritaire de surveillance — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 La politique d'action sociale de branche est confiée au comité paritaire de surveillance, composé d'un titulaire et d'un suppléant pour chaque organisation syndicale de salariés et d'un nombre égal de représentants au titre des fédérations d'employeurs du présent accord.
 
@@ -6828,15 +7240,15 @@ Le comité désigne en son sein, pour 2 ans un président et un vice-président 
 
 Le comité paritaire de surveillance se réunit au moins 2 fois par an sur convocation de son président.
 
-##### Article 1.3.4
+#### Article 1.3.4 — Gouvernance du fonds d'action sociale des organismes assureurs recommandés
 
-*Gouvernance du fonds d'action sociale des organismes assureurs recommandés*
+> **Source :** Article 1.3.4 — Gouvernance du fonds d'action sociale des organismes assureurs recommandés — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Dans le cadre du régime et sur la base des orientations politiques retenues par le comité paritaire de surveillance, l'apériteur (ou société apéritrice) choisi parmi les assureurs recommandés pilote la gestion administrative et financière du fonds dédié à l'action sociale et assure le reporting administratif et financier auprès du comité paritaire de surveillance.
 
-##### Article 1.3.5
+#### Article 1.3.5 — Financement de l'action sociale
 
-*Financement de l'action sociale*
+> **Source :** Article 1.3.5 — Financement de l'action sociale — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Conformément aux dispositions légales et réglementaires en vigueur, 2 % du montant de la prime ou de la cotisation globale acquittée par l'employeur et le salarié sont affectés au financement des prestations servies dans le cadre de l'action sociale pour les organismes assureurs non recommandés, ou par le fonds d'action sociale des organismes assureurs recommandés.
 
@@ -6844,16 +7256,16 @@ Le fonds d'action sociale des organismes assureurs recommandés bénéficie excl
 
 Les actions visées à l'article 1.3.2 ainsi que la communication y afférente sont financées par le fonds susmentionné.
 
-##### Article 1.4
+#### Article 1.4 — Suivi de la couverture collective de branche
 
-*Suivi de la couverture collective de branche*
+> **Source :** Article 1.4 — Suivi de la couverture collective de branche — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les organismes choisis fourniront semestriellement au comité paritaire de surveillance de la complémentaire santé de la branche un rapport établi conformément aux modalités définies dans les conventions de gestion conclues avec les organismes recommandés.
 Conformément à l'article L. 912-1 du code de la sécurité sociale, le ou les organismes ou institutions adressent annuellement au ministre chargé de la sécurité sociale un rapport sur la mise en œuvre du régime, le contenu des éléments de solidarité et son équilibre, dont le contenu est précisé par décret.
 
-##### Article 1.5
+#### Article 1.5 — Obligation d'information
 
-*Obligation d'information*
+> **Source :** Article 1.5 — Obligation d'information — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les parties considèrent qu'un niveau adapté d'information permanente des bénéficiaires est essentiel à la bonne compréhension de leurs droits et obligations et à la réalisation des objectifs du présent accord.
 Dans ce cadre, les organismes assureurs devront prendre l'engagement :
@@ -6861,9 +7273,11 @@ Dans ce cadre, les organismes assureurs devront prendre l'engagement :
 – d'établir une notice d'information dont l'objet est de détailler les garanties et leurs modalités d'application ; de la transmettre à chaque entreprise adhérente par tous moyens (notamment par la voie dématérialisée, ce qui vaudra notification au sens des articles L. 932-6 du code de la sécurité sociale, L. 141-4 du code des assurances et L. 221-6 du code de la mutualité), et de la mettre à jour en cas d'évolution des garanties. Toutefois, s'il s'agit de modifications entraînant des rectifications non significatives de la notice initiale, l'information pourra être faite par une fiche rectificative destinée à compléter ou mettre à jour la notice initiale. Les entreprises ont l'obligation de remettre cette notice à chaque membre du personnel en place et au moment de l'entrée en fonction.
 En cas de rupture du contrat de travail, et au plus tard le dernier jour de la relation contractuelle, les entreprises doivent informer les salariés du maintien possible des garanties en application des dispositions légales et des conditions dans lesquelles ils peuvent en bénéficier.
 
-#### Garanties
+### Garanties
 
-##### Article 2
+#### Article 2
+
+> **Source :** Article 2 — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 La couverture minimum de branche a pour objet d'assurer le remboursement de tout ou partie des frais de santé considérés par les partenaires sociaux de la branche comme devant obligatoirement être couverts pour l'ensemble des salariés travaillant dans les entreprises relevant du champ d'application de la convention collective et, le cas échéant, pour leurs enfants à charge et/ou leur conjoint.
 
@@ -6871,29 +7285,31 @@ Les partenaires sociaux affirment leur volonté d'améliorer les garanties régl
 
 Soucieux d'intervenir en amont afin de prévenir les risques en matière de santé, les partenaires sociaux ont décidé de mettre en avant plusieurs actions de prévention au travers des garanties proposées. Les garanties respectent en toutes circonstances les exigences du contrat “ responsable ” en termes d'interdictions et d'obligations minimales et maximales de prise en charge, conformément aux dispositions du code de la sécurité sociale.
 
-#### Versement santé
+### Versement santé
 
-##### Article 3
+#### Article 3
+
+> **Source :** Article 3 — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 *(pas de contenu)*
 
-##### Article 3.1
+#### Article 3.1 — Objet du "versement santé"
 
-*Objet du "versement santé" *
+> **Source :** Article 3.1 — Objet du "versement santé" — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'article L. 911-7-1 du code de la sécurité sociale créé par la loi de financement de la sécurité sociale pour 2016 prévoit que certains salariés peuvent obtenir de la part de leur employeur un financement (dit « versement santé ») afin de participer à la prise en charge de la couverture santé qu'ils auront souscrite par ailleurs. Le versement se substitue ainsi à la participation patronale versée dans le cadre d'un régime collectif et obligatoire ainsi qu'au bénéfice de la portabilité.
 
-##### Article 3.2
+#### Article 3.2 — Bénéficiaires
 
-*Bénéficiaires *
+> **Source :** Article 3.2 — Bénéficiaires — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Peuvent bénéficier du « versement santé », sous réserve de respecter les conditions prévues à l'article 3, les salariés dont la durée du contrat de travail est inférieure ou égale à 3 mois et les salariés dont la durée effective du travail prévue par le contrat de travail est inférieure ou égale à 15 heures par semaine.
 
 Conformément à l'article L. 911-7-1 III du code de la sécurité sociale, ces salariés relèvent exclusivement du dispositif du « versement santé » et n'entrent pas dans le champ d'application du régime complémentaire santé collectif mis en place à titre obligatoire.
 
-##### Article 3.3
+#### Article 3.3 — Conditions d'octroi
 
-*Conditions d'octroi *
+> **Source :** Article 3.3 — Conditions d'octroi — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Pour percevoir le « versement santé », le salarié doit avoir souscrit un contrat « responsable » au sens des articles L. 871-1, R. 871-1 et R. 871-2 du code de la sécurité sociale.
 
@@ -6905,9 +7321,9 @@ Le " versement santé " ne peut en outre être cumulé avec le bénéficie d'une
 
 Le salarié devra justifier l'existence de sa couverture par ailleurs et sa compatibilité avec le « versement santé » par tout moyen en produisant à son employeur une copie du contrat d'assurance au titre duquel il est assuré ainsi qu'une attestation de l'assureur sur le caractère responsable du dispositif.
 
-##### Article 3.4
+#### Article 3.4 — Modalités de calcul
 
-*Modalités de calcul*
+> **Source :** Article 3.4 — Modalités de calcul — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Le montant du “ versement santé ” est calculé selon les modalités prévues à l'article D. 911-8 du code de la sécurité sociale(1).
 
@@ -6915,35 +7331,35 @@ En tout état de cause, le “ versement santé ” perçu par le salarié au se
 
 (1) Sur les modalités de calcul du versement santé, voir le Bulletin officiel de la sécurité sociale, point 850.
 
-#### Mise en œuvre
+### Mise en œuvre
 
-##### Article 4.1
+#### Article 4.1 — Durée
 
-*Durée*
+> **Source :** Article 4.1 — Durée — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Le présent accord est conclu pour une période à durée indéterminée.
 
 (ancien article 3.1)
 
-##### Article 4.1.1
+#### Article 4.1.1 — Révision et dénonciation
 
-*Révision et dénonciation*
+> **Source :** Article 4.1.1 — Révision et dénonciation — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les dispositions du présent accord pourront être révisées ou dénoncées conformément aux dispositions des articles L. 2261-7 à L. 2261-12 du code du travail.
 
 (ancien article 3.1.1)
 
-##### Article 4.1.2
+#### Article 4.1.2 — Suivi
 
-*Suivi*
+> **Source :** Article 4.1.2 — Suivi — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les partenaires sociaux conviennent que la commission de suivi complémentaire santé se réunira au moins deux fois par an pour établir un bilan de l'année écoulée et proposer des pistes d'amélioration ou de modification.
 
 (ancien article 3.1.2)
 
-##### Article 4.2
+#### Article 4.2 — Entrée en vigueur et mise en œuvre de l'accord de branche par les entreprises de la branche
 
-*Entrée en vigueur et mise en œuvre de l'accord de branche par les entreprises de la branche*
+> **Source :** Article 4.2 — Entrée en vigueur et mise en œuvre de l'accord de branche par les entreprises de la branche — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les entreprises disposant déjà d'une couverture de remboursements complémentaires pour leurs salariés et pour les enfants à charge de leurs salariés sont considérées comme satisfaisant à la couverture minimum de branche, à condition que la répartition des cotisations appelées au titre de la couverture minimum de branche telle que définie par le présent accord à l'article 2 corresponde à celle précisée à l'article 1.1.5 et que le niveau des garanties soit équivalent, selon la situation réelle du salarié, à celui de la couverture minimum de branche du salarié avec ou sans enfants à charge. Ces entreprises disposent d'un délai de 3 mois à compter de la publication de l'arrêté d'extension du présent accord pour se mettre en conformité.
 
@@ -6953,19 +7369,19 @@ Les entreprises en création disposent d'un délai de 3 mois pour satisfaire aux
 
 Le présent accord de branche s'impose aux accords d'entreprises, quelle que soit la date de leur conclusion, sauf si l'accord d'entreprise contient des garanties au moins équivalentes.
 
-##### Article 4.3
+#### Article 4.3 — Modification du cadre législatif ou réglementaire
 
-*Modification du cadre législatif ou réglementaire*
+> **Source :** Article 4.3 — Modification du cadre législatif ou réglementaire — Accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les dispositions du présent accord ont été adoptées dans un cadre législatif et réglementaire en vigueur au moment de sa prise d'effet. Elles seront révisées sans délai, en tout ou partie, en cas de modification ou d'évolution des textes législatifs ou réglementaires.
 
 (ancien article 3.3)
 
-#### Annexes
+### Annexes
 
-##### Annexe I - Tableaux des garanties
+#### Annexe I - Tableaux des garanties
 
-###### Article (préambule / sans numéro)
+> **Source :** Annexe I - Tableaux des garanties — Annexe I - Tableaux des garanties.
 
 Annexe I
 
@@ -6983,19 +7399,23 @@ Il est précisé que les remboursements de l'assurance maladie pour les actes en
 
 A compter du 1er janvier 2026, au sein du tableau « Hospitalisation en établissement conventionné » (lien ci-dessus, page 51), les lignes « Chambre particulière » et « Lit d'accompagnant » sont rédigées comme suit :
 
+ 
+
 | Chambre particulière – Par journée [2] ou par nuitée | 45 € | 60 € | 80 € | 100 € |
 | --- | --- | --- | --- | --- |
 | Lit d'accompagnant – Par nuitée | 45 € | 60 € | 80 € | 100 € |
 
-A compter du 1er janvier 2026, au sein du tableau « Soins courants », il est ajouté une ligne « Psychologie dans le cadre du dispositif Mon soutien psy » (lien ci-dessus, page 53) en dessous de la ligne « Médecines douces : acupuncteur, chiropracteur, diététicien, ostéopathe, pédicure-podologue, psychomotricien, tabacologue (sur présentation d'une facture originale) ».
+ A compter du 1er janvier 2026, au sein du tableau « Soins courants », il est ajouté une ligne « Psychologie dans le cadre du dispositif Mon soutien psy » (lien ci-dessus, page 53) en dessous de la ligne « Médecines douces : acupuncteur, chiropracteur, diététicien, ostéopathe, pédicure-podologue, psychomotricien, tabacologue (sur présentation d'une facture originale) ».
 
 Cette ligne additionnelle est ainsi rédigée :
+
+ 
 
 | Psychologie dans le cadre du dispositif « Mon soutien psy » (2) | 100 % BRSS [1] |
 | --- | --- |
 | [1] Dans les limites prévues par l'arrêté du 2 mars 2022 fixant la convention type entre l'assurance maladie et les professionnels s'engageant dans le cadre du dispositif de prise en charge de séances dans l'accompagnement par un psychologue. |  |
 
-A compter du 1er janvier 2026, au sein du tableau « Soins courants », la ligne « Équilibre alimentaire et produits diététiques (sur prescription médicale et présentation d'une facture acquittée) » (lien ci-dessus, page 53) est supprimée.
+ A compter du 1er janvier 2026, au sein du tableau « Soins courants », la ligne « Équilibre alimentaire et produits diététiques (sur prescription médicale et présentation d'une facture acquittée) » (lien ci-dessus, page 53) est supprimée.
 
 A compter du 1er janvier 2026, au sein du tableau « Dentaire », la note de bas de page n° 10, qui figure sur le tableau « Dentaire » (lien ci-dessus, page 52), ligne « Prothèses », est remplacée par le paragraphe suivant :
 
@@ -7009,18 +7429,20 @@ A compter du 1er janvier 2026, le tableau « Optique » est remplacé comme suit
 
 A compter du 1er janvier 2026, au sein du tableau « optique : verres de “classe B” et montures », (lien ci-dessus, page 21), la ligne « sphère > 0 et (sphère + cylindre) > + 6 » (par verre unifocal, sphérique-cylindrique) est remplacée par les stipulations suivantes :
 
+ 
+
 | Sphère > 0 et (sphère + cylindre) > + 6 | 85 € | 75 € | 90 € | 75 € | 100 € | 75 € | 125 € | 90 € |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-(2) La ligne « Psychologie dans le cadre du dispositif Mon soutien psy » est étendue sous réserve du respect de l'arrêté du 24 juin 2024 et de l'article R. 162-65 du code de la sécurité sociale, tel que modifié par le décret n° 2025-424 du 13 mai 2025 publié au Journal officiel de la République française du 15 mai 2025, qui a augmenté de huit à douze le nombre de séances pouvant être prises en charge annuellement.
+ (2) La ligne « Psychologie dans le cadre du dispositif Mon soutien psy » est étendue sous réserve du respect de l'arrêté du 24 juin 2024 et de l'article R. 162-65 du code de la sécurité sociale, tel que modifié par le décret n° 2025-424 du 13 mai 2025 publié au Journal officiel de la République française du 15 mai 2025, qui a augmenté de huit à douze le nombre de séances pouvant être prises en charge annuellement.
 
 (Arrêté du 4 juillet 2025 - art. 1)
 
-##### Annexe II - Choix des organismes assureurs recommandés et de la société apéritrice
+#### Annexe II - Choix des organismes assureurs recommandés et de la société apéritrice
 
-###### Article 1er
+##### Article 1er — Choix des organismes assureurs recommandés
 
-*Choix des organismes assureurs recommandés*
+> **Source :** Article 1er — Choix des organismes assureurs recommandés — Annexe II - Choix des organismes assureurs recommandés et de la société apéritrice.
 
 La commission paritaire de la branche des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseils retient à l'issue de sa procédure de mise en concurrence des organismes assureurs dans le cadre de la recommandation prévue à l'article L. 912-1 du code de la sécurité sociale, au titre de la complémentaire santé, les organismes assureurs suivants :
 
@@ -7030,17 +7452,17 @@ La commission paritaire de la branche des bureaux d'études techniques, des cabi
 
 – Malakoff Humanis prévoyance.
 
-###### Article 2
+##### Article 2 — Société apéritrice
 
-*Société apéritrice*
+> **Source :** Article 2 — Société apéritrice — Annexe II - Choix des organismes assureurs recommandés et de la société apéritrice.
 
 La commission paritaire de la branche des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseils choisit Malakoff Humanis prévoyance en qualité de société apéritrice pour une durée de 3 ans. Au terme de cette durée, l'apérition pourra être reconduite à l'identique jusqu'au terme de la recommandation ou confiée à l'un des deux autres organismes recommandés cités à l'article 1er.
 
-##### Annexe III - Montants des cotisations
+#### Annexe III - Montants des cotisations
 
-###### Article 1er
+##### Article 1er — Structure “Salarié + enfant(s)/Conjoint facultatif”
 
-*Structure “Salarié + enfant(s)/Conjoint facultatif”*
+> **Source :** Article 1er — Structure “Salarié + enfant(s)/Conjoint facultatif” — Annexe III - Montants des cotisations.
 
 (Tableaux non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, page 34.)
 
@@ -7048,9 +7470,9 @@ La commission paritaire de la branche des bureaux d'études techniques, des cabi
 
 Exemple : si une entreprise (hors Alsace-Moselle) choisit de rendre obligatoire l'option 1, alors le tarif est de 80,50 €. Si le salarié souhaite bénéficier de l'option 3, alors le tarif sera majoré de 56,50 €, soit 137 €.
 
-###### Article 2
+##### Article 2 — Structure “Isolé/Famille obligatoire”
 
-*Structure “Isolé/Famille obligatoire”*
+> **Source :** Article 2 — Structure “Isolé/Famille obligatoire” — Annexe III - Montants des cotisations.
 
 (Tableaux non reproduits, consultables en ligne sur le site Légifrance, rubrique Bulletins officiels des conventions collectives, page 35.)
 
@@ -7058,11 +7480,11 @@ Exemple : si une entreprise (hors Alsace-Moselle) choisit de rendre obligatoire 
 
 Exemple : si une entreprise (hors Alsace-Moselle) choisit de rendre obligatoire l'option 1, alors le tarif est de 56,50 €. Si le salarié souhaite bénéficier de l'option 3, alors le tarif sera majoré de 39,00 €, soit 95,50 €.
 
-### Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
+## Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'article 1er de la loi n° 2013-504 du 14 juin 2013 de sécurisation de l'emploi a instauré un droit pour tous les salariés d'être couverts par leur employeur en matière de remboursement de frais de santé à compter du 1er janvier 2016 (reporté au 1er juillet 2016 pour les salariés relevant du régime de sécurité sociale d'Alsace-Moselle).
 Conscient de la difficulté pratique pour les entreprises de remplir cette obligation s'agissant des salariés à employeurs multiples ou à temps très partiel, le législateur a annoncé des modalités spécifiques de financement de la couverture pour ces salariés.
@@ -7070,43 +7492,43 @@ C'est la raison pour laquelle les organisations professionnelles d'employeurs et
 Dans ce contexte, la loi n° 2015-1702 du 21 décembre 2015 de financement de la sécurité sociale pour 2016 et le décret n° 2015-1883 du 30 décembre 2015 ont créé le dispositif du « versement santé » au profit de certains salariés en contrats courts ou à temps très partiel.
 Les parties ont ainsi choisi de se réunir pour préciser les modalités d'application de ce dispositif aux entreprises de la branche et compléter à ce titre les dispositions de l'accord du 7 octobre 2015.
 
-#### Article 1er
+### Article 1er — Modification de l'article 1.1 « Adhésion du salarié »
 
-*Modification de l'article 1.1 « Adhésion du salarié »*
+> **Source :** Article 1er — Modification de l'article 1.1 « Adhésion du salarié » — Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'article 1.1.1 B « Disposition transitoire » est supprimé. L'article 1.1.1 A devient en conséquence l'article 1.1.1.
 
-#### Article 2
+### Article 2 — Modification de l'article 3 « Mise en œuvre de l'accord de branche »
 
-*Modification de l'article 3 « Mise en œuvre de l'accord de branche »*
+> **Source :** Article 2 — Modification de l'article 3 « Mise en œuvre de l'accord de branche » — Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'article 3.1 « Durée de l'accord », devient l'article 4.1.
 L'article 3.1.1 « Révision et dénonciation de l'accord » devient l'article 4.1.1 ». L'article 3.1.2 « Suivi de l'accord » devient l'article 4.1.2.
 L'article 3.2 « Entrée en vigueur et mise en œuvre de l'accord de branche par les entreprises de la branche » devient l'article 4.2.
 L'article 3.3 « Modification du cadre législatif et réglementaire » devient l'article 4.3.
 
-#### Article 3
+### Article 3 — Création d'un nouvel article 3 « Versement santé »
 
-*Création d'un nouvel article 3 « Versement santé »*
+> **Source :** Article 3 — Création d'un nouvel article 3 « Versement santé » — Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'article 3 « Versement santé » de l'accord du 7 octobre 2015 est dorénavant rédigé comme suit :
 
-#### Article 3.1
+### Article 3.1 — Objet du “versement santé”
 
-*Objet du “versement santé”*
+> **Source :** Article 3.1 — Objet du “versement santé” — Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'article L. 911-7-1 du code de la sécurité sociale créé par la loi de financement de la sécurité sociale pour 2016 prévoit que certains salariés peuvent obtenir de la part de leur employeur un financement (dit “versement santé”) afin de participer à la prise en charge de la couverture santé qu'ils auront souscrite par ailleurs. Le versement se substitue ainsi à la participation patronale versée dans le cadre d'un régime collectif et obligatoire ainsi qu'au bénéfice de la portabilité.
 
-#### Article 3.2
+### Article 3.2 — Bénéficiaires
 
-*Bénéficiaires*
+> **Source :** Article 3.2 — Bénéficiaires — Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Peuvent bénéficier du “versement santé”, sous réserve de respecter les conditions prévues à l'article 3, les salariés dont la durée du contrat de travail est inférieure ou égale à 3 mois et les salariés dont la durée effective du travail prévue par le contrat de travail est inférieure ou égale à 15 heures par semaine.
 Conformément à l'article L. 911-7-1 III du code de la sécurité sociale, ces salariés relèvent exclusivement du dispositif du “versement santé” et n'entrent pas dans le champ d'application du régime complémentaire santé collectif mis en place à titre obligatoire.
 
-#### Article 3.3
+### Article 3.3 — Conditions d'octroi
 
-*Conditions d'octroi*
+> **Source :** Article 3.3 — Conditions d'octroi — Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Pour percevoir le “versement santé”, le salarié doit avoir souscrit un contrat “responsable” au sens des articles L. 871-1, R. 871-1 et R. 871-2 du code de la sécurité sociale.
 Le “versement santé” ne peut en outre être cumulé avec le bénéficie d'une couverture :
@@ -7114,38 +7536,40 @@ Le “versement santé” ne peut en outre être cumulé avec le bénéficie d'u
 – collective et obligatoire au sens de l'article L. 242-1 du code de la sécurité sociale, y compris en tant qu'ayant droit.
 Le salarié devra justifier l'existence de sa couverture par ailleurs et sa compatibilité avec le “versement santé” par tout moyen en produisant à son employeur une copie du contrat d'assurance au titre duquel il est assuré ainsi qu'une attestation de l'assureur sur le caractère responsable du dispositif.
 
-#### Article 3.4
+### Article 3.4 — Modalités de calcul
 
-*Modalités de calcul*
+> **Source :** Article 3.4 — Modalités de calcul — Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Le montant du “versement santé” est calculé selon les modalités prévues à l'article D. 911-8 du code de la sécurité sociale (voir exemple 1).
 En tout état de cause, les “versements santé” perçus par le salarié au sein de la même entreprise sur un mois civil d'activité ne pourra pas excéder le montant de la cotisation mensuelle acquittée par le salarié au titre de sa couverture souscrite par ailleurs. »
 
-#### Article 4
+### Article 4 — Entrée en vigueur et formalités
 
-*Entrée en vigueur et formalités*
+> **Source :** Article 4 — Entrée en vigueur et formalités — Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Le présent avenant prend effet à compter de la date de sa signature, sous réserve de la mise en œuvre du droit d'opposition. Il s'incorpore à l'accord national du 7 octobre 2015 qu'il modifie.
 Il est notifié et déposé dans les conditions prévues par le code du travail. Les partenaires sociaux conviennent d'en demander l'extension auprès du ministre chargé de la sécurité sociale et auprès du ministre des finances et des comptes publics conformément aux dispositions de l'article L. 911-3 du code de la sécurité sociale.
 
-#### Annexe I
+### Annexe I
 
-##### Article (préambule / sans numéro)
+> **Source :** Annexe I — Avenant du 16 mars 2016 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Exemple 1
 
  A titre d'exemple, calcul du « versement santé » la contribution de l'employeur est forfaitaire et égale à 20 €. Le salarié a un contrat de travail de 15 jours travaillés à temps plein journée de 7 heures). Dans ce cas, le montant de référence est égal à 13,84 € (= 20 × 7 × 15/151,67). Le coefficient de majoration sera de 125 % : le montant mensuel versé aux salariés sera donc de 17,30 (13,84 × 125 %).
  (Source : circulaire de la direction de la sécurité sociale du 29 décembre 2015.)
 
-### Accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI)
+## Accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI)
 
-#### Article (préambule / sans numéro)
+> **Source :** Accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI) — Accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 La loi du 8 août 2016 instaure de nouvelles règles en matière de négociation collective et met en place la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 Par le présent accord, les partenaires sociaux structurent le dialogue social dans la branche afin de lui donner les moyens de développer des actions permettant de promouvoir et valoriser le secteur de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils. En conséquence, les partenaires sociaux de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils se sont entendus sur les dispositions suivantes.
 
-#### Article 1er
+### Article 1er
+
+> **Source :** Article 1er — Accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 Les dispositions du présent accord annulent et remplacent l'article 85 de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils intitulé « interprétation de la convention », l'accord du 20 juillet 2010 relatif à la création de la commission paritaire de validation des accords d'entreprise de moins de 200 salariés et l'accord du 15 septembre 2005 portant création de l'observatoire paritaire de la négociation collective.
 
@@ -7237,9 +7661,9 @@ Le rapport comprend un bilan quantitatif et qualitatif de la négociation collec
 
 Le rapport annuel d'activité est élaboré de manière paritaire.
 
-#### Article 2
+### Article 2 — Durée de l'accord, entrée en vigueur, clause de rendez-vous
 
-*Durée de l'accord, entrée en vigueur, clause de rendez-vous*
+> **Source :** Article 2 — Durée de l'accord, entrée en vigueur, clause de rendez-vous — Accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 Le présent accord est annexé à la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils.
 
@@ -7249,19 +7673,19 @@ Il prend effet à partir du jour de son dépôt auprès du ministère en charge 
 
 L'accord fera l'objet d'un bilan à l'issue d'un délai de 3 ans à compter de son entrée en vigueur afin de voir si des adaptations sont nécessaires.
 
-#### Article 3
+### Article 3 — Dépôt. – Publicité
 
-*Dépôt. – Publicité*
+> **Source :** Article 3 — Dépôt. – Publicité — Accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 Le présent accord sera, conformément aux dispositions légales, notifié aux organisations syndicales représentatives et fera l'objet d'un dépôt auprès des services centraux du ministère chargé du travail et auprès du secrétariat-greffe du conseil de prud'hommes de Paris dans les conditions définies par les dispositions légales et réglementaires en vigueur.
 
 Le présent accord fera l'objet d'une demande d'extension dans les conditions fixées par les dispositions légales et réglementaires en vigueur.
 
-### Avenant du 19 juin 2018 à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme
+## Avenant du 19 juin 2018 à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant du 19 juin 2018 à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Par un accord de branche en date du 25 octobre 2007, les partenaires sociaux de la branche des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseil (branche « BETIC ») ont défini les missions de l'ADESATT et les modalités de financement du paritarisme. Celui-ci a été complété par une annexe le 11 février 2009, modifiée par un accord de branche en date du 16 octobre 2013.
 
@@ -7269,9 +7693,9 @@ En application de l'article 8 de l'accord de branche du 25 octobre 2007, les par
 
 En opportunité, ils considèrent également que plusieurs dispositions doivent être ajustées afin d'être en adéquation avec d'autres dispositions conventionnelles plus récentes, et notamment l'accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
-#### Article 1er
+### Article 1er — Modification de l'article 2 de l'accord de branche du 25 octobre 2007
 
-*Modification de l'article 2 de l'accord de branche du 25 octobre 2007*
+> **Source :** Article 1er — Modification de l'article 2 de l'accord de branche du 25 octobre 2007 — Avenant du 19 juin 2018 à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Les dispositions du 8e alinéa de l'article 2 de l'accord de branche du 25 octobre 2007 sont supprimées et remplacées par :
 
@@ -7279,39 +7703,39 @@ Les dispositions du 8e alinéa de l'article 2 de l'accord de branche du 25 octob
 
 Le reste de l'article 2 de l'accord national du 25 octobre 2007 est inchangé.
 
-#### Article 2
+### Article 2 — Modification de l'article 3.2 de l'accord de branche du 25 octobre 2007
 
-*Modification de l'article 3.2 de l'accord de branche du 25 octobre 2007*
+> **Source :** Article 2 — Modification de l'article 3.2 de l'accord de branche du 25 octobre 2007 — Avenant du 19 juin 2018 à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Les dispositions de l'article 3.2 « collecte des ressources de l'ADESATT » de l'accord de branche du 25 octobre 2007 sont supprimées et remplacées par :
 
 « La contribution conventionnelle est collectée selon des modalités définies par le conseil d'administration de l'ADESATT. »
 
-#### Article 3
+### Article 3 — Durée de l'accord
 
-*Durée de l'accord*
+> **Source :** Article 3 — Durée de l'accord — Avenant du 19 juin 2018 à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Le présent accord est conclu pour une durée indéterminée.
 
 Le présent accord est annexé à la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseil (IDCC 1486).
 
-#### Article 4
+### Article 4 — Dépôt et extension de l'accord
 
-*Dépôt et extension de l'accord*
+> **Source :** Article 4 — Dépôt et extension de l'accord — Avenant du 19 juin 2018 à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Le présent accord est déposé par la partie la plus diligente dans le cadre des dispositions légales et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministre du travail dans le cadre des dispositions légales.
 
-#### Article 5
+### Article 5 — Entrée en vigueur de l'accord
 
-*Entrée en vigueur de l'accord*
+> **Source :** Article 5 — Entrée en vigueur de l'accord — Avenant du 19 juin 2018 à l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme.
 
 Le présent accord entrera en vigueur le 1er juillet 2018.
 
-### Avenant n° 2 du 25 septembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
+## Avenant n° 2 du 25 septembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 2 du 25 septembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Le présent avenant a pour objet de mettre en conformité l'accord du 7 octobre 2015 relatif à la complémentaire santé avec la réforme des soins et équipements à prise en charge renforcée, dite 100 % santé, et le nouveau cahier des charges des contrats solidaires et responsables. L'article 51 de la loi n° 2018-1203 du 22 novembre 2018 de financement de la sécurité sociale pour 2019 a en effet posé les jalons de la réforme du « 100 % santé » et le décret n° 2019-21 du 11 janvier 2019 visant à garantir un accès sans reste à charge à certains équipements d'optique, aides auditives et soins prothétiques dentaires est venu modifier le contenu du cahier des charges des contrats « responsable et solidaire ». Le dispositif légal et réglementaire du « 100 % santé » a notamment été depuis enrichi par différents décrets, arrêtés, décisions, avis et circulaires.
 
@@ -7319,9 +7743,9 @@ L'article 51 de la loi précitée dispose : « Les organisations liées par une 
 
 C'est dans ce contexte qu'entre les organisations professionnelles d'employeurs et les organisations syndicales de salariés signataires, il a été convenu d'apporter les modifications suivantes à l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé :
 
-#### Article 1er
+### Article 1er — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 1er — Détermination du champ territorial et professionnel — Avenant n° 2 du 25 septembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Avant l'article 1er, de l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé, est inséré un article liminaire intitulé « Détermination du champ territorial et professionnel » ainsi rédigé :
 
@@ -7329,9 +7753,9 @@ Avant l'article 1er, de l'accord de branche du 7 octobre 2015 relatif à la comp
 
 Les dispositions du présent accord permettent une régulation économique équitable entre toutes les entreprises de la branche. Elles s'appliquent donc indistinctement à tous les salariés des entreprises relevant de la convention de branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseil, quel que soit leur effectif. »
 
-#### Article 2
+### Article 2 — Tableaux des garanties
 
-*Tableaux des garanties*
+> **Source :** Article 2 — Tableaux des garanties — Avenant n° 2 du 25 septembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'annexe I de l'accord du 7 octobre 2015 modifié relatif à la complémentaire santé est remplacée de la manière suivante :
 
@@ -7345,9 +7769,9 @@ Il est précisé que les remboursements de l'assurance maladie pour les actes en
 
  https://www.legifrance.gouv.fr/download/file/pdf/boc_20190042_0000_0003.pdf/BOCC
 
-#### Article 3
+### Article 3 — Tableau des garanties relatives à l'aide auditive
 
-*Tableau des garanties relatives à l'aide auditive*
+> **Source :** Article 3 — Tableau des garanties relatives à l'aide auditive — Avenant n° 2 du 25 septembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 À compter du 1er janvier 2021, le tableau des garanties « Aide auditive » à l'annexe I de l'accord du 7 octobre 2015 modifié relatif à la complémentaire santé est remplacé de la manière suivante :
 
@@ -7355,33 +7779,33 @@ Il est précisé que les remboursements de l'assurance maladie pour les actes en
 
  https :// www. journal-officiel. gouv. fr/ publications/ bocc/ pdf/2019/0042/ boc _ 20190042 _ 0000 _ 0003. pdf
 
-#### Article 4
+### Article 4 — Changement de dénomination de l'un des organismes assureurs recommandés
 
-*Changement de dénomination de l'un des organismes assureurs recommandés*
+> **Source :** Article 4 — Changement de dénomination de l'un des organismes assureurs recommandés — Avenant n° 2 du 25 septembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Au sein des articles 1er et 2 de l'annexe II de l'accord du 7 octobre 2015 modifié relatif à la complémentaire santé, la dénomination « Malakoff Médéric Prévoyance » est remplacée par « Malakoff Humanis Prévoyance ».
 
-#### Article 5
+### Article 5 — Durée et entrée en vigueur
 
-*Durée et entrée en vigueur*
+> **Source :** Article 5 — Durée et entrée en vigueur — Avenant n° 2 du 25 septembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Le présent avenant est conclu pour une durée indéterminée, à compter du 1er janvier 2020. Il s'incorpore à l'accord de branche du 7 octobre 2015 qu'il modifie. Il est donc régi par les mêmes modalités de suivi, révision et dénonciation.
 
 Il est inséré à l'article 4.2 de l'accord du 7 octobre 2015 un dernier alinéa ainsi rédigé : « Le présent accord de branche s'impose aux accords d'entreprises, quelle que soit la date de leur conclusion, sauf si l'accord d'entreprise contient des garanties au moins équivalentes ».
 
-#### Article 6
+### Article 6 — Formalités et extension
 
-*Formalités et extension*
+> **Source :** Article 6 — Formalités et extension — Avenant n° 2 du 25 septembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministre du travail dans le cadre des dispositions légales et de la procédure d'extension spécifique mise en place par la direction générale du travail et la direction de la sécurité sociale pour l'extension des accords collectifs ayant pour objet la mise en conformité au nouveau cahier des charges des contrats solidaires et responsables.
 
 Après avoir lu et paraphé chacune des pages précédentes et le cas échéant les annexes afférentes, les représentants signataires ont approuvé l'avenant au nom de leur organisation.
 
-### Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité
+## Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent accord de branche a pour objet de définir une politique de branche en matière d'emploi et de formation professionnelle. Il s'inscrit dans la volonté des parties signataires de développer l'insertion dans la branche par la voie de l'alternance, de faire de la formation un levier d'évolution professionnelle pour les salariés de la branche, et de réduire les inégalités d'accès à la formation. Il renforce le rôle des partenaires sociaux et le dialogue social sur la formation et l'apprentissage, en partant des dispositions législatives (loi n° 2018-771 du 5 septembre 2018) et réglementaires.
 
@@ -7409,9 +7833,9 @@ En tout état de cause, la branche mettra à disposition de l'ensemble des acteu
 
 Enfin, les partenaires sociaux se sont attachés à ce qu'aucune des dispositions du présent accord n'était susceptible d'induire des discriminations entre les femmes et les hommes.
 
-#### Titre Ier Les instances paritaires de pilotage et de déploiement de la formation professionnelle
+### Titre Ier Les instances paritaires de pilotage et de déploiement de la formation professionnelle
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre Ier Les instances paritaires de pilotage et de déploiement de la formation professionnelle — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Dans le domaine de la formation et du développement des compétences, la branche professionnelle a un rôle prépondérant en matière de :
 
@@ -7427,9 +7851,9 @@ Dans le domaine de la formation et du développement des compétences, la branch
 
 Pour remplir l'ensemble des missions que lui a confié le législateur dans l'intérêt des entreprises et des salariés, la branche se dote d'instances paritaires qui en rendent compte auprès de la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
-##### Article 1er
+#### Article 1er — La commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP)
 
-*La commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP)*
+> **Source :** Article 1er — La commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP) — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Dans le cadre du développement de la GPEC au sein de la branche, les parties signataires ont créé par accord du 30 octobre 2008 une commission paritaire nationale de l'emploi et de la formation professionnelle (CPNEFP).
 
@@ -7455,9 +7879,9 @@ Représentantes régionales de la CPNEFP, les commissions paritaires régionales
 
 Pour la réalisation de leurs missions, les CPREFP assurent notamment les liaisons et interventions régionales nécessaires auprès des acteurs locaux de la formation professionnelle et de l'emploi, de l'enseignement secondaire et supérieur, des prescripteurs du CPF de transition.
 
-##### Article 2
+#### Article 2 — L'opérateur de compétences ATLAS
 
-*L'opérateur de compétences ATLAS*
+> **Source :** Article 2 — L'opérateur de compétences ATLAS — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Les parties signataires de la branche ont participé à la création de l'opérateur de compétences ATLAS dont ils ont signé l'accord constitutif le 20 décembre 2018. Créé notamment à partir de l'organisme paritaire collecteur agréé FAFIEC, l'opérateur de compétences ATLAS a été agréé par arrêté ministériel du 29 mars 2019. Il réunit les métiers du conseil, du numérique, de l'ingénierie, de l'évènement, de la finance et de l'expertise, soit 15 branches professionnelles.
 
@@ -7495,9 +7919,9 @@ Cette SPP, dans le respect des accords de branche et des décisions des CPNEFP r
 
 – supervise l'affectation des fonds confiés à l'opérateur de compétences par France compétences (enveloppes Alternance et TPME) et le cas échéant, les fonds conventionnels, conformément aux dispositions légales et réglementaires ainsi qu'aux obligations comptables.
 
-#### Titre II L'observatoire prospectif des métiers et des qualifications
+### Titre II L'observatoire prospectif des métiers et des qualifications
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre II L'observatoire prospectif des métiers et des qualifications — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La branche s'est dotée d'un observatoire prospectif des métiers, des qualifications et des compétences intitulé « OPIIEC », qui constitue l'outil de gestion prévisionnelle des métiers, des qualifications et des compétences de la branche.
 
@@ -7511,9 +7935,9 @@ L'observatoire a également en charge de détecter les fortes mutations de l'act
 
 Pour garantir la qualité de ces études, les parties signataires demanderont à l'opérateur de compétences ATLAS et, le cas échéant, à l'organisme désigné pour la collecte des contributions conventionnelles visées à l'article 26 du présent accord, de mettre à disposition de l'OPIIEC – dans le respect du RGPD – les informations disponibles sur les entreprises de la branche.
 
-#### Titre III L'accès à l'emploi
+### Titre III L'accès à l'emploi
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre III L'accès à l'emploi — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La branche a un rôle prépondérant à jouer dans la promotion et l'attractivité des métiers.
 
@@ -7529,9 +7953,9 @@ La valeur ajoutée des entreprises de la branche vient essentiellement des conna
 
 – en menant des actions spécifiques à destination de publics considérés comme prioritaires.
 
-##### Article 3
+#### Article 3 — L'orientation professionnelle et la promotion des métiers, partenariats stratégiques
 
-*L'orientation professionnelle et la promotion des métiers, partenariats stratégiques*
+> **Source :** Article 3 — L'orientation professionnelle et la promotion des métiers, partenariats stratégiques — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La branche souhaite poursuivre et renforcer sa politique volontariste en matière de promotion des métiers :
 
@@ -7551,9 +7975,9 @@ La mission de l'opérateur de compétences est d'assurer le financement des acti
 
 Il est rappelé que la branche a créé en mai 2017, une plate-forme digitale, www.concepteursdavenirs.fr qui permet la valorisation d'actions de communication en faveur d'un rapprochement entre deux mondes : économique et éducation. Cette plate-forme digitale renforce les actions menées par la branche en faveur de l'apprentissage et sur la promotion des métiers de la branche.
 
-##### Article 4
+#### Article 4 — L'aide au recrutement : les dispositifs d'insertion professionnelle
 
-*L'aide au recrutement : les dispositifs d'insertion professionnelle*
+> **Source :** Article 4 — L'aide au recrutement : les dispositifs d'insertion professionnelle — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Les parties signataires de l'accord réaffirment leur attachement à une action volontariste en matière d'insertion professionnelle.
 
@@ -7561,9 +7985,9 @@ Cette action, pour être efficace, doit s'exercer au niveau national et régiona
 
 Ces partenariats sont développés de manière paritaire. Les CPREFP peuvent également participer à ce développement.
 
-##### Article 5
+#### Article 5 — La formation en alternance
 
-*La formation en alternance*
+> **Source :** Article 5 — La formation en alternance — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Consciente que les métiers qu'elle représente figurent parmi les métiers d'avenir ayant de forts besoins en recrutement, la branche souhaite prendre appui sur les leviers de l'alternance – quels que soient les publics visés et contrats utilisés – afin de développer les compétences et les connaissances concourant à l'employabilité des salariés qui les exercent.
 
@@ -7579,9 +8003,9 @@ et :
 
 Ces deux types de contrats peuvent être conclus dans le cadre d'un CDD ou d'un CDI. Toutefois, si le contrat d'apprentissage relève de la formation initiale, le contrat de professionnalisation s'inscrit lui dans le cadre de la formation continue. Ils poursuivent le même objectif de formation, mais ont des conditions d'application spécifiques. Dans les deux cas, embaucher en alternance permet d'acquérir une formation pratique et une certification reconnue.
 
-##### Article 6
+#### Article 6 — Le contrat d'apprentissage
 
-*Le contrat d'apprentissage*
+> **Source :** Article 6 — Le contrat d'apprentissage — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Il permet à l'apprenti de suivre une formation en alternance en entreprise sous la responsabilité d'un maître d'apprentissage et en centre de formation des apprentis (CFA) pendant 1 à 3 ans.
 
@@ -7590,9 +8014,9 @@ Les parties signataires constatent que le contrat d'apprentissage connaît un fo
 (1) Article étendu sous réserve du respect des dispositions de l'article L. 6222-7-1 du code du travail.
 (Arrêté du 6 novembre 2020 - art. 1)
 
-##### Article 7
+#### Article 7 — Le contrat de professionnalisation
 
-*Le contrat de professionnalisation*
+> **Source :** Article 7 — Le contrat de professionnalisation — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Davantage mobilisé au sein de la branche dans le cadre de sa politique de formation continue, le contrat de professionnalisation vise une certification inscrite au RNCP et les certificats de qualification professionnelle de branche. Toutefois et à titre expérimental, avec l'accord du salarié, il peut tendre à acquérir des compétences définies par l'employeur et ATLAS. Cette adaptation permet aux entreprises de répondre à des besoins d'emplois et de formation sur des métiers émergeants ou en profonde transformation.
 
@@ -7616,6 +8040,8 @@ En application des dispositions des articles L. 6325-8, L. 6325-9, D. 6325-14 et
 
 Aux termes du contrat de professionnalisation, s'il prend la forme d'un contrat de travail à durée déterminée (CDD), ou au terme de l'action de professionnalisation, si le contrat de professionnalisation prend la forme d'un contrat de travail à durée indéterminée (CDI), le niveau de salaire et le coefficient de sortie doivent correspondre à l'emploi qui sera occupé, tout en respectant le coefficient minimum de sortie, défini dans le tableau ci-dessous, ou celui inscrit dans les accords conclus dans le cadre d'un CQP ou d'un CQPI.
 
+ 
+
 | Niveau de formation à l'entrée (niveaux éducation nationale) | Niveau de formation à l'entrée (cadre national des certifications professionnelles) [2] | Année d'exécution du CP | Coefficient d'entrée | Coefficient de sortie | Taux de rémunération % du salaire minimum conventionnel (SMC) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | Jeunes de moins de 26 ans | Demandeurs d'emplois/26 ans et plus |
@@ -7631,7 +8057,7 @@ Aux termes du contrat de professionnalisation, s'il prend la forme d'un contrat 
 | 2e année | 95 [1] | 100 [1] | 100 % | 100 % |  |  |
 | [1] Classification ingénieurs et cadres. [2] Décret n° 2019-14 du 8 janvier 2019 relatif au cadre national des certifications professionnelles. |  |  |  |  |  |  |
 
-Aux termes du contrat de professionnalisation s'il prend la forme d'un CDD, ou au terme de l'action de professionnalisation, si le contrat de professionnalisation prend la forme CDI, ne visant ni diplôme, ni titre, ni CQP ou CQPI, la qualification qu'obtient le salarié est reconnue par sa position de sortie dans les classifications des emplois, plus particulièrement explicitées dans les annexes I, II et V de la convention collective.
+ Aux termes du contrat de professionnalisation s'il prend la forme d'un CDD, ou au terme de l'action de professionnalisation, si le contrat de professionnalisation prend la forme CDI, ne visant ni diplôme, ni titre, ni CQP ou CQPI, la qualification qu'obtient le salarié est reconnue par sa position de sortie dans les classifications des emplois, plus particulièrement explicitées dans les annexes I, II et V de la convention collective.
 
 7.3 Allongement de la durée de l'action de professionnalisation et augmentation de la durée des actions en proportion de la durée totale du contrat
 
@@ -7657,21 +8083,23 @@ Dans le cadre du présent accord et en application de l'article L. 6325-14 du co
 
 Le tableau ci-après exposé récapitule les différentes règles légales et conventionnelles découlant du présent accord :
 
+ 
+
 |  | Bénéficiaires | Qualification visée/ sanction de la formation | Amplitude/ durée de l'action de professionnalisation | Durée de la formation (en pourcentage du temps de travail) [1] |
 | --- | --- | --- | --- | --- |
 | Niveau du bénéficiaire | Tous niveaux d'entrée | Diplôme ou titre enregistré au RNCP CQP et CQPI (art. L. 6314-1 du code du travail) | De 6 à 24 mois | De 15 % à 50 % de la durée du contrat (sans pouvoir être inférieure à 150 heures) |
 | Tous niveaux d'entrée | Qualifications reconnues dans les classifications de la convention collective nationale | De 6 à 18 mois | De 15 % à 25 % de la durée du contrat (sans pouvoir être inférieure à 150 heures) |  |
 | [1] La durée de la formation s'apprécie en fonction du nombre de semaines prévues au contrat de professionnalisation * la durée hebdomadaire * le coefficient (par exemple 0,15, 0,25, ou 0,50 selon les cas). |  |  |  |  |
 
-##### Article 8
+#### Article 8 — La professionnalisation des salariés en alternance. – Dispositif Pro A. – Reconversion ou promotion par l'alternance
 
-*La professionnalisation des salariés en alternance. – Dispositif Pro A. – Reconversion ou promotion par l'alternance*
+> **Source :** Article 8 — La professionnalisation des salariés en alternance. – Dispositif Pro A. – Reconversion ou promotion par l'alternance — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Conformément à l'article L. 6324-3 du code du travail, les partenaires sociaux de la branche fixeront, par accord de branche distinct, la liste des certifications professionnelles éligibles à la Pro-A. Cet accord sera négocié au cours du premier semestre 2020.
 
-##### Article 9
+#### Article 9 — L'accompagnement du tutorat et des maîtres d'apprentissage
 
-*L'accompagnement du tutorat et des maîtres d'apprentissage*
+> **Source :** Article 9 — L'accompagnement du tutorat et des maîtres d'apprentissage — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Une des clefs de réussite de la formation en alternance réside dans la qualité de l'accompagnement des jeunes en formation par un maître d'apprentissage ou par un tuteur.
 
@@ -7702,9 +8130,9 @@ Dans le respect des dispositions législatives et réglementaires, l'opérateur 
 (1) Article étendu sous réserve du respect des dispositions des articles L. 6223-8-1 et D. 6325-6 du code du travail.
 (Arrêté du 6 novembre 2020 - art. 1)
 
-#### Titre IV Développer les compétences des salariés
+### Titre IV Développer les compétences des salariés
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre IV Développer les compétences des salariés — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La notion de compétences est au cœur de la réforme. Dans le cadre de ses prérogatives en termes de certifications professionnelles, la branche est un acteur prépondérant pour détecter et définir les compétences dont les entreprises et les salariés ont besoin.
 
@@ -7730,9 +8158,9 @@ Ce type de parcours qui combine diverses modalités de formation peut aussi perm
 
 La conception d'un tel parcours peut s'appuyer sur les dispositifs existants certes, mais doit être coordonnée : le conseil en évolution professionnelle ainsi que les éléments mis à disposition par l'opérateur de compétences ATLAS, sont autant d'éléments de nature à aider le salarié et qui reste encore un droit, gratuit, pour l'ensemble des salariés.
 
-##### Article 10
+#### Article 10 — Le plan de développement des compétences
 
-*Le plan de développement des compétences*
+> **Source :** Article 10 — Le plan de développement des compétences — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le plan de développement des compétences vise à :
 
@@ -7770,9 +8198,9 @@ Par ailleurs, outre ces modalités, certaines actions inscrites au plan de déve
 
 Les parties signataires rappellent que le salarié doit être volontaire pour se former en dehors du temps de travail et ne peut être sanctionné pour avoir refusé de se former en dehors du temps de travail. Dans ce cas, sur proposition de la branche, l'opérateur de compétences peut prendre en charge des frais de garde d'enfants, dans le cadre d'une enveloppe et selon les critères annuellement définis.
 
-##### Article 11
+#### Article 11 — Le déploiement des actions collectives nationales
 
-*Le déploiement des actions collectives nationales*
+> **Source :** Article 11 — Le déploiement des actions collectives nationales — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Les actions collectives nationales (ACN) sont des formations, non nécessairement certifiantes, dont les coûts pédagogiques sont financés jusqu'à 100 % par l'opérateur de compétences dans les conditions et limites fixées par la loi et élaborées pour répondre aux besoins des entreprises et des salariés de la branche. Cette offre de formation sur mesure permet de répondre aux besoins spécifiques des entreprises :
 
@@ -7786,9 +8214,9 @@ Les actions collectives nationales (ACN) sont des formations, non nécessairemen
 
 Ces actions collectives nationales peuvent notamment être suivies dans la perspective d'un projet d'acquisition d'une certification professionnelle. Elles peuvent également permettre d'acquérir des compétences manquantes pour l'obtention d'une certification.
 
-#### Titre V La certification professionnelle
+### Titre V La certification professionnelle
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre V La certification professionnelle — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La capacité de la branche à développer des certifications professionnelles témoigne de son dynamisme et de son attractivité. En développant une politique de certifications professionnelles, la branche offre aux entreprises des qualifications au plus près de leurs besoins et aux salariés, l'opportunité d'enrichir leur bagage professionnel et de progresser professionnellement et socialement.
 
@@ -7798,23 +8226,23 @@ Les diplômes, titres à finalité professionnelle d'une part et les certificats
 
 Depuis plusieurs années, la branche développe une politique de certification professionnelle adaptée à ses métiers. Elle souhaite intensifier la création et l'utilisation de ces certifications, notamment sur les métiers en tension. Au regard de la réorientation des financements de l'alternance vers l'apprentissage, elle étudiera l'opportunité de faire évoluer ces CQP en titres professionnels.
 
-##### Article 12
+#### Article 12 — Le certificat de qualification professionnelle (CQP)
 
-*Le certificat de qualification professionnelle (CQP)*
+> **Source :** Article 12 — Le certificat de qualification professionnelle (CQP) — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le CQP peut être mobilisé à la fois dans le cadre des recrutements et de la gestion des parcours professionnels. Le CQP permet en outre de répondre plus rapidement aux besoins des entreprises face aux difficultés de recrutement ou rencontrées sur des métiers porteurs, en tension, ou pour lesquels l'offre de formation certifiante est inadaptée (qualitativement ou quantitativement).
 
 D'autres CQP pourront être créés par la CPNEFP, en lien notamment avec les études conduites par l'OPIIEC. Afin d'assurer la gestion technique et la protection juridique des CQP, les parties signataires conviennent de désigner l'organisme paritaire gestionnaire de la contribution conventionnelle prévue à l'article 26 du présent accord comme étant détenteur des droits de propriété intellectuelle desdits CQP.
 
-##### Article 13
+#### Article 13 — Le développement de parcours certifiants et/ou qualifiants sur-mesure
 
-*Le développement de parcours certifiants et/ou qualifiants sur-mesure*
+> **Source :** Article 13 — Le développement de parcours certifiants et/ou qualifiants sur-mesure — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Pour répondre aux enjeux de certification des salariés, la branche souhaite poursuivre le développement de parcours certifiants ou qualifiants.
 
-##### Article 14
+#### Article 14 — Participation à un jury d'examen ou de VAE
 
-*Participation à un jury d'examen ou de VAE*
+> **Source :** Article 14 — Participation à un jury d'examen ou de VAE — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Lorsqu'un salarié est désigné pour participer à un jury d'examen ou de validation des acquis de l'expérience, l'employeur lui accorde une autorisation d'absence rémunérée pour participer à ce jury.
 
@@ -7826,15 +8254,15 @@ Les dépenses afférentes à ces participations, qui peuvent être prises en cha
 
 Dans les conditions définies par l'OPCO, cette prise en charge bénéficie également aux dirigeants d'entreprise de la branche non-salariés qui participent à des jurys d'examens ou de VAE.
 
-#### Titre VI Les droits individuels en matière de formation professionnelle
+### Titre VI Les droits individuels en matière de formation professionnelle
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre VI Les droits individuels en matière de formation professionnelle — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La branche doit se fixer pour objectif de développer la capacité des salariés à être acteurs de leur développement professionnel dans une optique de promotion sociale et d'émancipation mais elle doit aussi inciter salariés et employeurs à dialoguer et à co-construire ensemble des parcours de développement des compétences dans un esprit « gagnant-gagnant ».
 
-##### Article 15
+#### Article 15 — Compte personnel de formation
 
-*Compte personnel de formation*
+> **Source :** Article 15 — Compte personnel de formation — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Les droits inscrits sur le compte personnel de formation (CPF) permettent à son titulaire de financer les actions de formation suivantes :
 
@@ -7864,9 +8292,9 @@ Les parties signataires décident de mobiliser la contribution conventionnelle d
 
 Des orientations annuelles seront définies par les partenaires sociaux au sein de la note politique de formation annuelle (cf. titre IX) afin de cibler les certifications prioritaires de la branche.
 
-##### Article 16
+#### Article 16 — Le CPF de transition professionnelle
 
-*Le CPF de transition professionnelle*
+> **Source :** Article 16 — Le CPF de transition professionnelle — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Sous réserve notamment des conditions d'ancienneté et du respect des procédures prévues par le code du travail, chaque salarié peut entreprendre un projet de transition professionnelle afin de changer de métier ou de profession en mobilisant à cet effet les droits inscrits sur son compte personnel de formation (CPF).
 
@@ -7879,23 +8307,23 @@ Pour mieux déterminer le projet, le salarié peut éventuellement tendre à mob
 (1) Article étendu sous réserve du respect des dispositions de l'article L. 6323-17-1 du code du travail, tel qu'il résulte de la loi n° 2018-771 du 5 septembre 2018 pour la liberté de choisir son avenir professionnel et de l'ordonnance n° 2020-387 du 1er avril 2020 portant mesures d'urgence en matière de formation professionnelle.
 (Arrêté du 6 novembre 2020 - art. 1)
 
-##### Article 17
+#### Article 17 — Le bilan de compétences
 
-*Le bilan de compétences*
+> **Source :** Article 17 — Le bilan de compétences — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Les actions permettant de réaliser un bilan de compétences ont pour objet de permettre à des salariés d'analyser leurs compétences professionnelles et personnelles ainsi que leurs aptitudes et leurs motivations afin de définir un projet professionnel et, le cas échéant, un projet de formation.
 
-##### Article 18
+#### Article 18 — La validation des acquis de l'expérience
 
-*La validation des acquis de l'expérience*
+> **Source :** Article 18 — La validation des acquis de l'expérience — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Toute personne ayant exercé une activité professionnelle peut, sous conditions, bénéficier de la validation des acquis de l'expérience (VAE).
 
 Son expérience lui permet d'obtenir en totalité ou en partie une certification (un diplôme, un titre ou un certificat de qualification professionnelle) inscrite au répertoire national des certifications professionnelles (RNCP).
 
-##### Article 19
+#### Article 19 — Conseil en évolution professionnelle
 
-*Conseil en évolution professionnelle*
+> **Source :** Article 19 — Conseil en évolution professionnelle — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La branche considère que les conseils en évolution professionnelle réalisent des prestations essentielles d'information ou d'accompagnement et, par son accès facilité et gratuit pour les bénéficiaires, leur permettent de favoriser l'évolution et la sécurisation de leur parcours professionnel.
 
@@ -7905,9 +8333,9 @@ Il accompagne les salariés dans le cadre de leurs projets de transition profess
 
 Afin de faciliter la mise en œuvre efficace du conseil en évolution professionnelle, la branche s'engage à mettre en valeur, auprès des opérateurs de conseil en évolution professionnelle, si besoin dans le cadre de conventions de partenariat, les spécificités des secteurs d'activités couverts par la branche et de la grande diversité des métiers.
 
-#### Titre VII Assurer l'égalité d'accès à la formation
+### Titre VII Assurer l'égalité d'accès à la formation
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre VII Assurer l'égalité d'accès à la formation — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La branche doit être la garante de l'égal accès de tous les salariés en fonction de leurs besoins.
 
@@ -7921,9 +8349,9 @@ Pour chaque « dispositif » les entreprises s'attacheront à :
 
 Dans ce but, la branche peut solliciter la réalisation d'études auprès de l'OPIIEC pour permettre d'identifier les actions à mener afin de résorber les éventuelles inégalités d'accès à la formation et les intégrer à la note politique de formation annuelle.
 
-##### Article 20
+#### Article 20 — Les entretiens professionnels
 
-*Les entretiens professionnels*
+> **Source :** Article 20 — Les entretiens professionnels — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 L'entretien professionnel obligatoire réalisé en principe tous les 2 ans à l'initiative de l'entreprise est un temps d'échange et de réflexion conjointe qui peut permettre particulièrement de mieux cerner les aspirations des salariés en matière d'évolution professionnelle.
 
@@ -7947,27 +8375,27 @@ En application des dispositions légales en vigueur, une pénalité financière 
 
 Les parties signataires invitent les entreprises à former les salariés réalisant la conduite des entretiens professionnels, notamment en ce qui concerne les techniques d'entretien, la connaissance des dispositifs de formation et la détection des besoins de formation.
 
-##### Article 21
+#### Article 21 — Les personnes en situation de handicap
 
-*Les personnes en situation de handicap*
+> **Source :** Article 21 — Les personnes en situation de handicap — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Afin d'accompagner l'ensemble des entreprises dans la mise en œuvre d'une politique « handicap », la branche veillera à l'augmentation du recrutement de personnes en situation de handicap, à l'amélioration de la formation de ces travailleurs et à la sécurisation de leur parcours professionnel.
 
 À cet effet, les programmes de formations proposées dans le cadre des actions collectives nationales intégreront des modules spécifiques sur l'intégration, l'accessibilité et l'accompagnement des personnes porteuses de handicap.
 
-##### Article 22
+#### Article 22 — Favoriser l'égalité professionnelle entre les femmes et les hommes
 
-*Favoriser l'égalité professionnelle entre les femmes et les hommes*
+> **Source :** Article 22 — Favoriser l'égalité professionnelle entre les femmes et les hommes — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 L'égalité professionnelle entre les femmes et les hommes implique que l'entreprise intègre cette préoccupation tant à l'embauche que dans le cadre du déroulement de carrière des salariés, tant au niveau individuel qu'au niveau collectif. Outre les interdictions et les obligations de l'entreprise prévues par le droit en vigueur, l'égal accès à la formation entre les femmes et les hommes participe de l'égalité professionnelle.
 
 Les parties signataires incitent ATLAS à s'investir dans cette démarche en mettant en valeur notamment des pratiques d'autres secteurs connexes ou comparables en matière de caractéristiques d'emploi contribuant à l'égalité professionnelle dans le cadre de la formation professionnelle.
 
-#### Titre VIII Les moyens au service des ambitions de la branche
+### Titre VIII Les moyens au service des ambitions de la branche
 
-##### Article 23
+#### Article 23 — L'accompagnement des entreprises de moins de 50 salariés
 
-*L'accompagnement des entreprises de moins de 50 salariés*
+> **Source :** Article 23 — L'accompagnement des entreprises de moins de 50 salariés — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Conformément à la loi, les signataires du présent accord veilleront à ce que l'opérateur de compétences ATLAS assure un service de proximité au bénéfice des TPME pour :
 
@@ -8001,9 +8429,9 @@ Les parties signataires s'appuient sur les missions de l'opérateur de compéten
 
 – aide à l'appropriation des dispositifs et des prises en charge ; conseil et soutien en matière d'ingénierie financière.
 
-##### Article 24
+#### Article 24 — L'information sur la formation professionnelle dans les entreprises
 
-*L'information sur la formation professionnelle dans les entreprises*
+> **Source :** Article 24 — L'information sur la formation professionnelle dans les entreprises — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Les parties signataires souhaitent que sous l'impulsion de l'observatoire des métiers, de la CPNEFP et, avec l'aide de l'opérateur de compétences, une politique d'information soit réalisée auprès des salariés et des entreprises de la branche.
 
@@ -8011,15 +8439,17 @@ Cette politique d'information prend la forme d'une mise à disposition d'outils,
 
 Les parties signataires invitent les entreprises de la branche à diffuser ces informations auprès de leurs salariés.
 
-##### Article 25
+#### Article 25 — La mutualisation de la contribution légale en faveur des entreprises de moins de 50 salariés
 
-*La mutualisation de la contribution légale en faveur des entreprises de moins de 50 salariés*
+> **Source :** Article 25 — La mutualisation de la contribution légale en faveur des entreprises de moins de 50 salariés — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Conformément à l'article L. 6332-1-3 du code du travail, l'opérateur de compétences ATLAS prend en charge les actions concourant au développement des compétences au bénéfice des entreprises de moins de 50 salariés.
 
 Pour faciliter la mise en œuvre de cette disposition, chaque étude de l'OPIIEC doit comporter un volet permettant une identification spécifique des besoins de ces entreprises.
 
-##### Article 26
+#### Article 26
+
+> **Source :** Article 26 — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 26.1 La mutualisation de la contribution conventionnelle au développement des compétences dans les entreprises de la branche
 
@@ -8053,9 +8483,9 @@ Les partenaires sociaux gèrent et organisent la mutualisation de ces fonds au s
 
 Il est convenu que la première collecte des contributions conventionnelles susvisées interviendra au cours de l'année suivant la date d'entrée en vigueur du présent accord, et au plus tôt pour la collecte au titre de masse salariale annuelle brute 2023.
 
-#### Titre IX La note politique de formation
+### Titre IX La note politique de formation
 
-##### Article (préambule / sans numéro)
+> **Source :** Titre IX La note politique de formation — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La note politique de formation permet, une fois les priorités d'affectation des fonds conventionnels définies, à l'Opco Atlas de déterminer chaque année, et au plus tard le 31 décembre, les critères de prise en charge des demandes des entreprises.
 
@@ -8082,17 +8512,17 @@ Cette note politique de formation couvre notamment les champs suivants :
 
 (Arrêté du 31 mars 2023 - art. 1)
 
-#### Titre X Dispositions finales
+### Titre X Dispositions finales
 
-##### Article 27
+#### Article 27 — Dispositions spécifiques aux entreprises de moins de 50 salariés
 
-*Dispositions spécifiques aux entreprises de moins de 50 salariés*
+> **Source :** Article 27 — Dispositions spécifiques aux entreprises de moins de 50 salariés — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 En application de l'article L. 2261-23-1 du code du travail, le présent accord prend en compte les spécificités des entreprises de moins de 50 salariés par la reprise des dispositions législatives les concernant et par la mise en place des mesures particulières prévues par les articles 23, 25 et 26 du présent accord.
 
-##### Article 28
+#### Article 28 — Suivi de l'accord
 
-*Suivi de l'accord*
+> **Source :** Article 28 — Suivi de l'accord — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La CPNEFP est chargée du suivi de la mise en œuvre du présent accord et rend compte annuellement de ce suivi auprès de la CPPNI qui, dans le cadre de ses prérogatives, traite des éventuelles questions d'interprétation liées à cet accord.
 
@@ -8104,9 +8534,9 @@ Ce constat s'appuie sur un bilan réalisé par l'OPCO Atlas au plus tard le 30 s
 
 Les parties signataires conviennent d'examiner l'opportunité de réviser le montant du versement minimum par entreprise après une année d'application lors du 1er semestre.
 
-##### Article 29
+#### Article 29 — Champ d'application, durée, entrée en vigueur et formalités
 
-*Champ d'application, durée, entrée en vigueur et formalités*
+> **Source :** Article 29 — Champ d'application, durée, entrée en vigueur et formalités — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent accord est conclu pour une durée indéterminée.
 
@@ -8114,18 +8544,18 @@ Il prend effet le premier jour du mois civil suivant la date de publication de l
 
 Le champ d'application territorial et professionnel de la convention collective nationale des associations agréées de surveillance de la qualité de l'air du 3 octobre 2001 a été inclus dans celui de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils, et sociétés de conseils par arrêté du 1er août 2019. Il est convenu d'exclure les associations agréées de surveillance de la qualité de l'air du champ d'application professionnel du présent accord.
 
-##### Article 30
+#### Article 30 — Formalités et extension
 
-*Formalités et extension*
+> **Source :** Article 30 — Formalités et extension — Accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent accord est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par l'ensemble des organisations signataires auprès du ministre du travail dans le cadre des dispositions légales et de la procédure applicable pour l'extension des accords collectifs.
 Après avoir lu et paraphé chacune des pages précédentes les représentants signataires signent l'accord au nom de leur organisation.
 
-### Avenant n° 3 du 28 novembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
+## Avenant n° 3 du 28 novembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 3 du 28 novembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Par accord du 7 octobre 2015 modifié par les avenants du 16 mars 2016 et du 25 septembre 2019, les partenaires sociaux de la branche ont mis en place une couverture collective en matière de frais de santé, obligatoire pour les salariés et leurs enfants à charge au sens de la sécurité sociale.
 
@@ -8137,9 +8567,9 @@ Après 4 années de mise en œuvre du régime, il s'avère que :
 
 C'est la raison pour laquelle les organisations professionnelles d'employeurs et les syndicats de salariés relevant de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 ont décidé de modifier et de compléter l'accord modifié du 7 octobre 2015, comme suit :
 
-#### Article 1er
+### Article 1er — Modification de l'article 1.1.7. « Adhésion optionnelle du salarié » de l'accord modifié du 7 octobre 2015
 
-*Modification de l'article 1.1.7. « Adhésion optionnelle du salarié » de l'accord modifié du 7 octobre 2015*
+> **Source :** Article 1er — Modification de l'article 1.1.7. « Adhésion optionnelle du salarié » de l'accord modifié du 7 octobre 2015 — Avenant n° 3 du 28 novembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Au 1er alinéa de l'article 1.1.7, les termes de « à charge, au sens de la sécurité sociale, » sont supprimés.
 
@@ -8153,22 +8583,24 @@ Il est inséré un 2e alinéa à l'article 1.1.7. rédigé comme suit :
 
 – le concubin : la personne avec laquelle le salarié vit en couple au sens de l'article 515-8 du code civil, depuis au moins 2 ans ou sans condition de durée lorsque au moins un enfant est né de cette union et sous réserve que les concubins soient tous les deux libres de tout engagement (ni mariés ni liés par un Pacs), et que le concubinage fasse l'objet d'une déclaration sur l'honneur signée par les deux concubins. »
 
-#### Article 2
+### Article 2 — Modification de l'article 2 à l'annexe III de l'accord modifié du 7 octobre 2015
 
-*Modification de l'article 2 à l'annexe III de l'accord modifié du 7 octobre 2015*
+> **Source :** Article 2 — Modification de l'article 2 à l'annexe III de l'accord modifié du 7 octobre 2015 — Avenant n° 3 du 28 novembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 La ligne « Conjoint régime facultatif » insérée dans le tableau des cotisations mensuelles figurant à l'article 2 de l'annexe III est désormais rédigée comme suit :
 
 (En euros.)
+
+ 
 
 |  |  | Socle de base | Option 1 (Tarif additionnel) | Option 2 (Tarif additionnel) |  |  |  |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |  |  | Général | Alsace-Moselle | Général | Alsace-Moselle | Général | Alsace-Moselle |
 | Conjoint | Régime facultatif | 42,50 | 27,50 | 10,00 | 10,00 | 22,50 | 22,50 |
 
-#### Article 3
+### Article 3 — Modification de l'article 1.3.2. de l'accord modifié du 7 octobre 2015
 
-*Modification de l'article 1.3.2. de l'accord modifié du 7 octobre 2015*
+> **Source :** Article 3 — Modification de l'article 1.3.2. de l'accord modifié du 7 octobre 2015 — Avenant n° 3 du 28 novembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Il est inséré un 2e alinéa à l'article 1.3.2. « Garanties de l'action sociale » rédigé comme suit :
 
@@ -8196,15 +8628,15 @@ Ces actions s'intègrent dans le cadre global de la politique santé-prévention
 
 Il est rappelé que ces actions prioritaires ainsi que la communication associée à leur déploiement, sont financées selon les modalités définies au 1er alinéa de l'article 1.3.5. »
 
-#### Article 4
+### Article 4 — Dispositions spécifiques aux entreprises de moins de 50 salariés
 
-*Dispositions spécifiques aux entreprises de moins de 50 salariés*
+> **Source :** Article 4 — Dispositions spécifiques aux entreprises de moins de 50 salariés — Avenant n° 3 du 28 novembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche quelle que soit leur taille.
 
-#### Article 5
+### Article 5 — Champ d'application. Durée. Entrée en vigueur. Formalités
 
-*Champ d'application. Durée. Entrée en vigueur. Formalités*
+> **Source :** Article 5 — Champ d'application. Durée. Entrée en vigueur. Formalités — Avenant n° 3 du 28 novembre 2019 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Le présent accord s'applique aux entreprises de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils (IDCC 1486).
 
@@ -8220,11 +8652,11 @@ Il est notifié et déposé dans les conditions prévues par le code du travail.
 
 Après avoir lu et paraphé chacune des pages précédentes, les représentants signataires ont approuvé l'accord au nom de leur organisation.
 
-### Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance
+## Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 En application de l'ordonnance n° 2019-861 du 21 août 2019 visant à assurer la cohérence de diverses modifications législatives avec la loi n° 2018-771 du 5 septembre 2018, il a été confié aux branches professionnelles la détermination d'une liste de certifications professionnelles éligibles à la reconversion ou promotion par alternance (Pro-A).
 
@@ -8248,15 +8680,15 @@ La branche rassemble des métiers délivrant des prestations d'expertise et de c
 
 Aussi, l'ensemble des secteurs de la branche connaît une forte dynamique de création d'entreprises ; en effet, les entreprises de la branche (72 970 entreprises) représentent 2 % des entreprises françaises et concentrent 5,5 % des actifs couverts par une CCN et les effectifs salariés en France pourraient approcher le million de salariés en 2020 d'après le portrait statistique de branche réalisé en janvier 2018. La branche connaît un fort dynamisme depuis ces dernières années en nombre de créations nettes d'emploi par an.
 
-#### Article 1er
+### Article 1er — Champ d'application
 
-*Champ d'application*
+> **Source :** Article 1er — Champ d'application — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 Le présent accord s'applique aux entreprises comprises dans le champ d'application géographique et professionnel déterminé par l'article 1er de la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 ainsi qu'aux entreprises dont la branche a été rattachée au présent champ d'application par arrêté publié au Journal officiel.
 
-#### Article 2
+### Article 2 — Mutation de l'activité et risque d'obsolescence des compétences
 
-*Mutation de l'activité et risque d'obsolescence des compétences*
+> **Source :** Article 2 — Mutation de l'activité et risque d'obsolescence des compétences — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 Dans le cadre des études prospectives et des enquêtes, menées depuis plusieurs années par l'observatoire paritaire des métiers du numérique, de l'ingénierie, des études et du conseil et des métiers de l'événement, l'OPIIEC, les parties signataires ont observé que les secteurs de la branche sont confrontés à des mutations sensibles des métiers et de l'activité professionnelle des salariés :
 
@@ -8350,15 +8782,15 @@ Cela permet également à la branche de consolider sa dynamique de développemen
 
 Ils actent ainsi que toutes les certifications identifiées au sein du présent accord répondent aux critères de mutation de l'activité ou au risque d'obsolescence des compétences.
 
-#### Article 3
+### Article 3 — Conditions complémentaires de mise en œuvre de la reconversion ou la promotion par l'alternance
 
-*Conditions complémentaires de mise en œuvre de la reconversion ou la promotion par l'alternance*
+> **Source :** Article 3 — Conditions complémentaires de mise en œuvre de la reconversion ou la promotion par l'alternance — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 La reconversion ou la promotion par l'alternance peut s'inscrire en complément du plan de développement des compétences de l'entreprise et du compte personnel de formation (CPF) mis en œuvre à l'initiative de l'entreprise ou du salarié.
 
-#### Article 4
+### Article 4 — Durée de l'action, durée de la formation et prise en charge par l'opérateur de compétences ATLAS.
 
-*Durée de l'action, durée de la formation et prise en charge par l'opérateur de compétences ATLAS.*
+> **Source :** Article 4 — Durée de l'action, durée de la formation et prise en charge par l'opérateur de compétences ATLAS. — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 Afin de promouvoir la professionnalisation des salariés par l'alternance, les actions de formation mises en œuvre dans le cadre de la Pro-A et conduisant aux CQP de la branche, pourront faire l'objet, pour l'ensemble des salariés de la branche éligibles à ce dispositif, d'une durée de l'action qui peut aller au-delà des 12 mois et d'un temps de formation dérogatoires qui peut aller jusqu'à 25 %, identiques à la pratique existante pour les contrats de professionnalisation.
 
@@ -8370,9 +8802,9 @@ Pour l'année de lancement du dispositif, à savoir 2020, la prise en charge au 
 
 (Arrêté du 6 novembre 2020 - art. 1)
 
-#### Article 5
+### Article 5 — Certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance
 
-*Certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance*
+> **Source :** Article 5 — Certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 En complément du socle de connaissances et de compétences mentionné aux articles L. 6121-2 et L. 6323-6 du code du travail, les parties signataires conviennent que les certifications professionnelles préparant à un des métiers identifiés au présent accord sont éligibles à la Pro-A dans le cadre d'une promotion sociale ou professionnelle ou d'une reconversion professionnelle.
 
@@ -8382,45 +8814,47 @@ Les certifications professionnelles éligibles à la reconversion ou la promotio
 
 Les partenaires sociaux souhaitent soutenir l'ensemble certifications de branche permettant de répondre à ces besoins de compétences listées en annexe.
 
-#### Article 6
+### Article 6 — Mise à jour de la liste et des critères de prise en charge
 
-*Mise à jour de la liste et des critères de prise en charge*
+> **Source :** Article 6 — Mise à jour de la liste et des critères de prise en charge — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 Afin de rester le plus en adéquation avec l'évolution des besoins des entreprises, il est convenu de réexaminer autant que nécessaire en commission paritaire nationale de l'emploi et la formation professionnelle (CPNEFP) la présente liste des certifications professionnelles éligibles à la Pro-A pour envisager sa mise à jour et décider de l'opportunité de l'amender dans le cadre d'un avenant.
 
 La liste des certifications actualisées ainsi que les critères de prise en charge sont adressés aux instances de l'opérateur de compétences.
 
-#### Article 7
+### Article 7 — Révision
 
-*Révision*
+> **Source :** Article 7 — Révision — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 Les présentes stipulations conventionnelles peuvent être révisées dans les conditions prévues à l'article L. 2261-7 du code du travail.
 
-#### Article 8
+### Article 8 — Stipulations spécifiques aux entreprises de moins de 50 salariés
 
-*Stipulations spécifiques aux entreprises de moins de 50 salariés*
+> **Source :** Article 8 — Stipulations spécifiques aux entreprises de moins de 50 salariés — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visés à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche quelle que soit leur taille.
 
-#### Article 9
+### Article 9 — Durée, entrée en vigueur et formalités
 
-*Durée, entrée en vigueur et formalités*
+> **Source :** Article 9 — Durée, entrée en vigueur et formalités — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 Le présent accord est conclu pour une durée indéterminée. Il prend effet le premier jour du mois civil suivant la date de publication de l'arrêté d'extension au Journal officiel.
 
-#### Article 10
+### Article 10 — Formalités et extension
 
-*Formalités et extension*
+> **Source :** Article 10 — Formalités et extension — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 Le présent accord est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministre du travail dans le cadre des dispositions légales et de la procédure applicable pour l'extension des accords collectifs.
 
-#### Annexe
+### Annexe
 
-##### Article (préambule / sans numéro)
+> **Source :** Annexe — Accord du 30 janvier 2020 relatif à la liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance.
 
 Annexe
 
 Liste des certifications professionnelles éligibles à la reconversion ou la promotion par l'alternance
+
+ 
 
 | Certifications de branche | Code RNCP |
 | --- | --- |
@@ -8432,6 +8866,8 @@ Liste des certifications professionnelles éligibles à la reconversion ou la pr
 | CQP géomaticien (GEOM) | RNCP 29570 |
 | CQP concepteur en ingénierie de restauration (CIR) | RNCP 22937 |
 | BIM modeleur (BM) | – |
+
+ 
 
 | Titres et diplômes | Code RNCP | Métiers stratégiques en forte mutation, en risque d'obsolescence des compétences, ou en forte tension de recrutement |
 | --- | --- | --- |
@@ -8626,29 +9062,29 @@ Liste des certifications professionnelles éligibles à la reconversion ou la pr
 | Dessinateur (trice) projeteur (euse) BIM | RNCP 31947 |  |
 | Projeteur (euse) d'études bâtiment et travaux publics | RNCP 15162 |  |
 
-(1) Certifications exclues de l'extension en tant qu'elles contreviennent aux dispositions prévues par l'article L. 6324-3 du code du travail.
+ (1) Certifications exclues de l'extension en tant qu'elles contreviennent aux dispositions prévues par l'article L. 6324-3 du code du travail.
 
 (Arrêté du 6 novembre 2020 - art. 1)
 
-### Avenant n° 1 du 15 mai 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité
+## Avenant n° 1 du 15 mai 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 1 du 15 mai 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent accord est un avenant de révision à l'accord de branche du 31 octobre 2019, qu'il a pour objet de compléter, et ce, afin de parfaire la politique de la branche en matière d'emploi et de formation professionnelle.
 
 Plus spécifiquement, il est rappelé que le présent avenant s'inscrit dans la volonté des parties signataires de développer l'insertion professionnelle dans la branche par la voie de la formation en alternance, en particulier par la voie du contrat de professionnalisation, et qu'il a plus largement pour objet d'améliorer la cohérence des dispositions conventionnelles de la branche.
 
-#### Article 1er
+### Article 1er — Objet
 
-*Objet*
+> **Source :** Article 1er — Objet — Avenant n° 1 du 15 mai 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent avenant de révision a pour objet de compléter l'accord de branche du 31 octobre 2019 dans les conditions définies par les présentes.
 
-#### Article 2
+### Article 2 — Modification de l'article 7 du titre III de l'accord de branche du 31 octobre 2019 « Le contrat de professionnalisation »
 
-*Modification de l'article 7 du titre III de l'accord de branche du 31 octobre 2019 « Le contrat de professionnalisation »*
+> **Source :** Article 2 — Modification de l'article 7 du titre III de l'accord de branche du 31 octobre 2019 « Le contrat de professionnalisation » — Avenant n° 1 du 15 mai 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 L'article 7 de l'accord de branche du 31 octobre 2019 est complété comme suit :
 
@@ -8678,6 +9114,8 @@ En application des dispositions des articles L. 6325-8, L. 6325-9, D. 6325-14 et
 
 Aux termes du contrat de professionnalisation, s'il prend la forme d'un contrat de travail à durée déterminée (CDD), ou au terme de l'action de professionnalisation, si le contrat de professionnalisation prend la forme d'un contrat de travail à durée indéterminée (CDI), le niveau de salaire et le coefficient de sortie doivent correspondre à l'emploi qui sera occupé, tout en respectant le coefficient minimum de sortie, défini dans le tableau ci-dessous, ou celui inscrit dans les accords conclus dans le cadre d'un CQP ou d'un CQPI.
 
+ 
+
 | Niveau de formation à l'entrée (niveaux éducation nationale) | Niveau de formation à l'entrée (cadre national des certifications professionnelles) [2] | Année d'exécution du CP | Coefficient d'entrée | Coefficient de sortie | Taux de rémunération % du salaire minimum conventionnel (SMC) |  |
 | --- | --- | --- | --- | --- | --- | --- |
 |  |  |  |  |  | Jeunes de moins de 26 ans | Demandeurs d'emplois/26 ans et plus |
@@ -8693,31 +9131,31 @@ Aux termes du contrat de professionnalisation, s'il prend la forme d'un contrat 
 | 2e année | 95 [1] | 100 [1] | 100 % | 100 % |  |  |
 | [1] Classification ingénieurs et cadres. [2] Décret n° 2019-14 du 8 janvier 2019 relatif au cadre national des certifications professionnelles. |  |  |  |  |  |  |
 
-Aux termes du contrat de professionnalisation s'il prend la forme d'un CDD, ou au terme de l'action de professionnalisation, si le contrat de professionnalisation prend la forme CDI, ne visant ni diplôme, ni titre, ni CQP ou CQPI, la qualification qu'obtient le salarié est reconnue par sa position de sortie dans les classifications des emplois, plus particulièrement explicitées dans les annexes I, II et V de la convention collective. »
+ Aux termes du contrat de professionnalisation s'il prend la forme d'un CDD, ou au terme de l'action de professionnalisation, si le contrat de professionnalisation prend la forme CDI, ne visant ni diplôme, ni titre, ni CQP ou CQPI, la qualification qu'obtient le salarié est reconnue par sa position de sortie dans les classifications des emplois, plus particulièrement explicitées dans les annexes I, II et V de la convention collective. »
 
-#### Article 3
+### Article 3 — Effets de l'avenant
 
-*Effets de l'avenant*
+> **Source :** Article 3 — Effets de l'avenant — Avenant n° 1 du 15 mai 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 En application de l'article L. 2261-8 du code du travail, il est rappelé que le présent avenant se substitue de plein droit aux dispositions de l'accord de branche du 31 octobre 2019 qu'il modifie et complète.
 
 Les autres dispositions de cet accord de branche demeurent inchangées.
 
-#### Article 4
+### Article 4 — Dispositions spécifiques aux entreprises de moins de cinquante (50) salariés
 
-*Dispositions spécifiques aux entreprises de moins de cinquante (50) salariés*
+> **Source :** Article 4 — Dispositions spécifiques aux entreprises de moins de cinquante (50) salariés — Avenant n° 1 du 15 mai 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Les dispositions spécifiques prévues pour les entreprises de moins de cinquante (50) salariés, par l'accord de branche du 31 octobre 2019, demeurent inchangées.
 
-#### Article 5
+### Article 5 — Suivi de l'accord
 
-*Suivi de l'accord*
+> **Source :** Article 5 — Suivi de l'accord — Avenant n° 1 du 15 mai 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Les modalités de suivi du présent avenant sont identiques à celles prévues à l'article 28 de l'accord de branche du 31 octobre 2019.
 
-#### Article 6
+### Article 6 — Champ d'application, durée, entrée en vigueur et formalités
 
-*Champ d'application, durée, entrée en vigueur et formalités*
+> **Source :** Article 6 — Champ d'application, durée, entrée en vigueur et formalités — Avenant n° 1 du 15 mai 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent avenant est conclu pour une durée indéterminée.
 
@@ -8727,19 +9165,19 @@ Le champ d'application territorial et professionnel de la convention collective 
 
 Il est convenu d'exclure les associations agréées de surveillance de la qualité de l'air du champ d'application professionnel du présent accord.
 
-#### Article 7
+### Article 7 — Formalités et extension
 
-*Formalités et extension*
+> **Source :** Article 7 — Formalités et extension — Avenant n° 1 du 15 mai 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent avenant est notifié par lettre recommandée et déposé par la partie la plus diligente dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension auprès du ministre du travail dans le cadre des dispositions légales et de la procédure applicable pour l'extension des accords collectifs.
 
 Après avoir négocié par visioconférence et lu chacune des pages précédentes, les représentants signataires signent l'avenant au nom de leur organisation. Pour ce faire, la partie la plus diligente met en place un dispositif de signature électronique répondant aux exigences du règlement européen n° 910-2014 et de l'article 1367 du code civil.
 
-### Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME
+## Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Les TPE et PME représentent historiquement plus de 90 % des entreprises de la branche qui y exercent, à travers leurs salariés, l'ensemble des activités couvertes par le champ d'application de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseil du 15 décembre 1987 (IDCC 1486).
 
@@ -8757,15 +9195,15 @@ Les travaux de la commission paritaire « TPE-PME » (dite, « CP-TPME ») doive
 
 Ils souhaitent également, par la mise en place de cette commission, faciliter le développement du dialogue social dans les TPE-PME.
 
-#### Article 1er
+### Article 1er — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 1er — Détermination du champ territorial et professionnel — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Le présent accord s'applique au plan national en France Métropolitaine et dans les régions, départements et collectivités d'Outre-mer, à tous les personnels employés, techniciens, agents de maîtrise et cadres salariés des entreprises de moins de 50 salariés et de celles d'au moins 50 salariés dépourvues d'institutions représentatives du personnel, visées par l'article 1er de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils du 16 juillet 2021 (IDCC 1486).
 
-#### Article 2
+### Article 2 — Objet de la commission paritaire des TPE et PME
 
-*Objet de la commission paritaire des TPE et PME*
+> **Source :** Article 2 — Objet de la commission paritaire des TPE et PME — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Il est créé une commission paritaire dite CP-TPME ayant pour objet de proposer par ses travaux et avis consultatifs à l'ensemble des instances paritaires de la branche des orientations dédiées aux TPE-PME au sens de l'article 3 du décret n° 2008-1354 du 18 décembre 2008 et de réaliser la mise en œuvre et le suivi général du dispositif d'activités sociales et culturelles de branche.
 
@@ -8775,9 +9213,9 @@ Les avis consultatifs visent en particulier les projets d'accords soumis à exte
 
 D'une manière générale, la commission traite de tous les sujets qu'ont à connaître les partenaires sociaux en raison de la loi, de la réglementation, ou en opportunité.
 
-#### Article 3
+### Article 3 — Compétences de la CP-TPME
 
-*Compétences de la CP-TPME*
+> **Source :** Article 3 — Compétences de la CP-TPME — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 La CP-TPME est compétente pour :
 
@@ -8831,9 +9269,9 @@ Au titre du suivi général des activités sociales et culturelles de branche (A
 
 – assurer le suivi de la mise en œuvre du dispositif.
 
-#### Article 4
+### Article 4 — Composition de la CP-TPME
 
-*Composition de la CP-TPME*
+> **Source :** Article 4 — Composition de la CP-TPME — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 La CP-TPME est composée paritairement de deux collèges :
 
@@ -8857,15 +9295,15 @@ Lorsque les salariés sont appelés à participer aux réunions sur convocation 
 
 Les entreprises dont l'effectif est inférieur à 50 salariés et dont l'un des salariés est mandaté par une organisation représentative pour participer aux travaux de la commission bénéficient de la prise en charge prévue par l'article L. 2232-8 du code du travail.
 
-#### Article 5
+### Article 5 — Fonctionnement de la CP-TPME
 
-*Fonctionnement de la CP-TPME*
+> **Source :** Article 5 — Fonctionnement de la CP-TPME — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 *(pas de contenu)*
 
-#### Article 5.1
+### Article 5.1 — Secrétariat
 
-*Secrétariat*
+> **Source :** Article 5.1 — Secrétariat — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Le fonctionnement de la CP-TPME s'appuie sur un secrétariat comportant 2 missions :
 
@@ -8881,17 +9319,17 @@ Les convocations sont transmises par le secrétariat aux membres de la commissio
 
 Lorsqu'une question relative au dispositif d'ASCB est inscrite à l'ordre du jour, le ou les prestataires référencés peuvent participer à la réunion de la commission sur invitation du président
 
-#### Article 5.2
+### Article 5.2 — Délibération de la commission pour avis consultatif
 
-*Délibération de la commission pour avis consultatif*
+> **Source :** Article 5.2 — Délibération de la commission pour avis consultatif — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Les avis consultatifs de la commission sont rendus à la majorité simple des voix dont disposent les membres présents ou représentés, sous réserve que celle-ci soit issue des deux collèges. Pour le collège patronal, la majorité est une majorité qualifiée des deux tiers. En cas d'égalité, ou lorsque la majorité simple est acquise sans pouvoir entraîner une majorité qui résulte des 2 collèges (majorité non paritaire), la décision sera considérée comme reportée et inscrite d'office à l'ordre du jour d'une autre réunion.
 
 Un représentant peut disposer, en plus de sa propre voix, d'un pouvoir d'un autre représentant du même collège.
 
-#### Article 6
+### Article 6 — Relations avec les autres instances paritaires
 
-*Relations avec les autres instances paritaires*
+> **Source :** Article 6 — Relations avec les autres instances paritaires — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 La CP-TPME est saisie pour avis consultatif, par les instances paritaires de la branche compétentes, des projets de travaux qu'elles souhaitent réaliser, ou des projets d'accords qu'elles souhaitent négocier, au minimum 1 mois avant la date de leur engagement ou discussion.
 
@@ -8917,41 +9355,41 @@ Selon l'instance concernée, l'avis sollicité porte :
 
 La saisine de la CP-TPME est opérée – au moyen d'une fiche ad hoc transmise au secrétariat – par présidence de ces instances ou, à défaut, par une ou plusieurs organisations qui y sont représentées, à laquelle est joint le projet concerné.
 
-#### Article 7
+### Article 7 — Réunions
 
-*Réunions*
+> **Source :** Article 7 — Réunions — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 *(pas de contenu)*
 
-#### Article 7.1
+### Article 7.1 — Réunion ponctuelle sur saisine d'une instance paritaire ou d'une organisation
 
-*Réunion ponctuelle sur saisine d'une instance paritaire ou d'une organisation*
+> **Source :** Article 7.1 — Réunion ponctuelle sur saisine d'une instance paritaire ou d'une organisation — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Lorsqu'elle est saisie pour avis par l'une des instances paritaires citées à l'article 6 du présent accord, la CP-TPME se réunit par tout moyen dans les 15 jours ouvrables et rend à la suite son avis sous 8 jours ouvrables au plus tard.
 
 Lorsqu'elle n'a pu rendre son avis dans ce délai, la commission est présumée avoir été valablement consultée.
 
-#### Article 7.2
+### Article 7.2 — Réunion périodique pour réalisation des travaux
 
-*Réunion périodique pour réalisation des travaux*
+> **Source :** Article 7.2 — Réunion périodique pour réalisation des travaux — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Pour la réalisation des travaux de réflexion sur les besoins et actions spécifiques des TPE-PME et de leurs salariés, ainsi que pour les travaux inhérents au dispositif d'ASCB, la commission se réunit par tout moyen sur convocation de la présidence, au moins une fois par trimestre, selon une fréquence définie en fonction de son plan annuel d'actions.
 
-#### Article 8
+### Article 8 — Dispositions spécifiques aux entreprises de moins de cinquante (50) salariés
 
-*Dispositions spécifiques aux entreprises de moins de cinquante (50) salariés*
+> **Source :** Article 8 — Dispositions spécifiques aux entreprises de moins de cinquante (50) salariés — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Par son objet, le présent accord créé une instance paritaire de branche d'échange et de réflexion dédié aux problématiques des TPE-PME, et portera un regard particulier sur la situation des entreprises de moins de cinquante (50) salariés, conformément à l'article L. 2261-23-1 du code du travail.
 
-#### Article 9
+### Article 9 — Date d'effet. Durée de l'accord
 
-*Date d'effet. Durée de l'accord*
+> **Source :** Article 9 — Date d'effet. Durée de l'accord — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Le présent accord est conclu pour une durée indéterminée et est applicable à compter du lendemain de sa signature.
 
-#### Article 10
+### Article 10 — Conditions de révision de l'accord
 
-*Conditions de révision de l'accord*
+> **Source :** Article 10 — Conditions de révision de l'accord — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Le présent accord pourra faire l'objet d'une révision conformément aux articles L. 2261-7 et suivants du code du travail.
 
@@ -8961,9 +9399,9 @@ Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir
 
 Cet avenant est soumis aux mêmes règles de validité et de publicité que le présent accord.
 
-#### Article 11
+### Article 11 — Conditions de dénonciation de l'accord
 
-*Conditions de dénonciation de l'accord*
+> **Source :** Article 11 — Conditions de dénonciation de l'accord — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Le présent accord peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis minimal de 3 mois. Ce préavis devra être donné à toutes les organisations signataires du présent accord par pli recommandé avec accusé de réception, sous peine de nullité.
 
@@ -8971,25 +9409,25 @@ La partie qui dénonce l'accord, peut accompagner sa notification d'un nouveau p
 
 La dénonciation totale ou partielle du présent accord n'emporte pas dénonciation de la convention collective de branche.
 
-#### Article 12
+### Article 12 — Dépôt et extension de l'accord
 
-*Dépôt et extension de l'accord*
+> **Source :** Article 12 — Dépôt et extension de l'accord — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Après avoir négocié par visioconférence et lu chacune des pages précédentes, les représentants signataires signent l'accord au nom de leur organisation. Pour ce faire, la partie la plus diligente met en place un dispositif de signature électronique répondant aux exigences du règlement européen n° 910- 2014 du 23 juillet 2014 et de l'article 1367 du code civil.
 
 Le présent accord fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministre du travail dans les conditions prévues à l'article L. 2261-24 du code du travail.
 
-#### Article 13
+### Article 13 — Conditions d'adhésion à l'accord
 
-*Conditions d'adhésion à l'accord*
+> **Source :** Article 13 — Conditions d'adhésion à l'accord — Accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME.
 
 Peuvent adhérer au présent accord toute organisation syndicale représentative de salariés ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement, conformément à l'article L. 2261-3 du code du travail.
 
-### Avenant du 24 septembre 2020 à l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social
+## Avenant du 24 septembre 2020 à l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant du 24 septembre 2020 à l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 L'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social a été conclu avec l'ambition d'accompagner les fins de mandats des représentants de salariés et syndicaux fortement mobilisés au titre de leurs mandats jusqu'à la mise en place du nouveau comité social et économique.
 
@@ -8997,7 +9435,9 @@ Dans le contexte actuel de crise sanitaire liée à l'épidémie de « Covid-19 
 
 Ainsi, les partenaires sociaux de la branche, avec le souci de donner toute son effectivité à l'accord conclu le 30 janvier 2020, ont souhaité allonger le délai offert aux entreprises et aux salariés de la branche pour s'inscrire dans une démarche de formation ou de reconversion professionnelle après l'exercice d'un mandat dit « lourd » tel que défini à l'article 2 de l'accord du 30 janvier 2020.
 
-#### Article 1er
+### Article 1er
+
+> **Source :** Article 1er — Avenant du 24 septembre 2020 à l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le délai prévu à l'article 2.4 de l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social, permettant de saisir la commission mentionnée à l'article 4.3 de ce même accord, est allongé de 3 mois pour prendre fin au plus tard le 31 décembre 2020.
 
@@ -9007,15 +9447,15 @@ Au 1er paragraphe, les mots « dans les 9 mois » sont remplacés par les mots �
 
 À la fin du 1er paragraphe, sont ajoutés les mots « et au plus tard le 31 décembre 2020 ».
 
-#### Article 2
+### Article 2 — Stipulations spécifiques aux entreprises de moins de cinquante (50) salariés
 
-*Stipulations spécifiques aux entreprises de moins de cinquante (50) salariés*
+> **Source :** Article 2 — Stipulations spécifiques aux entreprises de moins de cinquante (50) salariés — Avenant du 24 septembre 2020 à l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent avenant ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'avenant a vocation à s'appliquer uniformément à toutes les entreprises de la branche quelle que soit leur taille.
 
-#### Article 3
+### Article 3 — Conditions de révision
 
-*Conditions de révision*
+> **Source :** Article 3 — Conditions de révision — Avenant du 24 septembre 2020 à l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le présent avenant pourra faire l'objet d'une révision conformément aux articles L. 2261-7 et suivants du code du travail.
 
@@ -9027,9 +9467,9 @@ Les stipulations qui font l'objet de la demande de révision, resteront en vigue
 
 Cet avenant est soumis aux mêmes règles de validité et de publicité que le présent avenant.
 
-#### Article 4
+### Article 4 — Conditions de dénonciation
 
-*Conditions de dénonciation*
+> **Source :** Article 4 — Conditions de dénonciation — Avenant du 24 septembre 2020 à l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le présent avenant peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis de 6 mois. Ce préavis devra être donné à toutes les organisations signataires du présent accord par lettre recommandée avec accusé de réception, sous peine de nullité.
 
@@ -9039,43 +9479,43 @@ La partie qui dénoncera l'avenant, pourra accompagner sa notification d'un nouv
 
 (Arrêté du 18 décembre 2020 - art. 1)
 
-#### Article 5
+### Article 5 — Entrée en vigueur
 
-*Entrée en vigueur*
+> **Source :** Article 5 — Entrée en vigueur — Avenant du 24 septembre 2020 à l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le présent avenant entrera en vigueur le 25 septembre 2020.
 
-#### Article 6
+### Article 6 — Dépôt et extension
 
-*Dépôt et extension*
+> **Source :** Article 6 — Dépôt et extension — Avenant du 24 septembre 2020 à l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le présent avenant est déposé par la partie la plus diligente dans le cadre des dispositions légales et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministère du travail dans le cadre des dispositions légales.
 
-#### Article 7
+### Article 7 — Conditions d'adhésion
 
-*Conditions d'adhésion*
+> **Source :** Article 7 — Conditions d'adhésion — Avenant du 24 septembre 2020 à l'accord du 30 janvier 2020 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Toute organisation syndicale représentative non-signataire du présent avenant pourra y adhérer par simple déclaration auprès de l'organisme compétent. Elle devra également aviser, par lettre recommandée, toutes les organisations signataires.
 
-### Avenant n° 2 du 29 octobre 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité
+## Avenant n° 2 du 29 octobre 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 2 du 29 octobre 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent accord est un avenant de révision à l'accord de branche du 31 octobre 2019, dans sa version résultant de l'avenant n° 1 conclu le 15 mai 2020, qu'il a pour objet de compléter, et ce, afin de parfaire la politique de la branche en matière d'emploi et de formation professionnelle.
 
 Plus spécifiquement, il est rappelé que le présent avenant s'inscrit dans la volonté des parties signataires de développer l'insertion et la réinsertion professionnelle dans la branche par la voie de la formation en alternance, en particulier par la voie du contrat de professionnalisation, et qu'il a plus largement pour objet de faciliter le recours à ce dispositif.
 
-#### Article 1er
+### Article 1er — Objet
 
-*Objet*
+> **Source :** Article 1er — Objet — Avenant n° 2 du 29 octobre 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent avenant de révision a pour objet de compléter l'accord de branche du 31 octobre 2019, dans sa version résultant de l'avenant n° 1 conclu le 15 mai 2020, dans les conditions définies par les présentes.
 
-#### Article 2
+### Article 2 — Modification de l'article 7 de l'accord de branche du 31 octobre 2019 « Le contrat de professionnalisation »
 
-*Modification de l'article 7 de l'accord de branche du 31 octobre 2019 « Le contrat de professionnalisation »*
+> **Source :** Article 2 — Modification de l'article 7 de l'accord de branche du 31 octobre 2019 « Le contrat de professionnalisation » — Avenant n° 2 du 29 octobre 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 L'article 7 de l'accord de branche du 31 octobre 2019 est complété par un article 7.3 comme suit :
 
@@ -9105,47 +9545,49 @@ Dans le cadre du présent accord et en application de l'article L. 6325-14 du co
 
 Le tableau ci-après exposé récapitule les différentes règles légales et conventionnelles découlant du présent accord :
 
+ 
+
 |  | Bénéficiaires | Qualification visée/ sanction de la formation | Amplitude/ durée de l'action de professionnalisation | Durée de la formation (en pourcentage du temps de travail) [1] |
 | --- | --- | --- | --- | --- |
 | Niveau du bénéficiaire | Tous niveaux d'entrée | Diplôme ou titre enregistré au RNCP CQP et CQPI (art. L. 6314-1 du code du travail) | De 6 à 24 mois | De 15 % à 50 % de la durée du contrat (sans pouvoir être inférieure à 150 heures) |
 | Tous niveaux d'entrée | Qualifications reconnues dans les classifications de la convention collective nationale | De 6 à 18 mois | De 15 % à 25 % de la durée du contrat (sans pouvoir être inférieure à 150 heures) |  |
 | [1] La durée de la formation s'apprécie en fonction du nombre de semaines prévues au contrat de professionnalisation * la durée hebdomadaire * le coefficient (par exemple 0,15, 0,25, ou 0,50 selon les cas). |  |  |  |  |
 
-#### Article 3
+### Article 3 — Effets de l'avenant
 
-*Effets de l'avenant*
+> **Source :** Article 3 — Effets de l'avenant — Avenant n° 2 du 29 octobre 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 En application de l'article L. 2261-8 du code du travail, il est rappelé que le présent avenant complète de plein droit les dispositions de l'article 7 de l'accord de branche du 31 octobre 2019, dans sa version résultant de l'avenant n° 1 conclu le 15 mai 2020, qu'il complète.
 
 Les autres dispositions de cet accord de branche demeurent inchangées.
 
-#### Article 4
+### Article 4 — Suivi de l'accord
 
-*Suivi de l'accord*
+> **Source :** Article 4 — Suivi de l'accord — Avenant n° 2 du 29 octobre 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Les modalités de suivi du présent avenant sont identiques à celles prévues à l'article 28 de l'accord de branche du 31 octobre 2019 dans sa version complétée, résultant de l'avenant n° 1 conclu le 15 mai 2020.
 
-#### Article 5
+### Article 5 — Champ d'application, durée et entrée en vigueur
 
-*Champ d'application, durée et entrée en vigueur*
+> **Source :** Article 5 — Champ d'application, durée et entrée en vigueur — Avenant n° 2 du 29 octobre 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent avenant est conclu pour une durée indéterminée.
 
 Son champ d'application est identique à celui de l'accord de branche du 31 octobre 2019 qu'il vise à compléter. Il prend effet dans les mêmes conditions que l'accord de branche du 31 octobre 2019 dans sa version résultant de l'avenant n° 1 conclu le 15 mai 2020, qu'il vise à compléter, le premier jour du mois civil suivant la date de publication de l'arrêté d'extension au Journal officiel.
 
-#### Article 6
+### Article 6 — Formalités et extension
 
-*Formalités et extension*
+> **Source :** Article 6 — Formalités et extension — Avenant n° 2 du 29 octobre 2020 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par l'ensemble des organisations signataires auprès du ministre du travail dans le cadre des dispositions légales et de la procédure applicable pour l'extension des accords collectifs.
 
 Après avoir négocié par visio-conférence et lu chacune des pages précédentes, les représentants signataires signent l'avenant. Pour ce faire, la partie la plus diligente met en place un dispositif de signature électronique répondant aux exigences du règlement européen n° 910-2014 et de l'article 1367 du code civil.
 
-### Avenant n° 4 du 3 novembre 2020 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
+## Avenant n° 4 du 3 novembre 2020 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 4 du 3 novembre 2020 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Conformément à l'article L. 912-1 du code de la sécurité sociale (et ses décrets d'application) et à l'article 1.2 de l'accord de branche du 7 octobre 2015 modifié relatif à la complémentaire santé, les partenaires sociaux ont procédé à un réexamen des modalités d'organisation de la recommandation.
 
@@ -9153,9 +9595,9 @@ Aux termes d'une procédure de mise en concurrence préalable réalisée dans le
 
 C'est dans ce contexte qu'entre les organisations professionnelles d'employeurs et les organisations syndicales de salariés signataires, il a été convenu d'apporter les modifications suivantes à l'accord de branche du 7 octobre 2015 modifié relatif à la complémentaire santé :
 
-#### Article 1er
+### Article 1er — Choix des organismes assureurs recommandés et de la société apéritrice
 
-*Choix des organismes assureurs recommandés et de la société apéritrice*
+> **Source :** Article 1er — Choix des organismes assureurs recommandés et de la société apéritrice — Avenant n° 4 du 3 novembre 2020 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les dispositions de l'annexe II de l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé sont abrogées et remplacées par les stipulations suivantes :
 
@@ -9181,9 +9623,9 @@ Société apéritrice
 
 La commission paritaire de la branche des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils choisit Malakoff Humanis prévoyance en qualité de société apéritrice pour une durée de 3 ans. Au terme de cette durée, l'apérition pourra être reconduite à l'identique jusqu'au terme de la recommandation ou confiée à l'un des deux autres organismes recommandés cités à l'article 1er. »
 
-#### Article 2
+### Article 2 — Tableaux des garanties
 
-*Tableaux des garanties*
+> **Source :** Article 2 — Tableaux des garanties — Avenant n° 4 du 3 novembre 2020 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les partenaires sociaux ont souhaité améliorer les garanties, en prévoyant une option 3, en intégrant, dès la base conventionnelle, des garanties de type « médecine douce » et en créant une option destinée à couvrir le risque hospitalisation.
 
@@ -9199,9 +9641,9 @@ Il est précisé que les remboursements de l'assurance maladie pour les actes en
 
  https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20200049 _ 0000 _ 0006. pdf/ BOCC
 
-#### Article 3
+### Article 3 — Montant des cotisations
 
-*Montant des cotisations*
+> **Source :** Article 3 — Montant des cotisations — Avenant n° 4 du 3 novembre 2020 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Les dispositions de l'annexe II de l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé sont abrogées et remplacées par les dispositions suivantes :
 
@@ -9222,9 +9664,9 @@ Tableau détaillé des cotisations de base et des montants des options
 
  https :// www. legifrance. gouv. fr/ download/ file/ pdf/ boc _ 20200049 _ 0000 _ 0006. pdf/ BOCC
 
-#### Article 4
+### Article 4 — Option facultative « renfort hospitalisation »
 
-*Option facultative « renfort hospitalisation »*
+> **Source :** Article 4 — Option facultative « renfort hospitalisation » — Avenant n° 4 du 3 novembre 2020 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Une option facultative « renfort hospitalisation » est proposée :
 
@@ -9240,15 +9682,15 @@ Cotisation :
 
 La cotisation est financée à 100 % par le salarié.
 
-#### Article 5
+### Article 5 — Stipulations pour les entreprises de moins de cinquante (50) salariés
 
-*Stipulations pour les entreprises de moins de cinquante (50) salariés*
+> **Source :** Article 5 — Stipulations pour les entreprises de moins de cinquante (50) salariés — Avenant n° 4 du 3 novembre 2020 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche quelle que soit leur taille.
 
-#### Article 6
+### Article 6 — Champ d'application. Durée. Entrée en vigueur. Formalités et extension
 
-*Champ d'application. Durée. Entrée en vigueur. Formalités et extension*
+> **Source :** Article 6 — Champ d'application. Durée. Entrée en vigueur. Formalités et extension — Avenant n° 4 du 3 novembre 2020 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Le champ d'application du présent accord est celui défini à l'article 1er de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 (IDCC 1486).
 
@@ -9260,9 +9702,9 @@ Le présent avenant est conclu pour une durée indéterminée. Il prend effet à
 
 Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministre du travail.
 
-### Adhésion par lettre du 24 mars 2021 de la CFTC MEDIA+ à l'accord du 7 octobre 2015 relatif à la complémentaire santé
+## Adhésion par lettre du 24 mars 2021 de la CFTC MEDIA+ à l'accord du 7 octobre 2015 relatif à la complémentaire santé
 
-#### Article (préambule / sans numéro)
+> **Source :** Adhésion par lettre du 24 mars 2021 de la CFTC MEDIA+ à l'accord du 7 octobre 2015 relatif à la complémentaire santé — Adhésion par lettre du 24 mars 2021 de la CFTC MEDIA+ à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Paris, le 24 mars 2021.
 
@@ -9282,11 +9724,11 @@ Fédération CFTC MEDIA +
 
 Vice-président
 
-### Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme
+## Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Les partenaires sociaux ont constitué une association dénommée « ADESATT », initialement pour réaliser le suivi de l'accord du 22 juin 1999 relatif à la durée du travail conclu dans le champ d'application de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils (IDCC 1486).
 
@@ -9296,25 +9738,27 @@ Ainsi, à la suite de la promulgation de la loi pour la liberté de choisir son 
 
 En conséquence, ils ont décidé, par le présent accord, d'abroger en totalité l'accord du 29 mars 2000 dont les stipulations sont devenues obsolètes ou sont reprises dans d'autres accords, de réviser certaines stipulations des accords du 22 juin 1999 et du 25 octobre 2007, réaffirmant ainsi leur attachement à l'animation d'un dialogue social de branche et à la construction d'un outil paritaire dédié à l'observation des activités et des transformations du travail.
 
-#### Article 1er
+### Article 1er — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 1er — Détermination du champ territorial et professionnel — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Le présent accord s'applique au plan national en France métropolitaine et dans les départements d'outre-mer, à tous les personnels employés, techniciens, agents de maîtrise et cadres salariés des entreprises visées par la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils (IDCC 1486).
 
-#### Article 2
+### Article 2 — Abrogation de l'accord du 29 mars 2000 remplacé par l'accord du 25 octobre 2007 modifié relatif aux missions de l'ADESATT et au financement du paritarisme
 
-*Abrogation de l'accord du 29 mars 2000 remplacé par l'accord du 25 octobre 2007 modifié relatif aux missions de l'ADESATT et au financement du paritarisme*
+> **Source :** Article 2 — Abrogation de l'accord du 29 mars 2000 remplacé par l'accord du 25 octobre 2007 modifié relatif aux missions de l'ADESATT et au financement du paritarisme — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 L'accord du 29 mars 2000 est abrogé et remplacé en totalité par l'accord du 25 octobre 2007 modifié.
 
-#### Article 3
+### Article 3 — Modification de l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme
 
-*Modification de l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme*
+> **Source :** Article 3 — Modification de l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 *(pas de contenu)*
 
-#### Article 3.1
+### Article 3.1
+
+> **Source :** Article 3.1 — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Le préambule de l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme est ainsi rédigé :
 
@@ -9342,7 +9786,9 @@ Les parties signataires reconnaissent que l'objectif de promotion de la négocia
 
 En conséquence, les parties signataires ont arrêté les dispositions suivantes ».
 
-#### Article 3.2
+### Article 3.2
+
+> **Source :** Article 3.2 — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 L'article 1er de l'accord du 25 octobre 2007 modifié relatif aux missions de l'ADESATT et au financement du paritarisme est ainsi intitulé : « Conditions d'adhésion et perte de la qualité de membre de l'ADESATT ».
 
@@ -9370,7 +9816,9 @@ La qualité de membre se perd par l'une des raisons suivantes :
 
 – la radiation, pour non-paiement des cotisations, prononcée par l'assemblée générale. »
 
-#### Article 3.3
+### Article 3.3
+
+> **Source :** Article 3.3 — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 L'article 2 de l'accord du 25 octobre 2007 modifié par l'avenant du 19 juin 2018 relatif aux missions de l'ADESATT et au financement du paritarisme est ainsi rédigé :
 
@@ -9391,13 +9839,17 @@ Pour favoriser le paritarisme au niveau de la branche en assurant le financement
 
 Cette énumération n'est pas exhaustive. »
 
-#### Article 3.4
+### Article 3.4
+
+> **Source :** Article 3.4 — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Dans l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme, il est créé un article 2 bis intitulé « Accès aux accords d'entreprise » ainsi rédigé :
 
 « Pour mener leurs missions, les représentants des membres de l'ADESATT s'appuient sur les accords d'entreprise dont l'objet entre dans le champ des travaux d'observation de l'ADESATT. Ces accords sont ceux publiés par le service public de diffusion du droit “ Légifrance ” et ceux communiqués à la branche conformément à l'accord du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI) ».
 
-#### Article 3.5
+### Article 3.5
+
+> **Source :** Article 3.5 — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Le 2e alinéa de l'article 3.1 de l'accord du 25 octobre 2007 relatif aux missions de l'ADESATT et au financement du paritarisme est ainsi rédigé :
 
@@ -9405,25 +9857,33 @@ Le 2e alinéa de l'article 3.1 de l'accord du 25 octobre 2007 relatif aux missio
 
 Le reste de l'article 3.1 est inchangé.
 
-#### Article 3.6
+### Article 3.6
+
+> **Source :** Article 3.6 — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Dans l'article 3.3.1 de l'accord du 25 octobre 2007 modifié relatif aux missions de l'ADESATT et au financement du paritarisme, les termes « budget affecté, sous la responsabilité de chacun de ses membres, au financement des actions relatives au suivi de l'accord national du 22 juin 1999 relatif à la réduction du temps de travail » sont remplacés par « frais d'études et de suivi d'accords ».
 
 Le reste de l'article 3.3.1 est inchangé.
 
-#### Article 3.7
+### Article 3.7
+
+> **Source :** Article 3.7 — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Dans l'article 3.3.2 de l'accord du 25 octobre 2007 modifié relatif aux missions de l'ADESATT et au financement du paritarisme, les termes « Les budgets affectés au financement des actions relatives au suivi de l'accord national relatif à la réduction du temps de travail et des actions liées au paritarisme sont répartis à 50/50 entre » sont remplacés par « Le total du budget affecté au financement des actions liées au paritarisme est réparti à parts égales entre ».
 
 Le reste de l'article 3.3.2 est inchangé.
 
-#### Article 3.8
+### Article 3.8
+
+> **Source :** Article 3.8 — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 L'article 3.3.3 de l'accord du 25 octobre 2007 modifié relatif aux missions de l'ADESATT et au financement du paritarisme est ainsi rédigé :
 
 « La dotation dévolue aux fédérations syndicales de salariés représentatives au niveau national (soit 50 % du montant cumulé du budget affecté au financement des actions liées au paritarisme) est répartie comme indiqué dans l'annexe. La dotation dévolue aux fédérations syndicales de salariés représentatives au niveau national est répartie comme indiqué à l'article 2 de l'annexe du 11 février 2009 modifiée le 16 octobre 2013 ».
 
-#### Article 3.9
+### Article 3.9
+
+> **Source :** Article 3.9 — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 La 1re phrase de l'article 3.3.4 de l'accord du 25 octobre 2007 modifié relatif aux missions de l'ADESATT et au financement du paritarisme est ainsi rédigée :
 
@@ -9431,9 +9891,9 @@ La 1re phrase de l'article 3.3.4 de l'accord du 25 octobre 2007 modifié relatif
 
 Le reste de l'article 3.3.4 est inchangé.
 
-#### Article 4
+### Article 4 — Modification du chapitre XII de l'accord du 22 juin 1999 sur la durée du travail
 
-*Modification du chapitre XII de l'accord du 22 juin 1999 sur la durée du travail*
+> **Source :** Article 4 — Modification du chapitre XII de l'accord du 22 juin 1999 sur la durée du travail — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 La première phrase du chapitre 12 de l'accord de branche du 22 juin 1999 modifié sur la durée travail est ainsi rédigée :
 
@@ -9441,21 +9901,21 @@ La première phrase du chapitre 12 de l'accord de branche du 22 juin 1999 modifi
 
 Le reste du chapitre XII de l'accord de branche du 25 juin 1999 sur la durée travail est inchangé.
 
-#### Article 5
+### Article 5 — Dispositions spécifiques aux entreprises de moins de 50 salariés
 
-*Dispositions spécifiques aux entreprises de moins de 50 salariés*
+> **Source :** Article 5 — Dispositions spécifiques aux entreprises de moins de 50 salariés — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Par son objet, le présent accord a vocation à s'appliquer à l'ensemble des entreprises de la branche sans distinction eu égard à leur effectif salarié.
 
-#### Article 6
+### Article 6 — Date d'effet. Durée de l'accord
 
-*Date d'effet. Durée de l'accord*
+> **Source :** Article 6 — Date d'effet. Durée de l'accord — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Le présent accord est conclu pour une durée indéterminée et est applicable à compter du lendemain de sa signature.
 
-#### Article 7
+### Article 7 — Conditions de révision de l'accord
 
-*Conditions de révision de l'accord*
+> **Source :** Article 7 — Conditions de révision de l'accord — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Le présent accord pourra faire l'objet d'une révision conformément aux articles L. 2261-7 et suivants du code du travail.
 
@@ -9465,9 +9925,9 @@ Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir
 
 Cet avenant est soumis aux mêmes règles de validité et de publicité que le présent accord.
 
-#### Article 8
+### Article 8 — Conditions de dénonciation de l'accord
 
-*Conditions de dénonciation de l'accord*
+> **Source :** Article 8 — Conditions de dénonciation de l'accord — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Le présent accord peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis minimal de 3 mois. Ce préavis devra être donné à toutes les organisations signataires du présent accord par lettre recommandée avec avis de réception, sous peine de nullité.
 
@@ -9475,25 +9935,25 @@ La partie qui dénonce l'accord peut accompagner sa notification d'un nouveau pr
 
 La dénonciation totale ou partielle du présent accord n'emporte pas dénonciation de la convention collective de branche.
 
-#### Article 9
+### Article 9 — Dépôt et extension de l'accord
 
-*Dépôt et extension de l'accord*
+> **Source :** Article 9 — Dépôt et extension de l'accord — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Après avoir négocié par visioconférence et lu chacune des pages précédentes, les représentants signataires signent l'accord au nom de leur organisation. Pour ce faire, la partie la plus diligente met en place un dispositif de signature électronique répondant aux exigences du règlement européen n° 910-2014 du 23 juillet 2014 et de l'article 1367 du code civil.
 
 Le présent accord fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministère du travail dans les conditions prévues à l'article L. 2261-24 du code du travail.
 
-#### Article 10
+### Article 10 — Conditions d'adhésion à l'accord
 
-*Conditions d'adhésion à l'accord*
+> **Source :** Article 10 — Conditions d'adhésion à l'accord — Accord du 28 avril 2021 relatif à l'ADESATT et au financement du paritarisme.
 
 Peuvent adhérer au présent accord toute organisation syndicale représentative de salariés ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement, conformément à l'article L. 2261-3 du code du travail.
 
-### Avenant n° 1 du 31 mars 2022 à l'accord du 5 juillet 2001 relatif au statut des salariés du secteur de l'événementiel
+## Avenant n° 1 du 31 mars 2022 à l'accord du 5 juillet 2001 relatif au statut des salariés du secteur de l'événementiel
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 1 du 31 mars 2022 à l'accord du 5 juillet 2001 relatif au statut des salariés du secteur de l'événementiel.
 
 Les partenaires sociaux de la branche ont procédé, dans le cadre des travaux de « toilettage » de la convention collective, à la mise à jour des stipulations de la convention collective des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils au regard des évolutions législatives et réglementaires, et à l'amélioration de la lisibilité de celles-ci par l'avenant n° 46 en date du 16 juillet 2021.
 
@@ -9505,15 +9965,15 @@ Ce chantier de « modernisation » de la convention collective a permis la clari
 
 Le présent avenant a été conclu dans la continuité du chantier de « modernisation » de la convention collective afin de rendre plus lisibles les règles applicables au secteur de l'événementiel en matière de travail le dimanche.
 
-#### Article 1er
+### Article 1er — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 1er — Détermination du champ territorial et professionnel — Avenant n° 1 du 31 mars 2022 à l'accord du 5 juillet 2001 relatif au statut des salariés du secteur de l'événementiel.
 
 Le présent avenant s'applique sur l'ensemble du territoire national à tous les salariés employés, techniciens, agents de maîtrise et cadres salariés des entreprises dont l'activité relève des codes APE 68.32A, 82.30Z et 90.04Z.
 
-#### Article 2
+### Article 2 — Travail le dimanche
 
-*Travail le dimanche*
+> **Source :** Article 2 — Travail le dimanche — Avenant n° 1 du 31 mars 2022 à l'accord du 5 juillet 2001 relatif au statut des salariés du secteur de l'événementiel.
 
 L'article 1er du chapitre 1er « Durée du travail » est modifié de la manière suivante :
 
@@ -9535,15 +9995,15 @@ Les salariés (ETAM et cadres) appelés à travailler le dimanche et les jours f
 
 (Arrêté du 23 septembre 2022 - art. 1)
 
-#### Article 3
+### Article 3 — Dispositions spécifiques aux entreprises de moins de cinquante (50) salariés
 
-*Dispositions spécifiques aux entreprises de moins de cinquante (50) salariés*
+> **Source :** Article 3 — Dispositions spécifiques aux entreprises de moins de cinquante (50) salariés — Avenant n° 1 du 31 mars 2022 à l'accord du 5 juillet 2001 relatif au statut des salariés du secteur de l'événementiel.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent avenant ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'avenant a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-#### Article 4
+### Article 4 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 4 — Stipulations juridiques et administratives — Avenant n° 1 du 31 mars 2022 à l'accord du 5 juillet 2001 relatif au statut des salariés du secteur de l'événementiel.
 
 Date d'effet. Durée de l'avenant
 
@@ -9573,11 +10033,11 @@ Conditions d'adhésion à l'avenant
 
 Peuvent adhérer au présent avenant toute organisation syndicale représentative de salariés ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement, conformément à l'article L. 2261-3 du code du travail.
 
-### Avenant n° 1 du 31 mars 2022 à l'accord de branche du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI)
+## Avenant n° 1 du 31 mars 2022 à l'accord de branche du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI)
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 1 du 31 mars 2022 à l'accord de branche du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 La loi du 8 août 2016 a mis en place la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
@@ -9585,9 +10045,9 @@ L'accord de branche conclu le 14 décembre 2017 a mis en place la CPPNI de la br
 
 Par le présent avenant, les partenaires sociaux souhaitent prendre en compte la dynamique du dialogue social de la branche ainsi que la diversité et la technicité des sujets de négociation, en permettant aux organisations syndicales de salariés et d'employeurs représentatives composant la CPPNI d'inviter des personnes supplémentaires au sein de leurs délégations à des fins d'assistance technique.
 
-#### Article 1er
+### Article 1er — Modification de l'article 1er de l'accord du 14 décembre 2017 relatif à la CPPNI
 
-*Modification de l'article 1er de l'accord du 14 décembre 2017 relatif à la CPPNI*
+> **Source :** Article 1er — Modification de l'article 1er de l'accord du 14 décembre 2017 relatif à la CPPNI — Avenant n° 1 du 31 mars 2022 à l'accord de branche du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 À la fin du 2/ de l'article 1er de l'accord de branche du 14 décembre 2017 relatif à la CPPNI, intitulé « Composition de la CPPNI », sont ajoutés les paragraphes suivants :
 
@@ -9605,35 +10065,35 @@ Les personnes invitées à participer aux réunions de la CPPNI ne sont pas habi
 
 Lorsqu'elles sont salariées, les personnes invitées bénéficient, pour participer aux réunions de la CPPNI, d'autorisations d'absence dans les mêmes conditions que les autres membres de la CPPNI ayant la qualité de salarié. »
 
-#### Article 2
+### Article 2 — Stipulations spécifiques aux entreprises de moins de 50 salariés
 
-*Stipulations spécifiques aux entreprises de moins de 50 salariés*
+> **Source :** Article 2 — Stipulations spécifiques aux entreprises de moins de 50 salariés — Avenant n° 1 du 31 mars 2022 à l'accord de branche du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent avenant ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'avenant a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-#### Article 3
+### Article 3 — Date d'effet. Durée de l'avenant
 
-*Date d'effet. Durée de l'avenant*
+> **Source :** Article 3 — Date d'effet. Durée de l'avenant — Avenant n° 1 du 31 mars 2022 à l'accord de branche du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 Le présent avenant est conclu pour une durée indéterminée.
 
 Il prend effet le premier jour du mois civil suivant la date de signature.
 
-#### Article 4
+### Article 4 — Dépôt et extension de l'avenant
 
-*Dépôt et extension de l'avenant*
+> **Source :** Article 4 — Dépôt et extension de l'avenant — Avenant n° 1 du 31 mars 2022 à l'accord de branche du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 Le présent avenant fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministère du travail dans les conditions prévues à l'article L. 2261-24 du code du travail.
 
-#### Article 5
+### Article 5 — Conditions d'adhésion à l'avenant
 
-*Conditions d'adhésion à l'avenant*
+> **Source :** Article 5 — Conditions d'adhésion à l'avenant — Avenant n° 1 du 31 mars 2022 à l'accord de branche du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 Peuvent adhérer au présent avenant toute organisation syndicale représentative de salariés ainsi que toute organisation syndicale, association d'employeurs ou des employeurs pris individuellement, conformément à l'article L. 2261-3 du code du travail.
 
-#### Article 6
+### Article 6 — Conditions de révision de l'avenant
 
-*Conditions de révision de l'avenant*
+> **Source :** Article 6 — Conditions de révision de l'avenant — Avenant n° 1 du 31 mars 2022 à l'accord de branche du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 Le présent avenant pourra faire l'objet d'une révision conformément aux articles L. 2261-7 et suivants du code du travail.
 
@@ -9643,17 +10103,17 @@ Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir
 
 Cet avenant sera soumis aux règles de validité et de publicité en vigueur au jour de sa signature.
 
-#### Article 7
+### Article 7 — Dénonciation
 
-*Dénonciation*
+> **Source :** Article 7 — Dénonciation — Avenant n° 1 du 31 mars 2022 à l'accord de branche du 14 décembre 2017 relatif à la commission paritaire permanente de négociation et d'interprétation (CPPNI).
 
 Le présent avenant peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis minimal de 6 mois. Ce préavis devra être donné à toutes les organisations signataires du présent avenant par lettre recommandée avec accusé de réception, sous peine de nullité.
 
-### Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN
+## Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 Les partenaires sociaux de la branche ont procédé, dans le cadre des travaux de « toilettage » de la convention collective, à la mise à jour des stipulations de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils au regard des évolutions législatives et réglementaires, et à l'amélioration de la lisibilité de celles-ci par l'avenant n° 46 en date du 16 juillet 2021.
 
@@ -9669,15 +10129,15 @@ Ce chantier de « modernisation » de la convention collective est initié avec 
 
 – aux salaires minimaux hiérarchiques.
 
-#### Article 1er
+### Article 1er — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 1er — Détermination du champ territorial et professionnel — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 Le présent avenant s'applique à tous les salariés employés, techniciens, agents de maîtrise et cadres des entreprises visées par la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 (IDCC 1486) dont le siège social ou les activités se situent en France métropolitaine et, conformément à l'article L. 2222-1 du code du travail, dans les régions, départements et collectivités d'Outre-mer.
 
-#### Article 2
+### Article 2 — Adaptation des délais de prévenance à observer en cas de rupture de la période d'essai
 
-*Adaptation des délais de prévenance à observer en cas de rupture de la période d'essai*
+> **Source :** Article 2 — Adaptation des délais de prévenance à observer en cas de rupture de la période d'essai — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 L'article 3.4 de l'annexe 1 de l'avenant n° 46 à la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils relatif à la période d'essai est rédigé de la manière suivante :
 
@@ -9692,6 +10152,8 @@ Le renouvellement de la période d'essai est exceptionnel et doit faire l'objet 
 
 Au cours de la période d'essai, les deux parties peuvent se séparer en respectant les délais de prévenance suivants :
 
+ 
+
 |  | Durées des délais de prévenance en cas de rupture de la période d'essai |  |
 | --- | --- | --- |
 | Temps de présence dans l'entreprise | À l'initiative de l'employeur | À l'initiative du salarié |
@@ -9701,7 +10163,7 @@ Au cours de la période d'essai, les deux parties peuvent se séparer en respect
 | Au-delà de 3 mois et jusqu'à 6 mois | 1 mois | 48 heures |
 | Au-delà de 6 mois et jusqu'à 8 mois | 6 semaines | 48 heures |
 
-La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance. Ainsi, lorsqu'eu égard à la date de notification de la rupture de la période d'essai, le délai de prévenance ne peut être respecté par l'employeur, son inexécution ouvre droit pour le salarié à une indemnité compensatrice. Cette indemnité est égale au montant des salaires et avantages que le salarié aurait perçus s'il avait accompli son travail jusqu'à l'expiration du délai de prévenance, indemnité compensatrice de congés payés comprise.
+ La période d'essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance. Ainsi, lorsqu'eu égard à la date de notification de la rupture de la période d'essai, le délai de prévenance ne peut être respecté par l'employeur, son inexécution ouvre droit pour le salarié à une indemnité compensatrice. Cette indemnité est égale au montant des salaires et avantages que le salarié aurait perçus s'il avait accompli son travail jusqu'à l'expiration du délai de prévenance, indemnité compensatrice de congés payés comprise.
 
 L'indemnité compensatrice n'est pas due au salarié en cas de dispense d'exécution du délai de prévenance sollicitée par le salarié et acceptée par l'employeur.
 
@@ -9709,9 +10171,9 @@ Pendant la période d'essai, la durée des absences autorisées pour la recherch
 
 Lorsque la rupture est à l'initiative du salarié, les heures d'absences autorisées pour la recherche d'emploi ne donnent pas lieu à rémunération. »
 
-#### Article 3
+### Article 3 — Modification de l'assiette de calcul de l'indemnité de départ à la retraite et modification de l'indemnité de mise à la retraite
 
-*Modification de l'assiette de calcul de l'indemnité de départ à la retraite et modification de l'indemnité de mise à la retraite*
+> **Source :** Article 3 — Modification de l'assiette de calcul de l'indemnité de départ à la retraite et modification de l'indemnité de mise à la retraite — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 L'article 4.8 de l'annexe 1 de l'avenant n° 46 à la convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils relatif à l'indemnité de départ à la retraite et à l'indemnité de mise à la retraite est rédigé de la manière suivante :
 
@@ -9735,9 +10197,9 @@ La mise à la retraite d'un salarié lui ouvre droit à une indemnité au moins 
 
 Cette stipulation s'applique en l'absence de dispositions légales plus favorables ayant le même objet. »
 
-#### Article 4
+### Article 4 — Modification de l'article 7.1 de l'annexe 1 de l'avenant n° 46 du 16 juillet 2021
 
-*Modification de l'article 7.1 de l'annexe 1 de l'avenant n° 46 du 16 juillet 2021*
+> **Source :** Article 4 — Modification de l'article 7.1 de l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 L'article 7.1 « Généralités » est rédigé comme suit :
 
@@ -9779,35 +10241,35 @@ Lorsqu'il est convenu qu'ils ne doivent être disponibles que partiellement, cet
 
 (1) Conformément aux stipulations du chapitre X de l'accord du 22 juin 1999 relatif au temps de travail.
 
-#### Article 5
+### Article 5 — Stipulations spécifiques aux entreprises de moins de 50 salariés
 
-*Stipulations spécifiques aux entreprises de moins de 50 salariés*
+> **Source :** Article 5 — Stipulations spécifiques aux entreprises de moins de 50 salariés — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent avenant ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'avenant a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-#### Article 6
+### Article 6 — Date d'effet. Durée de l'avenant
 
-*Date d'effet. Durée de l'avenant*
+> **Source :** Article 6 — Date d'effet. Durée de l'avenant — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 Le présent avenant est conclu pour une durée indéterminée.
 
 Il prend effet, le premier jour du mois civil suivant la date de publication de l'arrêté d'extension au Journal officiel, sous réserve de la publication de l'arrêté d'extension au Journal officiel de l'avenant n° 46 du 16 juillet 2021.
 
-#### Article 7
+### Article 7 — Dépôt et extension de l'avenant
 
-*Dépôt et extension de l'avenant*
+> **Source :** Article 7 — Dépôt et extension de l'avenant — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 Le présent avenant fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministère du travail dans les conditions prévues à l'article L. 2261-24 du code du travail.
 
-#### Article 8
+### Article 8 — Conditions d'adhésion à l'avenant
 
-*Conditions d'adhésion à l'avenant*
+> **Source :** Article 8 — Conditions d'adhésion à l'avenant — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 Peuvent adhérer au présent avenant toute organisation syndicale représentative de salariés ainsi que toute organisation syndicale, association d'employeurs ou des employeurs pris individuellement, conformément à l'article L. 2261-3 du code du travail.
 
-#### Article 9
+### Article 9 — Conditions de révision de l'avenant
 
-*Conditions de révision de l'avenant*
+> **Source :** Article 9 — Conditions de révision de l'avenant — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 Le présent avenant pourra faire l'objet d'une révision conformément aux articles L. 2261-7 et suivants du code du travail.
 
@@ -9817,17 +10279,17 @@ Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir
 
 Cet avenant sera soumis aux règles de validité et de publicité en vigueur au jour de sa signature.
 
-#### Article 10
+### Article 10 — Dénonciation
 
-*Dénonciation*
+> **Source :** Article 10 — Dénonciation — Avenant n° 1 du 31 mars 2022 à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 relatif à la révision de la CCN.
 
 Le présent avenant peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis minimal de 6 mois. Ce préavis devra être donné à toutes les organisations signataires du présent avenant par lettre recommandée avec accusé de réception, sous peine de nullité.
 
-### Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV)
+## Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV)
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
 
 Les partenaires sociaux de la branche ont procédé, dans le cadre des travaux de « toilettage » de la convention collective, à la mise à jour des stipulations de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils au regard des évolutions législatives et réglementaires, et à l'amélioration de la lisibilité de celles-ci par l'avenant n° 46 en date du 16 juillet 2021.
 
@@ -9837,15 +10299,15 @@ Les partenaires sociaux se sont donc accordés sur la renégociation d'un certai
 
 Ce chantier de « modernisation » de la convention collective a abouti avec la renégociation de plusieurs stipulations conventionnelles, dont celles de l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
 
-#### Article 1er
+### Article 1er — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 1er — Détermination du champ territorial et professionnel — Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
 
 Le présent avenant s'applique sur l'ensemble du territoire national à tous les chargés d'enquête, chargés d'enquête intermittents à garantie annuelle et enquêteurs vacataires salariés des entreprises exerçant une activité principale d'études de marché et sondages (code APE 73.20Z) comprise dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 (IDCC 1486).
 
-#### Article 2
+### Article 2 — Mise à jour de la grille ETAM et des références au code du travail
 
-*Mise à jour de la grille ETAM et des références au code du travail*
+> **Source :** Article 2 — Mise à jour de la grille ETAM et des références au code du travail — Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
 
 À compter de l'entrée en vigueur du présent avenant, au sein de l'accord du 16 décembre 1991, toute référence à « coefficient 230 ETAM » ou à « coefficient hiérarchique 230 » est remplacée par « coefficient correspondant au premier niveau de la grille ETAM ».
 
@@ -9854,9 +10316,9 @@ Le présent avenant s'applique sur l'ensemble du territoire national à tous les
 – au sein de l'article 23 de l'accord du 16 décembre 1991, « de l'article L. 122-12 du code du travail » est remplacé par « des articles L. 1224-1, L. 1234-7, L. 1234-10 et L. 1234-12 du code du travail » ;
 – au sein de l'article 43 de l'accord du 16/12/1991, « L. 122-1-1 et D. 121-2 du code du travail » est remplacé par « L. 1242-2 et D. 1242-1 du code du travail ».
 
-#### Article 3
+### Article 3 — Préambule de l'annexe IV « Enquêteurs »
 
-*Préambule de l'annexe IV « Enquêteurs »*
+> **Source :** Article 3 — Préambule de l'annexe IV « Enquêteurs » — Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
 
 Le titre « Définition du statut de deux types d'enquêteurs » précédant le titre 1er « Chargé d'enquête intermittents à garantie annuelle » de l'annexe IV est supprimé.
 
@@ -9874,9 +10336,9 @@ Le troisième est le statut de chargés d'enquête (CE), titulaires d'un contrat
 
 Les parties signataires conviennent que la convention collective nationale du 15 décembre 1987 des bureaux d'études techniques, cabinets d'ingénieurs-conseils, sociétés de conseils s'applique de plein droit aux chargés d'enquête (CE), à l'exception du 1. de l'article 6.2 et sauf spécificités prévues par la présente annexe. »
 
-#### Article 4
+### Article 4 — Dispositions communes aux chargés d'enquêtes intermittents à garantie annuelle (CEIGA) et aux enquêteurs vacataires (EV)
 
-*Dispositions communes aux chargés d'enquêtes intermittents à garantie annuelle (CEIGA) et aux enquêteurs vacataires (EV)*
+> **Source :** Article 4 — Dispositions communes aux chargés d'enquêtes intermittents à garantie annuelle (CEIGA) et aux enquêteurs vacataires (EV) — Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
 
 L'article « Dispositions communes aux chargés d'enquêtes intermittents à garantie annuelle (CEIGA) et aux enquêteurs vacataires (EV) » de l'annexe IV « Enquêteurs » à la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 (IDCC 1486) est modifié et rédigé comme suit :
 
@@ -9888,15 +10350,15 @@ L'article « Dispositions communes aux chargés d'enquêtes intermittents à gar
 
 Par ailleurs les articles 73 et 74 de la présente annexe, relatifs respectivement au travail du dimanche et des jours fériés et au travail de nuit des chargés d'enquêtes (CE), s'appliquent également aux chargés d'enquête à garantie annuelle (CEIGA) et aux enquêteurs vacataires (EV) ».
 
-#### Article 5
+### Article 5 — Suppression de l'article 65 de l'annexe IV « Enquêteurs »
 
-*Suppression de l'article 65 de l'annexe IV « Enquêteurs »*
+> **Source :** Article 5 — Suppression de l'article 65 de l'annexe IV « Enquêteurs » — Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
 
 L'article 65 de l'annexe IV « Enquêteurs » à la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 modifiée (IDCC 1486) est supprimé.
 
-#### Article 6
+### Article 6 — Nouveau titre III de l'annexe IV « Enquêteurs »
 
-*Nouveau titre III de l'annexe IV « Enquêteurs »*
+> **Source :** Article 6 — Nouveau titre III de l'annexe IV « Enquêteurs » — Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
 
 Après l'article 64 de l'annexe IV « Enquêteurs » à la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 est ajouté un « Titre III » rédigé comme suit :
 
@@ -10041,9 +10503,9 @@ La durée moyenne d'interview est la durée de passation du questionnaire. La r�
 
 (Arrêté du 22 mai 2023 - art. 1)
 
-#### Article 7
+### Article 7 — Nouveau titre IV de l'annexe IV « Enquêteurs »
 
-*Nouveau titre IV de l'annexe IV « Enquêteurs »*
+> **Source :** Article 7 — Nouveau titre IV de l'annexe IV « Enquêteurs » — Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
 
 Après l'article 76 de l'annexe IV « Enquêteurs » à la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 est ajouté un « Titre IV » rédigé comme suit :
 
@@ -10078,9 +10540,9 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille. »
 
-#### Article 8
+### Article 8 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 8 — Stipulations juridiques et administratives — Avenant n° 1 du 27 octobre 2022 à l'accord du 16 décembre 1991 relatif aux enquêteurs (annexe IV).
 
 Date d'effet. Durée de l'avenant
 
@@ -10114,39 +10576,11 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent avenant ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'avenant a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-#### Annexe
+## Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective
 
-##### Article (préambule / sans numéro)
+### Préambule
 
-Annexe
-
-Table de correspondance des articles relatifs aux chargés d'enquête
-
-La nouvelle numérotation est celle applicable compte tenu des modifications apportées à l'accord du 16 décembre 1991 (annexe IV « Enquêteurs ») par le présent avenant.
-
-L'ancienne numérotation correspond à celle existante antérieurement au sein du texte de base de la convention collective.
-
-| Nouvelle numérotation |  | Ancienne numérotation |
-| --- | --- | --- |
-| Préambule Article 65 | Préambule Définition des chargés d'enquête | Préambule relatif au personnel enquêteur Article 2 |
-| I. Conditions d'engagement |  |  |
-| Article 66 Article 67 | Engagement et contrat de travail Ancienneté | Article 5 Article 12 |
-| II. Conditions d'exécution du contrat de travail |  |  |
-| Article 68 Article 69 | Ordre de mission Secret professionnel | Article 51 Article 77 |
-| III. Rupture du contrat de travail |  |  |
-| Article 70 | Absences pour recherche d'emploi | Article 16 |
-| IV. Congés |  |  |
-| Article 71 Article 72 | Indemnité de congés payés Autorisations d'absence pour événements familiaux | Article 28 Article 29 |
-| V. Temps de travail |  |  |
-| Article 73 Article 74 | Travail du dimanche et des jours fériés Travail de nuit | Article 35.3 Article 35.3 |
-| VI. Rémunération |  |  |
-| Article 75 Article 76 | Classification Rémunération | Article 39 Article 32 |
-
-### Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective
-
-#### Préambule
-
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Les partenaires sociaux de la branche ont procédé, dans le cadre des travaux de « toilettage » à la mise à jour des stipulations de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils au regard des évolutions législatives et réglementaires, et à l'amélioration de la lisibilité de celles-ci par l'avenant n° 46 en date du 16 juillet 2021 à la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils. Ce dernier a été modifié par l'avenant n° 1 du 31 mars 2022 visant à moderniser certains chapitres.
 
@@ -10154,33 +10588,33 @@ Dans le souci de parfaire la clarté du texte, les partenaires sociaux ont retra
 
 Le présent avenant est donc associé à l'élaboration d'un avenant à l'annexe IV.
 
-#### Article 1er
+### Article 1er — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 1er — Détermination du champ territorial et professionnel — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le présent avenant s'applique sur l'ensemble du territoire national à tous les salariés employés, techniciens, agents de maîtrise et cadres salariés des entreprises dont l'activité est comprise dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 (IDCC 1486).
 
-#### I. Modification apportée à l'avenant n° 46 du 16 juillet 2021
+### I. Modification apportée à l'avenant n° 46 du 16 juillet 2021
 
-##### Article 2
+#### Article 2 — Modification de l'article 7 « Conditions d'adhésion à l'avenant »
 
-*Modification de l'article 7 « Conditions d'adhésion à l'avenant »*
+> **Source :** Article 2 — Modification de l'article 7 « Conditions d'adhésion à l'avenant » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 7 de l'avenant n° 46 à la convention collective est rédigé comme suit :
 
 « Peuvent adhérer au présent avenant toute organisation syndicale de salariés représentative dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement, conformément aux articles L. 2261-3 et L. 2261-4 du code du travail. »
 
-#### II. Modifications apportées à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 modifiée par l'avenant n° 1 du 31 mars 2022
+### II. Modifications apportées à l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 modifiée par l'avenant n° 1 du 31 mars 2022
 
-##### Article 3
+#### Article 3 — Modification du préambule
 
-*Modification du préambule*
+> **Source :** Article 3 — Modification du préambule — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Au sein du préambule, le préambule relatif aux enquêteurs est supprimé.
 
-##### Article 4
+#### Article 4 — Modification de l'article 1.2 « Définition des ETAM, ingénieurs et cadres et chargés d'enquête »
 
-*Modification de l'article 1.2 « Définition des ETAM, ingénieurs et cadres et chargés d'enquête »*
+> **Source :** Article 4 — Modification de l'article 1.2 « Définition des ETAM, ingénieurs et cadres et chargés d'enquête » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 1.2 est rédigé comme suit :
 
@@ -10201,9 +10635,9 @@ Les fonctions d'ingénieurs ou cadres sont définies en annexe 2 par la classifi
 
 Ne relèvent pas de la classification ingénieurs ou cadres, ni des dispositions conventionnelles spécifiques à ces derniers, mais relèvent de la classification ETAM, les titulaires des diplômes ou les possesseurs d'une des formations précisées ci-dessus, lorsqu'ils n'occupent pas aux termes de leur contrat de travail des postes nécessitant la mise en œuvre des connaissances correspondant aux diplômes dont ils sont titulaires. »
 
-##### Article 5
+#### Article 5 — Modification de l'article 2.2 « Représentation des salariés »
 
-*Modification de l'article 2.2 « Représentation des salariés »*
+> **Source :** Article 5 — Modification de l'article 2.2 « Représentation des salariés » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 2.2 est rédigé comme suit (1) :
 
@@ -10227,17 +10661,17 @@ La contribution versée chaque année par l'employeur pour financer les institut
 
 (Arrêté du 5 avril 2023 - art. 1)
 
-##### Article 6
+#### Article 6 — Modification de l'article 3.1 « Principe de non-discrimination »
 
-*Modification de l'article 3.1 « Principe de non-discrimination »*
+> **Source :** Article 6 — Modification de l'article 3.1 « Principe de non-discrimination » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le premier paragraphe de l'article 3.1 est rédigé comme suit :
 
 « Les employeurs s'engagent à ne pas prendre de mesures discriminatoires notamment en ce qui concerne le recrutement, la conduite et la répartition du travail, la formation professionnelle, la rémunération et l'octroi d'avantages sociaux, l'avancement, les mesures disciplinaires ou la rupture du contrat de travail. »
 
-##### Article 7
+#### Article 7 — Modification de l'article 3.2 « Engagement et contrat de travail »
 
-*Modification de l'article 3.2 « Engagement et contrat de travail »*
+> **Source :** Article 7 — Modification de l'article 3.2 « Engagement et contrat de travail » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 3.2 est modifié comme suit :
 
@@ -10246,9 +10680,9 @@ L'article 3.2 est modifié comme suit :
 – le dernier paragraphe est rédigé comme suit :
 « Au moment de l'embauche, l'employeur informe le salarié de l'ensemble des textes conventionnels applicables dans l'entreprise ou l'établissement. Un exemplaire à jour de ces textes est tenu à la disposition des salariés sur le lieu de travail et, le cas échéant, sur l'intranet de l'entreprise. »
 
-##### Article 8
+#### Article 8 — Modification de l'article 3.4 « Période d'essai »
 
-*Modification de l'article 3.4 « Période d'essai »*
+> **Source :** Article 8 — Modification de l'article 3.4 « Période d'essai » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 3.4 est modifié comme suit :
 – au premier tiret du deuxième paragraphe, « 355 » est remplacé par « 250 » ;
@@ -10257,9 +10691,9 @@ L'article 3.4 est modifié comme suit :
 À compter de l'entrée en vigueur de l'avenant n° 2 à l'avenant n° 47 à la convention collective, l'article 3.4 est modifié comme suit :
 – au premier tiret du deuxième paragraphe, « 230 » est remplacé par « 240 ».
 
-##### Article 9
+#### Article 9 — Modification de l'article 3.5 « Modification du contrat de travail »
 
-*Modification de l'article 3.5 « Modification du contrat de travail »*
+> **Source :** Article 9 — Modification de l'article 3.5 « Modification du contrat de travail » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 3.5 est modifié comme suit :
 
@@ -10268,9 +10702,9 @@ L'article 3.5 est modifié comme suit :
 
 – le dernier paragraphe est supprimé.
 
-##### Article 10
+#### Article 10 — Modification de l'article 3.7 « Ancienneté »
 
-*Modification de l'article 3.7 « Ancienneté »*
+> **Source :** Article 10 — Modification de l'article 3.7 « Ancienneté » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 3.7 est rédigé comme suit :
 
@@ -10290,9 +10724,9 @@ Sont prises en compte pour la détermination du temps d'ancienneté, les périod
 – interruption ou suspension du contrat de travail donnant droit au maintien à tout ou partie de l'ancienneté en application des dispositions du code du travail ;
 – suspension du contrat de travail pour mobilisation ou faits de guerre, et les périodes d'activité accomplies dans la réserve militaire. »
 
-##### Article 11
+#### Article 11 — Modification de l'article 4.1 « Procédures applicables »
 
-*Modification de l'article 4.1 « Procédures applicables »*
+> **Source :** Article 11 — Modification de l'article 4.1 « Procédures applicables » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 4.1 est modifié comme suit :
 
@@ -10306,22 +10740,22 @@ L'article 4.1 est modifié comme suit :
 
 « 3.   Rupture conventionnelle ».
 
-##### Article 12
+#### Article 12 — Modification de l'article 4.2 « Durée du préavis »
 
-*Modification de l'article 4.2 « Durée du préavis »*
+> **Source :** Article 12 — Modification de l'article 4.2 « Durée du préavis » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le deuxième paragraphe de l'article 4.2 est rédigé comme suit :
 « Il n'y a pas de préavis notamment en cas de faute grave, faute lourde ou en raison d'une impossibilité de reclassement suite à une déclaration d'inaptitude d'origine non professionnelle ».
 
-##### Article 13
+#### Article 13 — Modification de l'article 4.3 « Absences pour recherche d'emploi »
 
-*Modification de l'article 4.3 « Absences pour recherche d'emploi »*
+> **Source :** Article 13 — Modification de l'article 4.3 « Absences pour recherche d'emploi » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le dernier paragraphe de l'article 4.3, concernant les chargés d'enquête, est supprimé.
 
-##### Article 14
+#### Article 14 — Modification de l'article 4.4 « Indemnité compensatrice de préavis »
 
-*Modification de l'article 4.4 « Indemnité compensatrice de préavis »*
+> **Source :** Article 14 — Modification de l'article 4.4 « Indemnité compensatrice de préavis » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 4.4 est rédigé comme suit :
 
@@ -10336,9 +10770,9 @@ L'employeur peut dispenser le salarié de l'exécution du préavis. Dans ce cas,
 
 La dispense d'exécution du préavis par l'employeur n'a pas d'incidence sur la date de terme du contrat de travail. Celui-ci prend fin au terme du préavis. »
 
-##### Article 15
+#### Article 15 — Modification de l'article 4.5 « Indemnité de licenciement »
 
-*Modification de l'article 4.5 « Indemnité de licenciement »*
+> **Source :** Article 15 — Modification de l'article 4.5 « Indemnité de licenciement » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 4.5 est modifié comme suit :
 
@@ -10355,17 +10789,17 @@ L'article 4.5 est modifié comme suit :
 – à la fin de l'article 4.5 est ajouté un paragraphe rédigé comme suit :
 « L'employeur verse l'indemnité dont le montant est le plus élevé, entre celle calculée selon les règles prévues ci-dessus et celle calculée selon les règles prévues par le code du travail. »
 
-##### Article 16
+#### Article 16 — Modification de l'article 4.6 « Départ et mise à la retraite »
 
-*Modification de l'article 4.6 « Départ et mise à la retraite »*
+> **Source :** Article 16 — Modification de l'article 4.6 « Départ et mise à la retraite » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Après le sous-titre « Mise à la retraite entre 65 et 69 ans », le deuxième paragraphe du 2. « Mise à la retraite » de l'article 4.6 est rédigé comme suit :
 
 « Cette demande est adressée par écrit, 3 mois avant la date à laquelle le salarié atteint l'âge d'ouverture automatique du droit à une pension de retraite à taux plein. La réponse du salarié doit être apportée par écrit dans le mois qui suit la date de la demande de l'employeur. »
 
-##### Article 17
+#### Article 17 — Modification de l'article 4.8 « Indemnité de départ et de mise à la retraite »
 
-*Modification de l'article 4.8 « Indemnité de départ et de mise à la retraite »*
+> **Source :** Article 17 — Modification de l'article 4.8 « Indemnité de départ et de mise à la retraite » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le deuxième paragraphe du 1. « Départ à la retraite » de l'article 4.8 est rédigé comme suit :
 
@@ -10373,9 +10807,9 @@ Le deuxième paragraphe du 1. « Départ à la retraite » de l'article 4.8 est 
 – à 5 ans révolus : 1 mois ;
 – au-delà, s'y ajoute : 1/5 de mois par année d'ancienneté supplémentaire à compter de la 6e année d'ancienneté. »
 
-##### Article 18
+#### Article 18 — Modification de l'article 5.1 « Durée des congés payés »
 
-*Modification de l'article 5.1 « Durée des congés payés »*
+> **Source :** Article 18 — Modification de l'article 5.1 « Durée des congés payés » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 5.1 est modifié comme suit :
 
@@ -10393,9 +10827,9 @@ Un accord d'entreprise ou d'établissement peut adapter ou supprimer le droit au
 
 À titre de compensation, les salariés rappelés au cours de leurs congés payés ont droit à 2 jours de congés payés supplémentaires et au remboursement des frais occasionnés par ce rappel sur présentation des justificatifs. »
 
-##### Article 19
+#### Article 19 — Modification de l'article 5.2 « Conditions d'attribution des congés payés »
 
-*Modification de l'article 5.2 « Conditions d'attribution des congés payés »*
+> **Source :** Article 19 — Modification de l'article 5.2 « Conditions d'attribution des congés payés » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 5.2 est rédigé comme suit :
 
@@ -10404,9 +10838,9 @@ Attribution de jours de congés non rémunérés
 
 Un congé supérieur au nombre de jours de congés payés acquis peut être pris dans la limite des jours de congés payés légaux, la période complémentaire n'ouvrant droit à aucune rétribution ou indemnité. En revanche, l'employeur ne peut obliger la prise d'un congé non rémunéré. »
 
-##### Article 20
+#### Article 20 — Modification de l'article 5.3 « Période de congés payés »
 
-*Modification de l'article 5.3 « Période de congés payés »*
+> **Source :** Article 20 — Modification de l'article 5.3 « Période de congés payés » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 5.3 est rédigé comme suit :
 
@@ -10417,9 +10851,9 @@ Les droits à congés payés s'acquièrent du 1er juin de l'année précédente 
 
 La période de prise des congés payés démarre, sauf stipulation différente, le 1er mai. La période de prise des congés payés, dans tous les cas, est de 13 mois au maximum. Tout report au-delà de cette période nécessite une demande écrite formulée par l'employeur. »
 
-##### Article 21
+#### Article 21 — Modification de l'article 5.5 « Périodes d'absence entrant dans le calcul de la durée des congés payés »
 
-*Modification de l'article 5.5 « Périodes d'absence entrant dans le calcul de la durée des congés payés »*
+> **Source :** Article 21 — Modification de l'article 5.5 « Périodes d'absence entrant dans le calcul de la durée des congés payés » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 5.5 est rédigé comme suit  (1) :
 
@@ -10447,38 +10881,38 @@ Les salariés de retour d'un congé maternité ou d'un congé d'adoption ont dro
 (1) L'article 5.5 de l'avenant n° 46 tel que modifié par l'article 21 de l'avenant n° 2 du 27 octobre 2022 est étendu sous réserve du respect des dispositions de l'article L. 3141-5 du code du travail.
 (Arrêté du 5 avril 2023 - art. 1)
 
-##### Article 22
+#### Article 22 — Modification de l'article 5.6 « Indemnité de congés payés »
 
-*Modification de l'article 5.6 « Indemnité de congés payés »*
+> **Source :** Article 22 — Modification de l'article 5.6 « Indemnité de congés payés » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le dernier paragraphe de l'article 5.6, concernant les chargés d'enquête, est supprimé.
 
-##### Article 23
+#### Article 23 — Modification de l'article 5.7 « Congés pour événements familiaux »
 
-*Modification de l'article 5.7 « Congés pour événements familiaux »*
+> **Source :** Article 23 — Modification de l'article 5.7 « Congés pour événements familiaux » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 5.7 est modifié comme suit :
 – le sous-titre « ETAM et ingénieurs et cadres » est supprimé ;
 – le sous-titre « Chargés d'enquête » est supprimé ;
 – le dernier paragraphe, concernant les chargés d'enquête, est supprimé.
 
-##### Article 24
+#### Article 24 — Modification de l'article 5.9 « Congé sans solde »
 
-*Modification de l'article 5.9 « Congé sans solde »*
+> **Source :** Article 24 — Modification de l'article 5.9 « Congé sans solde » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le troisième paragraphe de l'article 5.9 est rédigé comme suit :
 « Le congé sans solde entraîne la suspension des effets du contrat de travail ».
 
-##### Article 25
+#### Article 25 — Modification de l'article 6.1 « Aménagement du temps de travail sur l'année »
 
-*Modification de l'article 6.1 « Aménagement du temps de travail sur l'année »*
+> **Source :** Article 25 — Modification de l'article 6.1 « Aménagement du temps de travail sur l'année » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 6.1 est rédigé comme suit :
 « Des stipulations conventionnelles relatives à l'aménagement du temps de travail sur l'année sont prévues par l'accord de branche du 22 juin 1999 relatif à la durée du travail modifié par l'avenant du 1er avril 2014. »
 
-##### Article 26
+#### Article 26 — Modification de l'article 6.2 « Heures supplémentaires »
 
-*Modification de l'article 6.2 « Heures supplémentaires »*
+> **Source :** Article 26 — Modification de l'article 6.2 « Heures supplémentaires » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le 1. « Rémunération des heures supplémentaires » de l'article 6.2 est rédigé comme suit (1) :
 
@@ -10492,9 +10926,9 @@ Les heures supplémentaires sont payées conformément aux majorations prévues 
 
 (Arrêté du 5 avril 2023 - art. 1)
 
-##### Article 27
+#### Article 27 — Modification de l'article 6.3 « Travail du dimanche et des jours fériés »
 
-*Modification de l'article 6.3 « Travail du dimanche et des jours fériés »*
+> **Source :** Article 27 — Modification de l'article 6.3 « Travail du dimanche et des jours fériés » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 6.3 est modifié comme suit :
 
@@ -10506,9 +10940,9 @@ L'article 6.3 est modifié comme suit :
 
 – le dernier paragraphe du 4. « Règles sectorielles spécifiques » est supprimé.
 
-##### Article 28
+#### Article 28 — Modification de l'article 6.4 « Travail habituel de nuit »
 
-*Modification de l'article 6.4 « Travail habituel de nuit »*
+> **Source :** Article 28 — Modification de l'article 6.4 « Travail habituel de nuit » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 6.4 est modifié comme suit :
 
@@ -10516,9 +10950,9 @@ L'article 6.4 est modifié comme suit :
 
 – les deux derniers paragraphes, concernant les chargés d'enquête, sont supprimés.
 
-##### Article 29
+#### Article 29 — Modification de l'article 7.1 « Généralités »
 
-*Modification de l'article 7.1 « Généralités »*
+> **Source :** Article 29 — Modification de l'article 7.1 « Généralités » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 7.1 est modifié comme suit :
 
@@ -10526,9 +10960,9 @@ L'article 7.1 est modifié comme suit :
 
 – les paragraphes après le sous-titre « Rémunération des chargés d'enquête » sont supprimés.
 
-##### Article 30
+#### Article 30 — Modification de l'article 7.2 « Classifications »
 
-*Modification de l'article 7.2 « Classifications »*
+> **Source :** Article 30 — Modification de l'article 7.2 « Classifications » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 7.2 est modifié comme suit :
 
@@ -10536,9 +10970,9 @@ L'article 7.2 est modifié comme suit :
 
 – le dernier paragraphe, concernant les chargés d'enquête, est supprimé.
 
-##### Article 31
+#### Article 31 — Modification de l'article 8.3 « Secret professionnel »
 
-*Modification de l'article 8.3 « Secret professionnel »*
+> **Source :** Article 31 — Modification de l'article 8.3 « Secret professionnel » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 8.3 est modifié comme suit :
 
@@ -10546,18 +10980,18 @@ L'article 8.3 est modifié comme suit :
 
 – les trois derniers paragraphes, concernant les chargés d'enquête, sont supprimés.
 
-##### Article 32
+#### Article 32 — Modification du titre 9 « Maladie et accidents »
 
-*Modification du titre 9 « Maladie et accidents »*
+> **Source :** Article 32 — Modification du titre 9 « Maladie et accidents » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le titre 9 est rédigé comme suit :
 
 « Titre 9
 Maladie, accidents, parentalité ».
 
-##### Article 33
+#### Article 33 — Modification de l'article 9.2 « Incapacité temporaire de travail »
 
-*Modification de l'article 9.2 « Incapacité temporaire de travail »*
+> **Source :** Article 33 — Modification de l'article 9.2 « Incapacité temporaire de travail » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le 1. « Conditions et durée d'indemnisation de l'incapacité temporaire de travail » de l'article 9.2 est rédigé comme suit  (1) :
 
@@ -10574,9 +11008,9 @@ Au-delà de 90 jours consécutifs d'absence (s) pour maladie ou accident, le rel
 (1) L'article 9.2 de l'avenant n° 46 du 16 juillet 2021 tel que modifié par l'article 33 de l'avenant n° 2 du 27 octobre 2022 est étendu sous réserve du respect des articles L. 1226-1 et D. 1226-1 et D. 1226-2 du code du travail, relatifs au maintien de salaire dont le montant et la durée sont conditionnés à l'ancienneté.
 (Arrêté du 5 avril 2023 - art. 1)
 
-##### Article 34
+#### Article 34 — Modification de l'article 9.4 « Congé parental d'éducation et passage à temps partiel »
 
-*Modification de l'article 9.4 « Congé parental d'éducation et passage à temps partiel »*
+> **Source :** Article 34 — Modification de l'article 9.4 « Congé parental d'éducation et passage à temps partiel » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 9.4 est rédigé comme suit :
 
@@ -10585,23 +11019,23 @@ Congé parental d'éducation à temps plein et à temps partiel
 
 Au terme du congé de maternité ou d'adoption, les salariés ont droit à un congé parental à temps plein ou à temps partiel, dans les conditions décrites au code du travail. »
 
-##### Article 35
+#### Article 35 — Modification de l'article 11.1 « Ordre de mission »
 
-*Modification de l'article 11.1 « Ordre de mission »*
+> **Source :** Article 35 — Modification de l'article 11.1 « Ordre de mission » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le dernier paragraphe de l'article 11.1, concernant les chargés d'enquête, est supprimé.
 
-##### Article 36
+#### Article 36 — Modification de l'article 11.2 « Frais de déplacement »
 
-*Modification de l'article 11.2 « Frais de déplacement »*
+> **Source :** Article 36 — Modification de l'article 11.2 « Frais de déplacement » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le troisième paragraphe de l'article 11.2 est rédigé comme suit :
 
 « Sous réserve de l'application du premier paragraphe du présent article, les frais de déplacement peuvent faire l'objet d'un forfait défini préalablement au départ, par accord d'entreprise, décision unilatérale de l'employeur, usage, ou accord individuel entre l'employeur et le salarié. »
 
-##### Article 37
+#### Article 37 — Modification de l'article 11.6 « Mobilité géographique »
 
-*Modification de l'article 11.6 « Mobilité géographique »*
+> **Source :** Article 37 — Modification de l'article 11.6 « Mobilité géographique » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le 1. « Modification du lieu de travail » de l'article 11.6 est modifié comme suit :
 
@@ -10616,9 +11050,9 @@ Le 1. « Modification du lieu de travail » de l'article 11.6 est modifié comme
 – au sein du sous-titre « En application d'une clause de mobilité », est ajouté un cinquième paragraphe rédigé comme suit :
 « La clause de mobilité s'impose au salarié, sauf si la modification du lieu de travail entraîne des conséquences sur tout autre élément essentiel du contrat de travail. Dans ce cas, un avenant au contrat de travail doit être proposé au salarié conformément à l'article 3.5 de la convention collective. »
 
-##### Article 38
+#### Article 38 — Modification de l'article 12.2 « Ordre de mission »
 
-*Modification de l'article 12.2 « Ordre de mission »*
+> **Source :** Article 38 — Modification de l'article 12.2 « Ordre de mission » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 12.2 est modifié comme suit :
 
@@ -10631,29 +11065,31 @@ L'article 12.2 est modifié comme suit :
 – le point 23 est rédigé comme suit :
 « 23. Les conditions particulières de travail (ex. : jours fériés) ».
 
-##### Article 39
+#### Article 39 — Modification de l'article 12.5 « Période d'essai »
 
-*Modification de l'article 12.5 « Période d'essai »*
+> **Source :** Article 39 — Modification de l'article 12.5 « Période d'essai » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Au premier paragraphe de l'article 12.5, « 3.3 » est supprimé et remplacé par « 3.4 ».
 
-##### Article 40
+#### Article 40 — Modification de l'article 12.6 « Rupture du contrat de travail pendant la mission »
 
-*Modification de l'article 12.6 « Rupture du contrat de travail pendant la mission »*
+> **Source :** Article 40 — Modification de l'article 12.6 « Rupture du contrat de travail pendant la mission » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le deuxième paragraphe de l'article 12.6 est rédigé comme suit :
 « Aussi, par dérogation aux stipulations de l'article 4.1, la notification de la rupture du contrat de travail pendant le cours de la mission à l'étranger sera reconnue comme valable par le reçu signé par le destinataire de l'écrit l'informant de la rupture ou encore par signification par tout autre moyen authentique, notamment par la voie de la lettre recommandée électronique. »
 
-##### Article 41
+#### Article 41 — Modification de l'article 13.5 « Adhésion »
 
-*Modification de l'article 13.5 « Adhésion »*
+> **Source :** Article 41 — Modification de l'article 13.5 « Adhésion » — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le premier paragraphe de l'article 13.5 est rédigé comme suit :
 « Peuvent adhérer au présent avenant toute organisation syndicale de salariés représentative dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement, conformément aux articles L. 2261-3 et L. 2261-4 du code du travail. »
 
-#### III. Stipulations juridiques et administratives
+### III. Stipulations juridiques et administratives
 
-##### Article 42
+#### Article 42
+
+> **Source :** Article 42 — Avenant n° 2 du 27 octobre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Date d'effet. Durée de l'avenant
 
@@ -10687,11 +11123,11 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent avenant ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'avenant a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-### Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité
+## Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 La loi n° 2018-771 pour la liberté de choisir son avenir professionnel du 5 septembre 2018 a profondément réformé le cadre réglementaire de la formation professionnelle continue en mettant particulièrement l'accent sur le développement de l'alternance et sur l'accompagnement du plan de développement des compétences dans les entreprises de moins de 50 salariés.
 
@@ -10709,15 +11145,15 @@ En particulier, il acte le doublement du taux de la contribution conventionnelle
 
 Cet objectif, qui s'appuie également sur la mutualisation de branche, s'inscrit dans la politique de branche définie annuellement.
 
-#### Article 1er
+### Article 1er — Objet
 
-*Objet*
+> **Source :** Article 1er — Objet — Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent avenant de révision a pour objet de modifier l'accord de branche du 31 octobre 2019 dans les conditions définies par les présentes.
 
-#### Article 2
+### Article 2 — Révision de l'article 26 de l'accord de branche du 31 octobre 2019 « La mutualisation de la contribution conventionnelle au développement des compétences dans les entreprises de la branche »
 
-*Révision de l'article 26 de l'accord de branche du 31 octobre 2019 « La mutualisation de la contribution conventionnelle au développement des compétences dans les entreprises de la branche »*
+> **Source :** Article 2 — Révision de l'article 26 de l'accord de branche du 31 octobre 2019 « La mutualisation de la contribution conventionnelle au développement des compétences dans les entreprises de la branche » — Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 L'article 26 de l'accord de branche du 31 octobre 2019 est intégralement révisé et remplacé par les stipulations suivantes :
 
@@ -10761,9 +11197,9 @@ Les partenaires sociaux gèrent et organisent la mutualisation de ces fonds au s
 
 Il est convenu que la première collecte des contributions conventionnelles susvisées interviendra au cours de l'année suivant la date d'entrée en vigueur du présent accord, et au plus tôt pour la collecte au titre de masse salariale annuelle brute 2023. »
 
-#### Article 3
+### Article 3 — Révision du titre IX de l'accord de branche du 31 octobre 2019 « La note politique de formation »
 
-*Révision du titre IX de l'accord de branche du 31 octobre 2019 « La note politique de formation »*
+> **Source :** Article 3 — Révision du titre IX de l'accord de branche du 31 octobre 2019 « La note politique de formation » — Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le titre IX de l'accord de branche du 31 octobre 2019 est intégralement révisé et remplacé par les stipulations suivantes :
 
@@ -10792,9 +11228,9 @@ Cette note politique de formation couvre notamment les champs suivants :
 
 (Arrêté du 31 mars 2023 - art. 1)
 
-#### Article 4
+### Article 4 — Révision de l'article 28 de l'accord de branche du 31 octobre 2019 « Suivi de l'accord »
 
-*Révision de l'article 28 de l'accord de branche du 31 octobre 2019 « Suivi de l'accord »*
+> **Source :** Article 4 — Révision de l'article 28 de l'accord de branche du 31 octobre 2019 « Suivi de l'accord » — Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 L'article 28 de l'accord de branche du 31 octobre 2019 est complété par un 3e alinéa ainsi rédigé :
 
@@ -10804,63 +11240,63 @@ Ce constat s'appuie sur un bilan réalisé par l'OPCO Atlas au plus tard le 30 s
 
 Les parties signataires conviennent d'examiner l'opportunité de réviser le montant du versement minimum par entreprise après une année d'application lors du 1er semestre. »
 
-#### Article 5
+### Article 5 — Effets de l'avenant
 
-*Effets de l'avenant*
+> **Source :** Article 5 — Effets de l'avenant — Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 En application de l'article L. 2261-8 du code du travail, il est rappelé que le présent avenant portant révision de l'article 26 de l'accord de branche du 31 octobre 2019 se substitue de plein droit aux stipulations qu'il modifie.
 
 Les autres dispositions de cet accord de branche demeurent inchangées.
 
-#### Article 6
+### Article 6 — Dispositions spécifiques aux entreprises de moins de 50 salariés
 
-*Dispositions spécifiques aux entreprises de moins de 50 salariés*
+> **Source :** Article 6 — Dispositions spécifiques aux entreprises de moins de 50 salariés — Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Par son objet, le présent accord a vocation à s'appliquer à l'ensemble des entreprises de la branche. Conformément à l'article L. 2261-23-1 du code du travail, il comporte néanmoins des mesures spécifiques aux entreprises de moins de 50 salariés visant le taux de contribution conventionnelle et les priorités d'affectation de la ressource conventionnelle.
 
-#### Article 7
+### Article 7 — Champ d'application, durée et entrée en vigueur
 
-*Champ d'application, durée et entrée en vigueur*
+> **Source :** Article 7 — Champ d'application, durée et entrée en vigueur — Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent avenant est conclu pour une durée indéterminée.
 
 Son champ d'application est identique à celui de l'accord de branche du 31 octobre 2019. Il prend effet à compter du jour suivant la date de publication de l'arrêté d'extension au Journal officiel.
 
-#### Article 8
+### Article 8 — Formalités et extension
 
-*Formalités et extension*
+> **Source :** Article 8 — Formalités et extension — Avenant n° 3 du 27 octobre 2022 à l'accord du 31 octobre 2019 relatif à la formation professionnelle, au développement des compétences et à l'employabilité.
 
 Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par l'ensemble des organisations signataires auprès du ministre du travail dans le cadre des dispositions légales et de la procédure applicable pour l'extension des accords collectifs.
 
 Après avoir négocié et lu chacune des pages précédentes, les représentants signataires signent l'avenant. Pour ce faire, la partie la plus diligente met en place un dispositif de signature électronique répondant aux exigences du règlement européen n° 910-2014 et de l'article 1367 du code civil.
 
-### Accord du 13 décembre 2022 relatif à l'interruption spontanée de grossesse
+## Accord du 13 décembre 2022 relatif à l'interruption spontanée de grossesse
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 13 décembre 2022 relatif à l'interruption spontanée de grossesse.
 
 En France, une grossesse sur quatre se termine par une interruption spontanée de grossesse dans les vingt-deux premières semaines d'aménorrhée, et une femme sur dix risque de subir une interruption spontanée de grossesse au cours de sa vie. Chaque année, 200 000 françaises sont concernées.
 
 Subir une interruption spontanée de grossesse est un événement qui peut avoir des conséquences aussi bien physiques que psychologiques. C'est pourquoi, afin de mieux accompagner les salariés face à cette épreuve, les partenaires sociaux ont souhaité leur donner le droit de s'absenter quelques jours à l'occasion de sa survenance.
 
-#### Article 1er
+### Article 1er — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 1er — Détermination du champ territorial et professionnel — Accord du 13 décembre 2022 relatif à l'interruption spontanée de grossesse.
 
 Le présent accord s'applique sur l'ensemble du territoire national à tous les salariés employés, techniciens, agents de maîtrise et cadres des entreprises visées par la convention collective des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils du 15 décembre 1987 (IDCC 1486).
 
-#### Article 2
+### Article 2 — Interruption spontanée de grossesse
 
-*Interruption spontanée de grossesse*
+> **Source :** Article 2 — Interruption spontanée de grossesse — Accord du 13 décembre 2022 relatif à l'interruption spontanée de grossesse.
 
 En cas d'interruption spontanée de grossesse avant vingt-deux semaines d'aménorrhée, la salariée bénéficie d'une autorisation d'absence exceptionnelle de deux jours, non déductibles des congés et n'entraînant pas de réduction de salaire. Cette absence peut être accolée à un arrêt de travail pour maladie éventuellement prescrit. La salariée fournit un certificat médical dans les quinze jours suivant l'événement.
 
 Sous réserve d'être également salarié d'une entreprise de la branche, le conjoint de la mère ou la personne liée à elle par un pacte civil de solidarité ou vivant maritalement avec elle bénéficie de ce congé dans les mêmes conditions.
 
-#### Article 3
+### Article 3 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 3 — Stipulations juridiques et administratives — Accord du 13 décembre 2022 relatif à l'interruption spontanée de grossesse.
 
 Date d'effet. Durée de l'accord
 
@@ -10894,11 +11330,11 @@ Stipulations spécifiques aux entreprises de moins de cinquante salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de cinquante salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-### Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise
+## Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Des transformations profondes de l'organisation du travail sont en cours. Elles se sont accélérées avec la crise sanitaire. Le télétravail se développe de plus en plus et il interroge sur les nouvelles formes d'organisation du travail, principalement l'organisation hybride du travail.
 
@@ -10922,13 +11358,13 @@ En effet, chaque entreprise intéressée devra trouver l'organisation hybride du
 
 Tout au long de l'accord afin de favoriser l'inclusion du plus grand nombre, les mots seront compris aussi bien au féminin qu'au masculin. Ainsi, lorsque les mots « télétravailleur » et « travailleur hybride » sont utilisés, il convient d'entendre « télétravailleur » et « télétravailleuse » et « travailleur hybride » et « travailleuse hybride ».
 
-#### Thème 1 Organiser
+### Thème 1 Organiser
 
-##### Organiser le travail hybride
+#### Organiser le travail hybride
 
-###### Article 1er
+##### Article 1er — Définitions et application de l'accord
 
-*Définitions et application de l'accord*
+> **Source :** Article 1er — Définitions et application de l'accord — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 1.1.   Définition du télétravail
 
@@ -10994,9 +11430,9 @@ Hormis les règles relatives à la fréquence de télétravail et aux règles de
 
 (Arrêté du 20 février 2024 - art. 1)
 
-###### Article 2
+##### Article 2 — Mise en place du télétravail
 
-*Mise en place du télétravail*
+> **Source :** Article 2 — Mise en place du télétravail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Le travail hybride comprend une alternance régulière ou occasionnelle de travail sur site de l'entreprise ou des clients et de télétravail. Sa pratique nécessite donc la mise en place du télétravail dans l'entreprise.
 
@@ -11070,9 +11506,9 @@ Au terme du délai de prévenance, le salarié retrouve alors son poste dans les
 
 (Arrêté du 20 février 2024 - art. 1)
 
-###### Article 3
+##### Article 3 — Le ou les lieu(x) de télétravail
 
-*Le ou les lieu(x) de télétravail*
+> **Source :** Article 3 — Le ou les lieu(x) de télétravail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Le ou les lieu(x) dans lesquels les salariés sont autorisés à télétravailler sont déterminés par accord d'entreprise, par charte, ou par accord écrit entre l'employeur et le salarié.
 
@@ -11080,15 +11516,15 @@ Le ou les lieu(x) dans lesquels les salariés sont autorisés à télétravaille
 
 En l'absence d'accord d'entreprise, le comité social et économique est consulté sur le ou les lieu(x) de travail autorisés. La commission santé, sécurité et conditions de travail, lorsqu'elle existe, prépare cet avis.
 
-###### Article 4
+##### Article 4 — Éligibilité
 
-*Éligibilité*
+> **Source :** Article 4 — Éligibilité — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Les critères d'éligibilité sont définis par accord d'entreprise, ou à défaut par charte. En l'absence d'accord ou de charte, l'éligibilité du salarié est décidée par l'employeur en concertation avec le salarié dans le respect de l'article 5 ci-après.
 
-###### Article 5
+##### Article 5 — Double volontariat
 
-*Double volontariat*
+> **Source :** Article 5 — Double volontariat — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Le travail en mode hybride, puisqu'il comprend une part d'organisation en télétravail, revêt un caractère volontaire pour le salarié et l'employeur concernés.
 
@@ -11104,9 +11540,9 @@ Le salarié peut refuser le passage à une organisation hybride du travail. Ce r
 
 Dans les entreprises de plus de 50 salariés, le CSE, lorsqu'il existe, est informé chaque année, du nombre de demandes d'accès au travail hybride formulées par les salariés et du nombre de demandes refusées au cours de l'année. En présence d'un accord d'entreprise prévoyant la mise en place d'une commission de suivi, cette information lui est transmise.
 
-###### Article 6
+##### Article 6 — Fréquence du télétravail dans le cadre d'une organisation hybride du travail
 
-*Fréquence du télétravail dans le cadre d'une organisation hybride du travail*
+> **Source :** Article 6 — Fréquence du télétravail dans le cadre d'une organisation hybride du travail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Le travail hybride est un mode d'organisation du travail comprenant une alternance régulière ou occasionnelle de télétravail et de travail sur le site de l'employeur ou des entreprises clientes de l'employeur.
 
@@ -11116,9 +11552,9 @@ Ainsi, ils recommandent une présence physique minimale dans l'entreprise ou che
 
 Il est en outre recommandé d'organiser régulièrement, des temps de présence commune dans les locaux de l'entreprise (ex. : lancement ou suivi de projet, élaboration ou réflexion collectives de solutions, motivation d'équipes…).
 
-###### Article 7
+##### Article 7 — Suspension et modification du télétravail
 
-*Suspension et modification du télétravail*
+> **Source :** Article 7 — Suspension et modification du télétravail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 7.1. Suspension ou modification liée à un projet réalisé chez une entreprise cliente
 
@@ -11144,19 +11580,19 @@ La suspension entraîne le retour du salarié dans les locaux de l'entreprise ou
 
 Sauf urgence, la suspension du travail hybride est précédée d'un délai de prévenance.
 
-###### Article 8
+##### Article 8 — Réversibilité du télétravail
 
-*Réversibilité du télétravail*
+> **Source :** Article 8 — Réversibilité du télétravail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Si le télétravail ne fait pas partie des conditions d'embauche, mais qu'il est mis en place ultérieurement, l'employeur et le salarié peuvent, à l'initiative de l'un ou de l'autre, convenir par accord d'y mettre fin et d'organiser le retour du salarié à temps plein dans les locaux de l'entreprise ou du client le cas échéant. Les modalités de cette réversibilité, notamment la mise en place d'un délai de prévenance, sont établies par un accord d'entreprise, une charte ou un accord écrit entre l'employeur et le salarié.
 
 Si le télétravail fait partie des conditions d'embauche, le salarié peut ultérieurement postuler à tout emploi vacant, s'exerçant uniquement dans les locaux de l'entreprise et correspondant à sa qualification. Il bénéficie d'une priorité d'accès à ce poste.
 
-##### Temps de travail
+#### Temps de travail
 
-###### Article 9
+##### Article 9 — Temps de pause
 
-*Temps de pause*
+> **Source :** Article 9 — Temps de pause — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Les salariés travaillant selon une organisation hybride du travail bénéficient d'une pause de minimum 45 minutes, comprenant la pause légale d'une durée de 20 minutes consécutives dès que le temps de travail quotidien atteint 6 heures.
 
@@ -11164,9 +11600,9 @@ Cette pause doit être un temps de déconnexion des moyens professionnels de com
 
 Cette pause est prise au cours de la journée de travail. Il sera utilement recommandé aux salariés de profiter de ce temps de pause ou de déconnexion pendant la période méridienne, à titre d'exemple entre midi et 14 heures. Sa prise ne peut être contiguë au repos quotidien de 11 heures consécutives.
 
-###### Article 10
+##### Article 10 — Plage horaire de disponibilité
 
-*Plage horaire de disponibilité*
+> **Source :** Article 10 — Plage horaire de disponibilité — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Les entreprises déterminent, par accord d'entreprise, charte ou accord écrit entre l'employeur et le salarié, une plage horaire de disponibilité durant laquelle le salarié est joignable par l'employeur.
 
@@ -11174,13 +11610,13 @@ La plage horaire de disponibilité correspond aux périodes de la journée duran
 
 Cette plage horaire de disponibilité doit être fixée dans le respect des temps de repos obligatoires et du droit à la déconnexion.
 
-#### Thème 2 Sécuriser
+### Thème 2 Sécuriser
 
-##### Santé et sécurité
+#### Santé et sécurité
 
-###### Article 11
+##### Article 11 — Principes
 
-*Principes*
+> **Source :** Article 11 — Principes — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Les dispositions légales et conventionnelles relatives à la santé et la sécurité au travail sont applicables à une organisation de travail hybride. Ces règles s'appliquent sur l'ensemble des temps, aussi bien ceux passés par le salarié dans les locaux de l'entreprise que ceux passés en télétravail.
 
@@ -11198,17 +11634,17 @@ Une attention particulière doit être portée à la situation des travailleurs 
 
 Les prérogatives des représentants du personnel en matière de santé et de sécurité concernent tous les salariés, télétravailleurs ou non.
 
-###### Article 12
+##### Article 12 — Conformité du lieu de travail
 
-*Conformité du lieu de travail*
+> **Source :** Article 12 — Conformité du lieu de travail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Le salarié bénéficiant d'une organisation hybride du travail doit pouvoir bénéficier de conditions de travail sécurisées aussi bien lorsqu'il se trouve dans les locaux de l'entreprise que lorsqu'il travaille à son domicile ou tout autre lieu de travail.
 
 À ce titre, l'employeur peut exiger la production d'une attestation sur l'honneur du salarié concernant la conformité des installations électriques aux normes en vigueur du lieu de télétravail ainsi qu'une attestation d'assurance de ce lieu prenant en compte l'exercice d'une activité professionnelle en télétravail.
 
-###### Article 13
+##### Article 13 — Maintien du lien social et prise en compte des risques liés au télétravail
 
-*Maintien du lien social et prise en compte des risques liés au télétravail*
+> **Source :** Article 13 — Maintien du lien social et prise en compte des risques liés au télétravail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Il est rappelé que les dispositions légales et conventionnelles relatives à la santé et à la sécurité au travail sont applicables à tous les salariés, quelle que soit l'organisation du travail à laquelle ils sont soumis.
 
@@ -11232,11 +11668,11 @@ Le maintien d'échanges réguliers, sur le site de l'entreprise ou par le biais 
 
 Enfin, un moyen de prévention des risques professionnels consiste dans la bonne information des salariés concernant ceux-ci. Un module d'information relatif à la santé et à la sécurité en situation de travail hybride sera proposé aux entreprises de la branche en vue de sa diffusion auprès des salariés.
 
-##### Respecter le droit à la déconnexion
+#### Respecter le droit à la déconnexion
 
-###### Article 14
+##### Article 14 — Effectivité du droit à la déconnexion
 
-*Effectivité du droit à la déconnexion*
+> **Source :** Article 14 — Effectivité du droit à la déconnexion — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Introduit, par les partenaires sociaux de la branche, par l'avenant du 1er avril 2014 à l'accord de branche du 22 juin 1999 relatif à la durée du travail et consacré par la loi « Travail » (loi n° 2016-1088 du 8 août 2016 relative au travail, à la modernisation du dialogue social et à la sécurisation des parcours professionnels), le droit à la déconnexion est une composante essentielle d'une mise en place réussie du travail hybride.
 
@@ -11260,11 +11696,11 @@ Les salariés doivent avoir la possibilité d'exprimer leurs éventuelles diffic
 
 Les partenaires sociaux veilleront enfin à mettre en place les outils pertinents afin d'insuffler une culture de connexion responsable au sein des entreprises de la branche (guide, bonnes pratiques, bons usages des outils numériques, MOOC…).
 
-##### Modalités de contrôle du temps de travail et de régulation de la charge de travail
+#### Modalités de contrôle du temps de travail et de régulation de la charge de travail
 
-###### Article 15
+##### Article 15 — Suivi du temps et de la charge de travail
 
-*Suivi du temps et de la charge de travail*
+> **Source :** Article 15 — Suivi du temps et de la charge de travail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Le travail hybride s'exerce dans le respect des dispositions légales et conventionnelles applicables en matière de temps de travail.
 
@@ -11284,13 +11720,13 @@ Les différents entretiens devant être programmés annuellement entre l'employe
 
 Enfin, il résulte des dispositions légales que si un moyen de contrôle de l'activité du salarié et de contrôle du temps de travail est mis en place, il doit être justifié par la nature de la tâche à accomplir et proportionné au but recherché, et le salarié doit en être informé. La mise en place de dispositifs numériques spécifiques nécessite le respect de 2 conditions cumulatives : la consultation préalable du CSE, lorsqu'il existe, et l'information préalable des salariés. Il est rappelé que ces outils doivent être utilisés dans le respect des droits fondamentaux des salariés, en particulier celui de leur vie privée.
 
-#### Thème 3 Accompagner
+### Thème 3 Accompagner
 
-##### Équipements de travail et frais professionnels
+#### Équipements de travail et frais professionnels
 
-###### Article 16
+##### Article 16 — Fourniture et utilisation des équipements de travail
 
-*Fourniture et utilisation des équipements de travail*
+> **Source :** Article 16 — Fourniture et utilisation des équipements de travail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 L'employeur fournit, entretient les équipements et installe les logiciels nécessaires au travail hybride. L'employeur prend en charge l'assurance de ces équipements.
 
@@ -11300,17 +11736,17 @@ L'usage des outils numériques est encadré par l'employeur, auquel il incombe d
 
 L'employeur informe les salariés soumis à une organisation du travail hybride sur ces mesures relatives à la protection de ces données et à leur confidentialité ainsi que sur les restrictions à l'usage d'équipements ou outils informatiques ou de services de communication électronique. Il incombe alors au salarié de s'y conformer.
 
-###### Article 17
+##### Article 17 — Frais liés aux trajets domicile-lieu de travail
 
-*Frais liés aux trajets domicile-lieu de travail*
+> **Source :** Article 17 — Frais liés aux trajets domicile-lieu de travail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Conformément aux dispositions légales, l'entreprise prend en charge au moins 50 % du prix des titres d'abonnements souscrits par ses salariés pour l'intégralité du trajet entre leur résidence habituelle déclarée et leur lieu de travail accompli au moyen de services de transports publics. Les frais inhérents aux déplacements éventuels entre la résidence habituelle du salarié et un autre lieu de télétravail choisi par le salarié sont à la charge exclusive du salarié, à défaut de stipulations contraires au sein d'un accord d'entreprise ou d'une charte.
 
 L'accord de l'employeur est requis avant tout changement de lieu de télétravail.
 
-###### Article 18
+##### Article 18 — Frais professionnels et titres-restaurant
 
-*Frais professionnels et titres-restaurant*
+> **Source :** Article 18 — Frais professionnels et titres-restaurant — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Si les salariés de l'entreprise bénéficient de titres-restaurants, ce bénéfice est maintenu dans le cadre d'une organisation hybride du travail.
 
@@ -11318,11 +11754,11 @@ Tout autre frais éventuellement engagé par le salarié pour les besoins de son
 
 Les partenaires sociaux des entreprises sont encouragés à négocier sur la prise en charge des frais professionnels éventuellement engagés à l'occasion du télétravail.
 
-##### Formation des travailleurs
+#### Formation des travailleurs
 
-###### Article 19
+##### Article 19 — Droit à la formation et formation à l'organisation hybride du travail
 
-*Droit à la formation et formation à l'organisation hybride du travail*
+> **Source :** Article 19 — Droit à la formation et formation à l'organisation hybride du travail — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Les salariés exerçant leur activité dans le cadre d'une organisation hybride du travail ont le même accès à la formation et aux possibilités de déroulement de carrière que les autres salariés de l'entreprise. Il revient à l'employeur de décider des modalités de suivi des formations (en présentiel ou à distance).
 
@@ -11340,11 +11776,11 @@ Ces outils sont mis à la disposition des salariés et des entreprises de la bra
 
 Un recueil des bonnes pratiques en matière de travail hybride est annexé au présent accord.
 
-##### Accompagnement des travailleurs en situation spécifique
+#### Accompagnement des travailleurs en situation spécifique
 
-###### Article 20
+##### Article 20 — Accompagnement des travailleurs en situation spécifique
 
-*Accompagnement des travailleurs en situation spécifique*
+> **Source :** Article 20 — Accompagnement des travailleurs en situation spécifique — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Le travail hybride peut être mobilisé pour accompagner certains événements de la vie du salarié.
 
@@ -11368,11 +11804,11 @@ Cette faculté concerne :
 
 Il est rappelé que l'employeur doit motiver son éventuel refus d'une demande de recours au travail hybride formulée par un travailleur handicapé, une salariée enceinte ou un salarié ayant la qualité de proche aidant.
 
-#### Thème 4 Communiquer
+### Thème 4 Communiquer
 
-##### Dialogue social
+#### Dialogue social
 
-###### Article (préambule / sans numéro)
+> **Source :** Dialogue social — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Les signataires du présent accord rappellent que les règles collectives de travail légales et conventionnelles s'appliquent pleinement en cas de recours au travail hybride.
 
@@ -11380,9 +11816,9 @@ Notamment, les règles relatives aux négociations périodiques obligatoires res
 
 Les signataires du présent accord, convaincus de l'importance du rôle du dialogue social et de ses acteurs pour une mise en place réussie du travail hybride, se sont accordés sur les mesures suivantes, visant à améliorer la diffusion des informations de l'entreprise dans le cadre d'une organisation hybride du travail.
 
-###### Article 21
+##### Article 21 — Communication syndicale
 
-*Communication syndicale*
+> **Source :** Article 21 — Communication syndicale — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Conformément aux dispositions légales, un accord d'entreprise peut définir les conditions et les modalités de diffusion des informations syndicales au moyen des outils numériques disponibles dans l'entreprise (site syndical sur l'intranet de l'entreprise, diffusion sur la messagerie électronique de l'entreprise).
 
@@ -11398,25 +11834,25 @@ L'utilisation par les organisations syndicales des outils numériques mis à leu
 
 Les partenaires sociaux des entreprises sont encouragés à négocier sur la communication syndicale en entreprise.
 
-###### Article 22
+##### Article 22 — Information des représentants des partenaires sociaux
 
-*Information des représentants des partenaires sociaux*
+> **Source :** Article 22 — Information des représentants des partenaires sociaux — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Dans les entreprises de plus de 50 salariés, la consultation obligatoire du CSE, lorsqu'il existe, relative à la politique sociale de l'entreprise prévue par les dispositions légales, intègre le suivi de l'organisation hybride du travail mis en place dans l'entreprise.
 
 Les organisations professionnelles signataires du présent accord de branche s'engagent à prévoir chaque année un temps d'information paritaire relatif au travail hybride dans le cadre de la commission paritaire permanente de négociation et d'interprétation.
 
-#### Thème 5 Stipulations finales
+### Thème 5 Stipulations finales
 
-##### Article 23
+#### Article 23 — Réalisation d'une étude par l'Adesatt
 
-*Réalisation d'une étude par l'Adesatt*
+> **Source :** Article 23 — Réalisation d'une étude par l'Adesatt — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 L'Adesatt réalisera, au cours de l'année 2024, une étude relative aux répercussions du présent accord de branche sur les salariés et les entreprises. Cette étude mettra notamment en lumière la prise en charge des frais professionnels, la communication syndicale en contexte de travail hybride, et le télétravail depuis l'étranger.
 
-##### Article 24
+#### Article 24 — Dispositions spécifiques pour les entreprises de moins de 50 salariés
 
-*Dispositions spécifiques pour les entreprises de moins de 50 salariés*
+> **Source :** Article 24 — Dispositions spécifiques pour les entreprises de moins de 50 salariés — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 En application des dispositions de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord justifie de prévoir des dispositions spécifiques aux entreprises de moins de 50 salariés visés à l'article L. 2232-10-1 du code du travail.
 
@@ -11424,9 +11860,9 @@ En application des dispositions de l'article L. 2232-10-1 du code du travail, le
 
 Les stipulations de l'accord leur seront pleinement applicables dès la suppression de cette charte ou à l'occasion de sa modification.
 
-##### Article 25
+#### Article 25 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 25 — Stipulations juridiques et administratives — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Date d'effet. Durée de l'accord
 
@@ -11460,11 +11896,9 @@ Conditions d'adhésion à l'accord
 
 Peuvent adhérer au présent accord toute organisation syndicale de salariés représentative dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils ainsi que toute organisation syndicale ou association d'employeurs ou des employeurs pris individuellement, conformément aux articles L. 2261-3 et L. 2261-4 du code du travail.
 
-#### Annexes
+### Annexes
 
-##### Article (préambule / sans numéro)
-
-*Annexe 1*
+> **Source :** Annexes — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Modèle commenté d'accord d'entreprise ou de charte
 
@@ -11476,9 +11910,7 @@ En vert : options à choisir.
 
 (Annexe non reproduite, consultable en ligne sur le site www.legifrance.gouv.fr, rubrique « Publications officielles » « Bulletins officiels des conventions collectives » à l'adresse suivante : https://www.legifrance.gouv.fr/download/file/pdf/boc_20230003_0000_0028.pdf/BOCC)
 
-##### Article (préambule / sans numéro)
-
-*Annexe 2*
+> **Source :** Annexes — Accord du 13 décembre 2022 relatif à l'organisation hybride du travail en entreprise.
 
 Guide de bonnes pratiques
 
@@ -11566,11 +11998,11 @@ Les indicateurs d'impact doivent être fixés dès le démarrage du projet, au r
 
 Le bilan peut ainsi permettre d'étendre l'expérimentation à un public plus large et d'effectuer des actions correctives en cas de besoin.
 
-### Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail
+## Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Le présent avenant modifie l'accord du 22 juin 1999 modifié par l'avenant du 1er avril 2014 relatif à la durée du travail conclu dans la branche des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils.
 
@@ -11582,9 +12014,9 @@ Un article relatif au droit à la déconnexion, applicable à l'ensemble des sal
 
 Il est rappelé que le passage à une modalité de forfait annuel en jours n'est possible qu'au moyen d'une convention de forfait prévue au contrat de travail dès l'embauche ou bien au sein d'un avenant au contrat de travail.
 
-#### Article 1er
+### Article 1er — Droit à la déconnexion
 
-*Droit à la déconnexion*
+> **Source :** Article 1er — Droit à la déconnexion — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Après le chapitre IX « Temps partiel » est créé un nouveau chapitre X « Droit à la déconnexion et obligation de déconnexion » rédigé comme suit :
 
@@ -11606,23 +12038,23 @@ Une procédure peut également être créée afin d'alerter en cas d'utilisation
 
 Dans les entreprises de plus de 250 salariés, il est procédé à la nomination d'un référent à la déconnexion. Ce référent a pour rôle de sensibiliser les collaborateurs et les managers aux enjeux de la déconnexion, et de diffuser les bonnes pratiques de la connexion responsable. Le référent déconnexion est intégré à la procédure d'alerte visée ci-dessus. Les outils nécessaires à la réalisation de ses missions seront mis à disposition par la branche. »
 
-#### Article 2
+### Article 2 — Forfait annuel en jours
 
-*Forfait annuel en jours*
+> **Source :** Article 2 — Forfait annuel en jours — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 *(pas de contenu)*
 
-#### Article 2.1
+### Article 2.1 — Condition d'accès à une convention individuelle de forfait annuel en jours
 
-*Condition d'accès à une convention individuelle de forfait annuel en jours*
+> **Source :** Article 2.1 — Condition d'accès à une convention individuelle de forfait annuel en jours — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Le dernier paragraphe de l'article 4.1 du chapitre II de l'accord du 22 juin 1999 modifié est rédigé comme suit :
 
 « Ils relèvent au minimum de la position 2.3 de la grille de classification des cadres de la convention collective nationale ou bénéficient d'une rémunération annuelle supérieure à 2 fois le plafond annuel de la sécurité sociale ou sont mandataires sociaux. »
 
-#### Article 2.2
+### Article 2.2 — Rémunération des salariés ayant conclu une convention individuelle de forfait en jours
 
-*Rémunération des salariés ayant conclu une convention individuelle de forfait en jours*
+> **Source :** Article 2.2 — Rémunération des salariés ayant conclu une convention individuelle de forfait en jours — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Après le premier paragraphe de l'article 4.4 du chapitre II de l'accord du 22 juin 1999 modifié est ajouté le paragraphe suivant :
 
@@ -11632,9 +12064,9 @@ Le paragraphe suivant est modifié et rédigé comme suit :
 
 « Chaque année, l'employeur est tenu de vérifier que la rémunération annuelle versée au salarié est au moins égale à, selon le cas, à 120 % ou 122 % du minimum conventionnel de son coefficient. »
 
-#### Article 2.3
+### Article 2.3 — Temps de repos
 
-*Temps de repos*
+> **Source :** Article 2.3 — Temps de repos — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 L'article 4.8.1 du chapitre II de l'accord de branche du 22 juin 1999 relatif à la durée du travail est rédigé comme suit :
 
@@ -11650,9 +12082,9 @@ Il est précisé que, dans ce contexte, les salariés en forfait annuel en jours
 
 Si un salarié en forfait annuel en jours constate qu'il ne sera pas en mesure de respecter ces durées minimales de repos, il peut, compte tenu de l'autonomie dont il dispose dans la gestion de son temps, avertir sans délai son employeur afin qu'une solution alternative lui permettant de respecter les dispositions légales soit trouvée. »
 
-#### Article 2.4
+### Article 2.4 — Charge de travail, amplitude des journées de travail et équilibre entre vie privée et vie professionnelle
 
-*Charge de travail, amplitude des journées de travail et équilibre entre vie privée et vie professionnelle*
+> **Source :** Article 2.4 — Charge de travail, amplitude des journées de travail et équilibre entre vie privée et vie professionnelle — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 L'article 4.8.2 du chapitre II de l'accord de branche du 22 juin 1999 relatif à la durée du travail est rédigé comme suit :
 
@@ -11678,9 +12110,9 @@ L'employeur transmet 1 fois par an à la commission santé, sécurité et condit
 
 Il en va de même en cas de situation exceptionnelle intervenant avant l'échéance annuelle. »
 
-#### Article 2.5
+### Article 2.5 — Entretien individuel
 
-*Entretien individuel*
+> **Source :** Article 2.5 — Entretien individuel — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 L'article 4.8.3 du chapitre II de l'accord de branche du 22 juin 1999 relatif à la durée du travail est rédigé comme suit :
 
@@ -11692,17 +12124,17 @@ Au cours de cet entretien sont évoquées la charge individuelle de travail du s
 
 Au regard des constats effectués, le salarié et son responsable hiérarchique arrêtent ensemble les mesures de prévention et de règlement des difficultés (lissage sur une plus grande période, répartition de la charge, etc.). Les solutions et mesures sont alors consignées dans le compte rendu de cet entretien annuel. Le salarié et le responsable hiérarchique examinent si possible également à l'occasion de cet entretien la charge de travail prévisible sur la période à venir et les adaptations éventuellement nécessaires en termes d'organisation du travail. »
 
-#### Article 3
+### Article 3 — Chapitre X « Rémunérations »
 
-*Chapitre X « Rémunérations »*
+> **Source :** Article 3 — Chapitre X « Rémunérations » — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Le chapitre X « Rémunérations » est supprimé.
 
 En conséquence, la note de bas de page figurant à l'article 7.1 de la convention collective est supprimée.
 
-#### Article 4
+### Article 4 — Chapitre XI « Application de l'accord »
 
-*Chapitre XI « Application de l'accord »*
+> **Source :** Article 4 — Chapitre XI « Application de l'accord » — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Le chapitre XI « Application de l'accord » est rédigé comme suit :
 
@@ -11736,15 +12168,15 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille. »
 
-#### Article 5
+### Article 5 — Réalisation d'une étude par l'Adesatt
 
-*Réalisation d'une étude par l'Adesatt*
+> **Source :** Article 5 — Réalisation d'une étude par l'Adesatt — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 L'Adesatt réalisera, au cours de l'année 2024, une étude relative aux répercussions du présent avenant de branche sur les salariés et les entreprises. Cette étude mettra notamment en lumière les conditions d'éligibilité au forfait annuel en jours.
 
-#### Article 6
+### Article 6 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 6 — Stipulations juridiques et administratives — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Date d'effet. Durée de l'avenant
 
@@ -11782,9 +12214,9 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent avenant ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'avenant a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-#### Annexes
+### Annexes
 
-##### Article (préambule / sans numéro)
+> **Source :** Annexes — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Annexe 1
 
@@ -11794,7 +12226,7 @@ Document d'aide au suivi de la charge de travail
 
  https://www.legifrance.gouv.fr/download/file/pdf/boc_20230003_0000_0029.pdf/BOCC
 
-##### Article (préambule / sans numéro)
+> **Source :** Annexes — Avenant n° 2 du 13 décembre 2022 à l'accord du 22 juin 1999 relatif à la durée du travail.
 
 Annexe 2
 
@@ -11804,23 +12236,23 @@ Modèle de documents de contrôle du temps de travail.   Forfait annuel en jou
 
  https://www.legifrance.gouv.fr/download/file/pdf/boc_20230003_0000_0029.pdf/BOCC
 
-### Avenant n° 3 du 13 décembre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective
+## Avenant n° 3 du 13 décembre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 3 du 13 décembre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Les partenaires sociaux se sont accordés sur la renégociation des règles relatives au travail du dimanche et des jours fériés applicables dans les entreprises de la branche des bureaux d'études techniques, afin de simplifier leur application.
 
-#### Article 1er
+### Article 1er — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 1er — Détermination du champ territorial et professionnel — Avenant n° 3 du 13 décembre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Le présent avenant s'applique à tous les salariés employés, techniciens, agents de maîtrise et cadres des entreprises visées par la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 (IDCC 1486) dont le siège social ou les activités se situent en France métropolitaine et, conformément à l'article L. 2222-1 du code du travail, dans les régions, départements et collectivités d'Outre-mer.
 
-#### Article 2
+### Article 2 — Modification de l'article 6.3 de l'annexe 1 de l'avenant n° 46 du 16 juillet 2021
 
-*Modification de l'article 6.3 de l'annexe 1 de l'avenant n° 46 du 16 juillet 2021*
+> **Source :** Article 2 — Modification de l'article 6.3 de l'annexe 1 de l'avenant n° 46 du 16 juillet 2021 — Avenant n° 3 du 13 décembre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 L'article 6.3 « Travail du dimanche et des jours fériés » est rédigé de la manière suivante :
 
@@ -11878,9 +12310,9 @@ Des stipulations spécifiques relatives au travail du dimanche et des jours fér
 
 (Arrêté du 5 avril 2023 - art. 1)
 
-#### Article 3
+### Article 3 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 3 — Stipulations juridiques et administratives — Avenant n° 3 du 13 décembre 2022 à l'avenant n° 46 du 16 juillet 2021 relatif à la mise à jour des stipulations de la convention collective.
 
 Stipulations spécifiques aux entreprises de moins de 50 salariés
 
@@ -11914,25 +12346,27 @@ Dénonciation
 
 Le présent avenant peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis minimal de 6 mois. Ce préavis devra être donné à toutes les organisations signataires du présent avenant par lettre recommandée avec accusé de réception, sous peine de nullité.
 
-### Avenant n° 5 du 21 février 2023 à l'accord du 7 octobre 2015 modifié relatif à la complémentaire santé portant revalorisation des cotisations de base et des options
+## Avenant n° 5 du 21 février 2023 à l'accord du 7 octobre 2015 modifié relatif à la complémentaire santé portant revalorisation des cotisations de base et des options
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 5 du 21 février 2023 à l'accord du 7 octobre 2015 modifié relatif à la complémentaire santé portant revalorisation des cotisations de base et des options.
 
 Le présent avenant à l'accord relatif à la mise en place d'un régime de complémentaire santé du 7 octobre 2015 de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils (IDCC 1486) a pour objet de procéder à une augmentation des montants de cotisation à effet du 1er juillet 2023 compte tenu de l'état financier dégradé du régime.
 
 Les partenaires sociaux ont donc décidé de réviser certains paramètres financiers du régime afin d'assurer son équilibre financier et de le pérenniser. Ils sont convenus d'apporter les modifications suivantes à l'accord de branche du 7 octobre 2015 modifié relatif à la complémentaire santé.
 
-#### Article 1er
+### Article 1er — Montant des cotisations
 
-*Montant des cotisations*
+> **Source :** Article 1er — Montant des cotisations — Avenant n° 5 du 21 février 2023 à l'accord du 7 octobre 2015 modifié relatif à la complémentaire santé portant revalorisation des cotisations de base et des options.
 
 L'article 2 de l'annexe III « Montant des cotisations » de l'accord de branche du 7 octobre 2015 modifié relatif à la complémentaire santé est modifié de la manière suivante :
 
 « Article 2
 
 Tableau détaillé des cotisations de base et des montants des options
+
+ 
 
 |  | Garanties obligatoires et facultatives | Salarié + enfant (s) | Conjoint |
 | --- | --- | --- | --- |
@@ -11958,23 +12392,23 @@ Tableau détaillé des cotisations de base et des montants des options
 | Base + option 3 obligatoire | 85,50 € | 79,00 € |  |
 | Exemple : si une entreprise (hors Alsace-Moselle) choisit de rendre obligatoire l'option 1, alors le tarif est de 62,50 €. Si le salarié souhaite bénéficier de l'option 3, alors le tarif sera majoré de 42,50 €, soit 105,00 €. » |  |  |  |
 
-#### Article 2
+### Article 2 — Modification de la durée du mandat au titre de la présidence et de la vice-présidence du comité paritaire de surveillance (CPS)
 
-*Modification de la durée du mandat au titre de la présidence et de la vice-présidence du comité paritaire de surveillance (CPS)*
+> **Source :** Article 2 — Modification de la durée du mandat au titre de la présidence et de la vice-présidence du comité paritaire de surveillance (CPS) — Avenant n° 5 du 21 février 2023 à l'accord du 7 octobre 2015 modifié relatif à la complémentaire santé portant revalorisation des cotisations de base et des options.
 
 Le paragraphe 5 de l'article 1.3.3 « Comité paritaire de surveillance » est modifié de la manière suivante :
 
 « Le comité désigne en son sein, pour 2 ans, un président et un vice-président choisis alternativement dans chacun des collèges salariés et employeurs formés d'organisations signataires de l'accord. »
 
-#### Article 3
+### Article 3 — Stipulations pour les entreprises de moins de 50 salariés
 
-*Stipulations pour les entreprises de moins de 50 salariés*
+> **Source :** Article 3 — Stipulations pour les entreprises de moins de 50 salariés — Avenant n° 5 du 21 février 2023 à l'accord du 7 octobre 2015 modifié relatif à la complémentaire santé portant revalorisation des cotisations de base et des options.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche quelle que soit leur taille.
 
-#### Article 4
+### Article 4 — Champ d'application. Durée. Entrée en vigueur. Formalités et extension
 
-*Champ d'application. Durée. Entrée en vigueur. Formalités et extension*
+> **Source :** Article 4 — Champ d'application. Durée. Entrée en vigueur. Formalités et extension — Avenant n° 5 du 21 février 2023 à l'accord du 7 octobre 2015 modifié relatif à la complémentaire santé portant revalorisation des cotisations de base et des options.
 
 Le présent avenant s'applique sur l'ensemble du territoire national à tous les salariés employés, techniciens, agents de maîtrise et cadres salariés des entreprises dont l'activité est comprise dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 (IDCC 1486).
 
@@ -11984,11 +12418,11 @@ Il s'incorpore à l'accord de branche du 7 octobre 2015 relatif à la complémen
 
 Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministre du travail.
 
-### Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social
+## Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 La loi du 29 mars 2018 ratifiant les ordonnances du 22 septembre 2017 pour le renforcement du dialogue social a créé le comité social et économique, instance unique de représentation du personnel se substituant aux anciens délégués du personnel, comités d'entreprise et comités d'hygiène, de sécurité et des conditions de travail. À compter du 31 décembre 2019, le nombre de détenteurs de mandats a donc diminué.
 
@@ -11996,17 +12430,17 @@ Le 30 janvier 2020, les partenaires sociaux de la branche signaient donc un acco
 
 Un certain nombre des salariés visés par cet accord et éloignés de leur métier d'origine sur une longue période, continuent à exprimer le besoin d'accéder prioritairement à la formation professionnelle et aux dispositifs de reconversion professionnelle. C'est la raison pour laquelle les partenaires sociaux de la branche ont décidé de réactiver le dispositif créé par l'accord du 30 janvier 2020 jusqu'au 31 décembre 2025.
 
-#### Chapitre Ier Champ d'application
+### Chapitre Ier Champ d'application
 
-##### Article 1er
+#### Article 1er — Champ d'application territorial et professionnel
 
-*Champ d'application territorial et professionnel*
+> **Source :** Article 1er — Champ d'application territorial et professionnel — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le champ d'application du présent accord est celui défini à l'article 1.1 de la convention collective nationale des bureaux d'études techniques, cabinets d'ingénieurs-conseils et sociétés de conseils du 15 décembre 1987 (IDCC 1486).
 
-##### Article 2
+#### Article 2 — Bénéficiaires
 
-*Bénéficiaires*
+> **Source :** Article 2 — Bénéficiaires — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Les bénéficiaires du présent accord de branche sont définis par un double critère lié à la nature du ou des mandat (s) qu'ils occupaient et au temps qu'ils consacraient à l'exercice de leur (s) mandat (s), avant la mise en place du comité social et économique.
 
@@ -12106,17 +12540,17 @@ Dans tous les cas, le projet défini avec le salarié pourra se prolonger au-del
 
 En cas de suspension du contrat de travail au cours de ce délai, pour cause de maladie ou d'accident d'origine professionnelle ou non, ou pour cause de congé maternité, ce délai est prolongé d'une durée égale à la durée de la suspension du contrat de travail, dans la limite de la durée de l'accord.
 
-#### Chapitre II Accompagner les fins de mandats « lourds »
+### Chapitre II Accompagner les fins de mandats « lourds »
 
-##### Article (préambule / sans numéro)
+> **Source :** Chapitre II Accompagner les fins de mandats « lourds » — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Les partenaires sociaux reconnaissent la nécessité de sécuriser les parcours professionnels des salariés dont les mandats ont pris fin ou lorsque le temps consacré à ceux-ci a diminué du fait de l'instauration du comité social et économique. Cette démarche doit être menée conjointement par le salarié et l'entreprise, afin d'identifier toutes les options pouvant se présenter au salarié (retour à un poste opérationnel au sein de l'entreprise, préparation d'une reconversion professionnelle…).
 
 Le présent accord met en place les garanties et les outils adaptés à ces différentes situations.
 
-##### Article 3
+#### Article 3 — Définition du projet professionnel
 
-*Définition du projet professionnel*
+> **Source :** Article 3 — Définition du projet professionnel — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Les salariés visés au présent accord bénéficient à leur demande, d'un accompagnement relatif à leur parcours professionnel au moyen des stipulations suivantes.
 
@@ -12134,9 +12568,9 @@ Le niveau de prise en charge financière par la branche sera défini dans le cad
 
 Cette prise en charge est conditionnée à un co-financement de l'entreprise.
 
-##### Article 4
+#### Article 4 — Mise en œuvre du projet professionnel
 
-*Mise en œuvre du projet professionnel*
+> **Source :** Article 4 — Mise en œuvre du projet professionnel — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Il est rappelé que, conformément aux prescriptions légales, l'employeur assure l'adaptation des salariés à leur poste de travail. Il veille au maintien de leur capacité à occuper un emploi, au regard notamment de l'évolution des emplois, des technologies et des organisations.
 
@@ -12178,23 +12612,23 @@ Les projets de formation entrant dans les cadres définis ci-dessus, seront inst
 
 Les modalités et le budget du dispositif d'accompagnement seront déterminés par la CPNEFP et mis en œuvre au sein de l'opérateur de compétences « ATLAS, Soutenir les compétences ». La commission chargée de l'instruction des dossiers et ses modalités de recours à cette commission seront définies par la CPPNI.
 
-##### Article 5
+#### Article 5 — Stipulations spécifiques aux entreprises de moins de cinquante salariés
 
-*Stipulations spécifiques aux entreprises de moins de cinquante salariés*
+> **Source :** Article 5 — Stipulations spécifiques aux entreprises de moins de cinquante salariés — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de cinquante salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche quelle que soit leur taille.
 
-#### Chapitre III Stipulations finales
+### Chapitre III Stipulations finales
 
-##### Article 6
+#### Article 6 — Durée
 
-*Durée*
+> **Source :** Article 6 — Durée — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le présent accord cessera de produire ses effets au 31 décembre 2025.
 
-##### Article 7
+#### Article 7 — Conditions de suivi
 
-*Conditions de suivi*
+> **Source :** Article 7 — Conditions de suivi — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Les parties signataires confient à la CPPNI la charge de procéder au suivi et au bilan de l'exécution de l'accord sur la base d'éléments chiffrés transmis par la commission chargée de l'instruction des projets de repositionnement dans l'emploi visée à l'article 4.3. La CPPNI appréciera notamment les éventuelles difficultés liées à l'absence de mesures spécifiques aux entreprises de moins de cinquante salariés et l'opportunité de prévoir des mesures spécifiques aux entreprises de moins de cinquante salariés. À cette fin, la CPPNI se réunit six mois puis douze mois après l'entrée en vigueur de l'accord, puis enfin au terme de celui-ci.
 
@@ -12202,9 +12636,9 @@ La CPPNI peut proposer la révision du présent accord, conformément aux stipul
 
 En cas de modification des dispositions légales ou réglementaires, les parties signataires de l'accord se réuniront, à l'initiative de la partie la plus diligente, dans un délai de trois mois à compter de la date d'entrée en vigueur des nouvelles dispositions. Elles peuvent également saisir la CPPNI.
 
-##### Article 8
+#### Article 8 — Conditions de révision
 
-*Conditions de révision*
+> **Source :** Article 8 — Conditions de révision — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le présent accord pourra faire l'objet d'une révision conformément aux articles L. 2261-7 et suivants du code du travail.
 
@@ -12216,37 +12650,37 @@ Les stipulations qui font l'objet de la demande de révision, resteront en vigue
 
 Cet avenant est soumis aux mêmes règles de validité et de publicité que le présent accord.
 
-##### Article 9
+#### Article 9 — Conditions de dénonciation
 
-*Conditions de dénonciation*
+> **Source :** Article 9 — Conditions de dénonciation — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le présent accord peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis de six mois. Ce préavis devra être donné à toutes les organisations signataires du présent accord par lettre recommandée avec accusé de réception, sous peine de nullité.
 
 La partie qui dénoncera l'accord, pourra accompagner sa notification d'un nouveau projet. La dénonciation totale ou partielle du présent accord n'emporte pas dénonciation de la convention collective nationale.
 
-##### Article 10
+#### Article 10 — Entrée en vigueur
 
-*Entrée en vigueur*
+> **Source :** Article 10 — Entrée en vigueur — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le présent accord entrera en vigueur le 1er octobre 2023.
 
-##### Article 11
+#### Article 11 — Dépôt et extension
 
-*Dépôt et extension*
+> **Source :** Article 11 — Dépôt et extension — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Le présent accord est déposé par la partie la plus diligente dans le cadre des dispositions légales et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministère du travail dans le cadre des dispositions légales.
 
-##### Article 12
+#### Article 12 — Conditions d'adhésion
 
-*Conditions d'adhésion*
+> **Source :** Article 12 — Conditions d'adhésion — Accord du 27 juin 2023 relatif à la sécurisation des parcours professionnels des acteurs du dialogue social.
 
 Toute organisation syndicale représentative non-signataire du présent accord pourra y adhérer par simple déclaration auprès de l'organisme compétent. Elle devra également aviser, par lettre recommandée, toutes les organisations signataires.
 
-### Accord du 24 octobre 2023 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire
+## Accord du 24 octobre 2023 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 24 octobre 2023 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire.
 
 Afin de garantir le respect du principe d'égalité de traitement en droit de la protection sociale, la loi impose que les cotisations et garanties afférentes aux régimes frais de santé et prévoyance lourde soient nécessairement identiques pour l'ensemble des salariés relevant d'une même « catégorie objective ». À défaut, les contributions à ces régimes ne peuvent bénéficier du régime social de faveur, et ces sommes sont réintégrées dans l'assiette des cotisations de sécurité sociale.
 
@@ -12272,29 +12706,29 @@ Ils conviennent également de définir l'ensemble des salariés pouvant être in
 
 Le présent accord n'empêche pas le recours aux autres critères fixés à l'article R. 242-1-1 du code de la sécurité sociale pour déterminer les catégories de bénéficiaires de régimes de protection sociale complémentaire.
 
-#### Article 1er
+### Article 1er — Catégories objectives
 
-*Catégories objectives*
+> **Source :** Article 1er — Catégories objectives — Accord du 24 octobre 2023 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire.
 
 *(pas de contenu)*
 
-#### Article 1.1
+### Article 1.1 — Cadres
 
-*Cadres*
+> **Source :** Article 1.1 — Cadres — Accord du 24 octobre 2023 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire.
 
 Pour l'application des stipulations de l'article 2.1 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres, qui définissent les salariés cadres pour l'application des régimes de protection sociale complémentaire, sont visés les ingénieurs et cadres relevant des positions 1.1 à 3.3 de la classification ingénieurs et cadres définie par la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils.
 
-#### Article 1.2
+### Article 1.2 — Assimilés cadres
 
-*Assimilés cadres*
+> **Source :** Article 1.2 — Assimilés cadres — Accord du 24 octobre 2023 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire.
 
 Pour l'application des stipulations de l'article 2.2 de l'accord national interprofessionnel du 17 novembre 2017 relatif à la prévoyance des cadres, qui définissent les salariés assimilés aux cadres pour l'application des régimes de protection sociale complémentaire, sont visés les employés, techniciens et agents de maîtrise relevant des positions 3.2 et 3.3 de la classification ETAM définie par la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils.
 
 Cette possibilité ne saurait étendre à ces salariés les autres stipulations conventionnelles spécifiques aux ingénieurs et cadres.
 
-#### Article 1.3
+### Article 1.3 — Employés, techniciens et agents de maîtrise susceptibles de bénéficier d'une extension de régime
 
-*Employés, techniciens et agents de maîtrise susceptibles de bénéficier d'une extension de régime*
+> **Source :** Article 1.3 — Employés, techniciens et agents de maîtrise susceptibles de bénéficier d'une extension de régime — Accord du 24 octobre 2023 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire.
 
 Pour l'application des dispositions de l'article R. 242-1-1, alinéa 2 du code de la sécurité sociale, qui définissent les salariés non-cadres et non-assimilés aux cadres susceptibles de bénéficier d'une extension de régime, sont visés les employés, techniciens et agents de maîtrise relevant des positions 2.2 à 3.1 de la classification ETAM définie par la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils.
 
@@ -12302,15 +12736,15 @@ Les entreprises peuvent toutefois, sans démarche particulière, ne pas intégre
 
 Cette possibilité ne saurait étendre à ces salariés les autres stipulations conventionnelles spécifiques aux ingénieurs et cadres.
 
-#### Article 2
+### Article 2 — Dispositions spécifiques aux entreprises de moins de 50 salariés
 
-*Dispositions spécifiques aux entreprises de moins de 50 salariés*
+> **Source :** Article 2 — Dispositions spécifiques aux entreprises de moins de 50 salariés — Accord du 24 octobre 2023 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où les stipulations du présent accord permettent une régulation économique équitable entre toutes les entreprises de la branche. Elles s'appliquent donc indistinctement à tous les salariés des entreprises relevant de la convention collective de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils, quel que soit leur effectif.
 
-#### Article 3
+### Article 3 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 3 — Stipulations juridiques et administratives — Accord du 24 octobre 2023 relatif aux catégories de bénéficiaires du régime de protection sociale complémentaire.
 
 Le présent accord s'applique aux entreprises de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils (IDCC 1486).
 
@@ -12322,11 +12756,11 @@ Le présent accord est déposé par la partie la plus diligente et fera l'objet 
 
 Après avoir lu et paraphé chacune des pages précédentes, les représentants signataires ont approuvé l'accord au nom de leur organisation.
 
-### Avenant n° 6 du 14 décembre 2023 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations
+## Avenant n° 6 du 14 décembre 2023 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 6 du 14 décembre 2023 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations.
 
 Affichant un objectif de rationalisation des dépenses de sécurité sociale, la loi n° 2022-1616 de financement de la sécurité sociale pour 2023 a prévu un transfert de charges des organismes de sécurité sociale vers les organismes complémentaires d'assurance maladie de l'ordre de 300 millions d'euros.
 
@@ -12354,9 +12788,9 @@ Les partenaires sociaux conviennent ainsi d'apporter les modifications suivantes
 
 Ils s'engagent par ailleurs à renégocier une éventuelle revalorisation des cotisations avant le 1er juillet 2025 si l'équilibre financier du présent régime le nécessite.
 
-#### Article 1er
+### Article 1er — Montant des cotisations
 
-*Montant des cotisations*
+> **Source :** Article 1er — Montant des cotisations — Avenant n° 6 du 14 décembre 2023 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations.
 
 L'article 2 de l'annexe III « Montant des cotisations » de l'accord de branche du 7 octobre 2015 modifié relatif à la complémentaire santé est modifié de la manière suivante :
 
@@ -12368,9 +12802,9 @@ Tableau détaillé des cotisations de base et des montants des options
 
 Exemple : si une entreprise (hors Alsace-Moselle) choisit de rendre obligatoire l'option 1, alors le tarif est de 66,00 €. Si le salarié souhaite bénéficier de l'option 3, alors le tarif sera majoré de 45,00 €, soit 111,00 €. »
 
-#### Article 2
+### Article 2 — Modalités de vote en comité paritaire de surveillance
 
-*Modalités de vote en comité paritaire de surveillance*
+> **Source :** Article 2 — Modalités de vote en comité paritaire de surveillance — Avenant n° 6 du 14 décembre 2023 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations.
 
 L'article 1.3.3 de l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé est modifié de la manière suivante :
 
@@ -12394,15 +12828,15 @@ Le comité désigne en son sein, pour 2 ans un président et un vice-président 
 
 Le comité paritaire de surveillance se réunit au moins 2 fois par an sur convocation de son président. »
 
-#### Article 3
+### Article 3 — Stipulations pour les entreprises de moins de cinquante (50) salariés
 
-*Stipulations pour les entreprises de moins de cinquante (50) salariés*
+> **Source :** Article 3 — Stipulations pour les entreprises de moins de cinquante (50) salariés — Avenant n° 6 du 14 décembre 2023 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche quelle que soit leur taille.
 
-#### Article 4
+### Article 4 — Champ d'application. Durée. Entrée en vigueur. Formalités et extension
 
-*Champ d'application. Durée. Entrée en vigueur. Formalités et extension*
+> **Source :** Article 4 — Champ d'application. Durée. Entrée en vigueur. Formalités et extension — Avenant n° 6 du 14 décembre 2023 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations.
 
 Le présent avenant s'applique sur l'ensemble du territoire national à tous les salariés employés, techniciens, agents de maîtrise et cadres salariés des entreprises dont l'activité est comprise dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 (IDCC 1486).
 
@@ -12412,11 +12846,11 @@ Il s'incorpore à l'accord de branche du 7 octobre 2015 relatif à la complémen
 
 Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministère du travail.
 
-### Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles)
+## Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles)
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 Les entreprises de la branche se doivent de développer des politiques de gestion des ressources humaines attractives et fidélisant leurs salariés.
 
@@ -12428,9 +12862,9 @@ Fort de ce constat, afin de permettre aux salariés des entreprises de moins de 
 
 Dans ce but, le présent avenant complète l'accord du 29 juillet 2020 relatif à la commission paritaire TPE & PME (dite « CP-TPME ») à laquelle les signataires décident de confier la définition des principes généraux du dispositif, les modalités de sa mise en œuvre et de son pilotage.
 
-#### Article 1er
+### Article 1er — Détermination du champ territorial et professionnel
 
-*Détermination du champ territorial et professionnel*
+> **Source :** Article 1er — Détermination du champ territorial et professionnel — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 1.   L'article 1er de l'accord du 29 juillet 2020 est modifié comme il suit :
 
@@ -12438,9 +12872,9 @@ Dans ce but, le présent avenant complète l'accord du 29 juillet 2020 relatif �
 
 2.   Le champ territorial et professionnel du présent avenant est identique à celui de l'accord du 29 juillet 2020 tel que modifié au paragraphe ci-dessus.
 
-#### Article 2
+### Article 2 — Nature et objectif du dispositif d'activités sociales et culturelles de branche
 
-*Nature et objectif du dispositif d'activités sociales et culturelles de branche*
+> **Source :** Article 2 — Nature et objectif du dispositif d'activités sociales et culturelles de branche — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 Les partenaires sociaux décident de mettre à la disposition des entreprises visées à l'article 1er du présent avenant un dispositif facultatif d'activités sociales et culturelles visant à l'amélioration des conditions de bien-être, de travail, de vie et de santé des salariés et de leur famille, désignés ci-après « les bénéficiaires ». Ce dispositif peut prendre la forme d'un catalogue de prestations d'offres de services et d'activités ayant notamment pour objet de faciliter pour les bénéficiaires :
 
@@ -12458,23 +12892,23 @@ Les partenaires sociaux décident de mettre à la disposition des entreprises vi
 
 Le dispositif doit permettre au plus grand nombre de bénéficiaires, et sur l'ensemble du champ territorial visé à l'article 1er du présent avenant, d'accéder à une pluralité de services et d'activités relevant de domaines différents.
 
-#### Article 3
+### Article 3 — Mise en œuvre du dispositif d'activités sociales et culturelles de branche
 
-*Mise en œuvre du dispositif d'activités sociales et culturelles de branche*
+> **Source :** Article 3 — Mise en œuvre du dispositif d'activités sociales et culturelles de branche — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 Le dispositif d'activités sociales et culturelles de branche (« ASCB ») doit être accessible sur l'ensemble du territoire national et à tous les salariés tels que visés à l'article 1er du présent avenant. À cet effet, il est convenu de confier sa mise en œuvre à un ou plusieurs prestataires retenus par les partenaires sociaux au terme d'une procédure de référencement.
 
 Cette procédure de référencement est réalisée au plus tous les 4 ans. Dans les 12 mois précédant le terme de la période de référencement, une évaluation de la qualité du dispositif est réalisée dans le cadre d'une étude confiée à l'ADESATT comportant notamment les résultats d'une enquête de satisfaction et les rapports d'utilisation du dispositif par les entreprises et salariés de la branche.
 
-#### Article 4
+### Article 4 — Commission paritaire en charge des activités sociales et culturelles de branche
 
-*Commission paritaire en charge des activités sociales et culturelles de branche*
+> **Source :** Article 4 — Commission paritaire en charge des activités sociales et culturelles de branche — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 Les partenaires sociaux décident de confier l'élaboration, la mise en œuvre et le suivi général du dispositif « ASCB » à la commission paritaire « CP-TPME ». À cet effet, l'accord de branche du 29 juillet 2020 relatif à la commission paritaire TPE et PME est modifié ainsi qu'il suit.
 
-#### Article 4.1
+### Article 4.1 — Modification du préambule de l'accord du 29 juillet 2020
 
-*Modification du préambule de l'accord du 29 juillet 2020*
+> **Source :** Article 4.1 — Modification du préambule de l'accord du 29 juillet 2020 — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 1.   L'avant-dernière phrase du préambule de l'accord du 29 juillet 2020 est complétée par la phrase suivante :
 
@@ -12482,9 +12916,9 @@ Les partenaires sociaux décident de confier l'élaboration, la mise en œuvre e
 
 2.   Les autres phrases du préambule sont inchangées.
 
-#### Article 4.2
+### Article 4.2 — Modification de l'article 2 de l'accord du 29 juillet 2020
 
-*Modification de l'article 2 de l'accord du 29 juillet 2020*
+> **Source :** Article 4.2 — Modification de l'article 2 de l'accord du 29 juillet 2020 — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 1.   La première phrase de l'article 2 de l'accord du 29 juillet 2020 est ainsi modifiée :
 
@@ -12496,9 +12930,9 @@ Les partenaires sociaux décident de confier l'élaboration, la mise en œuvre e
 
 3.   Le reste de l'article 2 de l'accord du 29 juillet 2020 demeure inchangé.
 
-#### Article 4.3
+### Article 4.3 — Modification de l'article 3 de l'accord du 29 juillet 2020
 
-*Modification de l'article 3 de l'accord du 29 juillet 2020*
+> **Source :** Article 4.3 — Modification de l'article 3 de l'accord du 29 juillet 2020 — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 1.   Dans l'article 3 de l'accord du 29 juillet 2020, il est ajouté, après le paragraphe d), un paragraphe e) ainsi rédigé :
 
@@ -12528,9 +12962,9 @@ Les partenaires sociaux décident de confier l'élaboration, la mise en œuvre e
 
 3.   Les autres stipulations de l'article 3 de l'accord du 29 juillet 2020 demeurent inchangées.
 
-#### Article 4.4
+### Article 4.4 — Modification de l'article 4 de l'accord du 29 juillet 2020
 
-*Modification de l'article 4 de l'accord du 29 juillet 2020*
+> **Source :** Article 4.4 — Modification de l'article 4 de l'accord du 29 juillet 2020 — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 1.   Le 5e alinéa de l'article 4 de l'accord du 29 juillet 2020 est remplacé par les paragraphes suivants :
 
@@ -12546,9 +12980,9 @@ Chaque organisation fait connaître au secrétariat de la commission le nom de s
 
 2.   Les autres stipulations de l'article 4 de l'accord du 29 juillet 2020 sont inchangées.
 
-#### Article 4.5
+### Article 4.5 — Modification de l'article 5.1 de l'accord du 29 juillet 2020
 
-*Modification de l'article 5.1 de l'accord du 29 juillet 2020*
+> **Source :** Article 4.5 — Modification de l'article 5.1 de l'accord du 29 juillet 2020 — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 1.   Dans l'article 5.1 de l'accord du 29 juillet 2020, après l'alinéa « – veiller à la coordination avec les autres instances paritaires (réception et diffusion des projets examinés pour avis ; rédaction et diffusion des avis) », il est ajouté l'alinéa :
 
@@ -12560,29 +12994,29 @@ Chaque organisation fait connaître au secrétariat de la commission le nom de s
 
 3.   Les autres stipulations de l'article 5.1 de l'accord du 29 juillet 2020 sont sans changement.
 
-#### Article 4.6
+### Article 4.6 — Modification de l'article 7.2 de l'accord du 29 juillet 2020
 
-*Modification de l'article 7.2 de l'accord du 29 juillet 2020*
+> **Source :** Article 4.6 — Modification de l'article 7.2 de l'accord du 29 juillet 2020 — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 L'article 7.2 de l'accord du 29 juillet 2020 est ainsi rédigé :
 
 « Pour la réalisation des travaux de réflexion sur les besoins et actions spécifiques des TPE-PME et de leurs salariés, ainsi que pour les travaux inhérents au dispositif d'ASCB, la commission se réunit par tout moyen sur convocation de la présidence, au moins une fois par trimestre, selon une fréquence définie en fonction de son plan annuel d'actions. »
 
-#### Article 5
+### Article 5 — Dispositions spécifiques aux entreprises de moins de 50 salariés
 
-*Dispositions spécifiques aux entreprises de moins de 50 salariés*
+> **Source :** Article 5 — Dispositions spécifiques aux entreprises de moins de 50 salariés — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 Par son objet, le présent avenant a vocation à s'appliquer plus spécifiquement aux entreprises de moins de 50 salariés, conformément à l'article L. 2261-23-1 du code du travail. Les prestations entrant dans le cadre du dispositif de branche pourront néanmoins bénéficier aux entreprises de 50 salariés et plus dépourvues d'institutions représentatives du personnel.
 
-#### Article 6
+### Article 6 — Date d'effet. Durée de l'avenant
 
-*Date d'effet. Durée de l'avenant*
+> **Source :** Article 6 — Date d'effet. Durée de l'avenant — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 Le présent avenant est conclu pour une durée indéterminée et est applicable à compter du lendemain de sa signature.
 
-#### Article 7
+### Article 7 — Conditions de révision de l'avenant
 
-*Conditions de révision de l'avenant*
+> **Source :** Article 7 — Conditions de révision de l'avenant — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 Le présent avenant pourra faire l'objet d'une révision conformément aux articles L. 2261-7 et suivants du code du travail.
 
@@ -12592,9 +13026,9 @@ Le plus rapidement possible et, au plus tard, dans un délai de 3 mois à partir
 
 Ce nouvel avenant est soumis aux mêmes règles de validité et de publicité que le présent avenant.
 
-#### Article 8
+### Article 8 — Conditions de dénonciation de l'avenant
 
-*Conditions de dénonciation de l'avenant*
+> **Source :** Article 8 — Conditions de dénonciation de l'avenant — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 Le présent avenant peut être dénoncé, partiellement ou en totalité, par l'un ou l'ensemble des signataires employeurs ou salariés après un préavis minimal de 3 mois. Ce préavis devra être donné à toutes les organisations signataires du présent accord par pli recommandé avec accusé de réception, sous peine de nullité.
 
@@ -12602,23 +13036,23 @@ La partie qui dénonce l'avenant, peut accompagner sa notification d'un nouveau 
 
 La dénonciation totale ou partielle du présent avenant n'emporte pas dénonciation ni de l'accord du 29 juillet 2020 ni de la convention collective convention collective nationale des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 16 juillet 2021 (IDCC 1486) de branche à laquelle il se rattache.
 
-#### Article 9
+### Article 9 — Formalités
 
-*Formalités*
+> **Source :** Article 9 — Formalités — Avenant n° 1 du 14 décembre 2023 à l'accord du 29 juillet 2020 relatif à la commission paritaire TPE et PME (activités sociales et culturelles).
 
 Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail.
 
 Après avoir lu et paraphé chacune des pages précédentes les représentants signataires signent l'avenant au nom de leur organisation.
 
-### Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail
+## Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail
 
-#### Article (préambule / sans numéro)
+> **Source :** Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Les références précises des règles légales rappelées dans l'accord font l'objet de notes de bas de page. Lorsque les articles du code du travail ou du code pénal sont entièrement retranscrits, la mention de l'article est faite préalablement à la retranscription.
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Les partenaires sociaux de la branche affirment leur souhait de combattre la violence et le harcèlement au sein des entreprises de la branche. C'est animés par cette volonté qu'ils ont engagé la négociation du présent accord relatif à la lutte contre le harcèlement sexuel et les agissements sexistes.
 
@@ -12647,17 +13081,17 @@ Conscients de la spécificité de la branche et de la position de certaines entr
 (1) Études Viavoice pour les rapports HCE 2023 et 2024 sur l'état du sexisme en France.
  (2) Étude OPIIEC sur l'attractivité des métiers du numérique et de l'ingénierie pour les femmes en France, mai 2023.
 
-#### Thème 1 Connaître le cadre réglementaire et institutionnel
+### Thème 1 Connaître le cadre réglementaire et institutionnel
 
-##### Définitions et sanctions
+#### Définitions et sanctions
 
-###### Article (préambule / sans numéro)
+> **Source :** Définitions et sanctions — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Afin d'avoir une approche commune du harcèlement sexuel et des agissements sexistes, les partenaires sociaux rappellent les définitions contenues dans le code du travail et le code pénal.
 
-###### Article 1er
+##### Article 1er — Le cadre réglementaire
 
-*Le cadre réglementaire*
+> **Source :** Article 1er — Le cadre réglementaire — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Responsabilités en matière de santé et de sécurité au travail
 
@@ -12835,11 +13269,11 @@ Les personnes mentionnées au premier paragraphe bénéficient de la protection 
  (20) Article L. 1155-2 du code du travail.
  (21) I et III de l'article 10-1 et aux articles 12 à 13-1 de la loi n° 2016-1691 du 9 décembre 2016 relative à la transparence, à la lutte contre la corruption et à la modernisation de la vie économique.
 
-##### Acteurs et outils de la prévention et du traitement du harcèlement sexuel et des agissements sexistes au travail
+#### Acteurs et outils de la prévention et du traitement du harcèlement sexuel et des agissements sexistes au travail
 
-###### Article 2
+##### Article 2 — Les acteurs de l'entreprise
 
-*Les acteurs de l'entreprise*
+> **Source :** Article 2 — Les acteurs de l'entreprise — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 L'employeur
 
@@ -12936,9 +13370,9 @@ Les sections syndicales éventuellement constituées au sein des entreprises, da
  (15) Cass. Crim. 3 juin 1986 n° 84-94.424.
  (16) Cass. Soc. 29 avril 2009 n° 07-45.480.
 
-###### Article 3
+##### Article 3 — Les acteurs externes à l'entreprise
 
-*Les acteurs externes à l'entreprise*
+> **Source :** Article 3 — Les acteurs externes à l'entreprise — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Les entreprises clientes
 
@@ -12985,9 +13419,9 @@ Il est rappelé que le dispositif « Tiers humain » mis en place dans le cadre 
  (3) Article L. 4624-6 du code du travail.
  (4) Article L. 23-113-1 code du travail.
 
-###### Article 4
+##### Article 4 — Les outils internes à l'entreprise
 
-*Les outils internes à l'entreprise*
+> **Source :** Article 4 — Les outils internes à l'entreprise — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 L'accord d'entreprise ou la charte
 
@@ -13055,11 +13489,11 @@ Le règlement intérieur est porté, par tout moyen, à la connaissance des pers
  (4) Article L. 1321-2 du code du travail.
  (5) Article R. 1321-1 du code du travail.
 
-#### Thème 2 Prévenir le harcèlement sexuel et les comportements sexistes au travail
+### Thème 2 Prévenir le harcèlement sexuel et les comportements sexistes au travail
 
-##### Article 5
+#### Article 5 — L'action de l'employeur en matière de prévention des risques psycho-sociaux
 
-*L'action de l'employeur en matière de prévention des risques psycho-sociaux*
+> **Source :** Article 5 — L'action de l'employeur en matière de prévention des risques psycho-sociaux — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Comme indiqué à l'article 4 ci-dessus, les éventuels facteurs susceptibles de favoriser la survenance de harcèlement sexuel et d'agissements sexistes doivent être évalués et pris en compte au sein du DUERP.
 
@@ -13067,9 +13501,9 @@ Une fiche-outil relative à la méthodologie permettant d'intégrer les agisseme
 
 Afin de faciliter l'identification des facteurs de risque de harcèlement sexuel et d'agissements sexistes, la branche mettra à disposition un outil de diagnostic, que les employeurs pourront librement déployer au sein de leur entreprise. Le déploiement de cet outil, à une périodicité déterminée par l'entreprise doit permettre de mesurer le ressenti des salariés quant aux agissements sexistes, aux impacts sur la carrière ainsi que d'alimenter les dispositifs de prévention et de lutte contre les agissements sexistes et le harcèlement sexuel au travail.
 
-##### Article 6
+#### Article 6 — L'information et la sensibilisation des salariés
 
-*L'information et la sensibilisation des salariés*
+> **Source :** Article 6 — L'information et la sensibilisation des salariés — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Pour lutter efficacement contre le harcèlement sexuel et les agissements sexistes, tout salarié doit avoir la capacité d'identifier les situations qui les caractérisent et dont il peut être la victime, le témoin ou l'auteur. Cette sensibilisation peut prendre de multiples formes : notes de service, mails, affichage dans les locaux, information sur le site intranet ou le livret d'accueil lorsqu'ils existent, points spécifiques à l'occasion de réunions de services, temps d'information et d'échanges…
 
@@ -13085,9 +13519,9 @@ En complément de cela, la branche mettra à disposition des entreprises des out
 
 Ces outils de sensibilisation ont vocation notamment à expliciter les responsabilités de chacun en matière de santé et de sécurité dans l'entreprises, à clarifier ce que recouvrent les notions de harcèlement sexuel et d'agissements sexistes, à informer sur les conséquences de ces situations sur la santé mentale des victimes, d'aider l'ensemble des acteurs de l'entreprise à identifier les situations de harcèlement sexuel et les agissements sexistes et à réagir.
 
-##### Article 7
+#### Article 7 — La formation des référents et des managers
 
-*La formation des référents et des managers*
+> **Source :** Article 7 — La formation des référents et des managers — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Les partenaires sociaux reconnaissent l'importance de la sensibilisation et de la formation dans le cadre de la prévention du harcèlement dans l'entreprise et s'accordent sur la mise en place des actions suivantes.
 
@@ -13095,13 +13529,13 @@ Les référents harcèlement désignés au sein des entreprises de la branche su
 
 Les partenaires sociaux recommandent aux employeurs de mettre en œuvre des actions de sensibilisation et information à destination des autres salariés de l'entreprise.
 
-#### Thème 3 Traiter les situations de harcèlement sexuel et les agissements sexistes au travail
+### Thème 3 Traiter les situations de harcèlement sexuel et les agissements sexistes au travail
 
-##### Signalement des situations de harcèlement sexuel et d'agissements sexistes
+#### Signalement des situations de harcèlement sexuel et d'agissements sexistes
 
-###### Article 8
+##### Article 8 — La procédure d'alerte interne
 
-*La procédure d'alerte interne*
+> **Source :** Article 8 — La procédure d'alerte interne — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Ne pas signaler le harcèlement sexuel dont on est victime conduit, le plus souvent, à une détérioration de la situation ainsi que de son état de santé physique et mentale. Signaler les faits de harcèlement sexuel reste le seul moyen efficace pour y mettre un terme.
 
@@ -13137,11 +13571,11 @@ Il est enfin rappelé qu'en vertu de l'obligation de protection de la santé et 
 
 (1) Articles L. 2312-5 et L. 2312-59 du code du travail.
 
-##### Traitement des alertes
+#### Traitement des alertes
 
-###### Article 9
+##### Article 9 — L'enquête interne
 
-*L'enquête interne*
+> **Source :** Article 9 — L'enquête interne — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Comme indiqué précédemment, dès lors que des faits de harcèlement sexuel ou des agissements sexistes, signalés dans l'entreprise, peuvent porter atteinte à la santé et la sécurité des salariés, l'employeur doit prendre des mesures immédiates pour les faire cesser.
 
@@ -13180,9 +13614,9 @@ En cas de harcèlement sexuel à l'occasion de l'intervention d'un salarié au s
 (1) Article R. 4514-1 du code du travail.
  (2) Articles L. 2312-5 et L. 2312-59 du code du travail.
 
-###### Article 10
+##### Article 10 — L'accompagnement individuel des salariés pendant l'enquête
 
-*L'accompagnement individuel des salariés pendant l'enquête*
+> **Source :** Article 10 — L'accompagnement individuel des salariés pendant l'enquête — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 La responsabilité de l'employeur en matière de santé et de sécurité des salariés implique nécessairement de sécuriser la situation entre les victime et harceleur présumés dans la mesure du possible. À défaut, la présumée victime, si elle a un motif raisonnable de penser que la situation de harcèlement sexuel présumé présente un danger grave et imminent pour sa vie ou sa santé, est en droit d'alerter son employeur et d'arrêter son travail en usant de son droit de retrait (1).
 
@@ -13196,11 +13630,11 @@ Si les faits signalés sont suffisamment graves et que le maintien dans l'entrep
 
 (1) Article L. 4131-1 du code du travail.
 
-##### Sanctionner
+#### Sanctionner
 
-###### Article 11
+##### Article 11 — Les sanctions en cas de harcèlement sexuel ou d'agissement sexiste en entreprise
 
-*Les sanctions en cas de harcèlement sexuel ou d'agissement sexiste en entreprise*
+> **Source :** Article 11 — Les sanctions en cas de harcèlement sexuel ou d'agissement sexiste en entreprise — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Comme indiqué précédemment, l'employeur est tenu de prendre les mesures nécessaires pour mettre fin aux faits de harcèlement sexuel et de les sanctionner. En effet, « Tout salarié ayant procédé à des agissements de harcèlement sexuel est passible d'une sanction disciplinaire. » (1)
 
@@ -13215,11 +13649,11 @@ Les partenaires sociaux rappellent enfin qu'aucune personne ayant subi ou refus�
 (1) Article L. 1153-6 du code du travail.
  (2) Article L. 1332-4 du code du travail.
 
-##### Protéger et accompagner
+#### Protéger et accompagner
 
-###### Article 12
+##### Article 12 — Sécuriser la relation de travail
 
-*Sécuriser la relation de travail*
+> **Source :** Article 12 — Sécuriser la relation de travail — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 L'employeur, les managers, et le ou les responsable(s) RH, s'ils existent, doivent accompagner la poursuite des relations de travail et éviter l'instauration d'un climat de défiance. En l'absence de harcèlement avéré, ils veilleront à accompagner le retour à une relation de travail normale et apaisée des salariés.
 
@@ -13227,9 +13661,9 @@ Lorsque des agissements sexistes se produisent, outre les victimes, tout le coll
 
 Les partenaires sociaux tiennent à souligner que la médiation ne peut être utilisée entre le harceleur et la victime de harcèlement sexuel avéré. En effet, le harcèlement sexuel n'est pas un conflit pouvant trouver une solution amiable, mais une faute disciplinaire et une infraction pénale devant être sanctionnée.
 
-###### Article 13
+##### Article 13 — L'accompagnement des victimes
 
-*L'accompagnement des victimes*
+> **Source :** Article 13 — L'accompagnement des victimes — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Chaque employeur portera une attention particulière à la prise en charge immédiate des victimes de harcèlement sexuel et d'agissements sexistes. À ce titre, dans le cas où un acte de harcèlement sexuel ou d'agissement sexiste est établi dans l'entreprise, l'employeur devra proposer la mise en place d'une cellule ou prise en charge psychologique à destination des salariés victimes, par exemple, via le service de prévention et de santé au travail (SPST). Le SPST est également compétent pour orienter les victimes vers tout professionnel de santé ou organisme compétent.
 
@@ -13239,11 +13673,11 @@ En cas de dénonciation calomnieuse avérée, la personne qui en est victime peu
 
 Les conséquences éventuelles d'un harcèlement avéré peuvent être prise en charge au titre de la législation sur la prévention et la réparation des accidents du travail et des maladies professionnelles.
 
-#### Thème 4 Stipulations finales
+### Thème 4 Stipulations finales
 
-##### Article 14
+#### Article 14 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 14 — Stipulations juridiques et administratives — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Champ d'application territorial et professionnel
 
@@ -13305,11 +13739,11 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille. Certaines stipulations découlant d'obligations législatives ne concernent néanmoins que les entreprises de 50 salariés et plus.
 
-#### Annexes
+### Annexes
 
-##### Annexe 1
+#### Annexe 1
 
-###### Article (préambule / sans numéro)
+> **Source :** Annexe 1 — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Trame synthétique. Traiter un signalement de faits de harcèlement sexuel ou d'agissements sexistes et engager une procédure d'enquête
 
@@ -13403,9 +13837,9 @@ Etape 8 : si le rapport ne conclut pas à l'existence d'une situation de harcèl
 
 – organiser la poursuite de la relation de travail des salariés concernés.
 
-##### Annexe 2
+#### Annexe 2
 
-###### Article (préambule / sans numéro)
+> **Source :** Annexe 2 — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Guide. Intégrer les agissements sexistes et le harcèlement sexuel au sein du DUERP
 
@@ -13493,9 +13927,9 @@ Il est possible de transmettre ces informations au service prévention et de san
 
  https://www.legifrance.gouv.fr/download/file/pdf/boc_20240015_0000_0006.pdf/BOCC
 
-##### Annexe 3
+#### Annexe 3
 
-###### Article (préambule / sans numéro)
+> **Source :** Annexe 3 — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Outil. Affichage obligatoire relatif au harcèlement sexuel
 
@@ -13503,9 +13937,9 @@ Outil. Affichage obligatoire relatif au harcèlement sexuel
 
  https://www.legifrance.gouv.fr/download/file/pdf/boc_20240015_0000_0006.pdf/BOCC
 
-##### Annexe 4
+#### Annexe 4
 
-###### Article (préambule / sans numéro)
+> **Source :** Annexe 4 — Accord du 28 février 2024 relatif à la lutte contre le harcèlement sexuel et les agissements sexistes au travail.
 
 Outil. Mentions obligatoires au sein du règlement intérieur
 
@@ -13673,11 +14107,11 @@ Ces peines sont portées à trois ans d'emprisonnement et 45 000 € d'amende lo
 
 « Le fait de harceler autrui par des propos ou comportements répétés ayant pour objet ou pour effet une dégradation des conditions de travail susceptible de porter atteinte à ses droits et à sa dignité, d'altérer sa santé physique ou mentale ou de compromettre son avenir professionnel, est puni de deux ans d'emprisonnement et de 30 000 € d'amende. »
 
-### Avenant n° 7 du 18 décembre 2024 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations
+## Avenant n° 7 du 18 décembre 2024 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 7 du 18 décembre 2024 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations.
 
 Affichant un objectif de rationalisation des dépenses de sécurité sociale, le projet de loi de financement de la sécurité sociale pour 2025 prévoyait des recherches d'économies de 14,8 milliards d'euros sur l'année civile à venir.
 
@@ -13691,9 +14125,9 @@ Le présent avenant à l'accord relatif à la mise en place d'un régime de comp
 
 Les partenaires sociaux conviennent ainsi d'apporter les modifications suivantes à l'accord de branche du 7 octobre 2015 modifié relatif à la complémentaire santé.
 
-#### Article 1er
+### Article 1er — Montant des cotisations
 
-*Montant des cotisations*
+> **Source :** Article 1er — Montant des cotisations — Avenant n° 7 du 18 décembre 2024 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations.
 
 L'article 2 de l'annexe III « Montant des cotisations » de l'accord de branche du 7 octobre 2015 modifié relatif à la complémentaire santé est modifié de la manière suivante :
 
@@ -13705,9 +14139,9 @@ Tableau détaillé des cotisations de base et des montants des options
 
 Exemple : si une entreprise (hors Alsace-Moselle) choisit de rendre obligatoire l'option 1, alors le tarif est de 71 €. Si le salarié souhaite bénéficier de l'option 3, alors le tarif sera majoré de 54,50 €, soit 125,50 €.»
 
-#### Article 2
+### Article 2 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 2 — Stipulations juridiques et administratives — Avenant n° 7 du 18 décembre 2024 à l'accord du 7 octobre 2015 relatif à la complémentaire santé portant revalorisation des cotisations.
 
 Champ d'application territorial et professionnel
 
@@ -13729,9 +14163,9 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche quelle que soit leur taille.
 
-### Rectificatif au Bulletin officiel n° 2025-08 du 22 février 2025 à l'avenant n° 7 du 18 décembre 2024 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
+## Rectificatif au Bulletin officiel n° 2025-08 du 22 février 2025 à l'avenant n° 7 du 18 décembre 2024 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
 
-#### Article (préambule / sans numéro)
+> **Source :** Rectificatif au Bulletin officiel n° 2025-08 du 22 février 2025 à l'avenant n° 7 du 18 décembre 2024 à l'accord du 7 octobre 2015 relatif à la complémentaire santé — Rectificatif au Bulletin officiel n° 2025-08 du 22 février 2025 à l'avenant n° 7 du 18 décembre 2024 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Page 27 :
 
@@ -13812,11 +14246,11 @@ Fait à Paris, le 18 décembre 2024.
 
 (Suivent les signatures.)
 
-### Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise
+## Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 La pratique d'un dialogue social de qualité, centré sur les enjeux et les problématiques de l'entreprise et des salariés, constitue un levier de régulation sociale, contribue à la performance sociale des entreprises de la branche et participe à la construction d'un environnement professionnel équitable et propice à l'épanouissement des salariés et au développement économique des entreprises.
 
@@ -13848,9 +14282,9 @@ En particulier, les entreprises veillent à ce que l'exercice d'un ou plusieurs 
 
 Les partenaires sociaux rappellent enfin les principes d'égalité d'accès des femmes et des hommes aux mandats syndicaux et électifs, ainsi que l'équilibre des représentations par genre au sein des listes électorales établies en vue des élections professionnelles, tel que prévu par la loi.
 
-#### Article 1er
+### Article 1er — Bénéficiaires
 
-*Bénéficiaires*
+> **Source :** Article 1er — Bénéficiaires — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 Les salariés bénéficiaires du présent accord doivent exercer un ou plusieurs mandats cités ci-dessous.
 
@@ -13916,17 +14350,17 @@ Sont concernés, au titre des dispositions relatives aux formations communes des
 
 Les représentants des employeurs visés par les stipulations de l'accord sont définis par la direction des entreprises concernées.
 
-#### Thème 1 Reconnaître l'importance du dialogue social dans les entreprises et contribuer à son développement
+### Thème 1 Reconnaître l'importance du dialogue social dans les entreprises et contribuer à son développement
 
-##### Article (préambule / sans numéro)
+> **Source :** Thème 1 Reconnaître l'importance du dialogue social dans les entreprises et contribuer à son développement — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 Les partenaires sociaux reconnaissent que la pratique d'un dialogue social de qualité constitue un outil efficace de régulation sociale et contribue à la performance sociale des entreprises, et qu'il convient de le favoriser dans l'ensemble des entreprises de la branche.
 
 Ce développement implique la compréhension éclairée du fonctionnement et des enjeux du dialogue social : celle-ci est favorisée par la formation des partenaires sociaux afin qu'ils puissent exercer pleinement leur rôle.
 
-##### Article 2
+#### Article 2 — Formations liées à l'exercice du dialogue social
 
-*Formations liées à l'exercice du dialogue social*
+> **Source :** Article 2 — Formations liées à l'exercice du dialogue social — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 2.1. Droit à la formation économique, sociale, environnementale et syndicale
 
@@ -13971,9 +14405,9 @@ Le financement de la formation ainsi que les frais de séjour et de déplacement
 (1) Articles L. 2145-5 à L. 2145-13 du code du travail.
  (2) Article L. 2212-1 du code du travail.
 
-##### Article 3
+#### Article 3 — Outils de promotion, de développement et d'accompagnement du dialogue social dans les entreprises
 
-*Outils de promotion, de développement et d'accompagnement du dialogue social dans les entreprises*
+> **Source :** Article 3 — Outils de promotion, de développement et d'accompagnement du dialogue social dans les entreprises — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 Les partenaires sociaux s'engagent à mettre à disposition des entreprises et des salariés, les outils adaptés au développement et à la promotion du dialogue social au sein des entreprises de la branche.
 
@@ -13983,21 +14417,21 @@ Les managers encadrant des salariés détenteurs de mandats pourront, à leur de
 
 Les partenaires sociaux s'engagent à identifier ces outils et les moyens de leur développement dans un délai de 12 mois suivant la signature du présent accord de branche.
 
-#### Thème 2 Sécuriser l'emploi des acteurs du dialogue social
+### Thème 2 Sécuriser l'emploi des acteurs du dialogue social
 
-##### Article (préambule / sans numéro)
+> **Source :** Thème 2 Sécuriser l'emploi des acteurs du dialogue social — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 Les partenaires sociaux de la branche, reconnaissant le rôle et l'importance de la représentation des salariés et des syndicats, souhaitent réaffirmer leur attachement aux garanties légales suivantes.
 
-##### Article 4
+#### Article 4 — Non-discrimination
 
-*Non-discrimination*
+> **Source :** Article 4 — Non-discrimination — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 Les partenaires sociaux rappellent le principe de non-discrimination posé par l'article L. 1132-1 du code du travail, selon lequel aucune personne ne peut être écartée d'une procédure de recrutement ou de l'accès à un stage ou à une période de formation en entreprise, aucun salarié ne peut être sanctionné, licencié ou faire l'objet d'une mesure discriminatoire, directe ou indirecte, notamment en matière de rémunération, de mesures d'intéressement ou de distribution d'actions, de formation, de reclassement, d'affectation, de qualification, de classification, de promotion professionnelle, de mutation ou de renouvellement de contrat en raison de ses activités syndicales ou de représentant du personnel.
 
-##### Article 5
+#### Article 5 — Garantie d'évolution de la rémunération
 
-*Garantie d'évolution de la rémunération*
+> **Source :** Article 5 — Garantie d'évolution de la rémunération — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 Conformément à l'article L. 2141-5-1 du code du travail, les représentants des salariés et des syndicats au sein de l'entreprise disposant d'un nombre d'heures de délégation dépassant 30 % de la durée du travail fixée dans leur contrat de travail ou, à défaut, de la durée applicable dans l'établissement, bénéficient d'une évolution de leur rémunération dans les conditions suivantes.
 
@@ -14005,9 +14439,9 @@ Cette évolution salariale doit être au moins égale, sur l'ensemble de la dur�
 
 Ceci s'applique en l'absence d'accord collectif déterminant des garanties d'évolution de la rémunération au moins aussi favorables.
 
-##### Article 6
+#### Article 6 — Accompagnement des acteurs du dialogue social
 
-*Accompagnement des acteurs du dialogue social*
+> **Source :** Article 6 — Accompagnement des acteurs du dialogue social — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 Conformément aux dispositions de l'article L. 2141-5 du code du travail, le déroulement de carrière des acteurs du dialogue social est identique à celui des salariés occupant une position équivalente.
 
@@ -14015,9 +14449,9 @@ Il est également rappelé que, en application de l'article L. 2135-7 du code du
 
 Lorsque les salariés sont appelés à participer aux réunions paritaires décidées entre les organisations syndicales représentatives au niveau de la branche, des autorisations d'absence sont accordées et rémunérées.
 
-#### Thème 3 Sécuriser les parcours professionnels des acteurs du dialogue social
+### Thème 3 Sécuriser les parcours professionnels des acteurs du dialogue social
 
-##### Article (préambule / sans numéro)
+> **Source :** Thème 3 Sécuriser les parcours professionnels des acteurs du dialogue social — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 L'exercice de mandats peut donner lieu à l'acquisition de nouvelles compétences ou connaissances relatives à la négociation collective et en lien avec des notions juridiques et comptables par exemple. Ces connaissances peuvent être reconnues par l'obtention de certifications. En parallèle, l'évolution constante et rapide des métiers de la branche conduit les entreprises de nos secteurs à être particulièrement vigilantes au maintien du lien avec la compétence « métier » des détenteurs de mandats et à leur actualisation.
 
@@ -14033,9 +14467,9 @@ Dans ce contexte, les partenaires sociaux s'engagent à favoriser l'actualisatio
 
 Les salariés visés à l'article 1er du présent accord de branche bénéficient s'ils le souhaitent et à leur demande, d'un accompagnement relatif à leur parcours professionnel au moyen des stipulations suivantes.
 
-##### Article 7
+#### Article 7 — Adaptation du poste de travail
 
-*Adaptation du poste de travail*
+> **Source :** Article 7 — Adaptation du poste de travail — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 L'employeur laisse le temps nécessaire à l'exercice de leurs fonctions aux représentants du personnel et des syndicats.
 
@@ -14043,9 +14477,9 @@ Cela donne lieu, dans le cadre de l'entretien de début de mandat mentionné à 
 
 L'adaptation de la charge de travail ainsi que des éventuels objectifs professionnels sont également abordés à l'occasion de l'entretien annuel d'évaluation susceptible d'être organisé au sein de l'entreprise.
 
-##### Article 8
+#### Article 8 — Entretiens professionnels au cours du mandat
 
-*Entretiens professionnels au cours du mandat*
+> **Source :** Article 8 — Entretiens professionnels au cours du mandat — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 Conformément aux dispositions de l'article L. 2141-5 du code du travail, le représentant du personnel titulaire, le délégué syndical ou le titulaire d'un mandat syndical bénéficie au début de son mandat, à sa demande, et à la fin de son mandat d'un entretien.
 
@@ -14067,9 +14501,9 @@ Les partenaires sociaux s'engagent à créer et mettre à disposition des acteur
 
 Les partenaires sociaux s'engagent à identifier ces outils et les moyens de leur développement dans un délai de 12 mois suivant la signature du présent accord de branche.
 
-##### Article 9
+#### Article 9 — Définition et mise en œuvre du projet professionnel
 
-*Définition et mise en œuvre du projet professionnel*
+> **Source :** Article 9 — Définition et mise en œuvre du projet professionnel — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 Dans les conditions décrites ci-dessous, les salariés visés par le présent accord ont la qualité de public prioritaire de la branche pour l'accès aux dispositifs de formation et de certification en lien avec leur activité professionnelle.
 
@@ -14128,19 +14562,19 @@ L'obtention d'une certification par un représentant du personnel n'entraîne pa
 (1) Article L. 6112-4 du code du travail ; arrêtés du 18 juin 2018 et du 19 janvier 2022 fixant les modalités d'équivalence entre la certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical et plusieurs titres professionnels du ministère chargé de l'emploi.
  (2) Article D. 6112-2 du code du travail.
 
-#### Thème 4 Stipulations juridiques et administratives
+### Thème 4 Stipulations juridiques et administratives
 
-##### Article 10
+#### Article 10 — Délai pour bénéficier de l'accord
 
-*Délai pour bénéficier de l'accord*
+> **Source :** Article 10 — Délai pour bénéficier de l'accord — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 Les représentants de salariés et syndicaux bénéficient des stipulations du présent accord à compter de la prise d'effet de leur mandat et jusqu'à 12 mois après son expiration, quelle qu'en soit la raison.
 
 S'agissant des mandats procédant d'une désignation, la prise d'effet du mandat est celle indiquée par l'organisation syndicale à l'origine de la désignation ou à défaut, à la date de réception du courrier de désignation par l'employeur.
 
-##### Article 11
+#### Article 11 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 11 — Stipulations juridiques et administratives — Accord du 18 décembre 2024 relatif à la promotion du dialogue social en entreprise.
 
 11.1.   Champ d'application territorial et professionnel
 
@@ -14197,11 +14631,11 @@ En application de l'article L. 2261-23-1 du code du travail, les signataires con
 (1) Le 3e alinéa de l'article 11.5 est étendu sous réserve de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation (Cass. soc., 17 septembre 2003, n° 01-10706, 31 mai 2006, n° 04-14060, 8 juillet 2009, n° 08-41507), en vertu desquelles un accord collectif ne peut être conclu ou révisé sans que l'ensemble des organisations syndicales représentatives aient été invitées à sa négociation.
 (Arrêté du 7 novembre 2025 - art. 1)
 
-#### Annexes
+### Annexes
 
-##### Annexe 1 Fiche descriptive. Certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical
+#### Annexe 1 Fiche descriptive. Certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical
 
-###### Article (préambule / sans numéro)
+> **Source :** Annexe 1 Fiche descriptive. Certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical — Annexe 1 Fiche descriptive. Certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical.
 
 Certificateur
 
@@ -14269,6 +14703,8 @@ Le cas échant, prérequis à l'entrée en formation : justifier de l'exercice d
 
 Validité des composantes acquises :
 
+ 
+
 | Voie d'accès à la certification | Oui | Non | Composition des jurys |
 | --- | --- | --- | --- |
 | Après un parcours de formation sous statut d'élève ou d'étudiant |  | X |  |
@@ -14277,16 +14713,20 @@ Validité des composantes acquises :
 | En contrat de professionnalisation |  | X |  |
 | Par candidature individuelle | X |  | Le candidat est évalué par un jury composé de membres habilités par le certificateur dont au moins un professionnel habilité pour le titre professionnel dont un ou plusieurs certificats de compétences professionnelles font l'objet d'une équivalence avec le certificat de compétences professionnelles visé Un membre issu d'une organisation syndicale représentative au niveau national ayant exercé un mandat de représentant du personnel ou un mandat syndical. Celui-ci est habilité, sur la base des propositions des organisations syndicales représentatives au niveau national et des demandes individuelles adressées au certificateur pour l'ensemble des certificats de compétences professionnelles constitutifs de la certification et pour la durée de validité de la certification |
 
-Base légale
+ Base légale
+
+ 
 
 | Date de décision | 15/10/2021 |
 | --- | --- |
 | Durée de l'enregistrement en années | 5 |
 | Date d'échéance de l'enregistrement | 15/10/2026 |
 
-Pour plus d'informations
+ Pour plus d'informations
 
 • Statistiques :
+
+ 
 
 | Année d'obtention de la certification | Nombre de certifiés | Nombre de certifiés par reconnaissance de l'expérience professionnelle |
 | --- | --- | --- |
@@ -14294,7 +14734,7 @@ Pour plus d'informations
 | 2019 | 46 | 0 |
 | 2018 | 16 | 0 |
 
-• Lien internet vers le descriptif de la certification :
+ • Lien internet vers le descriptif de la certification :
 
 Page dédiée sur le site du ministère du travail :
 
@@ -14306,17 +14746,19 @@ Liste complète des organismes préparant à la certification :
 
 • Certification (s) antérieure (s) :
 
+ 
+
 | N° de la fiche | Intitulé de la certification remplacée |
 | --- | --- |
 | RS4214 | Certification relative aux compétences acquises dans l'exercice d'un mandat de représentant du personnel ou d'un mandat syndical. |
 
-• Référentiel d'activité, de compétences et d'évaluation :
+ • Référentiel d'activité, de compétences et d'évaluation :
 
  https :// certifpro. francecompetences. fr/ api/ enregistrementDroit/ refActivity/21680/288518
 
-##### Annexe 2 Cas pratiques. Droits accessibles aux acteurs du dialogue social
+#### Annexe 2 Cas pratiques. Droits accessibles aux acteurs du dialogue social
 
-###### Article (préambule / sans numéro)
+> **Source :** Annexe 2 Cas pratiques. Droits accessibles aux acteurs du dialogue social — Annexe 2 Cas pratiques. Droits accessibles aux acteurs du dialogue social.
 
 Les cas pratiques ci-dessous visent à expliciter les droits créés par le présent accord en fonction des mandats occupés et du temps passé à l'exercice de ceux-ci. Dans ces cas pratiques les salariés utilisent la totalité des heures de délégation associées aux mandats exercés. Les crédits d'heures plus favorables éventuellement prévus par un accord d'entreprises doivent être pris en compte pour déterminer le temps passé à l'exercice d'un mandat.
 
@@ -14484,11 +14926,11 @@ Enfin, en application de l'accord de branche, le salarié aura droit à :
 
 – un abondement au CPF sous conditions (art. 9.5).
 
-### Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026
+## Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 Institué par l'accord du 7 octobre 2015, le régime conventionnel de complémentaire santé de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils couvre environ 70 000 salariés. Malgré des ajustements conventionnels ayant fait évoluer le régime dans un sens favorable, une partie des entreprises de la branche continue à recourir à des contrats collectifs autonomes.
 
@@ -14500,9 +14942,9 @@ Le présent avenant a donc pour objet d'adapter le régime conventionnel à la d
 
 (1) Par l'avenant n° 7 du 18 décembre 2024 portant revalorisation des cotisations au régime au 1er avril 2025.
 
-#### Article 1er
+### Article 1er — Structure de cotisation additionnelle
 
-*Structure de cotisation additionnelle*
+> **Source :** Article 1er — Structure de cotisation additionnelle — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 Une nouvelle structure de cotisation est ajoutée à la structure « salarié + enfants obligatoires/conjoint facultatif », prévue par l'accord de branche du 7 octobre 2015 modifié relatif à la mise en place d'un régime de complémentaire santé.
 
@@ -14518,9 +14960,9 @@ Si l'entreprise fait le choix de la nouvelle structure « Isolé/famille obligat
 
 Le salarié ne disposant d'aucun ayant-droit, ou dont le ou les ayant(s) droit sont couverts par un autre régime est tenu de présenter une attestation sur l'honneur à l'employeur en vue de faire jouer la dispense prévue à l'article D. 911-3 du code de la sécurité sociale et de s'acquitter d'une cotisation « isolé ».
 
-#### Article 1.1
+### Article 1.1 — Bénéficiaires de la couverture minimale de branche
 
-*Bénéficiaires de la couverture minimale de branche*
+> **Source :** Article 1.1 — Bénéficiaires de la couverture minimale de branche — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 Afin de procéder à la mise en conformité des stipulations conventionnelles, nécessitée par l'ajout de la structure de cotisation susmentionnée, l'article 1.1.1 de l'accord de branche modifié du 7 octobre 2015 est remplacé par les stipulations suivantes :
 
@@ -14532,9 +14974,9 @@ Cette couverture s'étend :
 
 – le cas échéant, dans le cadre de la structure “ isolé/ famille obligatoire ”, aux enfants à charge et/ ou au conjoint du salarié. »
 
-#### Article 1.2
+### Article 1.2 — Adhésion optionnelle du salarié
 
-*Adhésion optionnelle du salarié*
+> **Source :** Article 1.2 — Adhésion optionnelle du salarié — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 L'article 1.1.7 de l'accord de branche modifié du 7 octobre 2015 est remplacé par les stipulations suivantes :
 
@@ -14578,9 +15020,9 @@ Amélioration du niveau des garanties
 
 Au-delà du niveau de garanties minimum ayant été choisi par l'employeur, et sauf à ce que ce dernier ait opté pour le niveau de couverture le plus avantageux, l'employeur doit proposer des options permettant une prise en charge renforcée des frais de santé de ses salariés. Ces options facultatives sont financées par les salariés. »
 
-#### Article 1.3
+### Article 1.3 — Niveau minimal de garanties
 
-*Niveau minimal de garanties*
+> **Source :** Article 1.3 — Niveau minimal de garanties — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 Afin de procéder à la mise en conformité des stipulations conventionnelles avec le 3e alinéa de l'article 1er du présent avenant, l'article 2 de l'accord de branche du 7 octobre 2015 modifié est remplacé par les stipulations suivantes :
 
@@ -14590,35 +15032,39 @@ Les partenaires sociaux affirment leur volonté d'améliorer les garanties régl
 
 Soucieux d'intervenir en amont afin de prévenir les risques en matière de santé, les partenaires sociaux ont décidé de mettre en avant plusieurs actions de prévention au travers des garanties proposées. Les garanties respectent en toutes circonstances les exigences du contrat “ responsable ” en termes d'interdictions et d'obligations minimales et maximales de prise en charge, conformément aux dispositions du code de la sécurité sociale. »
 
-#### Article 2
+### Article 2 — Modification des garanties
 
-*Modification des garanties*
+> **Source :** Article 2 — Modification des garanties — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 *(pas de contenu)*
 
-#### Article 2.1
+### Article 2.1 — Hospitalisation en établissement conventionné
 
-*Hospitalisation en établissement conventionné*
+> **Source :** Article 2.1 — Hospitalisation en établissement conventionné — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 À l'annexe I de l'accord de branche modifié du 7 octobre 2015, au sein du tableau « Hospitalisation en établissement conventionné », les lignes « Chambre particulière » et « Lit d'accompagnant » sont rédigées comme suit :
+
+ 
 
 | Chambre particulière – Par journée [2] ou par nuitée | 45 € | 60 € | 80 € | 100 € |
 | --- | --- | --- | --- | --- |
 | Lit d'accompagnant – Par nuitée | 45 € | 60 € | 80 € | 100 € |
 
-#### Article 2.2
+### Article 2.2 — Soins courants
 
-*Soins courants*
+> **Source :** Article 2.2 — Soins courants — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 *(pas de contenu)*
 
-#### Article 2.2.1
+### Article 2.2.1 — Psychologie dans le cadre du dispositif « Mon parcours psy »
 
-*Psychologie dans le cadre du dispositif « Mon parcours psy »*
+> **Source :** Article 2.2.1 — Psychologie dans le cadre du dispositif « Mon parcours psy » — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 À l'annexe I de l'accord de branche modifié du 7 octobre 2015, au sein du tableau « Soins courants », il est ajouté une ligne « Psychologie dans le cadre du dispositif Mon soutien psy » en dessous de la ligne « Médecines douces : acupuncteur, chiropracteur, diététicien, ostéopathe, pédicure-podologue, psychomotricien, tabacologue (sur présentation d'une facture originale) ».
 
 Cette ligne additionnelle est ainsi rédigée :
+
+ 
 
 | Psychologie dans le cadre du dispositif « Mon soutien psy » | 100 % BRSS [1] |
 | --- | --- |
@@ -14627,23 +15073,23 @@ Cette ligne additionnelle est ainsi rédigée :
 (1) L'article 2.2.1 de l'avenant est étendu sous réserve du respect de l'arrêté du 24 juin 2024 et de l'article R. 162-65 du code de la sécurité sociale, tel que modifié par le décret n° 2025-424 du 13 mai 2025 publié au Journal officiel de la République française du 15 mai 2025, qui a augmenté de huit à douze le nombre de séances pouvant être prises en charge annuellement.
 (Arrêté du 4 juillet 2025 - art. 1)
 
-#### Article 2.2.2
+### Article 2.2.2 — Suppression de la prise en charge de l'équilibre alimentaire et des produits diététiques
 
-*Suppression de la prise en charge de l'équilibre alimentaire et des produits diététiques*
+> **Source :** Article 2.2.2 — Suppression de la prise en charge de l'équilibre alimentaire et des produits diététiques — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 À l'annexe I de l'accord de branche modifié du 7 octobre 2015, au sein du tableau « Soins courants », la ligne « Équilibre alimentaire et produits diététiques (sur prescription médicale et présentation d'une facture acquittée) » est supprimée.
 
-#### Article 2.3
+### Article 2.3 — Dentaire
 
-*Dentaire*
+> **Source :** Article 2.3 — Dentaire — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 À l'annexe I de l'accord de branche modifié du 7 octobre 2015, au sein du tableau « Dentaire », la note de bas de page n° 10, qui figure sur le tableau « Dentaire », ligne « Prothèses », est remplacée par le paragraphe suivant :
 
 « Application d'un plafond de prothèses dentaires hors équipement “ 100 % santé ” : pose de prothèses de nature temporaire ou permanente sur 2 dents, par an et par bénéficiaire. Au-delà de ce plafond de 2 dents, la prise en charge est limitée à 125 % de la BR des frais de soins dentaires prothétiques (art. D. 911-1,2° du code de la sécurité sociale). »
 
-#### Article 2.4
+### Article 2.4 — Optique
 
-*Optique*
+> **Source :** Article 2.4 — Optique — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 À l'annexe I de l'accord de branche modifié du 7 octobre 2015, le tableau « Optique » est remplacé comme suit :
 
@@ -14651,15 +15097,15 @@ Cette ligne additionnelle est ainsi rédigée :
 
  https://www.legifrance.gouv.fr/download/file/pdf/boc_20250015_0000_0005.pdf/BOCC
 
-#### Article 3
+### Article 3 — Action sociale
 
-*Action sociale*
+> **Source :** Article 3 — Action sociale — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 *(pas de contenu)*
 
-#### Article 3.1
+### Article 3.1 — Garanties de l'action sociale
 
-*Garanties de l'action sociale*
+> **Source :** Article 3.1 — Garanties de l'action sociale — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 L'article 1.3.2 de l'accord de branche modifié du 7 octobre 2015 relatif à la mise en place d'un régime de complémentaire santé est ainsi rédigé :
 
@@ -14691,9 +15137,9 @@ Ces actions s'intègrent dans le cadre global de la politique santé-prévention
 
 Il est rappelé que ces actions prioritaires ainsi que la communication associée à leur déploiement, sont financées selon les modalités définies au 1er alinéa de l'article 1.3.5. »
 
-#### Article 3.2
+### Article 3.2 — Financement de l'action sociale
 
-*Financement de l'action sociale*
+> **Source :** Article 3.2 — Financement de l'action sociale — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 L'article 1.3.5 de l'accord de branche modifié du 7 octobre 2015 est ainsi rédigé :
 
@@ -14703,23 +15149,23 @@ Le fonds d'action sociale des organismes assureurs recommandés bénéficie excl
 
 Les actions visées à l'article 1.3.2 ainsi que la communication y afférente sont financées par le fonds susmentionné. »
 
-#### Article 4
+### Article 4 — Bénéficiaires de la complémentaire santé solidaire
 
-*Bénéficiaires de la complémentaire santé solidaire*
+> **Source :** Article 4 — Bénéficiaires de la complémentaire santé solidaire — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 Afin de mettre en conformité les stipulations conventionnelles avec les dispositions légales et réglementaires en vigueur, le d de l'article 1.1.2 de l'accord de branche modifié du 7 octobre 2015 est remplacé par le paragraphe suivant :
 
 « d) Les salariés bénéficiant d'une couverture complémentaire santé en application de l'article L. 861-3 du code de la sécurité sociale (complémentaire santé solidaire). La dispense d'adhésion est valable uniquement jusqu'à la date à laquelle ces salariés cessent de bénéficier de cette couverture ou de cette aide. »
 
-#### Article 5
+### Article 5 — Versement santé
 
-*Versement santé*
+> **Source :** Article 5 — Versement santé — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 *(pas de contenu)*
 
-#### Article 5.1
+### Article 5.1 — Modalités de calcul
 
-*Modalités de calcul*
+> **Source :** Article 5.1 — Modalités de calcul — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 L'article 3.4 de l'accord de branche modifié du 7 octobre 2015 est ainsi rédigé :
 
@@ -14729,15 +15175,15 @@ En tout état de cause, le “ versement santé ” perçu par le salarié au se
 
 (1) Sur les modalités de calcul du versement santé, voir le Bulletin officiel de la sécurité sociale, point 850. »
 
-#### Article 5.2
+### Article 5.2 — Suppression de l'annexe IV
 
-*Suppression de l'annexe IV*
+> **Source :** Article 5.2 — Suppression de l'annexe IV — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 L'annexe IV à l'accord de branche modifié du 7 octobre 2015 est supprimée.
 
-#### Article 6
+### Article 6 — Champ d'application. Durée. Entrée en vigueur. Formalités et extension
 
-*Champ d'application. Durée. Entrée en vigueur. Formalités et extension*
+> **Source :** Article 6 — Champ d'application. Durée. Entrée en vigueur. Formalités et extension — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 Le présent avenant s'applique sur l'ensemble du territoire national à tous les salariés employés, techniciens, agents de maîtrise et cadres salariés des entreprises dont l'activité est comprise dans le champ d'application de la convention collective des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils du 15 décembre 1987 (IDCC 1486).
 
@@ -14747,17 +15193,17 @@ Le présent avenant s'incorpore à l'accord de branche du 7 octobre 2015 relatif
 
 Le présent avenant est notifié et déposé dans les conditions prévues par le code du travail et fera l'objet d'une demande d'extension par la partie la plus diligente auprès du ministère du travail.
 
-#### Article 7
+### Article 7 — Stipulations pour les entreprises de moins de 50 salariés
 
-*Stipulations pour les entreprises de moins de 50 salariés*
+> **Source :** Article 7 — Stipulations pour les entreprises de moins de 50 salariés — Avenant n° 8 du 14 février 2025 à l'accord du 7 octobre 2015 relatif à la modernisation du régime de complémentaire santé au 1er janvier 2026.
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de dispositions spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-### Accord du 30 avril 2025 relatif à la mise en place d'un mécanisme expérimental de participation au sein des entreprises non soumises au dispositif de droit commun
+## Accord du 30 avril 2025 relatif à la mise en place d'un mécanisme expérimental de participation au sein des entreprises non soumises au dispositif de droit commun
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 30 avril 2025 relatif à la mise en place d'un mécanisme expérimental de participation au sein des entreprises non soumises au dispositif de droit commun.
 
 L'article 5 de la loi n° 2023-1107 du 29 novembre 2023, qui fait suite aux orientations définies par l'accord national interprofessionnel du 10 février 2023, impose une obligation expérimentale de « partage de la valeur » aux entreprises d'au moins 11 salariés qui ne sont pas tenues de mettre en place un régime de participation et dont le bénéfice net fiscal est, a minima, égal à 1 % de leur chiffre d'affaires pendant au moins 3 exercices consécutifs.
 
@@ -14779,9 +15225,9 @@ Conscients des enjeux d'attractivité afférents au partage de la valeur et souc
 
 Ces stipulations conventionnelles visent ainsi à offrir de nouveaux outils aux entreprises suscitées, qui pourront désormais se saisir d'une formule de calcul de la réserve spéciale de participation innovante, et adaptée à leurs particularités.
 
-#### Article 1er
+### Article 1er — Champ d'application de l'accord
 
-*Champ d'application de l'accord*
+> **Source :** Article 1er — Champ d'application de l'accord — Accord du 30 avril 2025 relatif à la mise en place d'un mécanisme expérimental de participation au sein des entreprises non soumises au dispositif de droit commun.
 
 Conformément aux termes de l'article 4 de la loi n° 2023-1107 du 29 novembre 2023, les entreprises entrant dans le champ d'application du présent accord sont celles qui relèvent de la branche des bureaux d'études, des cabinets d'ingénieurs-conseils et des sociétés de conseils (IDCC 1486), lorsqu'elles ne sont pas soumises à l'obligation de mettre en place un dispositif de participation.
 
@@ -14797,9 +15243,9 @@ Ces entreprises sont, en substance, celles :
 
 – ou qui bénéficient, à la date d'entrée en vigueur de la loi, du report de 2 ans à leur création, si cette dernière ne résulte pas d'une fusion, totale ou partielle, d'entreprises préexistantes.
 
-#### Article 2
+### Article 2 — Formule de calcul dérogatoire de la réserve spéciale de participation
 
-*Formule de calcul dérogatoire de la réserve spéciale de participation*
+> **Source :** Article 2 — Formule de calcul dérogatoire de la réserve spéciale de participation — Accord du 30 avril 2025 relatif à la mise en place d'un mécanisme expérimental de participation au sein des entreprises non soumises au dispositif de droit commun.
 
 En application de l'article 4, I de la loi n° 2023-1107 du 29 novembre 2023, les partenaires sociaux conviennent de proposer une formule de calcul de la réserve spéciale de participation (RSP) dérogeant à la règle de l'équivalence des avantages consentis aux bénéficiaires portée par l'article L. 3324-2 du code du travail.
 
@@ -14825,9 +15271,9 @@ Conformément aux dispositions de cet article, les 4 plafonds alternatifs sont
 
 – la moitié dudit bénéfice net fiscal.
 
-#### Article 3
+### Article 3 — Mise en œuvre de l'accord
 
-*Mise en œuvre de l'accord*
+> **Source :** Article 3 — Mise en œuvre de l'accord — Accord du 30 avril 2025 relatif à la mise en place d'un mécanisme expérimental de participation au sein des entreprises non soumises au dispositif de droit commun.
 
 En vertu de l'article 4, I, 1° de la loi n° 2023-1107 du 29 novembre 2023, l'employeur qui souhaite mettre en œuvre un accord de branche agréé portant une formule de calcul de la réserve spéciale de participation dérogatoire respecte les modalités prévues par l'article L. 3322-9 du code du travail.
 
@@ -14845,9 +15291,9 @@ Ces entreprises peuvent s'appuyer sur le modèle d'accord-type figurant en annex
 
 Les entreprises de moins de 50 salariés peuvent, quant à elles, passer par le biais d'un document unilatéral d'adhésion à un accord de branche, après information du comité social et économique ainsi que des salariés. Elles s'appuient pour cela sur le modèle figurant en annexe 2 du présent texte, au sein duquel elles doivent choisir, parmi les options proposées, celles qui leur semblent les plus adaptées. La décision unilatérale adoptée doit, en tout état de cause, être conforme à ce modèle.
 
-#### Article 4
+### Article 4 — Suivi de l'accord
 
-*Suivi de l'accord*
+> **Source :** Article 4 — Suivi de l'accord — Accord du 30 avril 2025 relatif à la mise en place d'un mécanisme expérimental de participation au sein des entreprises non soumises au dispositif de droit commun.
 
 Le présent accord fera l'objet d'un suivi régulier par la commission paritaire permanente de négociation et d'interprétation (CPPNI) de la branche.
 
@@ -14867,9 +15313,9 @@ Les partenaires sociaux signataires du présent accord s'engagent par ailleurs �
 
 Ces éléments seront transmis aux pouvoirs publics et aux partenaires sociaux signataires de l'accord national interprofessionnel du 10 février 2023 relatif au partage de la valeur au sein de l'entreprise.
 
-#### Article 5
+### Article 5 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 5 — Stipulations juridiques et administratives — Accord du 30 avril 2025 relatif à la mise en place d'un mécanisme expérimental de participation au sein des entreprises non soumises au dispositif de droit commun.
 
 Champ d'application territorial et professionnel
 
@@ -14910,11 +15356,11 @@ Conformément aux alinéas 3 et 4 de l'article 3 du présent texte, l'annexe 2 a
 (1) Le 3e alinéa du paragraphe « Conditions de révision de l'accord » de l'article 5 est étendu sous réserve de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation (Cass. soc., 17 septembre 2003, n° 01-10706, 31 mai 2006 n° 04-14060, 8 juillet 2009 n° 08-41507), en vertu desquelles un accord collectif ne peut être conclu ou révisé sans que l'ensemble des organisations syndicales représentatives aient été invitées à sa négociation.
 (Arrêté du 18 septembre 2025 - art. 1)
 
-#### Annexes
+### Annexes
 
-##### Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale
+#### Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale
 
-###### Article (préambule / sans numéro)
+> **Source :** Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 Le présent accord est conclu entre, d'une part, (insérer le nom de la société ainsi que celui de son représentant).
 
@@ -14930,9 +15376,7 @@ Et, d'autre part, (en fonction des modalités de conclusion de l'accord [1]).
 
 – à la suite de la ratification, à la majorité des deux tiers du personnel, d'un projet de contrat proposé par l'employeur. S'il existe dans l'entreprise une ou plusieurs organisations syndicales représentatives ou un comité social et économique, la ratification est demandée conjointement par l'employeur et une ou plusieurs de ces organisations ou ce comité.
 
-###### Article (préambule / sans numéro)
-
-*Préambule*
+> **Source :** Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 L'article 4 de la loi n° 2023-1107 permet aux entreprises non soumises à l'obligation de mettre en place un dispositif de participation de développer le partage de leur valeur, en leur permettant d'opter pour une formule de calcul de leur réserve spéciale adaptée à leurs spécificités.
 
@@ -14940,9 +15384,9 @@ Soucieux de développer l'épargne salariale, les partenaires sociaux entendent 
 
 À toutes fins utiles, il est rappelé qu'un acte juridique distinct sera dédié à la mise en place d'un plan d'épargne salariale, en vue de réceptionner les sommes résultant du partage de la réserve visée au présent accord.
 
-###### Article 1er
+##### Article 1er — Champ d'application
 
-*Champ d'application*
+> **Source :** Article 1er — Champ d'application — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 Le présent accord est applicable à l'ensemble des salariés de l'entreprise dont l'ancienneté est au moins égale à 3 mois.
 
@@ -14952,9 +15396,9 @@ L'ancienneté s'apprécie à la date de clôture de l'exercice considéré ou, e
 
 Conformément aux dispositions de l'article L. 3323-6 du code du travail, le champ d'application est étendu aux mandataires sociaux non-salariés, ainsi qu'aux conjoints collaborateurs, dans les conditions définies par la réglementation.
 
-###### Article 2
+##### Article 2 — Calcul de la réserve spéciale de participation
 
-*Calcul de la réserve spéciale de participation*
+> **Source :** Article 2 — Calcul de la réserve spéciale de participation — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 La réserve spéciale de participation (RSP) est calculée sur la durée de l'exercice comptable en vigueur au sein de l'entreprise.
 
@@ -14982,9 +15426,9 @@ Le plafond retenu est : (choix de l'entreprise).
 
 □ Option 4 : la moitié du bénéfice net fiscal.
 
-###### Article 3
+##### Article 3 — Répartition de la réserve spéciale de participation (choix de l'entreprise)
 
-*Répartition de la réserve spéciale de participation (choix de l'entreprise)*
+> **Source :** Article 3 — Répartition de la réserve spéciale de participation (choix de l'entreprise) — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 En application de l'article L. 3324-5 du code du travail, la répartition de la réserve spéciale de participation est :
 
@@ -15056,9 +15500,9 @@ En cas d'arrivée en cours d'exercice, ce plafond est proratisé en fonction du 
 
 Les sommes qui n'auraient pu être distribuées en raison des règles de répartition ou de plafonnement seront réparties entre les salariés n'atteignant pas ledit plafond et ce selon les mêmes modalités de répartition. Les sommes ayant fait l'objet d'une nouvelle répartition qui, en raison du plafond individuel, n'auraient pu être mises en distribution demeurent dans la réserve spéciale de participation des salariés pour être réparties au cours des exercices ultérieurs.
 
-###### Article 4
+##### Article 4 — Affectation et versement de la réserve spéciale de participation
 
-*Affectation et versement de la réserve spéciale de participation*
+> **Source :** Article 4 — Affectation et versement de la réserve spéciale de participation — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 Les sommes constituant la réserve spéciale de participation sont versées au plus tard le dernier jour du 5e mois suivant la clôture de l'exercice. Au-delà, les sommes génèrent un intérêt de retard égal à 1,33 fois le taux moyen de rendement des obligations des sociétés privées.
 
@@ -15084,9 +15528,9 @@ Sur le plan d'épargne salariale.
 
 Les sommes affectées au plan d'épargne salariale deviennent exigibles après un délai de 5 ans à la suite du premier jour du 6e mois suivant la clôture de l'exercice au titre duquel les droits sont nés, sous réserve des cas de déblocage anticipé.
 
-###### Article 5
+##### Article 5 — Rappel des cas de déblocage anticipé
 
-*Rappel des cas de déblocage anticipé*
+> **Source :** Article 5 — Rappel des cas de déblocage anticipé — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 Les droits affectés au plan d'épargne salariale peuvent faire l'objet d'un déblocage anticipé, lors de la survenance de l'un des cas suivants :
 – mariage de l'intéressé ou conclusion d'un Pacs ;
@@ -15113,9 +15557,9 @@ Sauf dans les cas de cessation du contrat de travail, de décès du bénéficiai
 
 Le cas échéant, les droits affectés sur le plan d'épargne retraite peuvent faire l'objet d'un déblocage anticipé lors de la survenance de l'un des cas prévus par les dispositions en vigueur.
 
-###### Article 6
+##### Article 6 — Information des institutions de représentation du personnel (en présence d'un CSE)
 
-*Information des institutions de représentation du personnel (en présence d'un CSE)*
+> **Source :** Article 6 — Information des institutions de représentation du personnel (en présence d'un CSE) — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 Conformément à l'article D. 3323-13 du code du travail, dans les 6 mois qui suivent la clôture de chaque exercice, l'employeur présente un rapport au comité social et économique.
 
@@ -15123,9 +15567,9 @@ Ce rapport comporte notamment :
 – les éléments servant de base au calcul du montant de la réserve spéciale de participation des salariés pour l'exercice écoulé ;
 – des indications précises sur la gestion et l'utilisation des sommes affectées à cette réserve.
 
-###### Article 7
+##### Article 7 — Information des salariés
 
-*Information des salariés*
+> **Source :** Article 7 — Information des salariés — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 Tout salarié reçoit lors de son embauche un livret d'épargne salariale, qui présente notamment les dispositifs d'épargne salariale mis en place au sein de l'entreprise. Lorsqu'ils existent, le livret d'épargne salariale est également porté à la connaissance des représentants du personnel, le cas échéant en tant qu'élément de la base de données économiques sociales et environnementales (BDESE).
 
@@ -15150,9 +15594,9 @@ Conformément à l'article D. 3323-17 du code du travail, chaque salarié est in
 
 En application de l'article D. 3323-15 du même code, en l'absence de CSE, le rapport mentionné à l'article D. 3323-13 est adressé à chaque salarié dans les 6 mois qui suivent la clôture de chaque exercice.
 
-###### Article 8
+##### Article 8 — Durée de l'accord (choix de l'entreprise)
 
-*Durée de l'accord (choix de l'entreprise)*
+> **Source :** Article 8 — Durée de l'accord (choix de l'entreprise) — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 □   Option 1 : application annuelle.
 
@@ -15182,9 +15626,9 @@ Il cessera de produire ses effets le … …/ … …/ … … (31 décembre 202
 
 Il pourra être dénoncé dans les conditions prévues à l'article D. 3323-8 du code du travail.
 
-###### Article 9
+##### Article 9 — Révision
 
-*Révision*
+> **Source :** Article 9 — Révision — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 Chaque partie peut demander, par écrit, la révision de tout ou partie du présent accord, en indiquant les points de révision souhaités.
 
@@ -15192,9 +15636,9 @@ Le texte révisé ne peut concerner l'exercice en cours que si l'acte de révisi
 
 L'acte de révision ainsi conclu doit faire l'objet d'un dépôt dans les mêmes conditions que celles prévues dans le cadre de l'acte initial, sauf en cas de modifications des dispositions législatives et/ou réglementaires en la matière.
 
-###### Article 10
+##### Article 10 — Information de la commission paritaire permanente de négociation et d'interprétation
 
-*Information de la commission paritaire permanente de négociation et d'interprétation*
+> **Source :** Article 10 — Information de la commission paritaire permanente de négociation et d'interprétation — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 Conformément à l'article 4 de l'accord de branche du 30 avril 2025, la commission paritaire permanente de négociation et d'interprétation de la branche sera informée de la conclusion du présent acte au moyen du QR code figurant ci-après.
 
@@ -15202,9 +15646,9 @@ Conformément à l'article 4 de l'accord de branche du 30 avril 2025, la commiss
 
  https://www.legifrance.gouv.fr/download/file/pdf/boc_20250026_0000_0004.pdf/BOCC
 
-###### Article 11
+##### Article 11 — Dépôt
 
-*Dépôt*
+> **Source :** Article 11 — Dépôt — Annexe 1 Accord-type à destination des entreprises souhaitant négocier sur la participation expérimentale.
 
 Conformément aux articles L. 3323-4 et D. 3323-1 du code du travail, le présent accord est déposé sur la plate-forme de téléprocédure du ministère du travail ( https :// www. teleaccords. travail-emploi. gouv. fr/ PortailTeleprocedures/).
 
@@ -15212,11 +15656,9 @@ Le présent dispositif est également adressé par l'entreprise au greffe du con
 
 Il est établi en nombre suffisant pour remise à chacune des parties.
 
-##### Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés
+#### Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés
 
-###### Article (préambule / sans numéro)
-
-*Préambule*
+> **Source :** Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 L'article 4 de la loi n° 2023-1107 permet aux entreprises non soumises à l'obligation de mettre en place un dispositif de participation de développer le partage de leur valeur, en leur permettant d'opter pour une formule de calcul de leur réserve spéciale adaptée à leurs spécificités.
 
@@ -15224,9 +15666,9 @@ Soucieuse de développer l'épargne salariale, la direction de l'entreprise ente
 
 À toutes fins utiles, il est rappelé que la direction édictera un acte juridique distinct dédié à la mise en place d'un plan d'épargne salariale, en vue de réceptionner les sommes résultant du partage de la réserve visée au présent document.
 
-###### Article 1er
+##### Article 1er — Champ d'application
 
-*Champ d'application*
+> **Source :** Article 1er — Champ d'application — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 Le présent document est applicable à l'ensemble des salariés de l'entreprise dont l'ancienneté est au moins égale à 3 mois.
 
@@ -15236,9 +15678,9 @@ L'ancienneté s'apprécie à la date de clôture de l'exercice considéré ou, e
 
 Conformément aux dispositions de l'article L. 3323-6 du code du travail, le champ d'application est étendu aux mandataires sociaux non-salariés, ainsi qu'aux conjoints collaborateurs, dans les conditions définies par la réglementation.
 
-###### Article 2
+##### Article 2 — Calcul de la réserve spéciale de participation
 
-*Calcul de la réserve spéciale de participation*
+> **Source :** Article 2 — Calcul de la réserve spéciale de participation — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 La réserve spéciale de participation est calculée sur la durée de l'exercice comptable en vigueur au sein de l'entreprise.
 
@@ -15266,9 +15708,9 @@ Le plafond retenu est : (à remplir par l'entreprise).
 
 □ Option 4 : la moitié du bénéfice net fiscal.
 
-###### Article 3
+##### Article 3 — Répartition de la réserve spéciale de participation
 
-*Répartition de la réserve spéciale de participation*
+> **Source :** Article 3 — Répartition de la réserve spéciale de participation — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 En application de l'article L. 3324-5 du code du travail, la répartition de la réserve spéciale de participation est : (à remplir par l'entreprise).
 
@@ -15340,9 +15782,9 @@ En cas d'arrivée en cours d'exercice, ce plafond est proratisé en fonction du 
 
 Les sommes qui n'auraient pu être distribuées en raison des règles de répartition ou de plafonnement seront réparties entre les salariés n'atteignant pas ledit plafond et ce selon les mêmes modalités de répartition. Les sommes ayant fait l'objet d'une nouvelle répartition qui, en raison du plafond individuel, n'auraient pu être mises en distribution demeurent dans la réserve spéciale de participation des salariés pour être réparties au cours des exercices ultérieurs.
 
-###### Article 4
+##### Article 4 — Affectation et versement de la réserve spéciale de participation
 
-*Affectation et versement de la réserve spéciale de participation*
+> **Source :** Article 4 — Affectation et versement de la réserve spéciale de participation — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 Les sommes constituant la réserve spéciale de participation sont versées au plus tard le dernier jour du 5e mois suivant la clôture de l'exercice. Au-delà, les sommes génèrent un intérêt de retard égal à 1,33 fois le taux moyen de rendement des obligations des sociétés privées.
 
@@ -15368,9 +15810,9 @@ Sur le plan d'épargne salariale.
 
 Les sommes affectées au plan d'épargne salariale deviennent exigibles après un délai de 5 ans à la suite du premier jour du 6e mois suivant la clôture de l'exercice au titre duquel les droits sont nés, sous réserve des cas de déblocage anticipé.
 
-###### Article 5
+##### Article 5 — Rappel des cas de déblocage anticipé
 
-*Rappel des cas de déblocage anticipé*
+> **Source :** Article 5 — Rappel des cas de déblocage anticipé — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 Les droits affectés au plan d'épargne salariale peuvent faire l'objet d'un déblocage anticipé, lors de la survenance de l'un des cas suivants :
 – mariage de l'intéressé ou conclusion d'un Pacs ;
@@ -15397,9 +15839,9 @@ Sauf dans les cas de cessation du contrat de travail, de décès du bénéficiai
 
 Le cas échéant, les droits affectés sur le plan d'épargne retraite peuvent faire l'objet d'un déblocage anticipé lors de la survenance de l'un des cas prévus par les dispositions en vigueur.
 
-###### Article 6
+##### Article 6 — Information et consultation des institutions de représentation du personnel (en présence d'un CSE)
 
-*Information et consultation des institutions de représentation du personnel (en présence d'un CSE)*
+> **Source :** Article 6 — Information et consultation des institutions de représentation du personnel (en présence d'un CSE) — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 En application de l'article L. 3323-6 du code du travail, le comité social et économique (CSE) est consulté sur le projet d'assujettissement unilatéral à la participation au moins 15 jours avant le dépôt mentionné à l'article 7 du présent document.
 
@@ -15409,9 +15851,9 @@ Ce rapport comporte notamment :
 – les éléments servant de base au calcul du montant de la réserve spéciale de participation des salariés pour l'exercice écoulé ;
 – des indications précises sur la gestion et l'utilisation des sommes affectées à cette réserve.
 
-###### Article 7
+##### Article 7 — Information des salariés
 
-*Information des salariés*
+> **Source :** Article 7 — Information des salariés — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 Tout salarié reçoit lors de son embauche un livret d'épargne salariale, qui présente notamment les dispositifs d'épargne salariale mis en place au sein de l'entreprise. Lorsqu'ils existent, le livret d'épargne salariale est également porté à la connaissance des représentants du personnel, le cas échéant en tant qu'élément de la base de données économiques sociales et environnementales (BDESE).
 
@@ -15436,9 +15878,9 @@ Conformément à l'article D. 3323-17 du code du travail, chaque salarié est in
 
 En application de l'article D. 3323-15 du même code, en l'absence de CSE, le rapport mentionné à l'article D. 3323-13 est adressé à chaque salarié dans les 6 mois qui suivent la clôture de chaque exercice.
 
-###### Article 8
+##### Article 8 — Durée du document (choix de l'entreprise)
 
-*Durée du document (choix de l'entreprise)*
+> **Source :** Article 8 — Durée du document (choix de l'entreprise) — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 □ Option 1 : application annuelle.
 
@@ -15462,9 +15904,9 @@ Le présent document est édicté pour une durée déterminée. Il produira ses 
 
 Il cessera de produire ses effets le ……/……/…… (31 décembre 2027 pour le dernier exercice civil s'achevant avant le 29 novembre 2028).
 
-###### Article 9
+##### Article 9 — Information de la commission paritaire permanente de négociation et d'interprétation
 
-*Information de la commission paritaire permanente de négociation et d'interprétation*
+> **Source :** Article 9 — Information de la commission paritaire permanente de négociation et d'interprétation — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 Conformément à l'article 4 de l'accord de branche du 30 avril 2025, la commission paritaire permanente de négociation et d'interprétation de la branche sera informée de la conclusion du présent acte au moyen du QR code figurant ci-après.
 
@@ -15472,19 +15914,19 @@ Conformément à l'article 4 de l'accord de branche du 30 avril 2025, la commiss
 
  https://www.legifrance.gouv.fr/download/file/pdf/boc_20250026_0000_0004.pdf/BOCC
 
-###### Article 10
+##### Article 10 — Dépôt
 
-*Dépôt*
+> **Source :** Article 10 — Dépôt — Annexe 2 Décision unilatérale de l'employeur relative à la mise en place d'un dispositif expérimental de participation pour les entreprises de moins de 50 salariés.
 
 Conformément aux articles L. 3323-4 et D. 3323-1 du code du travail, le présent document est déposé sur la plate-forme de téléprocédure du ministère du travail (https :// www. teleaccords. travail-emploi. gouv. fr/ PortailTeleprocedures/).
 
 [En présence d'un CSE] Aux termes de l'article D. 3323-3 du code du travail, le procès-verbal résultant de la consultation mentionnée au 1er alinéa de l'article 5 du présent document est également transmis à l'autorité administrative selon les modalités définies ci-avant.
 
-### Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes
+## Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 L'égalité professionnelle entre les femmes et les hommes constitue, au-delà d'un principe légal, une condition essentielle de l'épanouissement des salariés, de l'attractivité et de l'innovation des entreprises.
 
@@ -15572,9 +16014,9 @@ Enfin, les partenaires sociaux entendent par cet accord rappeler leur attachemen
  (2) En application de l'article D. 2241-2 du code du travail. Sources : données Insee (DADS 31/12/2022) et données de l'opérateur de compétences Atlas 2023-2024.
  (3) Employés, techniciens, agents de maîtrise.
 
-#### Thème 1 Observer & diagnostiquer
+### Thème 1 Observer & diagnostiquer
 
-##### Article (préambule / sans numéro)
+> **Source :** Thème 1 Observer & diagnostiquer — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Les partenaires sociaux bénéficient des moyens nécessaires au suivi des évolutions en matière d'égalité professionnelle, permettant de poser les diagnostics nécessaires à la négociation périodique sur ce sujet.
 
@@ -15582,9 +16024,9 @@ Au-delà d'être mobilisés afin de respecter les obligations légales, ces outi
 
 Ces indicateurs doivent être mobilisés tant à l'appui du dialogue social d'entreprise que de celui de la branche.
 
-##### Article 1er
+#### Article 1er — Indicateurs à suivre dans les entreprises
 
-*Indicateurs à suivre dans les entreprises*
+> **Source :** Article 1er — Indicateurs à suivre dans les entreprises — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Dans les entreprises d'au moins 50 salariés, l'employeur publie chaque année l'ensemble des indicateurs relatifs aux écarts de rémunération entre les femmes et les hommes et aux actions mises en œuvre pour les supprimer, selon des modalités et une méthodologie réglementaire (1). Ces indicateurs peuvent être enrichis par les entreprises après accord avec les représentants des organisations syndicales représentatives dans l'entreprise.
 
@@ -15600,9 +16042,9 @@ Le contenu de la BDESE peut être fixé par accord d'entreprise. En l'absence d'
  (2) Comité social et économique.
  (3) Articles L. 2312-36, R. 2312-8 et R. 2312-9 du code du travail.
 
-##### Article 2
+#### Article 2 — Outils de suivi à disposition des partenaires sociaux de la branche
 
-*Outils de suivi à disposition des partenaires sociaux de la branche*
+> **Source :** Article 2 — Outils de suivi à disposition des partenaires sociaux de la branche — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Bilan de la négociation collective d'entreprise
 
@@ -15635,9 +16077,9 @@ Cette étude est disponible sur le site Internet de l'OPIIEC (6).
  (5) Observatoire des métiers du numérique, de l'ingénierie, du conseil et de l'événement.
  (6) OPIIEC, « L'attractivité des métiers du numérique et de l'ingénierie pour les femmes en France », 2023.
 
-#### Thème 2 Supprimer les écarts de salaire entre les femmes et les hommes
+### Thème 2 Supprimer les écarts de salaire entre les femmes et les hommes
 
-##### Article (préambule / sans numéro)
+> **Source :** Thème 2 Supprimer les écarts de salaire entre les femmes et les hommes — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Dans la branche, des écarts de salaire entre les femmes et les hommes subsistent, avec un écart brut moyen estimé à 18 % en 2023 (1). Ces écarts sont plus marqués chez les non-cadres (2) et peuvent apparaître dès les premières années de la vie professionnelle, notamment chez les moins de 26 ans.
 
@@ -15652,9 +16094,9 @@ Les partenaires sociaux entendent rappeler les obligations visant à prévenir, 
 (1) Rapport de situation comparée de branche 2025 (données Insee au 31/12/2022).
  (2) Chez les cadres, l'écart est de 2 %, tandis qu'il atteint 7 % chez les non-cadres.
 
-##### Article 3
+#### Article 3 — Garantir le respect des principes relatifs à l'égalité de rémunération
 
-*Garantir le respect des principes relatifs à l'égalité de rémunération*
+> **Source :** Article 3 — Garantir le respect des principes relatifs à l'égalité de rémunération — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Les partenaires sociaux rappellent (1) que tout employeur assure, pour un même travail ou pour un travail de valeur égale, l'égalité de rémunération entre les femmes et les hommes. Ce principe interdit toute discrimination de salaire fondée sur le sexe.
 
@@ -15708,9 +16150,9 @@ Les effectifs à temps partiel étant constitués d'une part significative de fe
 
 (2) Plateforme « Savoirs d'avenirs ».
 
-##### Article 4
+#### Article 4 — Mesurer et corriger les écarts de salaires
 
-*Mesurer et corriger les écarts de salaires*
+> **Source :** Article 4 — Mesurer et corriger les écarts de salaires — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Les partenaires sociaux rappellent la nécessité pour les entreprises de vérifier l'existence d'éventuelles disparités de salaire entre les femmes et les hommes non justifiées par des critères objectifs, par le biais des mesures suivantes (1).
 
@@ -15815,9 +16257,9 @@ Les entreprises peuvent se préparer à cette future législation, par exemple e
  (4) Article L. 2141-4 du code de la commande publique.
  (5) Base de données économiques, sociales et environnementales.
 
-#### Thème 3 Soutenir les carrières des femmes dans les métiers de la branche
+### Thème 3 Soutenir les carrières des femmes dans les métiers de la branche
 
-##### Article (préambule / sans numéro)
+> **Source :** Thème 3 Soutenir les carrières des femmes dans les métiers de la branche — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Malgré une hausse continue des niveaux de qualification et une présence accrue sur le marché du travail, les femmes restent sous-représentées dans les métiers de la branche, en particulier dans les fonctions techniques, d'encadrement et de direction.
 
@@ -15839,9 +16281,9 @@ Par cet accord, les partenaires sociaux entendent accroître la présence des fe
 
 (3) Entre 2006 et 2016, la valeur des entreprises du CAC 40 les plus féminisées a augmenté de 60 % (Institut Montaigne, « Agir pour la parité, performance à la clé », 2019). Les entreprises dotées de politiques d'égalité et de mixité voient leurs chances d'augmentation de leurs profits et de leur productivité croître de près de 60 % (Deloitte, « Diversité et inclusion : comment faire de l'inclusion un levier de transformation des organisations ? », 2020).
 
-##### Article 5
+#### Article 5 — Accroître la présence des femmes au sein des métiers de la branche
 
-*Accroître la présence des femmes au sein des métiers de la branche*
+> **Source :** Article 5 — Accroître la présence des femmes au sein des métiers de la branche — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 L'égalité professionnelle doit être intégrée à chaque étape de la gestion des ressources humaines. L'objectif d'une représentation équilibrée des femmes et des hommes dans les métiers de la branche relève de la gestion prévisionnelle des emplois et des compétences et de la responsabilité sociale de l'entreprise.
 
@@ -15965,9 +16407,9 @@ Dans le cadre de la gestion prévisionnelle des emplois et des compétences, les
 (5) Commission paritaire nationale de l et de la formation professionnelle
  (6) Article L. 2232-9 du code du travail.
 
-##### Article 6
+#### Article 6 — Favoriser l'égalité des carrières
 
-*Favoriser l'égalité des carrières*
+> **Source :** Article 6 — Favoriser l'égalité des carrières — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 L'égalité professionnelle suppose un accès équitable des femmes et des hommes aux opportunités d'évolution : postes à responsabilités, formation, promotion ou gouvernance. Cela implique une vigilance particulière sur les parcours des salariés à temps partiel et les critères de reconnaissance des compétences.
 
@@ -16029,9 +16471,9 @@ Les organismes assureurs chargés de mettre en œuvre ce régime sont tenus de p
 
 (2) Article L. 6315-1 du code du travail
 
-#### Thème 4 Favoriser l'équilibre entre vie professionnelle et vie familiale
+### Thème 4 Favoriser l'équilibre entre vie professionnelle et vie familiale
 
-##### Article (préambule / sans numéro)
+> **Source :** Thème 4 Favoriser l'équilibre entre vie professionnelle et vie familiale — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 La parentalité joue un rôle clef dans les écarts de salaire entre hommes et femmes, en raison des interruptions de carrière, des attentes sociales différenciées, de la valorisation de la flexibilité des horaires de travail et des inégalités dans la prise des congés parentaux. L'écart de salaire augmente avec l'âge (1) et le nombre d'enfants : en 2021, il atteignait près de 30 % entre les mères et les pères de 3 enfants ou plus (2) contre 6 % parmi les salariés sans enfant.
 
@@ -16052,9 +16494,9 @@ Les partenaires sociaux rappellent l'importance des principes de neutralité et 
  (5) DREES, « Paternité : organisation des temps professionnels et familiaux deux ans après la naissance d'un enfant », 2025.
  (6) En France, 60 % des aidants sont des femmes. 30 % des aidants actifs se sentent mis en difficulté professionnelle par leur situation, et 44 % estiment que leur employeur les accompagne mal 34 % qu'il les accompagne bien – OCIRP/VIAVOICE, « Les salariés aidants : coût ou richesse pour l'entreprise ? », 2023.
 
-##### Article 7
+#### Article 7 — Préserver la santé des salariées enceintes
 
-*Préserver la santé des salariées enceintes*
+> **Source :** Article 7 — Préserver la santé des salariées enceintes — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 La protection de la santé des salariées enceintes et l'adaptation de leurs conditions de travail constituent des enjeux essentiels de prévention et d'égalité. L'objectif est de garantir un environnement de travail respectueux de leur situation, à travers une application des droits existants et une attention particulière portée à l'organisation du travail.
 
@@ -16095,9 +16537,9 @@ Les partenaires sociaux encouragent les entreprises et leurs représentants du p
 
 (3) Article 20 de l'accord du 13/12/2022 relatif à l'organisation hybride du travail ; article 9.3 de la convention collective.
 
-##### Article 8
+#### Article 8 — Accompagner les salariés aidants
 
-*Accompagner les salariés aidants*
+> **Source :** Article 8 — Accompagner les salariés aidants — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Accompagner un proche en perte d'autonomie ou en situation de handicap peut peser sur la vie professionnelle, en particulier pour les femmes, majoritairement concernées. Adapter les conditions de travail et proposer des soutiens ciblés est essentiel pour prévenir les ruptures de carrière et faciliter le maintien dans l'emploi.
 
@@ -16115,9 +16557,9 @@ Les partenaires sociaux tiennent cependant à réaffirmer leurs engagements en l
 
 (1) Article 20 de l'accord du 13/12/2022 relatif à l'organisation hybride du travail.
 
-##### Article 9
+#### Article 9 — Anticiper et accompagner les congés liés à la parentalité
 
-*Anticiper et accompagner les congés liés à la parentalité*
+> **Source :** Article 9 — Anticiper et accompagner les congés liés à la parentalité — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Les congés liés à la parentalité permettent de concilier vie familiale et vie professionnelle. Leur mise en œuvre constitue un levier important pour prévenir les inégalités de carrière entre les femmes et les hommes, limite les discriminations parentales et sécurise les parcours. Pour en garantir l'effectivité, les entreprises sont invitées, dans la mesure de leurs moyens, à anticiper les départs et retours de congé, à outiller leurs équipes RH lorsqu'elles existent, à maintenir un dialogue avec les salariés concernés et à veiller à s'assurer que l'absence n'entraîne pas de rupture injustifiée dans le parcours professionnel.
 
@@ -16186,9 +16628,9 @@ Il est recommandé aux entreprises de sensibiliser les personnels des ressources
 (1) Articles L. 1225-27, L. 1225-57 et L. 1225-46-1 du code du travail.
  (2) Article L. 6315-1 du code du travail.
 
-##### Article 10
+#### Article 10 — Favoriser la conciliation des vies professionnelles et familiales
 
-*Favoriser la conciliation des vies professionnelles et familiales*
+> **Source :** Article 10 — Favoriser la conciliation des vies professionnelles et familiales — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 L'articulation entre le temps de vie personnelle et le temps de vie professionnelle constitue un levier essentiel pour garantir l'égalité professionnelle entre les femmes et les hommes en entreprise. Cette problématique concerne tous les salariés, femmes et hommes.
 
@@ -16267,11 +16709,11 @@ Avant toute décision de mobilité géographique, l'employeur s'assure auprès d
 (1) Article L. 3121-48 du code du travail.
  (2) Article 20 de l'accord du 13 décembre 2023 relatif à l'organisation hybride du travail.
 
-#### Thème 5 Stipulations juridiques et administratives
+### Thème 5 Stipulations juridiques et administratives
 
-##### Article 11
+#### Article 11 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 11 — Stipulations juridiques et administratives — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Portée de l'accord
 
@@ -16330,13 +16772,15 @@ En application de l'article L. 2261-23-1 du code du travail, les signataires con
 (1) L'alinéa 3 du paragraphe « Conditions de révision de l'accord » de l'article 11 est étendu sous réserve de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation (Cass. soc., 17 septembre 2003, n° 01-10706, 31 mai 2006 n° 04-14060, 8 juillet 2009 n° 08-41507), en vertu desquelles un accord collectif ne peut être conclu ou révisé sans que l'ensemble des organisations syndicales représentatives aient été invitées à sa négociation.
 (Arrêté du 21 juillet 2026 - art. 1)
 
-#### Annexe
+### Annexe
 
-##### Article (préambule / sans numéro)
+> **Source :** Annexe — Accord du 22 octobre 2025 relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes.
 
 Annexe
 
 Informations contenues dans la base
+
+ 
 
 | De 50 à 299 salariés | 300 salariés et plus |
 | --- | --- |
@@ -16345,11 +16789,11 @@ Informations contenues dans la base
 | C. Description de l'évolution des taux de promotion respectifs des femmes et des hommes : par métiers dans l'entreprise. | C. Stratégie d'action : – mesures prises au cours de l'année écoulée en vue d'assurer l'égalité professionnelle. Bilan des actions de l'année écoulée et de l'année précédente. Évaluation du niveau de réalisation des objectifs sur la base des indicateurs retenus. Explications sur les actions prévues non réalisées ; – objectifs de progression pour l'année à venir et indicateurs associés. Définition qualitative et quantitative des mesures permettant de les atteindre. Évaluation de leur coût. Échéancier des mesures prévues. |
 | D. Stratégie d'action : – mesures prises au cours de l'année écoulée en vue d'assurer l'égalité professionnelle. Bilan des actions de l'année écoulée et de l'année précédente. Évaluation du niveau de réalisation des objectifs sur la base des indicateurs retenus. Explications sur les actions prévues non réalisées ; – objectifs de progression pour l'année à venir et indicateurs associés. Définition qualitative et quantitative des mesures permettant de les atteindre. Évaluation de leur coût. Échéancier des mesures prévues. |  |
 
-### Avenant n° 49 du 22 octobre 2025 relatif à la parentalité et aux évènements familiaux
+## Avenant n° 49 du 22 octobre 2025 relatif à la parentalité et aux évènements familiaux
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 49 du 22 octobre 2025 relatif à la parentalité et aux évènements familiaux.
 
 Les parties signataires de la présente convention collective, réunies en date du 22 octobre 2025, ont conclu un accord relatif à la lutte contre les inégalités professionnelles entre les femmes et les hommes. Cet accord vise à promouvoir l'égalité de traitement et à garantir des conditions de travail équitables pour tous les salariés, sans distinction de sexe.
 
@@ -16357,9 +16801,9 @@ Les parties signataires de la présente convention collective, réunies en date 
 
 Le présent avenant a pour objet de définir les droits des parents avant et après la naissance de leur enfant, notamment les modalités spécifiques d'indemnisation du congé de maternité, du congé d'adoption et du congé de paternité et d'accueil de l'enfant, en conformité avec les dispositions légales en vigueur.
 
-#### Article 1er
+### Article 1er — Parentalité
 
-*Parentalité*
+> **Source :** Article 1er — Parentalité — Avenant n° 49 du 22 octobre 2025 relatif à la parentalité et aux évènements familiaux.
 
 L'article 9.3 est rédigé comme suit :
 
@@ -16423,9 +16867,9 @@ Allaitement
 
 Pendant 1 an à partir de la naissance de son enfant, la salariée allaitant son enfant dispose à cet effet d'une heure par jour durant les heures de travail. L'utilisation de ce droit n'entraîne pas de réduction de la rémunération. »
 
-#### Article 2
+### Article 2 — Modification de l'article 5.7 « Congés pour évènements familiaux »
 
-*Modification de l'article 5.7 « Congés pour évènements familiaux »*
+> **Source :** Article 2 — Modification de l'article 5.7 « Congés pour évènements familiaux » — Avenant n° 49 du 22 octobre 2025 relatif à la parentalité et aux évènements familiaux.
 
 L'article 5.7 « Congés pour évènements familiaux » est rédigé comme suit :
 
@@ -16451,9 +16895,9 @@ L'article 5.7 « Congés pour évènements familiaux » est rédigé comme suit 
 
 Si le décès du conjoint ou d'un ascendant ou d'un descendant au 1er degré intervient pendant que le salarié est en déplacement en France ou à l'étranger, l'entreprise prend en charge les frais de déplacement dans les conditions de l'article 11.4 de la convention collective. »
 
-#### Article 3
+### Article 3 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 3 — Stipulations juridiques et administratives — Avenant n° 49 du 22 octobre 2025 relatif à la parentalité et aux évènements familiaux.
 
 Détermination du champ territorial et professionnel
 
@@ -16496,11 +16940,11 @@ Le présent avenant peut être dénoncé, partiellement ou en totalité, par l'u
 (1) L'alinéa 4 du paragraphe « Conditions de révision de l'accord » de l'article 3 est étendu sous réserve de l'application des dispositions des articles L. 2231-1 et L. 2261-7 du code du travail, telles qu'interprétées par la jurisprudence de la Cour de cassation (Cass. soc., 17 septembre 2003, n° 01-10706, 31 mai 2006 n° 04-14060, 8 juillet 2009 n° 08-41507), en vertu desquelles un accord collectif ne peut être conclu ou révisé sans que l'ensemble des organisations syndicales représentatives aient été invitées à sa négociation.
 (Arrêté du 26 mars 2026 - art. 1)
 
-### Avenant n° 9 du 22 octobre 2025 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
+## Avenant n° 9 du 22 octobre 2025 à l'accord du 7 octobre 2015 relatif à la complémentaire santé
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 9 du 22 octobre 2025 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Conformément à l'article L. 912-1 du code de la sécurité sociale, et en application de l'article 1.2 de l'accord modifié du 7 octobre 2015 relatif à la complémentaire santé, les partenaires sociaux de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils ont procédé à un réexamen des modalités d'organisation de la recommandation d'organismes assureurs pour la mise en œuvre de leur régime frais de santé.
 
@@ -16508,18 +16952,20 @@ Aux termes d'une procédure de mise en concurrence préalable réalisée dans le
 
 En conséquence, les modifications qui suivent sont apportées à l'accord de branche modifié du 7 octobre 2015 relatif à la complémentaire santé.
 
-#### Article 1er
+### Article 1er — Rectification tenant à l'expression d'une garantie optique
 
-*Rectification tenant à l'expression d'une garantie optique*
+> **Source :** Article 1er — Rectification tenant à l'expression d'une garantie optique — Avenant n° 9 du 22 octobre 2025 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 À l'annexe I de l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé, au sein du tableau « optique : verres de “classe B” et montures », la ligne « sphère > 0 et (sphère + cylindre) > + 6 » (par verre unifocal, sphérique-cylindrique) est remplacée par les stipulations suivantes :
+
+ 
 
 | Sphère > 0 et (sphère + cylindre) > + 6 | 85 € | 75 € | 90 € | 75 € | 100 € | 75 € | 125 € | 90 € |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 
-#### Article 2
+### Article 2 — Choix des organismes assureurs recommandés et de la société apéritrice
 
-*Choix des organismes assureurs recommandés et de la société apéritrice*
+> **Source :** Article 2 — Choix des organismes assureurs recommandés et de la société apéritrice — Avenant n° 9 du 22 octobre 2025 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'annexe II de l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé est modifié de la manière suivante :
 
@@ -16545,9 +16991,9 @@ Société apéritrice
 
 La commission paritaire de la branche des bureaux d'études techniques, des cabinets d'ingénieurs conseils et des sociétés de conseils choisit Malakoff Humanis prévoyance en qualité de société apéritrice pour une durée de 3 ans. Au terme de cette durée, l'apérition pourra être reconduite à l'identique jusqu'au terme de la recommandation ou confiée à l'un des deux autres organismes recommandés cités à l'article 1er. »
 
-#### Article 3
+### Article 3 — Montant des cotisations
 
-*Montant des cotisations*
+> **Source :** Article 3 — Montant des cotisations — Avenant n° 9 du 22 octobre 2025 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 L'annexe III de l'accord de branche du 7 octobre 2015 relatif à la complémentaire santé est modifiée de la manière suivante :
 
@@ -16572,9 +17018,9 @@ Structure “Isolé/Famille obligatoire”
 
 Exemple : si une entreprise (hors Alsace-Moselle) choisit de rendre obligatoire l'option 1, alors le tarif est de 56,50 €. Si le salarié souhaite bénéficier de l'option 3, alors le tarif sera majoré de 39,00 €, soit 95,50 €. »
 
-#### Article 4
+### Article 4 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 4 — Stipulations juridiques et administratives — Avenant n° 9 du 22 octobre 2025 à l'accord du 7 octobre 2015 relatif à la complémentaire santé.
 
 Champ d'application territorial et professionnel
 
@@ -16600,11 +17046,11 @@ Stipulations spécifiques aux entreprises de moins de 50 salariés
 
 En application de l'article L. 2261-23-1 du code du travail, les signataires conviennent que le contenu du présent accord ne justifie pas de prévoir de stipulations spécifiques aux entreprises de moins de 50 salariés visées à l'article L. 2232-10-1 du code du travail, dans la mesure où l'accord a vocation à s'appliquer uniformément à toutes les entreprises de la branche, quelle que soit leur taille.
 
-### Avenant n° 8 du 16 décembre 2025 à l'accord du 27 mars 1997 relatif à la prévoyance lourde
+## Avenant n° 8 du 16 décembre 2025 à l'accord du 27 mars 1997 relatif à la prévoyance lourde
 
-#### Préambule
+### Préambule
 
-##### Article (préambule / sans numéro)
+> **Source :** Préambule — Avenant n° 8 du 16 décembre 2025 à l'accord du 27 mars 1997 relatif à la prévoyance lourde.
 
 Afin de rééquilibrer les comptes du régime de prévoyance lourde, (1) les partenaires sociaux de la branche des bureaux d'études techniques, des cabinets d'ingénieurs-conseils et des sociétés de conseils ont engagé des travaux paritaires visant à moderniser les garanties applicables aux salariés, et à repenser l'architecture du dispositif.
 
@@ -16626,23 +17072,23 @@ En conséquence, les modifications qui suivent sont apportées à l'accord de br
 
 (Arrêté du 21 mai 2026 - art. 1)
 
-#### Article 1er
+### Article 1er — Modification des modalités de calcul du capital décès
 
-*Modification des modalités de calcul du capital décès*
+> **Source :** Article 1er — Modification des modalités de calcul du capital décès — Avenant n° 8 du 16 décembre 2025 à l'accord du 27 mars 1997 relatif à la prévoyance lourde.
 
 Au 1er alinéa de l'article 3.2 de l'accord du 27 mars 1997, les occurrences « 170 » sont remplacées par « 200 ». La valeur « 340 » est remplacée par la valeur « 300 ».
 
-#### Article 2
+### Article 2 — Modification des modalités de revalorisation des prestations périodiques
 
-*Modification des modalités de revalorisation des prestations périodiques*
+> **Source :** Article 2 — Modification des modalités de revalorisation des prestations périodiques — Avenant n° 8 du 16 décembre 2025 à l'accord du 27 mars 1997 relatif à la prévoyance lourde.
 
 L'article 9 de l'accord du 27 mars 1997 est remplacé par les stipulations suivantes :
 
 « L'ensemble des prestations pourra être revalorisé conformément aux termes de la convention d'assurance et de gestion du régime. »
 
-#### Article 3
+### Article 3 — Intégration d'une garantie d'assistance aux proches aidants
 
-*Intégration d'une garantie d'assistance aux proches aidants*
+> **Source :** Article 3 — Intégration d'une garantie d'assistance aux proches aidants — Avenant n° 8 du 16 décembre 2025 à l'accord du 27 mars 1997 relatif à la prévoyance lourde.
 
 Après l'article 9 de l'accord du 27 mars 1997, il est inséré un nouveau titre, comportant un article 10 ainsi rédigé :
 
@@ -16656,9 +17102,9 @@ Cette garantie comprend nécessairement un service d'information et d'orientatio
 
 La numérotation des articles suivants est modifiée en conséquence.
 
-#### Article 4
+### Article 4 — Fonctionnement du comité paritaire de surveillance
 
-*Fonctionnement du comité paritaire de surveillance*
+> **Source :** Article 4 — Fonctionnement du comité paritaire de surveillance — Avenant n° 8 du 16 décembre 2025 à l'accord du 27 mars 1997 relatif à la prévoyance lourde.
 
 Après l'article 10 de l'accord du 27 mars 1997 ci-avant créé, il est inséré un nouveau titre, comportant un article 11 ainsi rédigé :
 
@@ -16706,9 +17152,9 @@ Sur demande du comité, les représentants des organismes assistent aux réunion
 
 (Arrêté du 21 mai 2026 - art. 1)
 
-#### Article 5
+### Article 5 — Modification des cotisations
 
-*Modification des cotisations*
+> **Source :** Article 5 — Modification des cotisations — Avenant n° 8 du 16 décembre 2025 à l'accord du 27 mars 1997 relatif à la prévoyance lourde.
 
 Le 2 de l'annexe 1 à l'accord du 27 mars 1997 est rédigé comme suit :
 
@@ -16718,9 +17164,9 @@ Le 2 de l'annexe 1 à l'accord du 27 mars 1997 est rédigé comme suit :
 
 – sur la tranche 2 du salaire brut : 1,10 %. »
 
-#### Article 6
+### Article 6 — Stipulations juridiques et administratives
 
-*Stipulations juridiques et administratives*
+> **Source :** Article 6 — Stipulations juridiques et administratives — Avenant n° 8 du 16 décembre 2025 à l'accord du 27 mars 1997 relatif à la prévoyance lourde.
 
 Champ d'application territorial et professionnel
 
