@@ -1,110 +1,62 @@
-# Moteur RAG multi-corpus
+# Assistant convention collective Syntec — branche `corpus/syntec`
 
-Un seul moteur d'application **RAG** (Retrieval-Augmented Generation), décliné sur **trois cas d'usage
-métier réels** — un projet vitrine qui montre une logique d'architecture, pas trois démos isolées.
+Assistant RAG qui répond en langage naturel aux questions sur la **convention
+collective Syntec** (IDCC 1486) — préavis, période d'essai, forfait jours,
+grilles de classification ETAM et ingénieurs/cadres, indemnités. Chaque réponse
+**cite l'article d'origine**.
 
-| Corpus | Sujet | Cible |
+> ⚠️ **Non-conseil** — Assistant à but démonstratif. Ne remplace pas un avis
+> d'expert ou juridique. Une convention collective évolue par avenants :
+> vérifier la version en vigueur avant toute décision RH.
+
+Cette branche ne contient que le corpus (`data/`). Le moteur, l'architecture
+multi-branches et la stack sont décrits dans le [README de `main`](https://github.com/Alex6460064/RAG-multi_corpus/blob/main/README.md).
+
+---
+
+## Corpus
+
+**Corpus arrêté au 29 août 2026.** Ce n'est pas la date des textes : c'est la
+date de dernière synchronisation de la source. Une convention collective vit par
+avenants successifs — toujours revérifier sur Légifrance.
+
+Seuls les **articles en vigueur** sont indexés (états `VIGUEUR`, `VIGUEUR_ETEN`,
+`VIGUEUR_NON_ETEN`) ; les articles abrogés ou périmés sont exclus par la source.
+
+| Document | Contenu | Source |
 |---|---|---|
-| **NIS2** | Conformité cyber : directive (UE) 2022/2555, loi française de transposition, guides ANSSI | Dirigeant / RSSI de PME nouvellement soumis à NIS2 |
-| **PLU d'Anglet** | Plan Local d'Urbanisme : zonage et règles de construction | Particulier, artisan ou architecte du Pays Basque |
-| **Convention Syntec** | Convention collective IDCC 1486 : préavis, forfait jours, classifications | Salarié ou RH d'ESN |
+| `01-texte-de-base.md` | Texte de base, refondu par l'avenant n° 46 du 16/07/2021 | [Légifrance, KALICONT000005635173](https://www.legifrance.gouv.fr/conv_coll/id/KALITEXT000005679895/?idConteneur=KALICONT000005635173) |
+| `02-textes-attaches.md` | Textes attachés : annexes classification (ETAM, ingénieurs et cadres, enquêteurs) et avenants thématiques en vigueur | idem |
+| `03-textes-salaires.md` | Textes salaires : valeur du point, grilles d'appointements minimaux | idem |
+| `00-source-corpus-syntec.md` | Note de contexte datée : périmètre, source, points de vigilance | synthèse |
 
-Chaque assistant répond en langage naturel **avec citation de l'article source**, et affiche un bandeau
-rappelant sa nature démonstrative.
+**Récupération** : le texte officiel Légifrance (conteneur KALI
+`KALICONT000005635173`) est republié sous forme structurée par le jeu de données
+ouvert [`@socialgouv/kali-data`](https://github.com/SocialGouv/kali-data)
+(fichier `KALICONT000005635173.json`, base KALI de la DILA). Converti en Markdown
+en conservant les numéros d'article pour la citation de source.
 
-> ⚠️ **Non-conseil** — Ces assistants ont un but démonstratif. Ils ne remplacent pas un avis d'expert
-> ou juridique. Chaque corpus a une date d'arrêt : vérifier la version en vigueur avant toute décision.
-
----
-
-## Architecture
-
-Un dépôt, un moteur partagé, trois branches de contenu, trois déploiements Vercel indépendants.
-
-```
-main                     → code de l'application (moteur RAG partagé)
-├── corpus/nis2          → data/ : textes NIS2 + guides ANSSI
-├── corpus/plu-anglet    → data/ : PLU d'Anglet
-└── corpus/syntec        → data/ : convention Syntec (IDCC 1486)
-```
-
-- La branche **`main`** porte **tout le code** : interface de chat, logique de récupération, configuration.
-- Chaque branche **`corpus/*`** ne contient que ses documents sources dans `data/`.
-- Le moteur évolue sur `main`, puis se propage aux branches de contenu par `git merge main`.
-  **La logique n'est jamais réécrite trois fois.**
-- Chaque branche est connectée à son propre projet Vercel → une URL publique et une clé API par corpus.
+> **Volontairement hors corpus** : le code du travail, les accords d'entreprise
+> et tout contrat de travail individuel. L'assistant raisonne uniquement sur le
+> texte conventionnel de branche.
 
 ---
 
-## Stack
+## Variables d'environnement (projet Vercel de cette branche)
 
-- [Next.js](https://nextjs.org/) 16 (App Router) + TypeScript strict + Tailwind CSS 4
-- [LlamaIndex.TS](https://ts.llamaindex.ai/) — **indexation et récupération uniquement** (découpe, embeddings, index vectoriel, retriever)
-- Génération + streaming : route API Next.js, flux NDJSON maison (aucune dépendance UI tierce)
-- [`react-markdown`](https://github.com/remarkjs/react-markdown) pour le rendu des réponses
-- Déploiement : [Vercel](https://vercel.com/) (un projet par branche)
-- LLM : OpenAI (`gpt-4o-mini`) via clé API en variable d'environnement ; embeddings `text-embedding-3-small`
+| Variable | Valeur |
+|---|---|
+| `OPENAI_API_KEY` | *(clé du projet, plafond de dépense conseillé)* |
+| `NEXT_PUBLIC_CORPUS_NAME` | `Convention collective Syntec (IDCC 1486)` |
+| `NEXT_PUBLIC_CORPUS_CUTOFF` | `corpus arrêté au 29 août 2026 — texte de base (avenant n° 46 du 16/07/2021), annexes et avenants en vigueur ; une convention évolue par avenants, vérifier la version en vigueur` |
+| `NEXT_PUBLIC_CORPUS_SOURCE_LABEL` | `Convention collective nationale Syntec (IDCC 1486, brochure JO 3018) — Légifrance / base KALI` |
+| `NEXT_PUBLIC_STARTER_QUESTIONS` | `["Quelle est la durée de la période d'essai d'un ingénieur cadre ?", "Quel préavis en cas de démission ?", "Comment fonctionne le forfait jours chez Syntec ?", "Comment lire la grille de classification ETAM ?"]` |
 
-> **Décision technique.** Le projet a d'abord été scaffodé avec `create-llama`. Sa version courante
-> impose un serveur `@llamaindex/server` non adapté à un déploiement Vercel par branche, et son mode
-> `eject` produit du code cassé (dépendances désynchronisées de leurs propres plages de versions). Le
-> moteur a donc été monté directement sur `create-next-app` + `LlamaIndex.TS`, à périmètre maîtrisé.
-> `create-llama` reste la référence d'inspiration (licence MIT).
+Build : `npm run generate && npm run build` (l'index `storage/` est régénéré au
+build, jamais committé).
 
 ---
 
-## Mise en route (développement)
+## Démo
 
-```bash
-# 1. Cloner et se placer sur la branche du corpus voulu
-git clone https://github.com/Alex6460064/RAG-multi_corpus.git
-cd RAG-multi_corpus
-git checkout corpus/nis2
-
-# 2. Installer
-npm install
-
-# 3. Configurer la clé API
-cp .env.example .env.local   # puis renseigner OPENAI_API_KEY (plafond de dépense conseillé)
-
-# 4. Générer l'index vectoriel à partir de data/
-npm run generate
-
-# 5. Lancer en local
-npm run dev
-```
-
-Scripts : `dev`, `build`, `start`, `generate`, `lint`, `typecheck`.
-
-### Déploiement Vercel
-
-Un projet Vercel par branche. Commande de build :
-
-```
-npm run generate && npm run build
-```
-
-L'index (`storage/`) est régénéré à chaque build, jamais commité. `next.config.ts` force son
-inclusion dans la fonction serverless (`outputFileTracingIncludes`). Variables d'environnement à
-définir par projet : `OPENAI_API_KEY`, et les `NEXT_PUBLIC_CORPUS_*` propres au corpus (voir
-`.env.example`).
-
----
-
-## Sources des corpus
-
-Tous les corpus sont constitués de **textes officiels et publics**. Détail des sources, dates d'arrêt
-et points de vigilance par corpus : voir [`CONTEXTE.md`](./CONTEXTE.md) et le README propre à chaque
-branche `corpus/*`.
-
-- **NIS2** — EUR-Lex (directive 2022/2555), cyber.gouv.fr / ANSSI (guides). La loi française de transposition n'est pas promulguée à ce jour : elle sera ajoutée au corpus dès sa publication.
-- **PLU Anglet** — Géoportail de l'Urbanisme, portail géomatique Communauté Pays Basque
-- **Syntec** — Légifrance (IDCC 1486, brochure 3018) et avenants en vigueur
-
----
-
-## Crédits
-
-Moteur RAG construit avec [LlamaIndex.TS](https://ts.llamaindex.ai/) (MIT), sur une base
-[create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Inspiré de
-[create-llama](https://github.com/run-llama/create-llama) (LlamaIndex, MIT).
+*(lien Vercel à ajouter)*
