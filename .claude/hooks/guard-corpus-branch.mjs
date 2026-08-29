@@ -1,9 +1,15 @@
 #!/usr/bin/env node
 // PreToolUse (Edit|Write|MultiEdit|NotebookEdit).
 // Protege la regle multi-branches de CLAUDE.md : sur une branche corpus/*, seuls
-// data/, .claude/ et README.md sont modifiables. Le code applicatif ne vit que sur
-// main et se propage aux branches de contenu par `git merge main` — jamais reecrit
-// dans une branche corpus/*.
+// data/, .claude/, README.md et le script d'ETL propre au corpus
+// (scripts/build-corpus-<nom>.mjs) sont modifiables. Le code applicatif partage
+// ne vit que sur main et se propage aux branches de contenu par `git merge main`
+// — jamais reecrit dans une branche corpus/*.
+//
+// L'ETL de corpus fait exception : c'est de l'outillage specifique a un corpus
+// (transformation des sources en Markdown indexable), inutile sur les autres
+// branches, donc il vit avec le corpus. Le moteur (indexation, recuperation, UI)
+// reste hors de portee.
 //
 // Sortie : rien (autorise) ou JSON permissionDecision=deny. Toute erreur interne
 // est non bloquante (exit 0) : le hook ne doit jamais empecher un travail legitime
@@ -55,8 +61,16 @@ if (rel.startsWith("..")) process.exit(0);
 const firstSegment = rel.split("/")[0];
 const allowedDirs = new Set(["data", ".claude"]);
 const allowedFiles = new Set(["README.md"]);
+// ETL propre a un corpus : scripts/build-corpus-<nom>.mjs uniquement.
+const corpusEtl = /^scripts\/build-corpus-[a-z0-9-]+\.mjs$/;
 
-if (allowedDirs.has(firstSegment) || allowedFiles.has(rel)) process.exit(0);
+if (
+  allowedDirs.has(firstSegment) ||
+  allowedFiles.has(rel) ||
+  corpusEtl.test(rel)
+) {
+  process.exit(0);
+}
 
 const reason =
   `Branche ${branch} : seuls data/, .claude/ et README.md sont editables ici. ` +
