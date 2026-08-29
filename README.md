@@ -15,7 +15,11 @@ multi-branches et la stack sont décrits dans le [README de `main`](https://gith
 
 ## Corpus
 
-**Date d'arrêt : août 2026.**
+**Corpus gelé en août 2026.** Ce n'est pas la date des documents : le texte
+normatif le plus récent est la directive elle-même (14/12/2022) ; les guides
+ANSSI vont jusqu'à 01/2025. C'est la date à laquelle l'état des sources a été
+arrêté pour l'indexation — voir le point de vigilance ci-dessous sur la loi
+française.
 
 | Document | Source | Version |
 |---|---|---|
@@ -44,7 +48,7 @@ publication au JORF, puis mettre à jour la date d'arrêt.
 |---|---|
 | `OPENAI_API_KEY` | *(clé du projet, plafond de dépense conseillé)* |
 | `NEXT_PUBLIC_CORPUS_NAME` | `Conformité NIS2` |
-| `NEXT_PUBLIC_CORPUS_CUTOFF` | `août 2026 — directive (UE) 2022/2555 et guides ANSSI (la loi française de transposition n'est pas encore promulguée)` |
+| `NEXT_PUBLIC_CORPUS_CUTOFF` | `corpus gelé en août 2026 — directive (UE) 2022/2555 (2022) et guides ANSSI (jusqu'à 01/2025) ; la loi française de transposition n'est pas encore promulguée` |
 | `NEXT_PUBLIC_CORPUS_SOURCE_LABEL` | `Directive (UE) 2022/2555 (EUR-Lex) · guides ANSSI : hygiène informatique, cybersécurité TPE-PME, administration sécurisée, EBIOS Risk Manager` |
 | `NEXT_PUBLIC_STARTER_QUESTIONS` | `["Mon entreprise est-elle concernée par NIS2 ?", "Quelles sont les obligations de notification d'incident ?", "Quelles sanctions en cas de non-conformité ?", "Par où commencer une démarche de mise en conformité ?"]` |
 
