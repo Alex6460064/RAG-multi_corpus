@@ -59,12 +59,12 @@ Double usage réel : une démo CV, et un premier prototype technique du pari Saa
 **Sources (textes officiels, publics)**
 
 - [Directive (UE) 2022/2555 (NIS2)](https://eur-lex.europa.eu/legal-content/FR/TXT/HTML/?uri=CELEX%3A32022L2555) — texte intégral en français, EUR-Lex
-- Loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité — **promulguée le 17 juillet 2026** ([JORF n° 0165 du 17/07/2026](https://www.legifrance.gouv.fr/jorf/jo/2026/07/17/0165)), entrée en vigueur au 1ᵉʳ octobre 2026. Pour le numéro de loi exact et le texte consolidé, partir du [dossier législatif Sénat](https://www.senat.fr/dossier-legislatif/pjl24-033.html)
-- [MonEspaceNIS2](https://monespacenis2.cyber.gouv.fr) — plateforme officielle d'auto-évaluation et d'enregistrement (échéance d'enregistrement : 31 mars 2027)
+- Loi relative à la résilience des infrastructures critiques et au renforcement de la cybersécurité (transposition NIS2 + REC + DORA) — **non promulguée au 29/08/2026** : adoptée en 1ʳᵉ lecture au Sénat le 12/03/2025 (texte n° 78), examen en séance à l'Assemblée nationale reporté à la rentrée de septembre 2026 ; la Commission européenne a saisi la CJUE le 08/07/2026 pour retard de transposition. Suivre le [dossier législatif Sénat](https://www.senat.fr/dossier-legislatif/pjl24-033.html) et le [dossier Assemblée nationale](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731). **À intégrer au corpus dès promulgation** (loi + décrets + arrêtés).
+- [MonEspaceNIS2](https://monespacenis2.cyber.gouv.fr) — plateforme officielle d'auto-évaluation et d'enregistrement (aucune date d'enregistrement officiellement fixée tant que la loi n'est pas promulguée)
 - Portail [cyber.gouv.fr](https://cyber.gouv.fr) de l'ANSSI — guide d'hygiène informatique, guide PSSI
 - Méthode EBIOS Risk Manager (analyse de risque ANSSI)
 
-**Vigilance** : la loi est promulguée mais les décrets d'application ne sont pas tous publiés — préciser dans le README la date d'arrêt du corpus (loi du 17/07/2026) et surveiller les décrets à venir.
+**Vigilance** : la loi française n'est pas promulguée — le corpus NIS2 ne contient que le droit de l'Union et les guides ANSSI. Le README de branche et le bandeau UI doivent le dire clairement (les obligations NIS2 ne sont pas encore applicables en droit français). Surveiller la promulgation puis les décrets. Voir la note datée `data/00-contexte-transposition-nis2-france.md` sur la branche `corpus/nis2`.
 
 **Pitch CV / LinkedIn** : *Assistant RAG répondant en langage naturel aux questions de conformité NIS2 pour PME — directive européenne, loi de transposition française et guides ANSSI — premier prototype technique de mon offre de conformité cyber pour PME.*
 
@@ -130,3 +130,4 @@ Le texte de la convention (IDCC 1486), pas un contrat personnel — aucune donn�
 ---
 
 *Sources vérifiées le 28 août 2026 : GitHub (run-llama/create-llama), EUR-Lex, Légifrance (JORF, KALICONT), Sénat (dossier législatif), cyber.gouv.fr / ANSSI, Géoportail de l'Urbanisme, Communauté Pays Basque.*
+*Mise à jour 29/08/2026 : le statut de la loi française de transposition NIS2 a été revérifié (Sénat, Assemblée nationale, FAQ MonEspaceNIS2) — non promulguée, contrairement à ce qu'indiquait la première version de ce document.*
