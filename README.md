@@ -1,110 +1,76 @@
-# Moteur RAG multi-corpus
+# Assistant urbanisme Anglet — branche `corpus/plu-anglet`
 
-Un seul moteur d'application **RAG** (Retrieval-Augmented Generation), décliné sur **trois cas d'usage
-métier réels** — un projet vitrine qui montre une logique d'architecture, pas trois démos isolées.
+Assistant RAG qui répond en langage naturel aux questions sur le **Plan Local
+d'Urbanisme d'Anglet** — ce qu'on a le droit de construire sur une parcelle :
+zones (UA à A), reculs, hauteurs, emprise au sol, stationnement, espaces verts,
+définitions du règlement, orientations d'aménagement. Chaque réponse **cite la
+zone et l'article d'origine**.
 
-| Corpus | Sujet | Cible |
+> ⚠️ **Non-conseil** — Assistant à but démonstratif. Ne remplace pas un avis
+> d'expert ou juridique. Un PLU évolue par modifications successives : vérifier
+> la version en vigueur et consulter le service urbanisme d'Anglet avant toute
+> décision. Pour le zonage précis d'une parcelle, se reporter au règlement
+> graphique sur le [Géoportail de l'Urbanisme](https://www.geoportail-urbanisme.gouv.fr).
+
+Cette branche ne contient que le corpus (`data/`) et son script d'ETL. Le moteur,
+l'architecture multi-branches et la stack sont décrits dans le
+[README de `main`](https://github.com/Alex6460064/RAG-multi_corpus/blob/main/README.md).
+
+---
+
+## Corpus
+
+**Corpus arrêté au 20 décembre 2024** (date de publication du dossier au
+Géoportail de l'Urbanisme). Version indexée : **PLU d'Anglet, modification n° 7
+approuvée le 7 décembre 2024** (révision générale approuvée le 14 juin 2013, sept
+modifications et quatre modifications simplifiées successives). Un PLU se modifie
+régulièrement — toujours revérifier la version en vigueur.
+
+Seules les **pièces écrites à valeur normative ou d'orientation** sont indexées :
+
+| Document | Contenu | Pièce du dossier |
 |---|---|---|
-| **NIS2** | Conformité cyber : directive (UE) 2022/2555, loi française de transposition, guides ANSSI | Dirigeant / RSSI de PME nouvellement soumis à NIS2 |
-| **PLU d'Anglet** | Plan Local d'Urbanisme : zonage et règles de construction | Particulier, artisan ou architecte du Pays Basque |
-| **Convention Syntec** | Convention collective IDCC 1486 : préavis, forfait jours, classifications | Salarié ou RH d'ESN |
+| `plu-anglet-01-reglement.md` | Règlement écrit : définitions et dispositions communes, puis règles des 14 zones (UA, UB, UC, UE, UI, UT, UV, IAU, IIAU, N, Ncu, Ner, Nk, A) article par article | 3.1 — Règlement d'urbanisme |
+| `plu-anglet-02-padd.md` | Projet d'aménagement et de développement durable — orientations générales (non directement opposable) | 2A — PADD |
+| `plu-anglet-03-oap.md` | Orientations d'aménagement et de programmation — 5 secteurs : Le Refuge, Melville Lynch, Sutar, Labordotte, Quatre Cantons (opposables dans un rapport de compatibilité) | 2B — OAP |
 
-Chaque assistant répond en langage naturel **avec citation de l'article source**, et affiche un bandeau
-rappelant sa nature démonstrative.
+**Source** : dossier complet du PLU téléchargé sur le
+[Géoportail de l'Urbanisme](https://www.geoportail-urbanisme.gouv.fr/map/) —
+commune d'Anglet, « télécharger le document complet »
+(`64024_PLU_20241207.zip`, publication du 20/12/2024).
 
-> ⚠️ **Non-conseil** — Ces assistants ont un but démonstratif. Ils ne remplacent pas un avis d'expert
-> ou juridique. Chaque corpus a une date d'arrêt : vérifier la version en vigueur avant toute décision.
+**Conversion** : les PDF officiels (nativement texte, non scannés) sont convertis
+en Markdown par [`scripts/build-corpus-plu-anglet.mjs`](./scripts/build-corpus-plu-anglet.mjs)
+(script d'ETL propre à cette branche, pas du code moteur) : `pdftotext -layout`,
+retrait des en-têtes / pieds de page et légendes de schémas répétés, des renvois
+de traçabilité « (Modification n° X) » et des pages de garde, reconstruction des
+paragraphes, et insertion d'une ligne `> **Source :**` sous chaque zone, article,
+définition et secteur pour que la citation survive au découpage en fragments.
+Commande de régénération en tête du script.
 
----
-
-## Architecture
-
-Un dépôt, un moteur partagé, trois branches de contenu, trois déploiements Vercel indépendants.
-
-```
-main                     → code de l'application (moteur RAG partagé)
-├── corpus/nis2          → data/ : textes NIS2 + guides ANSSI
-├── corpus/plu-anglet    → data/ : PLU d'Anglet
-└── corpus/syntec        → data/ : convention Syntec (IDCC 1486)
-```
-
-- La branche **`main`** porte **tout le code** : interface de chat, logique de récupération, configuration.
-- Chaque branche **`corpus/*`** ne contient que ses documents sources dans `data/`.
-- Le moteur évolue sur `main`, puis se propage aux branches de contenu par `git merge main`.
-  **La logique n'est jamais réécrite trois fois.**
-- Chaque branche est connectée à son propre projet Vercel → une URL publique et une clé API par corpus.
+> **Volontairement hors corpus** : les documents **graphiques** (règlement
+> graphique, plans de zonage, plans de masse — non exploitables en RAG texte),
+> le **rapport de présentation** (descriptif, non opposable, très volumineux) et
+> les **annexes** (servitudes d'utilité publique, réseaux, périmètres). Pour le
+> zonage d'une parcelle, l'assistant renvoie vers le Géoportail de l'Urbanisme.
 
 ---
 
-## Stack
+## Variables d'environnement (projet Vercel de cette branche)
 
-- [Next.js](https://nextjs.org/) 16 (App Router) + TypeScript strict + Tailwind CSS 4
-- [LlamaIndex.TS](https://ts.llamaindex.ai/) — **indexation et récupération uniquement** (découpe, embeddings, index vectoriel, retriever)
-- Génération + streaming : route API Next.js, flux NDJSON maison (aucune dépendance UI tierce)
-- [`react-markdown`](https://github.com/remarkjs/react-markdown) pour le rendu des réponses
-- Déploiement : [Vercel](https://vercel.com/) (un projet par branche)
-- LLM : OpenAI (`gpt-4o-mini`) via clé API en variable d'environnement ; embeddings `text-embedding-3-small`
+| Variable | Valeur |
+|---|---|
+| `OPENAI_API_KEY` | *(clé du projet, plafond de dépense conseillé)* |
+| `NEXT_PUBLIC_CORPUS_NAME` | `PLU d'Anglet` |
+| `NEXT_PUBLIC_CORPUS_CUTOFF` | `corpus arrêté au 20/12/2024 — PLU d'Anglet, modification n° 7 approuvée le 7 décembre 2024 ; un PLU évolue par modifications, vérifier la version en vigueur` |
+| `NEXT_PUBLIC_CORPUS_SOURCE_LABEL` | `Plan Local d'Urbanisme d'Anglet (règlement écrit, PADD, OAP) — Géoportail de l'Urbanisme, dossier 64024_PLU_20241207` |
+| `NEXT_PUBLIC_STARTER_QUESTIONS` | `["Quelle hauteur maximale puis-je construire en zone UB ?", "Comment se calcule l'emprise au sol ?", "Combien de places de stationnement dois-je prévoir pour un logement ?", "Que prévoit l'OAP du secteur du Refuge ?"]` |
 
-> **Décision technique.** Le projet a d'abord été scaffodé avec `create-llama`. Sa version courante
-> impose un serveur `@llamaindex/server` non adapté à un déploiement Vercel par branche, et son mode
-> `eject` produit du code cassé (dépendances désynchronisées de leurs propres plages de versions). Le
-> moteur a donc été monté directement sur `create-next-app` + `LlamaIndex.TS`, à périmètre maîtrisé.
-> `create-llama` reste la référence d'inspiration (licence MIT).
+Build : `npm run generate && npm run build` (l'index `storage/` est régénéré au
+build, jamais committé).
 
 ---
 
-## Mise en route (développement)
+## Démo
 
-```bash
-# 1. Cloner et se placer sur la branche du corpus voulu
-git clone https://github.com/Alex6460064/RAG-multi_corpus.git
-cd RAG-multi_corpus
-git checkout corpus/nis2
-
-# 2. Installer
-npm install
-
-# 3. Configurer la clé API
-cp .env.example .env.local   # puis renseigner OPENAI_API_KEY (plafond de dépense conseillé)
-
-# 4. Générer l'index vectoriel à partir de data/
-npm run generate
-
-# 5. Lancer en local
-npm run dev
-```
-
-Scripts : `dev`, `build`, `start`, `generate`, `lint`, `typecheck`.
-
-### Déploiement Vercel
-
-Un projet Vercel par branche. Commande de build :
-
-```
-npm run generate && npm run build
-```
-
-L'index (`storage/`) est régénéré à chaque build, jamais commité. `next.config.ts` force son
-inclusion dans la fonction serverless (`outputFileTracingIncludes`). Variables d'environnement à
-définir par projet : `OPENAI_API_KEY`, et les `NEXT_PUBLIC_CORPUS_*` propres au corpus (voir
-`.env.example`).
-
----
-
-## Sources des corpus
-
-Tous les corpus sont constitués de **textes officiels et publics**. Détail des sources, dates d'arrêt
-et points de vigilance par corpus : voir [`CONTEXTE.md`](./CONTEXTE.md) et le README propre à chaque
-branche `corpus/*`.
-
-- **NIS2** — EUR-Lex (directive 2022/2555), cyber.gouv.fr / ANSSI (guides). La loi française de transposition n'est pas promulguée à ce jour : elle sera ajoutée au corpus dès sa publication.
-- **PLU Anglet** — Géoportail de l'Urbanisme, portail géomatique Communauté Pays Basque
-- **Syntec** — Légifrance (IDCC 1486, brochure 3018) et avenants en vigueur
-
----
-
-## Crédits
-
-Moteur RAG construit avec [LlamaIndex.TS](https://ts.llamaindex.ai/) (MIT), sur une base
-[create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Inspiré de
-[create-llama](https://github.com/run-llama/create-llama) (LlamaIndex, MIT).
+*(lien Vercel à ajouter)*
