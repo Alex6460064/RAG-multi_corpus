@@ -25,3 +25,6 @@ npm-debug.log*
 Thumbs.db
 .vscode/
 .idea/
+
+# Claude Code — config partagée versionnée, réglages locaux ignorés
+.claude/settings.local.json
