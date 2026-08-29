@@ -38,11 +38,18 @@ main                     → code de l'application (moteur RAG partagé)
 
 ## Stack
 
-- Base de code : [run-llama/create-llama](https://github.com/run-llama/create-llama) (MIT) — `npx create-llama@latest`
-- [Next.js](https://nextjs.org/) (App Router) + TypeScript
-- [LlamaIndex.TS](https://ts.llamaindex.ai/) — configuration RAG standard (pas d'agents multiples en V1)
+- [Next.js](https://nextjs.org/) 16 (App Router) + TypeScript strict + Tailwind CSS 4
+- [LlamaIndex.TS](https://ts.llamaindex.ai/) — **indexation et récupération uniquement** (découpe, embeddings, index vectoriel, retriever)
+- Génération + streaming : route API Next.js, flux NDJSON maison (aucune dépendance UI tierce)
+- [`react-markdown`](https://github.com/remarkjs/react-markdown) pour le rendu des réponses
 - Déploiement : [Vercel](https://vercel.com/) (un projet par branche)
-- LLM : fournisseur configuré via clé API en variable d'environnement
+- LLM : OpenAI (`gpt-4o-mini`) via clé API en variable d'environnement ; embeddings `text-embedding-3-small`
+
+> **Décision technique.** Le projet a d'abord été scaffodé avec `create-llama`. Sa version courante
+> impose un serveur `@llamaindex/server` non adapté à un déploiement Vercel par branche, et son mode
+> `eject` produit du code cassé (dépendances désynchronisées de leurs propres plages de versions). Le
+> moteur a donc été monté directement sur `create-next-app` + `LlamaIndex.TS`, à périmètre maîtrisé.
+> `create-llama` reste la référence d'inspiration (licence MIT).
 
 ---
 
@@ -58,7 +65,7 @@ git checkout corpus/nis2
 npm install
 
 # 3. Configurer la clé API
-cp .env.example .env.local   # puis renseigner la clé du fournisseur LLM
+cp .env.example .env.local   # puis renseigner OPENAI_API_KEY (plafond de dépense conseillé)
 
 # 4. Générer l'index vectoriel à partir de data/
 npm run generate
@@ -67,15 +74,20 @@ npm run generate
 npm run dev
 ```
 
+Scripts : `dev`, `build`, `start`, `generate`, `lint`, `typecheck`.
+
 ### Déploiement Vercel
 
-Un projet Vercel par branche, avec la commande de build :
+Un projet Vercel par branche. Commande de build :
 
 ```
 npm run generate && npm run build
 ```
 
-L'index est régénéré à chaque build (il n'est pas commité).
+L'index (`storage/`) est régénéré à chaque build, jamais commité. `next.config.ts` force son
+inclusion dans la fonction serverless (`outputFileTracingIncludes`). Variables d'environnement à
+définir par projet : `OPENAI_API_KEY`, et les `NEXT_PUBLIC_CORPUS_*` propres au corpus (voir
+`.env.example`).
 
 ---
 
@@ -93,4 +105,6 @@ branche `corpus/*`.
 
 ## Crédits
 
-Application dérivée de [create-llama](https://github.com/run-llama/create-llama) (LlamaIndex, licence MIT).
+Moteur RAG construit avec [LlamaIndex.TS](https://ts.llamaindex.ai/) (MIT), sur une base
+[create-next-app](https://nextjs.org/docs/app/api-reference/cli/create-next-app). Inspiré de
+[create-llama](https://github.com/run-llama/create-llama) (LlamaIndex, MIT).

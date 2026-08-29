@@ -25,13 +25,23 @@ main                     → code de l'application (partagé)
 
 Chaque branche est connectée à son propre projet Vercel (donc sa propre URL publique), avec sa propre variable d'environnement de clé API. Trois démos live, un seul historique de code à faire évoluer.
 
-> **Point non confirmé, à valider en pratique** : la documentation officielle ne précise pas si l'index généré doit être committé dans Git ou régénéré à chaque build. Le plus sûr : configurer la commande de build Vercel sur `npm run generate && npm run build` plutôt que de committer le dossier d'index — ça fonctionne quel que soit le mécanisme de stockage interne. À valider dès l'étape 1 (branche NIS2) avant de répliquer sur les deux autres branches.
+> **Tranché.** L'index (`storage/`) est **régénéré à chaque build**, jamais committé. Build Vercel :
+> `npm run generate && npm run build`. `next.config.ts` force l'inclusion de `storage/` dans la
+> fonction serverless via `outputFileTracingIncludes`. Reste à valider en conditions réelles sur la
+> branche NIS2 (le `generate` au build a besoin de `data/` + `OPENAI_API_KEY`).
 
 ---
 
 ## Mise en place
 
-1. Scaffolder le projet — `npx create-llama@latest` — choisir **TypeScript** et **Next.js** quand demandé (cohérent avec l'appli fléchettes existante). Garder la configuration RAG standard (pas besoin d'agents multiples pour cette première version).
+> **Mise à jour (build).** Le scaffolding `create-llama` prévu au point 1 a été abandonné : sa version
+> courante (0.6.3) impose un serveur `@llamaindex/server` incompatible avec un déploiement Vercel par
+> branche, et son `eject` génère du code cassé. Le moteur est monté sur `create-next-app` +
+> `LlamaIndex.TS` (indexation + récupération seulement), avec génération/streaming maison. Le reste de
+> cette section (branches, Vercel, personnalisation) est inchangé. Voir la note « Décision technique »
+> du README.
+
+1. ~~Scaffolder le projet — `npx create-llama@latest`~~ → `npx create-next-app@latest` (TypeScript, App Router, Tailwind), puis ajout de `llamaindex`, `@llamaindex/openai`, `@llamaindex/readers`. Configuration RAG standard, pas d'agents.
 2. Initialiser le dépôt Git et créer les trois branches de contenu à partir de `main` : `git checkout -b corpus/nis2`, puis répéter pour `plu-anglet` et `syntec`.
 3. Sur chaque branche, vider le dossier `data/` et y déposer uniquement les documents du corpus concerné (voir sources ci-dessous pour chacun).
 4. Générer l'index — `npm run generate` — puis tester en local avec `npm run dev` avant de committer.
