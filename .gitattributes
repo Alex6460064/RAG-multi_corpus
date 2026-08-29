@@ -1,0 +1,14 @@
+# Normalisation par défaut : LF dans le dépôt, fin de ligne native à l'extraction.
+* text=auto
+
+# Fichiers binaires : aucune conversion de fin de ligne. Sans cette règle, git
+# peut classer un PDF sans octet NUL dans ses 8 premiers Ko comme du texte et
+# corrompre le flux lors d'une renormalisation (les branches corpus/* stockent
+# leurs sources dans data/, parfois en PDF).
+*.pdf binary
+*.ico binary
+*.png binary
+*.zip binary
+
+# Textes de corpus : fin de ligne LF garantie, quelle que soit la config locale.
+data/*.txt text eol=lf
