@@ -28,17 +28,29 @@ française.
 | La cybersécurité pour les TPE/PME en 13 questions | [ANSSI / MesServicesCyber](https://messervices.cyber.gouv.fr/documents-guides/20241212_np_anssi_guide_tpe-pme_v2.pdf) | v2, 12/2024 |
 | Recommandations pour l'administration sécurisée des SI | [ANSSI / MesServicesCyber](https://messervices.cyber.gouv.fr/documents-guides/anssi-guide-admin_securisee_si_v3-0.pdf) | v3.0 |
 | La méthode EBIOS Risk Manager | [ANSSI / MesServicesCyber](https://messervices.cyber.gouv.fr/documents-guides/250129_np_anssi_guide_ebios_fr_final_collection_WEB.pdf) | 01/2025 |
+| Note de contexte : état de la transposition de NIS2 en France | synthèse datée (Sénat, Assemblée nationale, FAQ MonEspaceNIS2) — `data/00-contexte-transposition-nis2-france.md` | arrêtée au 29/08/2026 |
+
+> **Volontairement hors corpus** : le guide PSSI de l'ANSSI (méthodologie de
+> 2004, redondante avec le guide d'hygiène et le guide TPE/PME pour la cible
+> visée) et la plateforme MonEspaceNIS2 (service en ligne, pas un document ;
+> aucune échéance d'enregistrement officielle tant que la loi n'est pas
+> promulguée).
 
 ### Point de vigilance — loi française de transposition
 
 La **loi relative à la résilience des infrastructures critiques et au
-renforcement de la cybersécurité** (transposition NIS2 + REC + DORA) **n'était
-pas encore promulguée** à la date d'arrêt du corpus : projet de loi adopté par
-le Sénat le 12/03/2025, en cours d'examen à l'Assemblée nationale
-([dossier législatif](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731)).
-Le corpus ne contient donc **que le droit de l'Union et les guides ANSSI**. À
-compléter avec le texte consolidé et les décrets d'application dès leur
-publication au JORF, puis mettre à jour la date d'arrêt.
+renforcement de la cybersécurité** (transposition NIS2 + REC + DORA) **n'est pas
+promulguée** à la date d'arrêt du corpus : adoptée en 1ʳᵉ lecture au Sénat le
+12/03/2025 (texte n° 78), examen en séance à l'Assemblée nationale reporté à la
+rentrée de septembre 2026 ; la Commission européenne a saisi la CJUE le
+08/07/2026 pour retard de transposition. Dossiers :
+[Sénat](https://www.senat.fr/dossier-legislatif/pjl24-033.html) ·
+[Assemblée nationale](https://www.assemblee-nationale.fr/dyn/17/dossiers/DLR5L17N50731).
+
+Les obligations NIS2 **ne sont donc pas encore applicables en droit français**.
+Le corpus ne contient que le droit de l'Union et les guides ANSSI ; détail dans
+`data/00-contexte-transposition-nis2-france.md`. À compléter avec la loi, ses
+décrets et arrêtés dès publication au JORF, puis mettre à jour la date d'arrêt.
 
 ---
 
