@@ -82,7 +82,8 @@
       "id": "ambigu-preavis",
       "question": "Quel est le préavis ?",
       "type": "ambigu",
-      "expectedSource": "Catégorie non précisée — l'assistant doit exposer les deux cas (ETAM / ingénieurs et cadres, article 4.2) ou demander une précision"
+      "expectClarification": true,
+      "expectedSource": "Catégorie non précisée (ETAM / ingénieurs et cadres) — l'assistant doit demander la catégorie, pas énumérer tous les cas"
     }
   ]
 }

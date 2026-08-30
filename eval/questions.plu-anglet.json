@@ -60,6 +60,7 @@
       "id": "ambigu-hauteur",
       "question": "Quelle hauteur maximale pour une construction ?",
       "type": "ambigu",
+      "expectClarification": true,
       "expectedSource": "Zone non précisée — l'assistant doit demander la zone, pas donner une valeur unique"
     },
     {
