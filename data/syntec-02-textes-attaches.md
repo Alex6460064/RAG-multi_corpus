@@ -1185,8 +1185,6 @@ Les entreprises disposeront d'un délai expirant le... (1 an) pour étudier et m
 
 L'application du présent accord ne pourra être la cause de la diminution du montant de la rémunération totale du salarié.
 
-## Annexe I. Classification des employés, techniciens et agents de maîtrise
-
 ### Pièce jointe
 
 > **Source :** Pièce jointe — Annexe I. Classification des employés, techniciens et agents de maîtrise.
@@ -1200,8 +1198,6 @@ Classification
  La convention de branche conclue au niveau national contient obligatoirement, pour pouvoir être étendue, outre les clauses prévues aux articles L 132-5, L 132-17, les dispositions concernant :
 
  3° Les éléments essentiels servant à la détermination des classifications professionnelles et des niveaux de qualification, notamment les mentions relatives aux diplômes professionnels ou à leurs équivalences, à condition que ces diplômes aient été créés depuis plus d'un an.
-
-## Annexe I. Classification des employés, techniciens et agents de maîtrise
 
 ### Les grands groupes fonctionnels
 
