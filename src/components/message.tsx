@@ -12,6 +12,8 @@ export interface ChatTurn {
   sources?: SourceChunk[];
   /** Réponse assistant encore en cours de streaming. */
   pending?: boolean;
+  /** La génération de cette réponse a échoué (vide ou partielle) — exclue de l'historique. */
+  error?: boolean;
 }
 
 export function Message({ turn }: { turn: ChatTurn }) {
