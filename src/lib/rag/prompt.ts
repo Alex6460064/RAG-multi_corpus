@@ -1,4 +1,5 @@
 import { uiConfig } from "@/lib/ui-config";
+import type { ChatMessage } from "@/lib/chat-protocol";
 import type { SourceChunk } from "./retrieve";
 
 /**
@@ -29,4 +30,36 @@ export function buildUserMessage(question: string, chunks: SourceChunk[]): strin
       : "Aucun extrait pertinent n'a été trouvé dans le corpus.";
 
   return `Contexte :\n\n${context}\n\n===\n\nQuestion : ${question}`;
+}
+
+/**
+ * Prompt de reformulation — versionné dans le code, jamais ajusté à la volée.
+ * Transforme une question de suivi elliptique (« et pour les cadres ? ») en
+ * question autonome, pour que la recherche vectorielle porte sur le bon sujet.
+ * N'est utilisé que lorsqu'il y a un historique de conversation.
+ */
+const CONDENSE_PROMPT = `À partir de l'historique de conversation et de la question de suivi, reformule la question de suivi en une question autonome, compréhensible sans l'historique, rédigée dans la même langue.
+N'y réponds pas. N'ajoute aucune information absente de l'échange. Si la question est déjà autonome, renvoie-la telle quelle, sans autre texte.
+
+Historique :
+{history}
+
+Question de suivi : {question}
+
+Question autonome :`;
+
+/** Assemble le prompt de reformulation à partir de l'historique et de la question. */
+export function buildCondensePrompt(
+  question: string,
+  history: ChatMessage[],
+): string {
+  const transcript = history
+    .map((m) => `${m.role === "user" ? "Utilisateur" : "Assistant"} : ${m.content}`)
+    .join("\n");
+  // Substitution en une seule passe : sinon un « {question} » présent dans le
+  // contenu utilisateur (transcript inséré en premier) capterait le second
+  // remplacement et viderait le vrai emplacement du template.
+  return CONDENSE_PROMPT.replace(/\{history\}|\{question\}/g, (token) =>
+    token === "{history}" ? transcript : question,
+  );
 }

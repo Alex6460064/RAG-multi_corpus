@@ -25,10 +25,12 @@ main                     → code de l'application (partagé)
 
 Chaque branche est connectée à son propre projet Vercel (donc sa propre URL publique), avec sa propre variable d'environnement de clé API. Trois démos live, un seul historique de code à faire évoluer.
 
-> **Tranché.** L'index (`storage/`) est **régénéré à chaque build**, jamais committé. Build Vercel :
-> `npm run generate && npm run build`. `next.config.ts` force l'inclusion de `storage/` dans la
-> fonction serverless via `outputFileTracingIncludes`. Reste à valider en conditions réelles sur la
-> branche NIS2 (le `generate` au build a besoin de `data/` + `OPENAI_API_KEY`).
+> **Tranché et validé.** L'index (`storage/`) est **régénéré à chaque build**, jamais committé. Build
+> Vercel : `npm run generate && npm run build` (dans `vercel.json` sur `main`). `next.config.ts` force
+> l'inclusion de `storage/` dans la fonction serverless via `outputFileTracingIncludes`. **Vérifié en
+> conditions réelles** sur `rag-nis2.vercel.app` (30/08/2026) : `generate` au build lit `data/` (6
+> fichiers, dont 4 PDF) et `OPENAI_API_KEY`, produit 294 fragments, l'index est bien servi depuis la
+> fonction `/api/chat` (réponse avec citations en prod).
 
 ---
 
@@ -45,7 +47,7 @@ Chaque branche est connectée à son propre projet Vercel (donc sa propre URL pu
 2. **[fait]** Initialiser le dépôt Git et créer les trois branches de contenu à partir de `main` : `corpus/nis2`, `corpus/plu-anglet`, `corpus/syntec` créées et poussées sur `origin`.
 3. Sur chaque branche, vider le dossier `data/` et y déposer uniquement les documents du corpus concerné (voir sources ci-dessous pour chacun). — **[fait] `corpus/nis2`** (directive UE 2022/2555 + 4 guides ANSSI + note de contexte datée) ; reste `plu-anglet` et `syntec`.
 4. Générer l'index — `npm run generate` — puis tester en local avec `npm run dev` avant de committer. — **[fait] `corpus/nis2`** (index régénéré, réponses testées avec citations sur les 6 documents).
-5. Créer un projet Vercel par branche (trois projets distincts pointant vers le même dépôt, chacun configuré pour builder sa branche), avec la clé API du fournisseur LLM en variable d'environnement. — **à faire.** Build : `npm run generate && npm run build`. Variables du projet `corpus/nis2` : voir le README de branche.
+5. Créer un projet Vercel par branche (trois projets distincts pointant vers le même dépôt, chacun configuré pour builder sa branche), avec la clé API du fournisseur LLM en variable d'environnement. — **[fait] `corpus/nis2`** : projet `rag-nis2` (équipe Vercel unique), dépôt GitHub connecté, Production Branch `corpus/nis2`, variables posées, déployé sur `rag-nis2.vercel.app`. Config partagée dans `vercel.json` sur `main` (`buildCommand` + `ignoreCommand` piloté par `CORPUS_BRANCH` — chaque projet ignore les commits des autres branches). **Projets `rag-plu-anglet` et `rag-syntec` créés + variables `NEXT_PUBLIC_*` posées**, mais GitHub non connecté et non déployés — à finaliser après validation locale de leur corpus.
 6. Renommer et personnaliser la page d'accueil de chaque déploiement (titre, questions d'exemple, mention de la source des documents) avant de partager le lien. — **[fait] `corpus/nis2`** via `NEXT_PUBLIC_CORPUS_*` (repris dans le README de branche pour le projet Vercel).
 
 ---
@@ -112,7 +114,7 @@ Le texte de la convention (IDCC 1486), pas un contrat personnel — aucune donn�
 
 ## Ordre de construction
 
-1. **Scaffolding + branche NIS2** — le corpus le plus resserré (peu de documents), idéal pour valider toute la chaîne technique une première fois. — **[fait]** moteur + corpus NIS2 + tests locaux OK ; reste le déploiement Vercel.
+1. **Scaffolding + branche NIS2** — le corpus le plus resserré (peu de documents), idéal pour valider toute la chaîne technique une première fois. — **[fait]** moteur + corpus NIS2 + tests locaux + déploiement Vercel (`rag-nis2.vercel.app`, 30/08/2026).
 2. **Branche PLU Anglet** — corpus plus volumineux (PDF de zonage/règlement) — bon test de la gestion de documents plus longs et plus techniques. — **à faire.**
 3. **Branche Syntec** — le plus rapide des trois une fois la mécanique connue — texte unique, bien structuré. — **à faire.**
 4. **Trois posts LinkedIn espacés** plutôt qu'un seul post noyant les trois projets — chacun touche un public différent (dirigeants PME, immobilier/BTP, RH/ESN). — **à faire.**
@@ -122,7 +124,7 @@ Le texte de la convention (IDCC 1486), pas un contrat personnel — aucune donn�
 ## Checklist de publication
 
 - [x] README à la racine expliquant l'architecture multi-branches et créditant create-llama comme base
-- [~] Un README spécifique par branche : problème résolu, corpus utilisé (avec date d'arrêt), lien de démo — **fait pour `corpus/nis2`** (lien de démo à ajouter après Vercel) ; reste `plu-anglet`, `syntec`
+- [~] Un README spécifique par branche : problème résolu, corpus utilisé (avec date d'arrêt), lien de démo — **fait pour `corpus/nis2`** (lien de démo `rag-nis2.vercel.app` inclus) ; reste `plu-anglet`, `syntec`
 - [x] Bandeau de non-conseil visible sur chaque déploiement — composant `DisclaimerBanner` sur `main`, actif sur toutes les branches
 - [ ] Capture d'écran ou courte vidéo de démo par instance
 - [ ] Rubrique "Projets IA" sur le CV avec les trois pitchs, formulés en résultat plutôt qu'en stack technique
