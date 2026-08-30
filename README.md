@@ -72,4 +72,6 @@ build, jamais committé).
 
 ## Démo
 
-*(lien Vercel à ajouter)*
+**https://rag-nis2.vercel.app** — déploiement Vercel (projet `rag-nis2`), build
+`npm run generate && npm run build` : l'index est régénéré à chaque déploiement,
+jamais committé.
