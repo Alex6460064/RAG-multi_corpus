@@ -59,6 +59,7 @@ décrets et arrêtés dès publication au JORF, puis mettre à jour la date d'ar
 | Variable | Valeur |
 |---|---|
 | `OPENAI_API_KEY` | *(clé du projet, plafond de dépense conseillé)* |
+| `CORPUS_BRANCH` | `corpus/nis2` — pilote l'`ignoreCommand` de `vercel.json` (ce projet ne builde que cette branche) |
 | `NEXT_PUBLIC_CORPUS_NAME` | `Conformité NIS2` |
 | `NEXT_PUBLIC_CORPUS_CUTOFF` | `corpus gelé en août 2026 — directive (UE) 2022/2555 (2022) et guides ANSSI (jusqu'à 01/2025) ; la loi française de transposition n'est pas encore promulguée` |
 | `NEXT_PUBLIC_CORPUS_SOURCE_LABEL` | `Directive (UE) 2022/2555 (EUR-Lex) · guides ANSSI : hygiène informatique, cybersécurité TPE-PME, administration sécurisée, EBIOS Risk Manager` |
