@@ -31,6 +31,12 @@ Chaque branche est connectée à son propre projet Vercel (donc sa propre URL pu
 > conditions réelles** sur `rag-nis2.vercel.app` (30/08/2026) : `generate` au build lit `data/` (6
 > fichiers, dont 4 PDF) et `OPENAI_API_KEY`, produit 294 fragments, l'index est bien servi depuis la
 > fonction `/api/chat` (réponse avec citations en prod).
+>
+> **Étendu aux trois corpus (30/08/2026).** `rag-plu-anglet.vercel.app` et `rag-syntec.vercel.app`
+> répondent aussi en prod : page personnalisée (nom de corpus, date d'arrêt, bandeau de non-conseil)
+> et `/api/chat` avec citations de source, vérifiés par requête directe. Reste à confirmer au tableau
+> de bord Vercel, pour ces deux projets : connexion du dépôt GitHub et variable `CORPUS_BRANCH`, qui
+> pilotent l'auto-déploiement sur `git push` (voir « Mise en place » point 5).
 
 ---
 
@@ -45,10 +51,10 @@ Chaque branche est connectée à son propre projet Vercel (donc sa propre URL pu
 
 1. **[fait]** ~~Scaffolder le projet — `npx create-llama@latest`~~ → `npx create-next-app@latest` (TypeScript, App Router, Tailwind), puis ajout de `llamaindex`, `@llamaindex/openai`, `@llamaindex/readers`. Configuration RAG standard, pas d'agents. Moteur sur `main` (commit `feat: moteur RAG`).
 2. **[fait]** Initialiser le dépôt Git et créer les trois branches de contenu à partir de `main` : `corpus/nis2`, `corpus/plu-anglet`, `corpus/syntec` créées et poussées sur `origin`.
-3. Sur chaque branche, vider le dossier `data/` et y déposer uniquement les documents du corpus concerné (voir sources ci-dessous pour chacun). — **[fait] `corpus/nis2`** (directive UE 2022/2555 + 4 guides ANSSI + note de contexte datée) ; reste `plu-anglet` et `syntec`.
-4. Générer l'index — `npm run generate` — puis tester en local avec `npm run dev` avant de committer. — **[fait] `corpus/nis2`** (index régénéré, réponses testées avec citations sur les 6 documents).
-5. Créer un projet Vercel par branche (trois projets distincts pointant vers le même dépôt, chacun configuré pour builder sa branche), avec la clé API du fournisseur LLM en variable d'environnement. — **[fait] `corpus/nis2`** : projet `rag-nis2` (équipe Vercel unique), dépôt GitHub connecté, Production Branch `corpus/nis2`, variables posées, déployé sur `rag-nis2.vercel.app`. Config partagée dans `vercel.json` sur `main` (`buildCommand` + `ignoreCommand` piloté par `CORPUS_BRANCH` — chaque projet ignore les commits des autres branches). **Projets `rag-plu-anglet` et `rag-syntec` créés + variables `NEXT_PUBLIC_*` posées**, mais GitHub non connecté et non déployés — à finaliser après validation locale de leur corpus.
-6. Renommer et personnaliser la page d'accueil de chaque déploiement (titre, questions d'exemple, mention de la source des documents) avant de partager le lien. — **[fait] `corpus/nis2`** via `NEXT_PUBLIC_CORPUS_*` (repris dans le README de branche pour le projet Vercel).
+3. Sur chaque branche, vider le dossier `data/` et y déposer uniquement les documents du corpus concerné (voir sources ci-dessous pour chacun). — **[fait] les trois** : `corpus/nis2` (directive UE 2022/2555 + 4 guides ANSSI + note de contexte datée), `corpus/plu-anglet` (règlement écrit + PADD + OAP en Markdown, via `scripts/build-corpus-plu-anglet.mjs`), `corpus/syntec` (texte de base + textes attachés + salaires ≥ 2022, via `scripts/build-corpus-syntec.mjs`).
+4. Générer l'index — `npm run generate` — puis tester en local avec `npm run dev` avant de committer. — **[fait] les trois** (index régénéré et réponses testées avec citations sur chaque corpus).
+5. Créer un projet Vercel par branche (trois projets distincts pointant vers le même dépôt, chacun configuré pour builder sa branche), avec la clé API du fournisseur LLM en variable d'environnement. — **[fait] `corpus/nis2`** : projet `rag-nis2` (équipe Vercel unique), dépôt GitHub connecté, Production Branch `corpus/nis2`, variables posées, déployé sur `rag-nis2.vercel.app`. Config partagée dans `vercel.json` sur `main` (`buildCommand` + `ignoreCommand` piloté par `CORPUS_BRANCH` — chaque projet ignore les commits des autres branches). **Projets `rag-plu-anglet` et `rag-syntec` : déployés et live** (`rag-plu-anglet.vercel.app`, `rag-syntec.vercel.app` — page + `/api/chat` avec citations vérifiés le 30/08/2026). **À confirmer au tableau de bord** pour ces deux projets : dépôt GitHub connecté + `CORPUS_BRANCH` posé (auto-déploiement sur `push`) + `OPENAI_API_KEY` en Production.
+6. Renommer et personnaliser la page d'accueil de chaque déploiement (titre, questions d'exemple, mention de la source des documents) avant de partager le lien. — **[fait] les trois** via `NEXT_PUBLIC_CORPUS_*` (repris dans chaque README de branche pour le projet Vercel).
 
 ---
 
@@ -115,8 +121,8 @@ Le texte de la convention (IDCC 1486), pas un contrat personnel — aucune donn�
 ## Ordre de construction
 
 1. **Scaffolding + branche NIS2** — le corpus le plus resserré (peu de documents), idéal pour valider toute la chaîne technique une première fois. — **[fait]** moteur + corpus NIS2 + tests locaux + déploiement Vercel (`rag-nis2.vercel.app`, 30/08/2026).
-2. **Branche PLU Anglet** — corpus plus volumineux (PDF de zonage/règlement) — bon test de la gestion de documents plus longs et plus techniques. — **à faire.**
-3. **Branche Syntec** — le plus rapide des trois une fois la mécanique connue — texte unique, bien structuré. — **à faire.**
+2. **Branche PLU Anglet** — corpus plus volumineux (PDF de zonage/règlement) — bon test de la gestion de documents plus longs et plus techniques. — **[fait]** corpus (règlement + PADD + OAP) + index + déploiement `rag-plu-anglet.vercel.app` (30/08/2026).
+3. **Branche Syntec** — le plus rapide des trois une fois la mécanique connue — texte unique, bien structuré. — **[fait]** corpus (base + attachés + salaires) + index + déploiement `rag-syntec.vercel.app` (30/08/2026).
 4. **Trois posts LinkedIn espacés** plutôt qu'un seul post noyant les trois projets — chacun touche un public différent (dirigeants PME, immobilier/BTP, RH/ESN). — **à faire.**
 
 ---
@@ -124,7 +130,7 @@ Le texte de la convention (IDCC 1486), pas un contrat personnel — aucune donn�
 ## Checklist de publication
 
 - [x] README à la racine expliquant l'architecture multi-branches et créditant create-llama comme base
-- [~] Un README spécifique par branche : problème résolu, corpus utilisé (avec date d'arrêt), lien de démo — **fait pour `corpus/nis2`** (lien de démo `rag-nis2.vercel.app` inclus) ; reste `plu-anglet`, `syntec`
+- [x] Un README spécifique par branche : problème résolu, corpus utilisé (avec date d'arrêt), lien de démo — **fait pour les trois** (`corpus/nis2` → `rag-nis2.vercel.app`, `corpus/plu-anglet` → `rag-plu-anglet.vercel.app`, `corpus/syntec` → `rag-syntec.vercel.app`)
 - [x] Bandeau de non-conseil visible sur chaque déploiement — composant `DisclaimerBanner` sur `main`, actif sur toutes les branches
 - [ ] Capture d'écran ou courte vidéo de démo par instance
 - [ ] Rubrique "Projets IA" sur le CV avec les trois pitchs, formulés en résultat plutôt qu'en stack technique
@@ -133,3 +139,4 @@ Le texte de la convention (IDCC 1486), pas un contrat personnel — aucune donn�
 
 *Sources vérifiées le 28 août 2026 : GitHub (run-llama/create-llama), EUR-Lex, Légifrance (JORF, KALICONT), Sénat (dossier législatif), cyber.gouv.fr / ANSSI, Géoportail de l'Urbanisme, Communauté Pays Basque.*
 *Mise à jour 29/08/2026 : le statut de la loi française de transposition NIS2 a été revérifié (Sénat, Assemblée nationale, FAQ MonEspaceNIS2) — non promulguée, contrairement à ce qu'indiquait la première version de ce document.*
+*Mise à jour 30/08/2026 : les corpus `plu-anglet` et `syntec` sont construits, indexés et déployés (`rag-plu-anglet.vercel.app`, `rag-syntec.vercel.app`, page + `/api/chat` avec citations vérifiés). Les trois READMEs de branche portent leur lien de démo. Restent : réglages Vercel à confirmer (GitHub + `CORPUS_BRANCH` sur les deux nouveaux projets), éval qualité sur `plu-anglet` et `syntec`, captures/vidéos, rubrique CV, posts LinkedIn.*
