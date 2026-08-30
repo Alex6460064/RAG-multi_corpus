@@ -52,6 +52,7 @@ pour la commande de régénération.
 | Variable | Valeur |
 |---|---|
 | `OPENAI_API_KEY` | *(clé du projet, plafond de dépense conseillé)* |
+| `CORPUS_BRANCH` | `corpus/syntec` — pilote l'`ignoreCommand` de `vercel.json` (ce projet ne builde que cette branche) |
 | `NEXT_PUBLIC_CORPUS_NAME` | `Convention collective Syntec (IDCC 1486)` |
 | `NEXT_PUBLIC_CORPUS_CUTOFF` | `corpus arrêté au 29 août 2026 — texte de base (avenant n° 46 du 16/07/2021), annexes et avenants en vigueur ; une convention évolue par avenants, vérifier la version en vigueur` |
 | `NEXT_PUBLIC_CORPUS_SOURCE_LABEL` | `Convention collective nationale Syntec (IDCC 1486, brochure JO 3018) — Légifrance / base KALI` |
