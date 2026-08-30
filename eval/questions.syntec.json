@@ -1,0 +1,88 @@
+{
+  "corpus": "syntec",
+  "updated": "2026-08-30",
+  "questions": [
+    {
+      "id": "periode-essai-cadre",
+      "question": "Quelle est la durée de la période d'essai d'un ingénieur ou cadre ?",
+      "type": "nominal",
+      "expectedSource": "Convention Syntec (IDCC 1486), texte de base, article 3.4 « Période d'essai »"
+    },
+    {
+      "id": "preavis-etam-demission",
+      "question": "Quel préavis doit respecter un ETAM qui démissionne avec 3 ans d'ancienneté ?",
+      "type": "nominal",
+      "expectedSource": "Convention Syntec, texte de base, article 4.2 « Durée du préavis »"
+    },
+    {
+      "id": "suivi-preavis-cadres",
+      "turns": [
+        "Quel préavis doit respecter un ETAM qui démissionne avec 3 ans d'ancienneté ?",
+        "Et pour les ingénieurs et cadres ?"
+      ],
+      "type": "suivi",
+      "expectedSource": "Convention Syntec, texte de base, article 4.2 — la reformulation doit rester sur le préavis (article 4.2), catégorie ingénieurs et cadres"
+    },
+    {
+      "id": "forfait-jours-plafond",
+      "question": "Quel est le nombre maximal de jours du forfait annuel en jours ?",
+      "type": "nominal",
+      "expectedSource": "Accord du 22 juin 1999 sur la durée du travail (textes attachés) — 218 jours",
+      "expectContains": ["218"]
+    },
+    {
+      "id": "forfait-jours-remuneration",
+      "question": "Quelle rémunération minimale s'applique à un salarié en forfait annuel en jours ?",
+      "type": "nominal",
+      "expectedSource": "Accord du 22 juin 1999 (textes attachés) — 120 % du minimum conventionnel (122 % en position 2.3)"
+    },
+    {
+      "id": "indemnite-licenciement",
+      "question": "À partir de quelle ancienneté a-t-on droit à l'indemnité de licenciement, et comment se calcule-t-elle ?",
+      "type": "nominal",
+      "expectedSource": "Convention Syntec, texte de base, article 4.5 « Indemnité de licenciement »"
+    },
+    {
+      "id": "conges-payes-duree",
+      "question": "Quelle est la durée des congés payés prévue par la convention ?",
+      "type": "nominal",
+      "expectedSource": "Convention Syntec, texte de base, article 5.1 « Durée des congés payés »"
+    },
+    {
+      "id": "conges-anciennete",
+      "question": "Y a-t-il des jours de congés supplémentaires liés à l'ancienneté ?",
+      "type": "nominal",
+      "expectedSource": "Convention Syntec, texte de base, dispositions congés / ancienneté"
+    },
+    {
+      "id": "classification-cadres",
+      "question": "Comment est structurée la grille de classification des ingénieurs et cadres (positions, coefficients) ?",
+      "type": "nominal",
+      "expectedSource": "Convention Syntec, annexe classification ingénieurs et cadres (textes attachés)"
+    },
+    {
+      "id": "classification-etam",
+      "question": "Quel est le coefficient le plus bas de la grille ETAM et comment lire cette grille ?",
+      "type": "nominal",
+      "expectedSource": "Convention Syntec, annexe classification ETAM (textes attachés), avec la note de l'avenant n° 2 du 27/10/2022"
+    },
+    {
+      "id": "hors-corpus-smic",
+      "question": "Quel est le montant du SMIC applicable dans mon entreprise en 2026 ?",
+      "type": "refus",
+      "expectedSource": "Hors corpus — le SMIC relève du code du travail, pas de la convention"
+    },
+    {
+      "id": "hors-corpus-metallurgie",
+      "question": "Que prévoit la convention collective de la métallurgie sur le préavis ?",
+      "type": "refus",
+      "expectedSource": "Hors corpus — autre IDCC"
+    },
+    {
+      "id": "ambigu-preavis",
+      "question": "Quel est le préavis ?",
+      "type": "ambigu",
+      "expectedSource": "Catégorie non précisée — l'assistant doit exposer les deux cas (ETAM / ingénieurs et cadres, article 4.2) ou demander une précision"
+    }
+  ]
+}

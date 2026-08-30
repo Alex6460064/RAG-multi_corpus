@@ -1,0 +1,94 @@
+{
+  "corpus": "nis2",
+  "updated": "2026-08-30",
+  "questions": [
+    {
+      "id": "notif-delai",
+      "question": "Sous quel délai une entité essentielle doit-elle notifier un incident important, et à qui ?",
+      "type": "nominal",
+      "expectedSource": "Directive (UE) 2022/2555, article 23 (alerte précoce 24 h, notification 72 h, rapport final 1 mois ; CSIRT ou autorité compétente)"
+    },
+    {
+      "id": "essentielle-vs-importante",
+      "question": "Quelle est la différence entre une entité « essentielle » et une entité « importante » ?",
+      "type": "nominal",
+      "expectedSource": "Directive (UE) 2022/2555, article 3 + annexes I et II"
+    },
+    {
+      "id": "mesures-art-21",
+      "question": "Quelles mesures de gestion des risques de cybersécurité l'article 21 impose-t-il au minimum ?",
+      "type": "nominal",
+      "expectedSource": "Directive (UE) 2022/2555, article 21 §2 (points a à j)"
+    },
+    {
+      "id": "amendes-essentielle",
+      "question": "Quels sont les plafonds d'amende administrative pour une entité essentielle ?",
+      "type": "nominal",
+      "expectedSource": "Directive (UE) 2022/2555, article 34 (au moins 10 000 000 EUR ou 2 % du CA annuel mondial)"
+    },
+    {
+      "id": "seuil-taille",
+      "question": "À partir de quelle taille d'entreprise NIS2 s'applique-t-elle ?",
+      "type": "nominal",
+      "expectedSource": "Directive (UE) 2022/2555, article 2 §1 + seuil d'entité moyenne (≥ 50 salariés ou CA/bilan > 10 M EUR)"
+    },
+    {
+      "id": "transposition-france",
+      "question": "La France a-t-elle transposé NIS2 ? Les obligations sont-elles applicables aujourd'hui ?",
+      "type": "nominal",
+      "expectedSource": "data/00-contexte-transposition-nis2-france.md — loi française non promulguée, obligations non applicables en droit interne à la date d'arrêt du corpus",
+      "expectContains": ["non promulguée"]
+    },
+    {
+      "id": "decrets-france",
+      "question": "Quels décrets d'application de NIS2 ont été publiés en France ?",
+      "type": "nominal",
+      "expectedSource": "data/00-contexte-transposition-nis2-france.md — aucun à la date d'arrêt du corpus"
+    },
+    {
+      "id": "anssi-authentification",
+      "question": "Quelles sont les recommandations de l'ANSSI sur l'authentification et les mots de passe ?",
+      "type": "nominal",
+      "expectedSource": "Guide d'hygiène informatique de l'ANSSI"
+    },
+    {
+      "id": "ebios-ateliers",
+      "question": "En quoi consiste la méthode EBIOS Risk Manager et quels sont ses ateliers ?",
+      "type": "nominal",
+      "expectedSource": "Guide EBIOS Risk Manager de l'ANSSI (5 ateliers)"
+    },
+    {
+      "id": "tpe-pme-demarrage",
+      "question": "Par où une TPE ou PME doit-elle commencer sa démarche de cybersécurité ?",
+      "type": "nominal",
+      "expectedSource": "Guide ANSSI « La cybersécurité pour les TPE/PME en 13 questions »"
+    },
+    {
+      "id": "hors-corpus-dora",
+      "question": "Quelles obligations précises le règlement DORA impose-t-il aux banques ?",
+      "type": "refus",
+      "expectedSource": "Hors corpus — DORA seulement mentionné dans la note de contexte, non détaillé"
+    },
+    {
+      "id": "hors-corpus-cnil-amazon",
+      "question": "Quelle amende la CNIL a-t-elle infligée à Amazon en 2023 ?",
+      "type": "refus",
+      "expectedSource": "Hors corpus"
+    },
+    {
+      "id": "ambigu-delai",
+      "question": "Quel est le délai ?",
+      "type": "ambigu",
+      "expectedSource": "Question sans contexte — l'assistant doit demander une précision, pas deviner"
+    },
+    {
+      "id": "suivi-entite-importante",
+      "turns": [
+        "Sous quel délai une entité essentielle doit-elle notifier un incident important ?",
+        "Et pour une entité importante ?"
+      ],
+      "type": "suivi",
+      "expectedSource": "Directive (UE) 2022/2555, article 23 — mêmes délais de notification ; la reformulation doit rester sur l'article 23, pas dériver"
+    }
+  ]
+}
