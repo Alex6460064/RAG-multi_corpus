@@ -78,16 +78,25 @@ Scripts : `dev`, `build`, `start`, `generate`, `lint`, `typecheck`.
 
 ### Déploiement Vercel
 
-Un projet Vercel par branche. Commande de build :
+Un projet Vercel par branche, **tous connectés au même dépôt**. La configuration partagée est dans
+[`vercel.json`](./vercel.json) (sur `main`, propagée par `merge`) :
 
-```
-npm run generate && npm run build
-```
+- `buildCommand` : `npm run generate && npm run build` — l'index (`storage/`) est régénéré à chaque
+  build, jamais commité. `next.config.ts` force son inclusion dans la fonction serverless
+  (`outputFileTracingIncludes`).
+- `ignoreCommand` : chaque projet ne builde que **sa** branche. Le projet lit la variable
+  `CORPUS_BRANCH` (ex. `corpus/nis2`) et ignore tout commit sur une autre `ref` — sans cela, les trois
+  projets déploieraient les trois branches.
 
-L'index (`storage/`) est régénéré à chaque build, jamais commité. `next.config.ts` force son
-inclusion dans la fonction serverless (`outputFileTracingIncludes`). Variables d'environnement à
-définir par projet : `OPENAI_API_KEY`, et les `NEXT_PUBLIC_CORPUS_*` propres au corpus (voir
-`.env.example`).
+Variables à définir **par projet** (réglages Vercel) :
+
+| Variable | Rôle |
+|---|---|
+| `OPENAI_API_KEY` | clé du corpus (plafond de dépense conseillé) — utilisée au build (embeddings) et au runtime |
+| `CORPUS_BRANCH` | branche de ce projet, ex. `corpus/nis2` — pilote l'`ignoreCommand` |
+| `NEXT_PUBLIC_CORPUS_*` | affichage propre au corpus (nom, date d'arrêt, source, questions d'exemple) — voir le README de branche et `.env.example` |
+
+Réglage Git du projet : **Production Branch** = la branche `corpus/*` correspondante.
 
 ---
 
