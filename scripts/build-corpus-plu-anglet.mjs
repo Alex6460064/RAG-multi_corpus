@@ -210,7 +210,14 @@ function header(piece, h1) {
 // --- Règlement écrit ----------------------------------------------------
 
 const ZONE_RE = /^ZONE\s+([A-Z][A-Za-z0-9]*)$/;
-const ART_RE = /^([A-Z]{1,4})\s*-\s*Article\s+(\d+)\s*:?\s*(.*)$/;
+// Le préfixe d'article reprend le code de zone : « UA », « IIAU », mais aussi
+// « Ncu », « Ner », « Nk » (indice en minuscule). L'ancien motif `[A-Z]{1,4}`
+// ratait ces trois zones — leurs articles restaient en prose, non citables.
+const ART_RE = /^([A-Z][A-Za-z]{0,3})\s*-\s*Article\s+(\d+)\s*:?\s*(.*)$/;
+// La bannière de zone est parfois tout en capitales dans le PDF (« ZONE NK »)
+// alors que le code officiel garde l'indice en minuscule (comme Ncu, Ner).
+const ZONE_CANON = { NK: "Nk" };
+const canonZone = (z) => ZONE_CANON[z] ?? z;
 // Vrai titre de chapitre dans le corps : « CHAPITRE 2 : LES ZONES À URBANISER »
 // (Partie II, tout en capitales) ou « Chapitre 1 : » seul suivi de son titre
 // sur les lignes suivantes (Partie I).
@@ -338,8 +345,8 @@ function buildReglement(rawText) {
     const mz = t.match(ZONE_RE);
     if (mz) {
       inDefinitions = false;
-      curZone = mz[1];
-      out.push("", `## Zone ${mz[1]}`, "", srcReglement(`zone ${mz[1]}`), "");
+      curZone = canonZone(mz[1]);
+      out.push("", `## Zone ${curZone}`, "", srcReglement(`zone ${curZone}`), "");
       continue;
     }
     // En-tête courant « Zone IAU » répété en tête de page de contenu.
@@ -347,7 +354,8 @@ function buildReglement(rawText) {
 
     const ma = t.match(ART_RE);
     if (ma) {
-      const [, prefix, num] = ma;
+      const [, rawPrefix, num] = ma;
+      const prefix = canonZone(rawPrefix);
       let title = ma[3].trim();
       while (
         i + 1 < lines.length &&
@@ -372,6 +380,22 @@ function buildReglement(rawText) {
         `### ${label}${title ? ` : ${title}` : ""}`,
         "",
         srcReglement(scope),
+        "",
+      );
+      continue;
+    }
+
+    // Entrées de lexique « Recul par rapport aux voies et emprises publiques
+    // (R1) » / « … aux limites séparatives (R2) » : plus de six mots, donc
+    // ratées par isDefinitionTerm, mais ce sont bien des termes définis.
+    const mRecul = inDefinitions && t.match(/^(Recul par rapport aux .+?) \((R[12])\)$/);
+    if (mRecul) {
+      const term = `${mRecul[1]} (${mRecul[2]})`;
+      out.push(
+        "",
+        `### ${term}`,
+        "",
+        srcReglement(`définitions communes, « ${term} »`),
         "",
       );
       continue;
@@ -425,6 +449,33 @@ const PADD_AMBITIONS = {
   TROISIEME: "Troisième ambition — Une ville d'identités et de contrastes",
 };
 const PADD_AMBITION_RE = /^(PREMIERE|DEUXIEME|TROISIEME)\s+AMBITION$/;
+
+const deburr = (s) =>
+  s
+    .toLowerCase()
+    .normalize("NFD")
+    .replace(/\p{Diacritic}/gu, "")
+    .replace(/[’']/g, "'")
+    .replace(/\s+/g, " ")
+    .trim();
+
+// Les trois grandes orientations sont tout en capitales et sans accents dans le
+// PDF : l'accentuation ne se déduit pas des capitales, on la rétablit à la main
+// (même principe que PADD_AMBITIONS). Clé = titre reconstruit, déaccentué.
+const PADD_CAPS_TITLE_FIXES = new Map([
+  [
+    "i. faciliter l'acces a une offre de logements, d'emplois et de mobilite diversifiee",
+    "Faciliter l’accès à une offre de logements, d’emplois et de mobilité diversifiée",
+  ],
+  [
+    "ii. replacer la nature au cœur de la qualite de ville",
+    "Replacer la nature au cœur de la qualité de ville",
+  ],
+  [
+    "iii. renforcer par le developpement urbain la diversite et les identites multiples du territoire angloy",
+    "Renforcer par le développement urbain la diversité et les identités multiples du territoire angloy",
+  ],
+]);
 
 function srcPadd(scope) {
   return `> **Source :** PADD du PLU d'Anglet — ${scope} — pièce approuvée le 14 juin 2013.`;
@@ -490,6 +541,8 @@ function buildPadd(rawText) {
         /[\s,;:]+$/,
         "",
       );
+      title =
+        PADD_CAPS_TITLE_FIXES.get(deburr(`${numbering}. ${title}`)) ?? title;
       const depth = numbering.split(".").length;
       const hashes = "#".repeat(Math.min(depth + 1, 5));
       out.push(

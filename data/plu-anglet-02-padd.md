@@ -108,7 +108,7 @@ ORIENTATIONS GENERALES
 
 D’AMENAGEMENT ET D’URBANISME
 
-## I. Faciliter l’acces a une offre de logements, d’emplois et de mobilite diversifiee
+## I. Faciliter l’accès à une offre de logements, d’emplois et de mobilité diversifiée
 
 > **Source :** PADD du PLU d'Anglet — orientation I — pièce approuvée le 14 juin 2013.
 
@@ -226,7 +226,7 @@ Ce projet communautaire met en œuvre de façon pragmatique la réduction de l�
 
 Enfin le recours aux modes de déplacements doux, tant pour les loisirs que pour les déplacements quotidiens, sera encouragé. Les continuités naturelles, et notamment les réseaux hydrographiques, pourront en outre devenir petit à petit les supports privilégiés de voies vertes, à l’échelle communale et intercommunale. Le renouvellement urbain devra conduire à la création de liaisons douces pour les rendre plus perméables et faciliter les déplacements doux dans les quartiers.
 
-## II. Replacer la nature au cœur de la qualite de ville
+## II. Replacer la nature au cœur de la qualité de ville
 
 > **Source :** PADD du PLU d'Anglet — orientation II — pièce approuvée le 14 juin 2013.
 
@@ -338,7 +338,7 @@ La conception bioclimatique de l’urbanisme a pour objectif d'obtenir des condi
 
 Il serait souhaitable d’étendre cette vision à l’ensemble des projets.
 
-## III. Renforcer par le developpement urbain la diversite et les identites multiples du territoire angloy
+## III. Renforcer par le développement urbain la diversité et les identités multiples du territoire angloy
 
 > **Source :** PADD du PLU d'Anglet — orientation III — pièce approuvée le 14 juin 2013.
 

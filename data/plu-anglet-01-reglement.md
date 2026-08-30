@@ -116,11 +116,15 @@ Un espace peut être qualifié d’espace de pleine terre s’il n’est le supp
 
 Le pignon d’une construction est constitué par l’une des façades de la construction dont le couronnement suit la forme d’un comble.
 
-Recul par rapport aux voies et emprises publiques (R1)
+### Recul par rapport aux voies et emprises publiques (R1)
+
+> **Source :** Règlement écrit du PLU d'Anglet — définitions communes, « Recul par rapport aux voies et emprises publiques (R1) » — modification n° 7 approuvée le 7 décembre 2024.
 
 Dans le présent règlement, le recul imposé aux constructions par rapport à la voie est appelé « R1 ». Il correspond au retrait imposé aux projets de constructions en bordure d’une voie, à l’exception de la surélévation des constructions existantes. La règle de recul est mesurée horizontalement entre la limite d’emprise de la voie (la limite commune entre la voie et les propriétés bâties ou à bâtir) et la façade de la construction à édifier, en tout point de la construction. Les débords de toits, balcons ou tout autre élément de modénature peuvent dépasser la limite de retrait sur une profondeur de 1m maximum.
 
-Recul par rapport aux limites séparatives (R2)
+### Recul par rapport aux limites séparatives (R2)
+
+> **Source :** Règlement écrit du PLU d'Anglet — définitions communes, « Recul par rapport aux limites séparatives (R2) » — modification n° 7 approuvée le 7 décembre 2024.
 
 Dans le présent règlement, le recul imposé aux constructions par rapport aux limites séparatives est appelé « R2 ». Le retrait imposé aux constructions correspond à la distance, mesurée horizontalement, séparant le projet de construction à une limite séparative. Les débords de toits, balcons ou tout autre élément de modénature peuvent dépasser la limite de retrait sur une profondeur de 1m maximum.
 
@@ -1729,12 +1733,16 @@ Sans objet.
 
 La zone Ncu correspond à des espaces naturels à protéger en raison soit de la qualité des sites, milieux naturels et paysagers du littoral, soit de leur caractère de coupure d’urbanisation, en application de l’article L.146-2 du Code de l’urbanisme.
 
-Ncu - Article 1 : Occupations et utilisations du sol interdites
+### Zone Ncu — Article 1 : Occupations et utilisations du sol interdites
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 1 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sont interdites les occupations et utilisations du sol suivantes :
 - Toutes les constructions, occupations et utilisations du sol sont interdites à l’exception de celles autorisées sous conditions particulières mentionnées à l’article 2.
 
-Ncu - Article 2 : Occupations et utilisations soumises à des conditions particulières
+### Zone Ncu — Article 2 : Occupations et utilisations soumises à des conditions particulières
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 2 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sont admises les occupations et utilisations, à condition qu’elles ne portent atteinte ni à la préservation des sols agricoles et forestiers, ni à la sauvegarde des sites, milieux naturels et paysages du littoral :
 
@@ -1746,53 +1754,77 @@ Sont admises les occupations et utilisations, à condition qu’elles ne portent
 sont nécessaires à l'exercice d'activités économiques ; cette extension est limitée à 10% de la surface de plancher existante pour les constructions inférieures à 250 m2 de surface de plancher, sans excéder 25 m² de surface de plancher ;
 - dans la bande littorale des 100 mètres, seuls sont autorisés les modes d’occupation du sol autorisés par l’article L. 146-4 III du Code de l’urbanisme
 
-Ncu - Article 3 : Conditions de desserte et d'accès des terrains par les voies publiques ou privées et d’accès aux voies ouvertes au public
+### Zone Ncu — Article 3 : Conditions de desserte et d'accès des terrains par les voies publiques ou privées et d’accès aux voies ouvertes au public
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 3 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Ncu - Article 4 : Conditions de desserte des terrains par les réseaux publics d’eau, d’électricité et d’assainissement
+### Zone Ncu — Article 4 : Conditions de desserte des terrains par les réseaux publics d’eau, d’électricité et d’assainissement
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 4 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Ncu - Article 5 : Superficie minimale des terrains constructibles
+### Zone Ncu — Article 5 : Superficie minimale des terrains constructibles
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 5 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sans objet.
 
-Ncu - Article 6 : Implantation des constructions par rapport aux voies et emprises publiques
+### Zone Ncu — Article 6 : Implantation des constructions par rapport aux voies et emprises publiques
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 6 — modification n° 7 approuvée le 7 décembre 2024.
 
 Les constructions peuvent être implantées sur la limite de voie ou d’emprise publique, ou en recul. En cas d’implantation en recul R1, il doit être au moins de 5 mètres. (R1 ≥ 5m ou R1 = 0).
 
 Pour les voies destinées exclusivement aux piétons et aux cycles, le recul minimal est de 1,5 mètres.
 
-Ncu - Article 7 : Implantation des constructions par rapport aux limites séparatives
+### Zone Ncu — Article 7 : Implantation des constructions par rapport aux limites séparatives
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 7 — modification n° 7 approuvée le 7 décembre 2024.
 
 Les constructions peuvent être implantées sur les limites séparatives ou en retrait. En cas d’implantation en retrait R2, il doit être au moins égal à la hauteur maximale de la construction diminuée de 3 mètres. (R2 ≥ H – 3 ou R2 = 0)
 
-Ncu - Article 8 : Implantation des constructions les unes par rapport aux autres sur une même propriété
+### Zone Ncu — Article 8 : Implantation des constructions les unes par rapport aux autres sur une même propriété
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 8 — modification n° 7 approuvée le 7 décembre 2024.
 
 Non réglementée.
 
-Ncu - Article 9 : Emprise au sol des constructions
+### Zone Ncu — Article 9 : Emprise au sol des constructions
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 9 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Ncu - Article 10 : Hauteur maximale des constructions
+### Zone Ncu — Article 10 : Hauteur maximale des constructions
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 10 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Ncu - Article 11 : Aspect extérieur des constructions et aménagement de leurs abords
+### Zone Ncu — Article 11 : Aspect extérieur des constructions et aménagement de leurs abords
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 11 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Ncu - Article 12 : Obligations imposées aux constructeurs en matière de réalisation d’aires de stationnement
+### Zone Ncu — Article 12 : Obligations imposées aux constructeurs en matière de réalisation d’aires de stationnement
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 12 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Ncu - Article 13 : Obligations en matière d'espaces libres et de plantations
+### Zone Ncu — Article 13 : Obligations en matière d'espaces libres et de plantations
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 13 — modification n° 7 approuvée le 7 décembre 2024.
 
 Il est exigé qu’au moins 80% de la superficie du terrain d’assiette du projet soient constitués de pleine terre et fassent l’objet d’un traitement paysager.
 
-Ncu - Article 14 : Coefficient d’occupation du sol
+### Zone Ncu — Article 14 : Coefficient d’occupation du sol
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ncu, article 14 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sans objet.
 
@@ -1806,62 +1838,90 @@ différentes zones du
 
 La zone Ner correspond aux espaces naturels remarquables au sens de l’article L.146-6 du Code de l’urbanisme.
 
-Ner - Article 1 : Occupations et utilisations du sol interdites
+### Zone Ner — Article 1 : Occupations et utilisations du sol interdites
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 1 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sont interdites les occupations et utilisations du sol suivantes :
 - Toutes les constructions, occupations et utilisations du sol sont interdites à l’exception de celles autorisées sous conditions particulières mentionnées à l’article 2.
 
-Ner - Article 2 : Occupations et utilisations soumises à des conditions particulières
+### Zone Ner — Article 2 : Occupations et utilisations soumises à des conditions particulières
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 2 — modification n° 7 approuvée le 7 décembre 2024.
 
 Ne sont admises que les occupations et utilisations du sol mentionnées à l’article R 146.2 du Code de l’urbanisme à condition qu’elles ne portent pas atteinte à la protection des sites, milieux naturels et paysages du littoral.
 
-Ner - Article 3 : Conditions de desserte et d'accès des terrains par les voies publiques ou privées et d’accès aux voies ouvertes au public
+### Zone Ner — Article 3 : Conditions de desserte et d'accès des terrains par les voies publiques ou privées et d’accès aux voies ouvertes au public
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 3 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Ner - Article 4 : Conditions de desserte des terrains par les réseaux publics d’eau, d’électricité et d’assainissement
+### Zone Ner — Article 4 : Conditions de desserte des terrains par les réseaux publics d’eau, d’électricité et d’assainissement
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 4 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Ner - Article 5 : Superficie minimale des terrains constructibles
+### Zone Ner — Article 5 : Superficie minimale des terrains constructibles
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 5 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sans objet.
 
-Ner - Article 6 : Implantation des constructions par rapport aux voies et emprises publiques
+### Zone Ner — Article 6 : Implantation des constructions par rapport aux voies et emprises publiques
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 6 — modification n° 7 approuvée le 7 décembre 2024.
 
 Les constructions peuvent être implantées sur la limite de voie ou d’emprise publique, ou en recul. En cas d’implantation en recul R1, il doit être au moins de 5 mètres. (R1 ≥ 5m ou R1 = 0).
 
 Pour les voies destinées exclusivement aux piétons et aux cycles, le recul minimal est de 1,5 mètres.
 
-Ner - Article 7 : Implantation des constructions par rapport aux limites séparatives
+### Zone Ner — Article 7 : Implantation des constructions par rapport aux limites séparatives
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 7 — modification n° 7 approuvée le 7 décembre 2024.
 
 Les constructions peuvent être implantées sur les limites séparatives ou en retrait. En cas d’implantation en retrait R2, il doit être au moins égal à la hauteur maximale de la construction diminuée de 3 mètres. (R2 ≥ H – 3 ou R2 = 0)
 
-Ner - Article 8 : Implantation des constructions les unes par rapport aux autres sur une même propriété
+### Zone Ner — Article 8 : Implantation des constructions les unes par rapport aux autres sur une même propriété
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 8 — modification n° 7 approuvée le 7 décembre 2024.
 
 Non réglementé.
 
-Ner - Article 9 : Emprise au sol des constructions
+### Zone Ner — Article 9 : Emprise au sol des constructions
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 9 — modification n° 7 approuvée le 7 décembre 2024.
 
 Non réglementé.
 
-Ner - Article 10 : Hauteur maximale des constructions
+### Zone Ner — Article 10 : Hauteur maximale des constructions
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 10 — modification n° 7 approuvée le 7 décembre 2024.
 
 Non réglementé.
 
-Ner - Article 11 : Aspect extérieur des constructions et aménagement de leurs abords
+### Zone Ner — Article 11 : Aspect extérieur des constructions et aménagement de leurs abords
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 11 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Ner - Article 12 : Obligations imposées aux constructeurs en matière de réalisation d’aires de stationnement
+### Zone Ner — Article 12 : Obligations imposées aux constructeurs en matière de réalisation d’aires de stationnement
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 12 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Ner - Article 13 : Obligations en matière d'espaces libres et de plantations
+### Zone Ner — Article 13 : Obligations en matière d'espaces libres et de plantations
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 13 — modification n° 7 approuvée le 7 décembre 2024.
 
 Il est exigé qu’au moins 80% de la superficie du terrain d’assiette du projet soient constitués de pleine terre et fassent l’objet d’un traitement paysager.
 
-Ner - Article 14 : Coefficient d’occupation du sol
+### Zone Ner — Article 14 : Coefficient d’occupation du sol
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Ner, article 14 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sans objet.
 
@@ -1869,18 +1929,22 @@ Les règles spécifiques aux
 
 différentes zones du
 
-## Zone NK
+## Zone Nk
 
-> **Source :** Règlement écrit du PLU d'Anglet — zone NK — modification n° 7 approuvée le 7 décembre 2024.
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk — modification n° 7 approuvée le 7 décembre 2024.
 
 La zone NK correspond aux terrains destinés à l’hébergement hôtelier de plein air
 
-Nk - Article 1 : Occupations et utilisations du sol interdites
+### Zone Nk — Article 1 : Occupations et utilisations du sol interdites
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 1 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sont interdites les occupations et utilisations du sol suivantes :
 - toutes les constructions, occupations et utilisations du sol sont interdites à l’exception de celles autorisées sous conditions particulières mentionnées à l’article 2.
 
-Nk - Article 2 : Occupations et utilisations soumises à des conditions particulières
+### Zone Nk — Article 2 : Occupations et utilisations soumises à des conditions particulières
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 2 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sont admises les occupations et utilisations, à condition qu’elles ne portent atteinte ni à la préservation des sols agricoles et forestiers, ni à la sauvegarde des sites, milieux naturels et paysages :
 
@@ -1889,51 +1953,75 @@ Sont admises les occupations et utilisations, à condition qu’elles ne portent
 - les terrains de camping et de caravanage,
 - les parcs résidentiels de loisirs.
 
-Nk - Article 3 : Conditions de desserte et d'accès des terrains par les voies publiques ou privées et d’accès aux voies ouvertes au public
+### Zone Nk — Article 3 : Conditions de desserte et d'accès des terrains par les voies publiques ou privées et d’accès aux voies ouvertes au public
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 3 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Nk - Article 4 : Conditions de desserte des terrains par les réseaux publics d’eau, d’électricité et d’assainissement
+### Zone Nk — Article 4 : Conditions de desserte des terrains par les réseaux publics d’eau, d’électricité et d’assainissement
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 4 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Nk - Article 5 : Superficie minimale des terrains constructibles
+### Zone Nk — Article 5 : Superficie minimale des terrains constructibles
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 5 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sans objet.
 
-Nk - Article 6 : Implantation des constructions par rapport aux voies et emprises publiques
+### Zone Nk — Article 6 : Implantation des constructions par rapport aux voies et emprises publiques
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 6 — modification n° 7 approuvée le 7 décembre 2024.
 
 Les constructions peuvent être implantées sur la limite de voie ou d’emprise publique, ou en recul. En cas d’implantation en recul R1, il doit être au moins de 5 mètres. (R1 ≥ 5m ou R1 = 0). Pour les voies destinées exclusivement aux piétons et aux cycles, le recul minimal est de 1,5 mètres.
 
-Nk - Article 7 : Implantation des constructions par rapport aux limites séparatives
+### Zone Nk — Article 7 : Implantation des constructions par rapport aux limites séparatives
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 7 — modification n° 7 approuvée le 7 décembre 2024.
 
 Les constructions peuvent être implantées sur les limites séparatives ou en retrait. En cas d’implantation en retrait R2, il doit être au moins égal à la hauteur maximale de la construction. (R2 ≥ H ou R2 = 0)
 
-Nk - Article 8 : Implantation des constructions les unes par rapport aux autres sur une même propriété
+### Zone Nk — Article 8 : Implantation des constructions les unes par rapport aux autres sur une même propriété
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 8 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Nk - Article 9 : Emprise au sol des constructions
+### Zone Nk — Article 9 : Emprise au sol des constructions
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 9 — modification n° 7 approuvée le 7 décembre 2024.
 
 Le coefficient d’emprise au sol est de 30%.
 
-Nk - Article 10 : Hauteur maximale des constructions
+### Zone Nk — Article 10 : Hauteur maximale des constructions
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 10 — modification n° 7 approuvée le 7 décembre 2024.
 
 La hauteur maximale des constructions est limitée à 10 mètres, le nombre de niveaux est limité à 2
 
-Nk - Article 11 : Aspect extérieur des constructions et aménagement de leurs abords
+### Zone Nk — Article 11 : Aspect extérieur des constructions et aménagement de leurs abords
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 11 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Nk - Article 12 : Obligations imposées aux constructeurs en matière de réalisations d’aires de stationnement
+### Zone Nk — Article 12 : Obligations imposées aux constructeurs en matière de réalisations d’aires de stationnement
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 12 — modification n° 7 approuvée le 7 décembre 2024.
 
 Pas de disposition spécifique à la zone. Se reporter aux dispositions communes du règlement.
 
-Nk - Article 13 : Obligations en matière d'espaces libres et de plantations
+### Zone Nk — Article 13 : Obligations en matière d'espaces libres et de plantations
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 13 — modification n° 7 approuvée le 7 décembre 2024.
 
 Il est exigé qu’au moins 60% de la superficie du terrain d’assiette du projet soient constitués de pleine terre et fassent l’objet d’un traitement paysager.
 
-Nk - Article 14 : Coefficient d’occupation du sol
+### Zone Nk — Article 14 : Coefficient d’occupation du sol
+
+> **Source :** Règlement écrit du PLU d'Anglet — zone Nk, article 14 — modification n° 7 approuvée le 7 décembre 2024.
 
 Sans objet.
 
