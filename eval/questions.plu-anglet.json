@@ -1,0 +1,75 @@
+{
+  "corpus": "plu-anglet",
+  "updated": "2026-08-30",
+  "questions": [
+    {
+      "id": "hauteur-ub",
+      "question": "Quelle hauteur maximale puis-je construire en zone UB ?",
+      "type": "nominal",
+      "expectedSource": "Règlement écrit du PLU, Zone UB, Article 10 (modification n° 7)"
+    },
+    {
+      "id": "emprise-au-sol-definition",
+      "question": "Comment se calcule l'emprise au sol d'une construction ?",
+      "type": "nominal",
+      "expectedSource": "Règlement écrit du PLU, définitions communes, « Emprise au sol »"
+    },
+    {
+      "id": "stationnement-logement",
+      "question": "Combien de places de stationnement faut-il prévoir pour un logement ?",
+      "type": "nominal",
+      "expectedSource": "Règlement écrit du PLU, dispositions communes, Article 12"
+    },
+    {
+      "id": "emprise-ub",
+      "question": "Quelle est l'emprise au sol maximale autorisée en zone UB ?",
+      "type": "nominal",
+      "expectedSource": "Règlement écrit du PLU, Zone UB, Article 9"
+    },
+    {
+      "id": "recul-r1",
+      "question": "Qu'est-ce que le recul R1 par rapport aux voies et emprises publiques ?",
+      "type": "nominal",
+      "expectedSource": "Règlement écrit du PLU, définitions communes, « Recul (R1) »"
+    },
+    {
+      "id": "oap-refuge",
+      "question": "Que prévoit l'orientation d'aménagement et de programmation du secteur du Refuge ?",
+      "type": "nominal",
+      "expectedSource": "OAP du PLU, secteur Le Refuge"
+    },
+    {
+      "id": "hauteur-ncu",
+      "question": "Quelles sont les règles de hauteur en zone Ncu ?",
+      "type": "nominal",
+      "expectedSource": "Règlement écrit du PLU, Zone Ncu, Article 10"
+    },
+    {
+      "id": "hors-corpus-taxe",
+      "question": "Quel est le taux de la taxe d'aménagement à Anglet ?",
+      "type": "refus",
+      "expectedSource": "Hors corpus — la fiscalité de l'urbanisme ne figure pas dans le règlement"
+    },
+    {
+      "id": "hors-corpus-parcelle",
+      "question": "Puis-je installer une piscine sur la parcelle AB-142 ?",
+      "type": "refus",
+      "expectedSource": "Hors corpus — le corpus ne contient pas le règlement graphique ni le parcellaire ; renvoyer au Géoportail de l'urbanisme"
+    },
+    {
+      "id": "ambigu-hauteur",
+      "question": "Quelle hauteur maximale pour une construction ?",
+      "type": "ambigu",
+      "expectedSource": "Zone non précisée — l'assistant doit demander la zone, pas donner une valeur unique"
+    },
+    {
+      "id": "suivi-zone-uc",
+      "turns": [
+        "Quelle hauteur maximale puis-je construire en zone UB ?",
+        "Et en zone UC ?"
+      ],
+      "type": "suivi",
+      "expectedSource": "Règlement écrit du PLU, Zone UC, Article 10 — la reformulation doit basculer sur la zone UC"
+    }
+  ]
+}
