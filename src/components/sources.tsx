@@ -6,8 +6,7 @@ import type { SourceChunk } from "@/lib/rag/retrieve";
 function chunkTitle(chunk: SourceChunk, position: number): string {
   const parts: string[] = [`Extrait ${position}`];
   if (chunk.fileName) parts.push(chunk.fileName);
-  const page = chunk.metadata.page_label ?? chunk.metadata.page_number;
-  if (typeof page === "string" || typeof page === "number") parts.push(`p. ${page}`);
+  if (chunk.page !== null) parts.push(`p. ${chunk.page}`);
   return parts.join(" · ");
 }
 
