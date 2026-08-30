@@ -75,12 +75,12 @@ const REFUSAL_MARKS = [
 ];
 
 /**
- * Une réponse « cite une source » si elle référence un article/section numéroté
- * ou un type de document du corpus (prompt système, règle 2 : « numéro
- * d'article, de section, ou nom du document »).
+ * Une réponse « cite une source » si elle référence un article/section numéroté,
+ * le repère d'extrait imposé par le prompt système (« (Extrait N) », règle 2),
+ * ou un type de document du corpus.
  */
 const CITATION_RE =
-  /\bart(?:icle|\.)?\s*\d|\b(section|annexe|avenant|accord du|chapitre|considérant|titre|directive|règlement|convention|guide|PADD|OAP|PLU|EBIOS)\b/i;
+  /\bart(?:icle|\.)?\s*\d|\bextrait\s*\d|\b(section|annexe|avenant|accord du|chapitre|considérant|titre|directive|règlement|convention|guide|PADD|OAP|PLU|EBIOS)\b/i;
 
 function resolveCorpus(): string {
   const fromArg = process.argv
