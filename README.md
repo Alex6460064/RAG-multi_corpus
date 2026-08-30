@@ -74,4 +74,5 @@ build, jamais committé).
 
 ## Démo
 
-*(lien Vercel à ajouter)*
+**https://rag-plu-anglet.vercel.app** — déploiement Vercel (projet `rag-plu-anglet`), build
+`npm run generate && npm run build` : l'index est régénéré à chaque déploiement, jamais committé.
