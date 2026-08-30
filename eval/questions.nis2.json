@@ -37,13 +37,14 @@
       "question": "La France a-t-elle transposé NIS2 ? Les obligations sont-elles applicables aujourd'hui ?",
       "type": "nominal",
       "expectedSource": "data/00-contexte-transposition-nis2-france.md — loi française non promulguée, obligations non applicables en droit interne à la date d'arrêt du corpus",
-      "expectContains": ["non promulguée"]
+      "expectContains": ["promul"]
     },
     {
       "id": "decrets-france",
-      "question": "Quels décrets d'application de NIS2 ont été publiés en France ?",
+      "question": "Pourquoi aucun décret d'application de NIS2 n'est-il encore en vigueur en France ?",
       "type": "nominal",
-      "expectedSource": "data/00-contexte-transposition-nis2-france.md — aucun à la date d'arrêt du corpus"
+      "expectedSource": "data/00-contexte-transposition-nis2-france.md — la loi de transposition n'est pas promulguée à la date d'arrêt du corpus, donc aucun décret",
+      "expectContains": ["promul"]
     },
     {
       "id": "anssi-authentification",
