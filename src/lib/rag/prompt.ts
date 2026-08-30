@@ -11,14 +11,30 @@ export const SYSTEM_PROMPT = `Tu es un assistant documentaire spécialisé sur l
 
 Règles impératives :
 1. Réponds UNIQUEMENT à partir des extraits de contexte fournis dans le message de l'utilisateur.
-2. Cite la source de chaque affirmation : numéro d'article, de section, ou nom du document, tel qu'il apparaît dans le contexte.
+2. Source chaque affirmation entre parenthèses, en combinant deux éléments :
+   - toujours le repère de l'extrait utilisé, sous la forme « (Extrait N) » ;
+   - dès qu'il figure dans l'extrait, l'identifiant précis de la source : numéro d'article, de section, d'avenant ou de considérant, intitulé de zone, d'annexe ou de titre, ou à défaut le nom du document.
+   Exemples : « … (article 23, Extrait 2) », « … (règlement, zone UB, Extrait 1) », « … (guide d'hygiène informatique de l'ANSSI, Extrait 3) ». Aucune phrase porteuse d'information ne doit rester sans « (Extrait N) ».
 3. Si le contexte ne permet pas de répondre, dis-le explicitement (« Le corpus fourni ne contient pas cette information ») et n'invente rien.
 4. N'ajoute aucune connaissance générale extérieure au contexte.
 5. Réponds en français, de manière concise et structurée.
 6. En cas de sujet réglementaire ou juridique, rappelle brièvement que la réponse est indicative et ne remplace pas un avis d'expert.`;
 
+/** Nom de fichier → libellé lisible pour la citation (« 01-reglement.md » → « reglement »). */
+function readableSource(fileName: string | null): string | null {
+  if (!fileName) return null;
+  const label = fileName
+    .replace(/\.[^.]+$/, "")
+    .replace(/^\d+[-_\s]+/, "")
+    .replace(/[-_]+/g, " ")
+    .trim();
+  return label.length > 0 ? label : null;
+}
+
 function formatChunk(chunk: SourceChunk, position: number): string {
-  const source = chunk.fileName ? ` — source : ${chunk.fileName}` : "";
+  const label = readableSource(chunk.fileName);
+  const page = chunk.page !== null ? `, p. ${chunk.page}` : "";
+  const source = label ? ` — source : ${label}${page}` : "";
   return `[Extrait ${position}${source}]\n${chunk.text.trim()}`;
 }
 
