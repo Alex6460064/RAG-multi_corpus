@@ -42,6 +42,8 @@ interface EvalQuestion {
   expectContains?: string[];
   /** La réponse doit être un refus explicite (question hors corpus). */
   expectRefusal?: boolean;
+  /** La réponse doit demander une précision (question ambiguë). */
+  expectClarification?: boolean;
 }
 
 interface EvalFile {
@@ -60,6 +62,7 @@ interface QuestionResult {
   retrievedFiles: string[];
   citationPresent: boolean;
   refusalPresent: boolean;
+  clarificationPresent: boolean;
   missingExpected: string[];
   verdict: Verdict;
   reason: string;
@@ -84,6 +87,17 @@ const REFUSAL_MARKS = [
  */
 const CITATION_RE =
   /\bart(?:icle|\.)?\s*\d|\bextrait\s*\d|\b(section|annexe|avenant|accord du|chapitre|considérant|titre|directive|règlement|convention|guide|PADD|OAP|PLU|EBIOS)\b/i;
+
+/**
+ * Une réponse « demande une précision » si elle pose une question de cadrage
+ * (prompt système, règle 4 : demander l'élément manquant plutôt que deviner).
+ */
+const CLARIFICATION_RE =
+  /\b(préciser|précision|pourriez-vous|pouvez-vous|de quelle|quelle zone|quelle catégorie|quel type|quelle période|s'agit-il|que voulez-vous dire|reformuler)\b/i;
+
+function asksClarification(answer: string): boolean {
+  return answer.includes("?") && CLARIFICATION_RE.test(answer);
+}
 
 function resolveCorpus(): string {
   const fromArg = process.argv
@@ -219,9 +233,18 @@ function judge(q: EvalQuestion, r: Omit<QuestionResult, "verdict" | "reason">): 
     };
   }
 
-  // Pour une question ambiguë, demander une précision est le comportement voulu :
-  // ni « refus » ni « citation » ne sont des critères pertinents → relecture.
+  // Pour une question ambiguë, le comportement voulu (prompt système, règle 4)
+  // est de demander l'élément manquant. Avec `expectClarification`, on le vérifie ;
+  // sinon on laisse la relecture manuelle trancher.
   if (q.type === "ambigu") {
+    if (q.expectClarification === true) {
+      return r.clarificationPresent
+        ? { verdict: "OK", reason: "demande la précision attendue" }
+        : {
+            verdict: "ECHEC",
+            reason: "question ambiguë : aucune demande de précision",
+          };
+    }
     return { verdict: "MANUEL", reason: "question ambiguë — vérifier à la main" };
   }
 
@@ -328,6 +351,7 @@ async function main(): Promise<void> {
       normalisedAnswer.includes(normalise(m)),
     );
     const citationPresent = hasCitation(run.answer, run.retrievedFiles);
+    const clarificationPresent = asksClarification(run.answer);
     const missingExpected = (q.expectContains ?? []).filter(
       (s) => !normalisedAnswer.includes(normalise(s)),
     );
@@ -339,6 +363,7 @@ async function main(): Promise<void> {
       retrievedFiles: run.retrievedFiles,
       citationPresent,
       refusalPresent,
+      clarificationPresent,
       missingExpected,
     };
     const { verdict, reason } = judge(q, base);
