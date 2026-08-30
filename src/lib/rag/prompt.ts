@@ -54,8 +54,18 @@ export function buildUserMessage(question: string, chunks: SourceChunk[]): strin
  * question autonome, pour que la recherche vectorielle porte sur le bon sujet.
  * N'est utilisé que lorsqu'il y a un historique de conversation.
  */
-const CONDENSE_PROMPT = `À partir de l'historique de conversation et de la question de suivi, reformule la question de suivi en une question autonome, compréhensible sans l'historique, rédigée dans la même langue.
-N'y réponds pas. N'ajoute aucune information absente de l'échange. Si la question est déjà autonome, renvoie-la telle quelle, sans autre texte.
+const CONDENSE_PROMPT = `Tu prépares une requête de recherche documentaire. À partir de l'historique et de la question de suivi, produis une question autonome, compréhensible sans l'historique, dans la même langue.
+
+Règles :
+- Reprends le sujet, le cadre et les termes clés de la question précédente ; ne remplace que ce que la question de suivi fait varier. « Et pour X ? », « Et en Y ? », « Et si Z ? » posent la même question que la précédente, en changeant une seule valeur.
+- N'y réponds pas. N'ajoute aucune information absente de l'échange.
+- Ne renvoie la question de suivi telle quelle que si elle est déjà autonome : sujet et verbe explicites, aucune référence implicite à l'échange.
+- Renvoie uniquement la question, sans préfixe ni commentaire.
+
+Exemple :
+Historique — Utilisateur : Sous quel délai une entité essentielle doit-elle notifier un incident ?
+Question de suivi : Et pour une entité importante ?
+Question autonome : Sous quel délai une entité importante doit-elle notifier un incident ?
 
 Historique :
 {history}
