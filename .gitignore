@@ -18,6 +18,9 @@ next-env.d.ts
 /cache/
 /data/**/index/
 
+# Rapports d'évaluation (le jeu de questions eval/questions.*.json est versionné)
+/eval/*.results.json
+
 # Variables d'environnement / secrets
 .env*
 !.env.example
