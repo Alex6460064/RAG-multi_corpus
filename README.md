@@ -65,4 +65,5 @@ build, jamais committé).
 
 ## Démo
 
-*(lien Vercel à ajouter)*
+**https://rag-syntec.vercel.app** — déploiement Vercel (projet `rag-syntec`), build
+`npm run generate && npm run build` : l'index est régénéré à chaque déploiement, jamais committé.
