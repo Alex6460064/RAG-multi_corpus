@@ -61,6 +61,7 @@ Commande de régénération en tête du script.
 | Variable | Valeur |
 |---|---|
 | `OPENAI_API_KEY` | *(clé du projet, plafond de dépense conseillé)* |
+| `CORPUS_BRANCH` | `corpus/plu-anglet` — pilote l'`ignoreCommand` de `vercel.json` (ce projet ne builde que cette branche) |
 | `NEXT_PUBLIC_CORPUS_NAME` | `PLU d'Anglet` |
 | `NEXT_PUBLIC_CORPUS_CUTOFF` | `corpus arrêté au 20/12/2024 — PLU d'Anglet, modification n° 7 approuvée le 7 décembre 2024 ; un PLU évolue par modifications, vérifier la version en vigueur` |
 | `NEXT_PUBLIC_CORPUS_SOURCE_LABEL` | `Plan Local d'Urbanisme d'Anglet (règlement écrit, PADD, OAP) — Géoportail de l'Urbanisme, dossier 64024_PLU_20241207` |
