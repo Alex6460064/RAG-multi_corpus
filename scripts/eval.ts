@@ -5,6 +5,9 @@
  *   npm run eval                 # corpus déduit de la branche corpus/* courante
  *   npm run eval -- --corpus=nis2
  *   npm run eval -- --dry-run    # valide le jeu de questions, aucun appel LLM
+ *   npm run eval -- --only=<id>[,<id>] --verbose   # triage : sous-ensemble,
+ *                                 trace la question reformulée et les extraits
+ *                                 récupérés (rapport non réécrit)
  *
  * Prérequis : index présent (`npm run generate` sur la branche) et OPENAI_API_KEY.
  * Fait de VRAIS appels LLM (embeddings + génération) — à lancer délibérément.
@@ -141,6 +144,7 @@ function validateQuestions(file: EvalFile): void {
 /** Passe une question (mono ou multi-tours) dans le moteur complet. */
 async function runQuestion(
   q: EvalQuestion,
+  verbose = false,
 ): Promise<{ finalQuestion: string; answer: string; retrievedFiles: string[] }> {
   const turns = q.turns ?? [q.question as string];
   const history: ChatMessage[] = [];
@@ -152,6 +156,18 @@ async function runQuestion(
     const searchQuery =
       history.length > 0 ? await condenseQuestion(question, history) : question;
     const sources = await retrieve(searchQuery);
+    if (verbose) {
+      console.log(`\n  tour ${i + 1}/${turns.length} — « ${question} »`);
+      if (searchQuery !== question) {
+        console.log(`    reformulée pour la recherche : « ${searchQuery} »`);
+      }
+      for (const s of sources) {
+        const head = s.text.replace(/\s+/g, " ").slice(0, 90);
+        console.log(
+          `    · ${s.fileName ?? "?"} (score ${s.score?.toFixed(3) ?? "n/a"}) : ${head}…`,
+        );
+      }
+    }
     const answer = await generate(question, history, sources);
 
     history.push({ role: "user", content: question });
@@ -252,6 +268,15 @@ function printTable(results: QuestionResult[]): void {
 
 async function main(): Promise<void> {
   const dryRun = process.argv.includes("--dry-run");
+  const verbose = process.argv.includes("--verbose");
+  const only = new Set(
+    process.argv
+      .find((a) => a.startsWith("--only="))
+      ?.slice("--only=".length)
+      .split(",")
+      .map((s) => s.trim())
+      .filter(Boolean) ?? [],
+  );
   const corpus = resolveCorpus();
   const questionsPath = path.join(
     process.cwd(),
@@ -268,6 +293,15 @@ async function main(): Promise<void> {
 
   const file = JSON.parse(await readFile(questionsPath, "utf8")) as EvalFile;
   validateQuestions(file);
+  if (only.size > 0) {
+    const unknown = [...only].filter(
+      (id) => !file.questions.some((q) => q.id === id),
+    );
+    if (unknown.length > 0) {
+      throw new Error(`--only : id inconnu(s) : ${unknown.join(", ")}`);
+    }
+    file.questions = file.questions.filter((q) => only.has(q.id));
+  }
   console.log(
     `Corpus « ${corpus} » — ${file.questions.length} question(s), ` +
       `jeu daté du ${file.updated}.`,
@@ -287,7 +321,8 @@ async function main(): Promise<void> {
   const results: QuestionResult[] = [];
   for (const q of file.questions) {
     process.stdout.write(`· ${q.id} … `);
-    const run = await runQuestion(q);
+    const run = await runQuestion(q, verbose);
+    if (verbose) process.stdout.write("\n  ");
     const normalisedAnswer = normalise(run.answer);
     const refusalPresent = REFUSAL_MARKS.some((m) =>
       normalisedAnswer.includes(normalise(m)),
@@ -321,12 +356,24 @@ async function main(): Promise<void> {
     `\n${counts.OK} OK · ${counts.ECHEC} ÉCHEC · ${counts.MANUEL} à vérifier.`,
   );
 
-  const resultsPath = path.join(process.cwd(), "eval", `${corpus}.results.json`);
-  await writeFile(
-    resultsPath,
-    JSON.stringify({ corpus, ranAt: new Date().toISOString(), results }, null, 2),
-  );
-  console.log(`Rapport détaillé : ${resultsPath}`);
+  if (only.size > 0) {
+    console.log("\n--only : exécution partielle, rapport non réécrit.");
+  } else {
+    const resultsPath = path.join(
+      process.cwd(),
+      "eval",
+      `${corpus}.results.json`,
+    );
+    await writeFile(
+      resultsPath,
+      JSON.stringify(
+        { corpus, ranAt: new Date().toISOString(), results },
+        null,
+        2,
+      ),
+    );
+    console.log(`Rapport détaillé : ${resultsPath}`);
+  }
 
   const globalVerdict = counts.ECHEC === 0 ? "PRÊT À PARTAGER" : "À CORRIGER";
   console.log(`\nVerdict : ${globalVerdict}`);
