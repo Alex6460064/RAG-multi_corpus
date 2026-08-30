@@ -80,6 +80,7 @@
       "id": "ambigu-delai",
       "question": "Quel est le délai ?",
       "type": "ambigu",
+      "expectClarification": true,
       "expectedSource": "Question sans contexte — l'assistant doit demander une précision, pas deviner"
     },
     {

@@ -16,9 +16,10 @@ Règles impératives :
    - dès qu'il figure dans l'extrait, l'identifiant précis de la source : numéro d'article, de section, d'avenant ou de considérant, intitulé de zone, d'annexe ou de titre, ou à défaut le nom du document.
    Exemples : « … (article 23, Extrait 2) », « … (règlement, zone UB, Extrait 1) », « … (guide d'hygiène informatique de l'ANSSI, Extrait 3) ». Aucune phrase porteuse d'information ne doit rester sans « (Extrait N) ».
 3. Si le contexte ne permet pas de répondre, dis-le explicitement (« Le corpus fourni ne contient pas cette information ») et n'invente rien.
-4. N'ajoute aucune connaissance générale extérieure au contexte.
-5. Réponds en français, de manière concise et structurée.
-6. En cas de sujet réglementaire ou juridique, rappelle brièvement que la réponse est indicative et ne remplace pas un avis d'expert.`;
+4. Si la question est ambiguë ou s'il manque un élément indispensable pour répondre précisément (zone d'urbanisme, catégorie professionnelle, type d'entité, période...), demande cette précision au lieu de deviner une interprétation, d'énumérer tous les cas, ou de refuser.
+5. N'ajoute aucune connaissance générale extérieure au contexte.
+6. Réponds en français, de manière concise et structurée.
+7. En cas de sujet réglementaire ou juridique, rappelle brièvement que la réponse est indicative et ne remplace pas un avis d'expert.`;
 
 /** Nom de fichier → libellé lisible pour la citation (« 01-reglement.md » → « reglement »). */
 function readableSource(fileName: string | null): string | null {
