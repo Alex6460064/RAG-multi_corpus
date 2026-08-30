@@ -17,7 +17,16 @@ export function Chat() {
   const scrollRef = useRef<HTMLDivElement>(null);
 
   useEffect(() => {
-    scrollRef.current?.scrollTo({ top: scrollRef.current.scrollHeight });
+    const el = scrollRef.current;
+    if (!el) return;
+    const last = turns[turns.length - 1];
+    // Défilement forcé au moment de l'envoi (tour assistant vide en attente).
+    // Pendant le streaming on ne suit que si l'utilisateur est déjà en bas —
+    // sinon il peut remonter lire les messages précédents sans être ramené.
+    const justSent =
+      last?.role === "assistant" && last.content === "" && last.pending === true;
+    const nearBottom = el.scrollHeight - el.scrollTop - el.clientHeight < 120;
+    if (justSent || nearBottom) el.scrollTo({ top: el.scrollHeight });
   }, [turns]);
 
   const send = useCallback(
@@ -39,10 +48,24 @@ export function Chat() {
       };
 
       // Historique envoyé au serveur (avant d'ajouter le tour courant à l'état).
-      const history: ChatMessage[] = turns.map((t) => ({
-        role: t.role,
-        content: t.content,
-      }));
+      // Uniquement les paires (question, réponse) abouties : une réponse vide ou
+      // en échec — et la question qu'elle laisse sans réponse — sont exclues,
+      // sinon on présenterait un tour raté comme complet au modèle.
+      const history: ChatMessage[] = [];
+      for (let i = 0; i < turns.length - 1; i++) {
+        const q = turns[i];
+        const a = turns[i + 1];
+        if (
+          q.role === "user" &&
+          a.role === "assistant" &&
+          !a.error &&
+          a.content !== ""
+        ) {
+          history.push({ role: "user", content: q.content });
+          history.push({ role: "assistant", content: a.content });
+          i++;
+        }
+      }
 
       setTurns((prev) => [...prev, userTurn, assistantTurn]);
 
@@ -54,11 +77,15 @@ export function Chat() {
           onSources: (sources) => patch((t) => ({ ...t, sources })),
           onDelta: (text) =>
             patch((t) => ({ ...t, content: t.content + text, pending: true })),
-          onError: (message) => setError(message),
+          onError: (message) => {
+            setError(message);
+            patch((t) => ({ ...t, error: true }));
+          },
         });
       } catch (err) {
         if ((err as Error).name !== "AbortError") {
           setError((err as Error).message);
+          patch((t) => ({ ...t, error: true }));
         }
       } finally {
         patch((t) => ({ ...t, pending: false }));
@@ -78,9 +105,11 @@ export function Chat() {
             Posez une question sur « {uiConfig.corpusName} ».
           </p>
         )}
-        {turns.map((turn) => (
-          <Message key={turn.id} turn={turn} />
-        ))}
+        {turns
+          .filter((turn) => !(turn.error && turn.content === ""))
+          .map((turn) => (
+            <Message key={turn.id} turn={turn} />
+          ))}
 
         {showStarters && (
           <ul className="mx-auto max-w-md space-y-2">
