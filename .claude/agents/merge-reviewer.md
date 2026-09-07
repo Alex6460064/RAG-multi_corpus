@@ -33,8 +33,10 @@ corpus/nis2 | plu-anglet | syntec  -> data/ uniquement
 1. `git rev-parse --abbrev-ref HEAD` et `git log --oneline -5` pour situer le merge.
 2. `git diff --stat` du merge : lister les fichiers touches.
 3. **Si branche courante = `corpus/*`** : tout fichier modifie hors `data/`,
-   `.claude/` et `README.md` est un signal fort. Verifier qu'il vient bien de `main`
-   (propagation legitime du moteur) et non d'une edition locale a la branche.
+   `.claude/`, `README.md` et `scripts/build-corpus-<nom>.mjs` (ETL du corpus,
+   autorise par le hook `guard-corpus-branch`) est un signal fort. Verifier qu'il
+   vient bien de `main` (propagation legitime du moteur) et non d'une edition
+   locale a la branche.
 4. **Si merge vers `main`** : verifier qu'aucun document de `data/` propre a un
    corpus ne remonte sur `main`, et qu'aucune valeur en dur specifique a un corpus
    (nom, titre de page, date, cle) n'a ete introduite.
