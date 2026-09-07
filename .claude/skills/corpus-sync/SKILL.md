@@ -36,9 +36,11 @@ puis `corpus/syntec` :
      (`git checkout --theirs <fichier>` puis `git add`), sauf indication contraire.
      Une branche `corpus/*` ne doit pas avoir de version divergente du code.
    - Puis `git merge --continue`.
-4. `git diff --stat main..<branche>` : verifier que la seule difference restante
-   est le contenu de `data/` propre a ce corpus. Toute autre difference = signal a
-   remonter.
+4. `git diff --stat main..<branche>` : les seules differences attendues sont le
+   contenu de `data/` propre au corpus, le `README.md` de branche, et
+   eventuellement `scripts/build-corpus-<nom>.mjs` (ETL du corpus, autorise par le
+   hook `guard-corpus-branch`). Toute autre difference — surtout dans `src/` — =
+   signal a remonter.
 5. Verifier qu'aucun marqueur de conflit ne subsiste : `git grep -n "^<<<<<<<\|^>>>>>>>"` .
 
 Revenir sur `main` a la fin : `git checkout main`.

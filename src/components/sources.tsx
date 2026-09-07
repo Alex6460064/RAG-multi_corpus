@@ -1,7 +1,7 @@
 "use client";
 
 import { useState } from "react";
-import type { SourceChunk } from "@/lib/rag/retrieve";
+import type { SourceChunk } from "@/lib/chat-protocol";
 
 function chunkTitle(chunk: SourceChunk, position: number): string {
   const parts: string[] = [`Extrait ${position}`];

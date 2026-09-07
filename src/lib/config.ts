@@ -44,10 +44,31 @@ export const config = {
   chunkSize: intFromEnv(process.env.RAG_CHUNK_SIZE, 1024),
   /** Recouvrement entre chunks (tokens). 0 = pas de recouvrement, valide. */
   chunkOverlap: intFromEnv(process.env.RAG_CHUNK_OVERLAP, 200, 0),
-  /** Garde-fou coût : nombre de tours d'historique réinjectés dans l'appel LLM. */
+  /** Garde-fou coût : nombre de messages d'historique (2 par tour) réinjectés dans l'appel LLM. */
   maxHistoryMessages: intFromEnv(process.env.RAG_MAX_HISTORY_MESSAGES, 20),
   /** Garde-fou coût : longueur max (caractères) de la question entrante. */
   maxQuestionChars: intFromEnv(process.env.RAG_MAX_QUESTION_CHARS, 4000),
+  /**
+   * Garde-fou coût : nombre de messages au-delà duquel la requête est rejetée
+   * sans être examinée. Très au-dessus de `maxHistoryMessages`, qui tronque.
+   */
+  maxMessages: intFromEnv(process.env.RAG_MAX_MESSAGES, 60),
+  /**
+   * Garde-fou coût : longueur cumulée max (caractères) de l'historique envoyé au
+   * modèle — `maxHistoryMessages` borne un nombre de messages, jamais leur
+   * taille. C'est un budget de troncature, pas un seuil de rejet : au-delà, les
+   * messages les plus anciens de la fenêtre sont écartés (voir borneHistorique).
+   * Avec `maxQuestionChars` et les extraits récupérés, borne l'entrée d'un appel
+   * à ~16 k tokens pour du texte naturel. Le budget est en caractères, pas en
+   * tokens : du texte au ratio défavorable (CJK, emoji) tient dans le même
+   * nombre de caractères pour quelques fois plus de tokens — le coût reste
+   * borné et sous le contexte du modèle, l'estimation en tokens non.
+   */
+  maxTotalChars: intFromEnv(process.env.RAG_MAX_TOTAL_CHARS, 40000),
+  /** Reformulation : nombre de tours d'historique repris (2 messages par tour). */
+  condenseHistoryTurns: intFromEnv(process.env.RAG_CONDENSE_HISTORY_TURNS, 3),
+  /** Reformulation : marge (caractères) tolérée au-delà de la question d'origine. */
+  condenseMaxExtraChars: intFromEnv(process.env.RAG_CONDENSE_MAX_EXTRA_CHARS, 400),
 } as const;
 
 /**
