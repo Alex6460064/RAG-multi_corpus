@@ -2,7 +2,7 @@ import type { NextRequest } from "next/server";
 import { Settings } from "llamaindex";
 import { config } from "@/lib/config";
 import { initSettings } from "@/lib/rag/settings";
-import { prepareAnswer } from "@/lib/rag/answer";
+import { prepareAnswer, borneHistorique } from "@/lib/rag/answer";
 import { messageDe } from "@/lib/errors";
 import type { PreparedAnswer } from "@/lib/rag/answer";
 import type { ChatMessage, ChatStreamEvent } from "@/lib/chat-protocol";
@@ -27,13 +27,6 @@ function logServeur(contexte: string, err: unknown): void {
 const MESSAGE_ERREUR_SERVEUR =
   "Le service est momentanément indisponible. Réessayez dans un instant.";
 
-/**
- * Rejet immédiat au-delà de ce nombre de messages : borne dure du protocole,
- * très au-dessus de `maxHistoryMessages` (qui tronque, sans rejeter). Testée
- * avant la somme des longueurs pour ne pas parcourir un tableau démesuré.
- */
-const MAX_MESSAGES_RECUS = 60;
-
 function parseMessages(body: unknown): ChatMessage[] {
   if (!body || typeof body !== "object" || !("messages" in body)) return [];
   const raw = (body as { messages: unknown }).messages;
@@ -57,14 +50,9 @@ export async function POST(req: NextRequest): Promise<Response> {
 
   const messages = parseMessages(body);
 
-  // Garde-fou coût (endpoint public porteur de clé) : borner le volume total
-  // reçu, pas seulement le nombre de messages. Le test sur le nombre passe
-  // avant la somme pour ne pas parcourir un tableau d'un million d'entrées.
-  if (messages.length > MAX_MESSAGES_RECUS) {
-    return jsonError("Historique trop long.", 413);
-  }
-  const totalChars = messages.reduce((n, m) => n + m.content.length, 0);
-  if (totalChars > config.maxTotalChars) {
+  // Garde-fou coût (endpoint public porteur de clé) : rejet immédiat d'un
+  // tableau démesuré, avant toute somme, pour ne pas le parcourir.
+  if (messages.length > config.maxMessages) {
     return jsonError("Historique trop long.", 413);
   }
 
@@ -98,6 +86,19 @@ export async function POST(req: NextRequest): Promise<Response> {
   const history: ChatMessage[] = messages
     .slice(0, lastUserIdx)
     .map((m) => ({ role: m.role, content: m.content }));
+
+  // Garde-fou coût : la somme porte sur la fenêtre réellement envoyée au
+  // modèle. La mesurer sur tout le tableau reçu rejetterait une conversation
+  // longue et légitime — définitivement, le client renvoyant le même historique
+  // à chaque tour — pour des messages que le moteur allait de toute façon
+  // écarter.
+  const totalChars = borneHistorique(history).reduce(
+    (n, m) => n + m.content.length,
+    question.length,
+  );
+  if (totalChars > config.maxTotalChars) {
+    return jsonError("Historique trop long.", 413);
+  }
 
   // Bornage de l'historique, reformulation, récupération et assemblage des
   // messages : même chemin que l'évaluation (src/lib/rag/answer.ts).

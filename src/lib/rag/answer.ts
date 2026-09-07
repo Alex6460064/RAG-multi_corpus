@@ -29,13 +29,21 @@ export interface PreparedAnswer {
  * testé, et l'évaluation rendrait son verdict sur un moteur qui n'est pas
  * celui déployé.
  */
+/**
+ * Fenêtre d'historique réellement envoyée au modèle. On tronque plutôt que de
+ * rejeter, pour ne pas bloquer une conversation longue. Exportée pour que la
+ * route mesure son garde-fou de taille sur cette fenêtre-là, et pas sur des
+ * messages qu'elle allait de toute façon écarter.
+ */
+export function borneHistorique(history: ChatMessage[]): ChatMessage[] {
+  return history.slice(-config.maxHistoryMessages);
+}
+
 export async function prepareAnswer(
   question: string,
   history: ChatMessage[],
 ): Promise<PreparedAnswer> {
-  // Garde-fou coût : on tronque plutôt que de rejeter, pour ne pas bloquer une
-  // conversation longue.
-  const borne = history.slice(-config.maxHistoryMessages);
+  const borne = borneHistorique(history);
 
   // Question de suivi elliptique : la reformuler en question autonome avant la
   // recherche, sinon l'embedding du fragment récupère des extraits hors sujet.

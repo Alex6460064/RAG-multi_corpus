@@ -25,9 +25,13 @@ async function main(): Promise<void> {
   if (!existsSync(dataDir)) {
     throw new Error(`Dossier de données introuvable : ${dataDir}`);
   }
-  // Fichiers seulement : ce sont eux que l'on retrouve ensuite dans
-  // `metadata.file_name` (un basename), seule base de comparaison fiable.
-  const entries = (await readdir(dataDir, { withFileTypes: true }))
+  // Récursif comme SimpleDirectoryReader, qui descend dans les sous-dossiers :
+  // lister à plat ferait échouer un corpus rangé en sous-dossiers, et laisserait
+  // passer sans bruit un fichier illisible qui s'y trouve. Comparaison sur le
+  // basename, seule forme que le lecteur reporte dans `metadata.file_name` —
+  // deux fichiers de même nom dans deux dossiers peuvent donc masquer l'échec de
+  // l'un d'eux, limite assumée.
+  const entries = (await readdir(dataDir, { withFileTypes: true, recursive: true }))
     .filter((e) => e.isFile() && !e.name.startsWith("."))
     .map((e) => e.name);
   if (entries.length === 0) {

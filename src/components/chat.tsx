@@ -19,10 +19,20 @@ const nextId = () => `turn-${++turnCounter}`;
 const DELAI_REQUETE_MS = 75_000;
 
 /**
+ * Nombre de messages d'historique envoyés au serveur. Reflète le défaut de
+ * `RAG_MAX_HISTORY_MESSAGES` : au-delà, le serveur tronque de toute façon.
+ * Sans cette borne, une conversation longue enfle indéfiniment et finit par
+ * dépasser le plafond de taille de la route — définitivement, puisque le même
+ * historique repart à chaque tour. La config serveur n'est pas importable ici :
+ * elle porte la clé API.
+ */
+const MAX_MESSAGES_HISTORIQUE = 20;
+
+/**
  * Historique envoyé au serveur : uniquement les paires (question, réponse)
- * abouties. Une réponse vide ou en échec — et la question qu'elle laisse sans
- * réponse — sont exclues, sinon on présenterait un tour raté comme complet au
- * modèle.
+ * abouties, bornées aux plus récentes. Une réponse vide ou en échec — et la
+ * question qu'elle laisse sans réponse — sont exclues, sinon on présenterait un
+ * tour raté comme complet au modèle.
  */
 function buildHistory(turns: ChatTurn[]): ChatMessage[] {
   const history: ChatMessage[] = [];
@@ -40,7 +50,7 @@ function buildHistory(turns: ChatTurn[]): ChatMessage[] {
       i++;
     }
   }
-  return history;
+  return history.slice(-MAX_MESSAGES_HISTORIQUE);
 }
 
 export function Chat() {

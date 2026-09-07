@@ -49,10 +49,18 @@ export const config = {
   /** Garde-fou coût : longueur max (caractères) de la question entrante. */
   maxQuestionChars: intFromEnv(process.env.RAG_MAX_QUESTION_CHARS, 4000),
   /**
-   * Garde-fou coût : longueur cumulée max (caractères) de tous les messages
-   * reçus. `maxHistoryMessages` borne un nombre de messages, jamais leur taille.
+   * Garde-fou coût : nombre de messages au-delà duquel la requête est rejetée
+   * sans être examinée. Très au-dessus de `maxHistoryMessages`, qui tronque.
    */
-  maxTotalChars: intFromEnv(process.env.RAG_MAX_TOTAL_CHARS, 20000),
+  maxMessages: intFromEnv(process.env.RAG_MAX_MESSAGES, 60),
+  /**
+   * Garde-fou coût : longueur cumulée max (caractères) de la fenêtre réellement
+   * envoyée au modèle — `maxHistoryMessages` borne un nombre de messages, jamais
+   * leur taille. Calibré au-dessus d'une conversation légitime longue (20
+   * messages, réponses plafonnées par `maxTokens`) et très en dessous d'un corps
+   * forgé pour saturer le contexte du modèle.
+   */
+  maxTotalChars: intFromEnv(process.env.RAG_MAX_TOTAL_CHARS, 40000),
   /** Reformulation : nombre de tours d'historique repris (2 messages par tour). */
   condenseHistoryTurns: intFromEnv(process.env.RAG_CONDENSE_HISTORY_TURNS, 3),
   /** Reformulation : marge (caractères) tolérée au-delà de la question d'origine. */
