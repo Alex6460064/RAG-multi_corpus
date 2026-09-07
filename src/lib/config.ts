@@ -59,7 +59,10 @@ export const config = {
    * taille. C'est un budget de troncature, pas un seuil de rejet : au-delà, les
    * messages les plus anciens de la fenêtre sont écartés (voir borneHistorique).
    * Avec `maxQuestionChars` et les extraits récupérés, borne l'entrée d'un appel
-   * à ~16 k tokens, quel que soit le corps envoyé.
+   * à ~16 k tokens pour du texte naturel. Le budget est en caractères, pas en
+   * tokens : du texte au ratio défavorable (CJK, emoji) tient dans le même
+   * nombre de caractères pour quelques fois plus de tokens — le coût reste
+   * borné et sous le contexte du modèle, l'estimation en tokens non.
    */
   maxTotalChars: intFromEnv(process.env.RAG_MAX_TOTAL_CHARS, 40000),
   /** Reformulation : nombre de tours d'historique repris (2 messages par tour). */

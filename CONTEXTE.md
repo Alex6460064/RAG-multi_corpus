@@ -120,9 +120,10 @@ Le texte de la convention (IDCC 1486), pas un contrat personnel — aucune donn�
 Internet avec une clé OpenAI payante derrière, et il n'y a **aucune limite de débit**. La parade
 zéro-code serait une règle de rate limit du Vercel Firewall, mais l'équipe Vercel du projet est en
 plan **Hobby** (vérifié) et le rate limiting WAF est une fonctionnalité Pro. Ce qui est en place à la
-place, et suffit à borner le coût *par requête* : plafond de longueur cumulée du corps
-(`RAG_MAX_TOTAL_CHARS`, 20 000 par défaut), borne dure à 60 messages, plafond de la question entrante,
-et `maxTokens: 1024` sur la génération. À compléter côté compte par un **plafond de dépense OpenAI**,
+place, et suffit à borner le coût *par requête* : budget de troncature de la fenêtre d'historique
+réinjectée (`RAG_MAX_TOTAL_CHARS`, 40 000 caractères par défaut — au-delà, les messages les plus
+anciens sont écartés, la requête n'est pas rejetée), borne dure à 60 messages (`RAG_MAX_MESSAGES`),
+plafond de la question entrante (`RAG_MAX_QUESTION_CHARS`), et `maxTokens: 1024` sur la génération. À compléter côté compte par un **plafond de dépense OpenAI**,
 en sachant que ce plafond convertit un abus financier en indisponibilité des trois démos.
 
 À ne pas faire : un compteur en mémoire dans la route. Les instances Vercel sont éphémères et
