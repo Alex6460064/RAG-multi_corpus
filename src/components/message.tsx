@@ -2,7 +2,7 @@
 
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
-import type { SourceChunk } from "@/lib/rag/retrieve";
+import type { SourceChunk } from "@/lib/chat-protocol";
 import { Sources } from "./sources";
 
 export interface ChatTurn {
