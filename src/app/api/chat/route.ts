@@ -2,15 +2,10 @@ import type { NextRequest } from "next/server";
 import { Settings } from "llamaindex";
 import { config } from "@/lib/config";
 import { initSettings } from "@/lib/rag/settings";
-import { retrieve } from "@/lib/rag/retrieve";
-import { condenseQuestion } from "@/lib/rag/condense";
-import { SYSTEM_PROMPT, buildUserMessage } from "@/lib/rag/prompt";
+import { prepareAnswer } from "@/lib/rag/answer";
 import { messageDe } from "@/lib/errors";
-import type {
-  ChatMessage,
-  ChatStreamEvent,
-  SourceChunk,
-} from "@/lib/chat-protocol";
+import type { PreparedAnswer } from "@/lib/rag/answer";
+import type { ChatMessage, ChatStreamEvent } from "@/lib/chat-protocol";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
@@ -102,31 +97,18 @@ export async function POST(req: NextRequest): Promise<Response> {
 
   const history: ChatMessage[] = messages
     .slice(0, lastUserIdx)
-    .slice(-config.maxHistoryMessages)
     .map((m) => ({ role: m.role, content: m.content }));
 
-  let sources: SourceChunk[];
+  // Bornage de l'historique, reformulation, récupération et assemblage des
+  // messages : même chemin que l'évaluation (src/lib/rag/answer.ts).
+  let prepared: PreparedAnswer;
   try {
-    // Question de suivi elliptique : la reformuler en question autonome avant la
-    // recherche, sinon l'embedding du fragment récupère des extraits hors sujet.
-    const searchQuery =
-      history.length > 0
-        ? await condenseQuestion(question, history)
-        : question;
-    sources = await retrieve(searchQuery);
+    prepared = await prepareAnswer(question, history);
   } catch (err) {
     logServeur("Récupération", err);
     return jsonError(MESSAGE_ERREUR_SERVEUR, 500);
   }
-  // Aucun tour `assistant` contrôlé par le client n'est passé au modèle : E1.
-  // L'historique est rapporté en transcription citée dans le message utilisateur.
-  const llmMessages = [
-    { role: "system" as const, content: SYSTEM_PROMPT },
-    {
-      role: "user" as const,
-      content: buildUserMessage(question, sources, history),
-    },
-  ];
+  const { sources, llmMessages } = prepared;
 
   const encoder = new TextEncoder();
   // Passe à true quand la connexion est coupée côté client (onglet fermé,

@@ -22,9 +22,7 @@ import { readFile, writeFile } from "node:fs/promises";
 import path from "node:path";
 import { Settings } from "llamaindex";
 import { initSettings } from "@/lib/rag/settings";
-import { retrieve } from "@/lib/rag/retrieve";
-import { condenseQuestion } from "@/lib/rag/condense";
-import { SYSTEM_PROMPT, buildUserMessage } from "@/lib/rag/prompt";
+import { prepareAnswer, type LlmMessage } from "@/lib/rag/answer";
 import type { ChatMessage } from "@/lib/chat-protocol";
 import { messageDe } from "@/lib/errors";
 
@@ -180,9 +178,11 @@ async function runQuestion(
 
   for (let i = 0; i < turns.length; i++) {
     const question = turns[i].trim();
-    const searchQuery =
-      history.length > 0 ? await condenseQuestion(question, history) : question;
-    const sources = await retrieve(searchQuery);
+    // Même chemin que la route : bornage, reformulation, récupération.
+    const { sources, searchQuery, llmMessages } = await prepareAnswer(
+      question,
+      history,
+    );
     if (verbose) {
       console.log(`\n  tour ${i + 1}/${turns.length} — « ${question} »`);
       if (searchQuery !== question) {
@@ -195,7 +195,7 @@ async function runQuestion(
         );
       }
     }
-    const answer = await generate(question, history, sources);
+    const answer = await generate(llmMessages);
 
     history.push({ role: "user", content: question });
     history.push({ role: "assistant", content: answer });
@@ -212,17 +212,9 @@ async function runQuestion(
   };
 }
 
-async function generate(
-  question: string,
-  history: ChatMessage[],
-  sources: Awaited<ReturnType<typeof retrieve>>,
-): Promise<string> {
-  const res = await Settings.llm.chat({
-    messages: [
-      { role: "system", content: SYSTEM_PROMPT },
-      { role: "user", content: buildUserMessage(question, sources, history) },
-    ],
-  });
+/** Génération non streamée — la route streame les mêmes `llmMessages`. */
+async function generate(llmMessages: LlmMessage[]): Promise<string> {
+  const res = await Settings.llm.chat({ messages: llmMessages });
   return typeof res.message.content === "string" ? res.message.content.trim() : "";
 }
 
