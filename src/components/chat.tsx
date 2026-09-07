@@ -22,9 +22,9 @@ const DELAI_REQUETE_MS = 75_000;
  * Nombre de messages d'historique envoyés au serveur. Reflète le défaut de
  * `RAG_MAX_HISTORY_MESSAGES` : au-delà, le serveur tronque de toute façon.
  * Sans cette borne, une conversation longue enfle indéfiniment et finit par
- * dépasser le plafond de taille de la route — définitivement, puisque le même
- * historique repart à chaque tour. La config serveur n'est pas importable ici :
- * elle porte la clé API.
+ * atteindre le plafond de nombre de messages de la route (`RAG_MAX_MESSAGES`),
+ * qui rejette. La config serveur n'est pas importable ici : elle porte la clé
+ * API.
  */
 const MAX_MESSAGES_HISTORIQUE = 20;
 

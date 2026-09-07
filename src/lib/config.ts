@@ -54,11 +54,12 @@ export const config = {
    */
   maxMessages: intFromEnv(process.env.RAG_MAX_MESSAGES, 60),
   /**
-   * Garde-fou coût : longueur cumulée max (caractères) de la fenêtre réellement
-   * envoyée au modèle — `maxHistoryMessages` borne un nombre de messages, jamais
-   * leur taille. Calibré au-dessus d'une conversation légitime longue (20
-   * messages, réponses plafonnées par `maxTokens`) et très en dessous d'un corps
-   * forgé pour saturer le contexte du modèle.
+   * Garde-fou coût : longueur cumulée max (caractères) de l'historique envoyé au
+   * modèle — `maxHistoryMessages` borne un nombre de messages, jamais leur
+   * taille. C'est un budget de troncature, pas un seuil de rejet : au-delà, les
+   * messages les plus anciens de la fenêtre sont écartés (voir borneHistorique).
+   * Avec `maxQuestionChars` et les extraits récupérés, borne l'entrée d'un appel
+   * à ~16 k tokens, quel que soit le corps envoyé.
    */
   maxTotalChars: intFromEnv(process.env.RAG_MAX_TOTAL_CHARS, 40000),
   /** Reformulation : nombre de tours d'historique repris (2 messages par tour). */

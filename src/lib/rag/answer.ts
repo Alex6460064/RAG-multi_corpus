@@ -20,6 +20,28 @@ export interface PreparedAnswer {
 }
 
 /**
+ * Fenêtre d'historique réellement envoyée au modèle : les messages les plus
+ * récents, bornés en nombre puis en taille cumulée.
+ *
+ * Les deux bornes tronquent, elles ne rejettent pas. Rejeter sur la taille
+ * bloquerait définitivement une conversation longue : le client renvoie le même
+ * historique à chaque tour, et le tour en échec ne s'y ajoute pas — la fenêtre
+ * ne redescendrait donc jamais sous le plafond, seul un rechargement de page en
+ * sortirait. Tronquer borne le coût aussi sûrement, sans cul-de-sac.
+ */
+export function borneHistorique(history: ChatMessage[]): ChatMessage[] {
+  const recents = history.slice(-config.maxHistoryMessages);
+  const gardes: ChatMessage[] = [];
+  let total = 0;
+  for (let i = recents.length - 1; i >= 0; i--) {
+    total += recents[i].content.length;
+    if (total > config.maxTotalChars) break;
+    gardes.unshift(recents[i]);
+  }
+  return gardes;
+}
+
+/**
  * Prépare tout ce qui précède la génération : bornage de l'historique,
  * reformulation d'une question de suivi, récupération, assemblage des messages.
  *
@@ -29,16 +51,6 @@ export interface PreparedAnswer {
  * testé, et l'évaluation rendrait son verdict sur un moteur qui n'est pas
  * celui déployé.
  */
-/**
- * Fenêtre d'historique réellement envoyée au modèle. On tronque plutôt que de
- * rejeter, pour ne pas bloquer une conversation longue. Exportée pour que la
- * route mesure son garde-fou de taille sur cette fenêtre-là, et pas sur des
- * messages qu'elle allait de toute façon écarter.
- */
-export function borneHistorique(history: ChatMessage[]): ChatMessage[] {
-  return history.slice(-config.maxHistoryMessages);
-}
-
 export async function prepareAnswer(
   question: string,
   history: ChatMessage[],

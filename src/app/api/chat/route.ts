@@ -2,7 +2,7 @@ import type { NextRequest } from "next/server";
 import { Settings } from "llamaindex";
 import { config } from "@/lib/config";
 import { initSettings } from "@/lib/rag/settings";
-import { prepareAnswer, borneHistorique } from "@/lib/rag/answer";
+import { prepareAnswer } from "@/lib/rag/answer";
 import { messageDe } from "@/lib/errors";
 import type { PreparedAnswer } from "@/lib/rag/answer";
 import type { ChatMessage, ChatStreamEvent } from "@/lib/chat-protocol";
@@ -86,19 +86,6 @@ export async function POST(req: NextRequest): Promise<Response> {
   const history: ChatMessage[] = messages
     .slice(0, lastUserIdx)
     .map((m) => ({ role: m.role, content: m.content }));
-
-  // Garde-fou coût : la somme porte sur la fenêtre réellement envoyée au
-  // modèle. La mesurer sur tout le tableau reçu rejetterait une conversation
-  // longue et légitime — définitivement, le client renvoyant le même historique
-  // à chaque tour — pour des messages que le moteur allait de toute façon
-  // écarter.
-  const totalChars = borneHistorique(history).reduce(
-    (n, m) => n + m.content.length,
-    question.length,
-  );
-  if (totalChars > config.maxTotalChars) {
-    return jsonError("Historique trop long.", 413);
-  }
 
   // Bornage de l'historique, reformulation, récupération et assemblage des
   // messages : même chemin que l'évaluation (src/lib/rag/answer.ts).
