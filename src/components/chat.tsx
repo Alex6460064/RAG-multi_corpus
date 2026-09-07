@@ -3,11 +3,45 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import { uiConfig } from "@/lib/ui-config";
 import { streamChat } from "@/lib/chat-client";
+import { messageDe } from "@/lib/errors";
 import type { ChatMessage } from "@/lib/chat-protocol";
 import { Message, type ChatTurn } from "./message";
 
 let turnCounter = 0;
 const nextId = () => `turn-${++turnCounter}`;
+
+/**
+ * Délai maximal d'une requête, en millisecondes : `maxDuration` de la route
+ * (60 s) plus une marge. `fetch` n'impose aucun timeout sur un corps en
+ * streaming — sans cette borne, un réseau qui se dégrade sans se couper fige
+ * l'interface (champ et bouton désactivés) jusqu'au rechargement de la page.
+ */
+const DELAI_REQUETE_MS = 75_000;
+
+/**
+ * Historique envoyé au serveur : uniquement les paires (question, réponse)
+ * abouties. Une réponse vide ou en échec — et la question qu'elle laisse sans
+ * réponse — sont exclues, sinon on présenterait un tour raté comme complet au
+ * modèle.
+ */
+function buildHistory(turns: ChatTurn[]): ChatMessage[] {
+  const history: ChatMessage[] = [];
+  for (let i = 0; i < turns.length - 1; i++) {
+    const q = turns[i];
+    const a = turns[i + 1];
+    if (
+      q.role === "user" &&
+      a.role === "assistant" &&
+      !a.error &&
+      a.content !== ""
+    ) {
+      history.push({ role: "user", content: q.content });
+      history.push({ role: "assistant", content: a.content });
+      i++;
+    }
+  }
+  return history;
+}
 
 export function Chat() {
   const [turns, setTurns] = useState<ChatTurn[]>([]);
@@ -47,47 +81,41 @@ export function Chat() {
         pending: true,
       };
 
-      // Historique envoyé au serveur (avant d'ajouter le tour courant à l'état).
-      // Uniquement les paires (question, réponse) abouties : une réponse vide ou
-      // en échec — et la question qu'elle laisse sans réponse — sont exclues,
-      // sinon on présenterait un tour raté comme complet au modèle.
-      const history: ChatMessage[] = [];
-      for (let i = 0; i < turns.length - 1; i++) {
-        const q = turns[i];
-        const a = turns[i + 1];
-        if (
-          q.role === "user" &&
-          a.role === "assistant" &&
-          !a.error &&
-          a.content !== ""
-        ) {
-          history.push({ role: "user", content: q.content });
-          history.push({ role: "assistant", content: a.content });
-          i++;
-        }
-      }
+      // Historique calculé avant d'ajouter le tour courant à l'état.
+      const history = buildHistory(turns);
 
       setTurns((prev) => [...prev, userTurn, assistantTurn]);
 
       const patch = (fn: (t: ChatTurn) => ChatTurn) =>
         setTurns((prev) => prev.map((t) => (t.id === assistantId ? fn(t) : t)));
 
+      const controller = new AbortController();
+      const timer = setTimeout(() => controller.abort(), DELAI_REQUETE_MS);
+
       try {
-        await streamChat([...history, { role: "user", content: trimmed }], {
-          onSources: (sources) => patch((t) => ({ ...t, sources })),
-          onDelta: (text) =>
-            patch((t) => ({ ...t, content: t.content + text, pending: true })),
-          onError: (message) => {
-            setError(message);
-            patch((t) => ({ ...t, error: true }));
+        await streamChat(
+          [...history, { role: "user", content: trimmed }],
+          {
+            onSources: (sources) => patch((t) => ({ ...t, sources })),
+            onDelta: (text) =>
+              patch((t) => ({ ...t, content: t.content + text, pending: true })),
+            onError: (message) => {
+              setError(message);
+              patch((t) => ({ ...t, error: true }));
+            },
           },
-        });
+          controller.signal,
+        );
       } catch (err) {
-        if ((err as Error).name !== "AbortError") {
-          setError((err as Error).message);
-          patch((t) => ({ ...t, error: true }));
-        }
+        const aborted = err instanceof Error && err.name === "AbortError";
+        setError(
+          aborted
+            ? "Délai dépassé : le serveur n'a pas répondu à temps. Réessayez."
+            : messageDe(err),
+        );
+        patch((t) => ({ ...t, error: true }));
       } finally {
+        clearTimeout(timer);
         patch((t) => ({ ...t, pending: false }));
         setBusy(false);
       }
