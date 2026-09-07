@@ -140,7 +140,9 @@ comme une barrière contre l'abus de l'endpoint.
 1. **Scaffolding + branche NIS2** — le corpus le plus resserré (peu de documents), idéal pour valider toute la chaîne technique une première fois. — **[fait]** moteur + corpus NIS2 + tests locaux + déploiement Vercel (`rag-nis2.vercel.app`, 30/08/2026).
 2. **Branche PLU Anglet** — corpus plus volumineux (PDF de zonage/règlement) — bon test de la gestion de documents plus longs et plus techniques. — **[fait]** corpus (règlement + PADD + OAP) + index + déploiement `rag-plu-anglet.vercel.app` (30/08/2026).
 3. **Branche Syntec** — le plus rapide des trois une fois la mécanique connue — texte unique, bien structuré. — **[fait]** corpus (base + attachés + salaires) + index + déploiement `rag-syntec.vercel.app` (30/08/2026).
-4. **Trois posts LinkedIn espacés** plutôt qu'un seul post noyant les trois projets — chacun touche un public différent (dirigeants PME, immobilier/BTP, RH/ESN). — **à faire.**
+4. ~~**Trois posts LinkedIn espacés**~~ — **abandonné (07/09/2026).** Les trois pitchs ci-dessus restent
+   utilisables tels quels si l'envie revient, mais la diffusion ne fait plus partie du périmètre : les démos
+   sont en ligne et les liens portés par le CV et le README.
 
 ---
 
@@ -166,7 +168,9 @@ d'être présentée comme aboutie, build qui échoue sur un corpus amputé, en-t
 masquées côté client, pipeline de réponse unifié entre la route et l'évaluation. Réglages Vercel confirmés :
 les trois projets sont connectés au dépôt GitHub et `CORPUS_BRANCH` pilote bien l'auto-déploiement (les trois
 builds de production se sont déclenchés sur `push`). Évaluation ciblée `suivi` : OK sur les trois corpus.
-Les trois déploiements vérifiés en production (en-têtes + `/api/chat` avec citations). Reste : les trois posts
-LinkedIn. Risque résiduel connu et documenté : aucune limite de débit possible en plan Hobby.*
+Les trois déploiements vérifiés en production (en-têtes + `/api/chat` avec citations). Checklist de publication
+close : captures/vidéo et posts LinkedIn abandonnés, rubrique CV faite. Risque résiduel connu et documenté :
+aucune limite de débit possible en plan Hobby, mitigé par les garde-fous par requête et un plafond de dépense
+OpenAI de 5 $.*
 
 *Mise à jour 30/08/2026 : les corpus `plu-anglet` et `syntec` sont construits, indexés et déployés (`rag-plu-anglet.vercel.app`, `rag-syntec.vercel.app`, page + `/api/chat` avec citations vérifiés). Les trois READMEs de branche portent leur lien de démo. Restent : réglages Vercel à confirmer (GitHub + `CORPUS_BRANCH` sur les deux nouveaux projets), éval qualité sur `plu-anglet` et `syntec`, captures/vidéos, rubrique CV, posts LinkedIn.*
