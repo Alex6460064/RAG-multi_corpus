@@ -11,6 +11,26 @@ const nextConfig: NextConfig = {
   outputFileTracingIncludes: {
     "/api/chat": ["./storage/**/*"],
   },
+
+  // Le bandeau de non-conseil et la date d'arrêt du corpus sont imposés sur
+  // chaque déploiement : interdire l'encadrement en iframe empêche un tiers de
+  // les faire sortir du cadre visible tout en affichant l'assistant.
+  async headers() {
+    return [
+      {
+        source: "/:path*",
+        headers: [
+          { key: "Content-Security-Policy", value: "frame-ancestors 'none'" },
+          { key: "X-Frame-Options", value: "DENY" },
+          { key: "X-Content-Type-Options", value: "nosniff" },
+          {
+            key: "Referrer-Policy",
+            value: "strict-origin-when-cross-origin",
+          },
+        ],
+      },
+    ];
+  },
 };
 
 export default nextConfig;

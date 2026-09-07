@@ -13,6 +13,7 @@ import path from "node:path";
 import { VectorStoreIndex, storageContextFromDefaults } from "llamaindex";
 import { SimpleDirectoryReader } from "@llamaindex/readers/directory";
 import { config, DATA_DIR, STORAGE_DIR } from "@/lib/config";
+import { messageDe } from "@/lib/errors";
 import { initSettings } from "@/lib/rag/settings";
 
 async function main(): Promise<void> {
@@ -24,7 +25,11 @@ async function main(): Promise<void> {
   if (!existsSync(dataDir)) {
     throw new Error(`Dossier de données introuvable : ${dataDir}`);
   }
-  const entries = (await readdir(dataDir)).filter((f) => !f.startsWith("."));
+  // Fichiers seulement : ce sont eux que l'on retrouve ensuite dans
+  // `metadata.file_name` (un basename), seule base de comparaison fiable.
+  const entries = (await readdir(dataDir, { withFileTypes: true }))
+    .filter((e) => e.isFile() && !e.name.startsWith("."))
+    .map((e) => e.name);
   if (entries.length === 0) {
     throw new Error(
       `Aucun document dans ${dataDir}. Déposer les fichiers du corpus avant l'indexation.`,
@@ -36,6 +41,26 @@ async function main(): Promise<void> {
     directoryPath: dataDir,
   });
   console.log(`${documents.length} document(s) chargé(s).`);
+
+  // SimpleDirectoryReader avale les erreurs fichier par fichier (il logue puis
+  // renvoie un tableau vide pour ce fichier). Sans ce contrôle, un PDF illisible
+  // sur le builder Vercel donnerait un index amputé — voire vide, qui fait
+  // échouer chaque requête au runtime — derrière un build vert.
+  const lus = new Set(documents.map((d) => String(d.metadata.file_name ?? "")));
+  const manquants = entries.filter((name) => !lus.has(name));
+
+  if (documents.length === 0) {
+    throw new Error(
+      `Aucun document lisible dans ${dataDir}, alors que ${entries.length} fichier(s) y sont présents ` +
+        `(${entries.join(", ")}). Voir les erreurs de lecture ci-dessus.`,
+    );
+  }
+  if (manquants.length > 0) {
+    throw new Error(
+      `Corpus incomplet : ${manquants.length} fichier(s) sur ${entries.length} n'ont produit aucun document — ` +
+        `${manquants.join(", ")}. Indexation interrompue : un corpus amputé est pire qu'un build en échec.`,
+    );
+  }
 
   if (existsSync(persistDir)) {
     console.log(`Suppression de l'index existant : ${persistDir}`);
@@ -52,6 +77,6 @@ async function main(): Promise<void> {
 }
 
 main().catch((err: unknown) => {
-  console.error("Échec de l'indexation :", (err as Error).message);
+  console.error("Échec de l'indexation :", messageDe(err));
   process.exit(1);
 });
