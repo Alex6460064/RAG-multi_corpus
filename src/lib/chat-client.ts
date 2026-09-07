@@ -1,6 +1,9 @@
 import { messageDe } from "@/lib/errors";
-import type { ChatMessage, ChatStreamEvent } from "@/lib/chat-protocol";
-import type { SourceChunk } from "@/lib/rag/retrieve";
+import type {
+  ChatMessage,
+  ChatStreamEvent,
+  SourceChunk,
+} from "@/lib/chat-protocol";
 
 export interface ChatStreamHandlers {
   onSources: (sources: SourceChunk[]) => void;

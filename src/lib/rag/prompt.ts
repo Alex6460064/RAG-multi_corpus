@@ -1,6 +1,5 @@
 import { uiConfig } from "@/lib/ui-config";
-import type { ChatMessage } from "@/lib/chat-protocol";
-import type { SourceChunk } from "./retrieve";
+import type { ChatMessage, SourceChunk } from "@/lib/chat-protocol";
 
 /**
  * Prompt système — versionné dans le code, jamais ajusté à la volée.

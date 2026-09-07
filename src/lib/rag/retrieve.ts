@@ -1,23 +1,7 @@
 import { MetadataMode, type NodeWithScore } from "llamaindex";
 import { config } from "@/lib/config";
-import { loadIndex } from "./index";
-
-/**
- * Un extrait de document récupéré, transmis au client pour citation.
- *
- * Ne contient que ce que l'UI affiche : ni `metadata` brut ni `id` interne du
- * nœud — tous deux portent le chemin absolu du fichier sur la machine de build.
- */
-export interface SourceChunk {
-  /** Identifiant d'affichage (clé de liste côté client). Pas un chemin. */
-  id: string;
-  text: string;
-  score: number | null;
-  /** Nom du fichier source (basename), si connu. */
-  fileName: string | null;
-  /** Numéro ou libellé de page, si le document en a. */
-  page: string | number | null;
-}
+import type { SourceChunk } from "@/lib/chat-protocol";
+import { loadIndex } from "./vector-index";
 
 /** Récupère les `topK` extraits les plus proches de la question. */
 export async function retrieve(query: string): Promise<SourceChunk[]> {

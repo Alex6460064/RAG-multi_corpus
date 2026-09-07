@@ -2,11 +2,15 @@ import type { NextRequest } from "next/server";
 import { Settings } from "llamaindex";
 import { config } from "@/lib/config";
 import { initSettings } from "@/lib/rag/settings";
-import { retrieve, type SourceChunk } from "@/lib/rag/retrieve";
+import { retrieve } from "@/lib/rag/retrieve";
 import { condenseQuestion } from "@/lib/rag/condense";
 import { SYSTEM_PROMPT, buildUserMessage } from "@/lib/rag/prompt";
 import { messageDe } from "@/lib/errors";
-import type { ChatMessage, ChatStreamEvent } from "@/lib/chat-protocol";
+import type {
+  ChatMessage,
+  ChatStreamEvent,
+  SourceChunk,
+} from "@/lib/chat-protocol";
 
 export const runtime = "nodejs";
 export const dynamic = "force-dynamic";
