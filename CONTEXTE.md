@@ -116,6 +116,22 @@ Le texte de la convention (IDCC 1486), pas un contrat personnel — aucune donn�
 
 **Non-conseil** : les trois corpus touchent des sujets réglementaires ou juridiques. Ajouter un bandeau visible sur chaque déploiement : *"Assistant à but démonstratif, ne remplace pas un avis d'expert / juridique"*. Ce n'est pas qu'une précaution légale — c'est exactement le réflexe qu'un profil AMOA doit montrer, et ça se remarque en entretien.
 
+**Risque résiduel assumé — abus de l'endpoint public (07/09/2026).** `/api/chat` est ouvert à tout
+Internet avec une clé OpenAI payante derrière, et il n'y a **aucune limite de débit**. La parade
+zéro-code serait une règle de rate limit du Vercel Firewall, mais l'équipe Vercel du projet est en
+plan **Hobby** (vérifié) et le rate limiting WAF est une fonctionnalité Pro. Ce qui est en place à la
+place, et suffit à borner le coût *par requête* : plafond de longueur cumulée du corps
+(`RAG_MAX_TOTAL_CHARS`, 20 000 par défaut), borne dure à 60 messages, plafond de la question entrante,
+et `maxTokens: 1024` sur la génération. À compléter côté compte par un **plafond de dépense OpenAI**,
+en sachant que ce plafond convertit un abus financier en indisponibilité des trois démos.
+
+À ne pas faire : un compteur en mémoire dans la route. Les instances Vercel sont éphémères et
+multiples — ça ne bornerait rien de fiable, ce serait de la fausse sécurité.
+
+**`ssoProtection` ne protège rien ici.** Le réglage est à `all_except_custom_domains` sur les trois
+projets, mais les URLs de production répondent 200 sans authentification (vérifié). Ne pas le compter
+comme une barrière contre l'abus de l'endpoint.
+
 ---
 
 ## Ordre de construction
