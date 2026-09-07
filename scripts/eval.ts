@@ -26,6 +26,7 @@ import { retrieve } from "@/lib/rag/retrieve";
 import { condenseQuestion } from "@/lib/rag/condense";
 import { SYSTEM_PROMPT, buildUserMessage } from "@/lib/rag/prompt";
 import type { ChatMessage } from "@/lib/chat-protocol";
+import { messageDe } from "@/lib/errors";
 
 type QuestionType = "nominal" | "refus" | "ambigu" | "suivi";
 
@@ -57,6 +58,8 @@ type Verdict = "OK" | "ECHEC" | "MANUEL";
 interface QuestionResult {
   id: string;
   type: QuestionType;
+  /** Recopié du jeu de questions : aide à la relecture du rapport. */
+  expectedSource?: string;
   finalQuestion: string;
   answer: string;
   retrievedFiles: string[];
@@ -138,7 +141,16 @@ function hasCitation(answer: string, retrievedFiles: string[]): boolean {
   });
 }
 
-function validateQuestions(file: EvalFile): void {
+/** Valide la forme du JSON lu sur disque et le rend typé. */
+function validateQuestions(raw: unknown): EvalFile {
+  if (
+    typeof raw !== "object" ||
+    raw === null ||
+    !Array.isArray((raw as EvalFile).questions)
+  ) {
+    throw new Error("Jeu de questions invalide : clé `questions` absente ou non tableau.");
+  }
+  const file = raw as EvalFile;
   const ids = new Set<string>();
   for (const q of file.questions) {
     if (!q.id) throw new Error("Question sans `id`.");
@@ -153,6 +165,7 @@ function validateQuestions(file: EvalFile): void {
       throw new Error(`${q.id} : type "suivi" exige \`turns\` avec au moins 2 tours.`);
     }
   }
+  return file;
 }
 
 /** Passe une question (mono ou multi-tours) dans le moteur complet. */
@@ -289,17 +302,32 @@ function printTable(results: QuestionResult[]): void {
   for (const r of rows) console.log(line(r));
 }
 
+/**
+ * `--only=a,b` → { a, b } ; option absente → ensemble vide (suite complète).
+ * Un `--only=` vide est une erreur : sans ce garde-fou, une faute de frappe
+ * lancerait la suite entière, soit des dizaines d'appels LLM payants.
+ */
+function parseOnly(argv: string[]): Set<string> {
+  const arg = argv.find((a) => a.startsWith("--only="));
+  if (arg === undefined) return new Set();
+  const ids = arg
+    .slice("--only=".length)
+    .split(",")
+    .map((s) => s.trim())
+    .filter(Boolean);
+  if (ids.length === 0) {
+    throw new Error(
+      "--only : aucun id fourni. Préciser `--only=<id>[,<id>]`, ou retirer " +
+        "l'option pour lancer la suite complète (appels LLM payants).",
+    );
+  }
+  return new Set(ids);
+}
+
 async function main(): Promise<void> {
   const dryRun = process.argv.includes("--dry-run");
   const verbose = process.argv.includes("--verbose");
-  const only = new Set(
-    process.argv
-      .find((a) => a.startsWith("--only="))
-      ?.slice("--only=".length)
-      .split(",")
-      .map((s) => s.trim())
-      .filter(Boolean) ?? [],
-  );
+  const only = parseOnly(process.argv);
   const corpus = resolveCorpus();
   const questionsPath = path.join(
     process.cwd(),
@@ -314,8 +342,7 @@ async function main(): Promise<void> {
     );
   }
 
-  const file = JSON.parse(await readFile(questionsPath, "utf8")) as EvalFile;
-  validateQuestions(file);
+  const file = validateQuestions(JSON.parse(await readFile(questionsPath, "utf8")));
   if (only.size > 0) {
     const unknown = [...only].filter(
       (id) => !file.questions.some((q) => q.id === id),
@@ -358,6 +385,7 @@ async function main(): Promise<void> {
     const base = {
       id: q.id,
       type: q.type,
+      expectedSource: q.expectedSource,
       finalQuestion: run.finalQuestion,
       answer: run.answer,
       retrievedFiles: run.retrievedFiles,
@@ -406,6 +434,6 @@ async function main(): Promise<void> {
 }
 
 main().catch((err: unknown) => {
-  console.error("Échec de l'évaluation :", (err as Error).message);
+  console.error("Échec de l'évaluation :", messageDe(err));
   process.exit(1);
 });

@@ -3,11 +3,11 @@
 Un seul moteur d'application **RAG** (Retrieval-Augmented Generation), décliné sur **trois cas d'usage
 métier réels** — un projet vitrine qui montre une logique d'architecture, pas trois démos isolées.
 
-| Corpus | Sujet | Cible |
-|---|---|---|
-| **NIS2** | Conformité cyber : directive (UE) 2022/2555, loi française de transposition, guides ANSSI | Dirigeant / RSSI de PME nouvellement soumis à NIS2 |
-| **PLU d'Anglet** | Plan Local d'Urbanisme : zonage et règles de construction | Particulier, artisan ou architecte du Pays Basque |
-| **Convention Syntec** | Convention collective IDCC 1486 : préavis, forfait jours, classifications | Salarié ou RH d'ESN |
+| Corpus | Sujet | Cible | Démo |
+|---|---|---|---|
+| **NIS2** | Conformité cyber : directive (UE) 2022/2555, loi française de transposition, guides ANSSI | Dirigeant / RSSI de PME nouvellement soumis à NIS2 | [rag-nis2.vercel.app](https://rag-nis2.vercel.app) |
+| **PLU d'Anglet** | Plan Local d'Urbanisme : zonage et règles de construction | Particulier, artisan ou architecte du Pays Basque | [rag-plu-anglet.vercel.app](https://rag-plu-anglet.vercel.app) |
+| **Convention Syntec** | Convention collective IDCC 1486 : préavis, forfait jours, classifications | Salarié ou RH d'ESN | [rag-syntec.vercel.app](https://rag-syntec.vercel.app) |
 
 Chaque assistant répond en langage naturel **avec citation de l'article source**, et affiche un bandeau
 rappelant sa nature démonstrative.
@@ -74,7 +74,8 @@ npm run generate
 npm run dev
 ```
 
-Scripts : `dev`, `build`, `start`, `generate`, `lint`, `typecheck`.
+Scripts : `dev`, `build`, `start`, `generate`, `lint`, `typecheck`, `eval`
+(évaluation qualité des réponses — vrais appels LLM, voir [`eval/README.md`](./eval/README.md)).
 
 ### Déploiement Vercel
 
