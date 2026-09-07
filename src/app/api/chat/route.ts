@@ -2,9 +2,10 @@ import type { NextRequest } from "next/server";
 import { Settings } from "llamaindex";
 import { config } from "@/lib/config";
 import { initSettings } from "@/lib/rag/settings";
-import { retrieve } from "@/lib/rag/retrieve";
+import { retrieve, type SourceChunk } from "@/lib/rag/retrieve";
 import { condenseQuestion } from "@/lib/rag/condense";
 import { SYSTEM_PROMPT, buildUserMessage } from "@/lib/rag/prompt";
+import { messageDe } from "@/lib/errors";
 import type { ChatMessage, ChatStreamEvent } from "@/lib/chat-protocol";
 
 export const runtime = "nodejs";
@@ -14,6 +15,25 @@ export const maxDuration = 60;
 function jsonError(message: string, status: number): Response {
   return Response.json({ error: message }, { status });
 }
+
+/**
+ * Trace complète côté serveur (logs Vercel), message stable côté client.
+ * L'endpoint est public : un message amont peut porter un chemin absolu du
+ * serveur ou un fragment de clé API, qui n'ont rien à faire dans le navigateur.
+ */
+function logServeur(contexte: string, err: unknown): void {
+  console.error(`[chat] ${contexte} : ${messageDe(err)}`);
+}
+
+const MESSAGE_ERREUR_SERVEUR =
+  "Le service est momentanément indisponible. Réessayez dans un instant.";
+
+/**
+ * Rejet immédiat au-delà de ce nombre de messages : borne dure du protocole,
+ * très au-dessus de `maxHistoryMessages` (qui tronque, sans rejeter). Testée
+ * avant la somme des longueurs pour ne pas parcourir un tableau démesuré.
+ */
+const MAX_MESSAGES_RECUS = 60;
 
 function parseMessages(body: unknown): ChatMessage[] {
   if (!body || typeof body !== "object" || !("messages" in body)) return [];
@@ -38,6 +58,17 @@ export async function POST(req: NextRequest): Promise<Response> {
 
   const messages = parseMessages(body);
 
+  // Garde-fou coût (endpoint public porteur de clé) : borner le volume total
+  // reçu, pas seulement le nombre de messages. Le test sur le nombre passe
+  // avant la somme pour ne pas parcourir un tableau d'un million d'entrées.
+  if (messages.length > MAX_MESSAGES_RECUS) {
+    return jsonError("Historique trop long.", 413);
+  }
+  const totalChars = messages.reduce((n, m) => n + m.content.length, 0);
+  if (totalChars > config.maxTotalChars) {
+    return jsonError("Historique trop long.", 413);
+  }
+
   let lastUserIdx = -1;
   for (let i = messages.length - 1; i >= 0; i--) {
     if (messages[i].role === "user" && messages[i].content.trim()) {
@@ -60,7 +91,9 @@ export async function POST(req: NextRequest): Promise<Response> {
   try {
     initSettings();
   } catch (err) {
-    return jsonError((err as Error).message, 500);
+    // Message rédigé à la main dans settings.ts (rien de sensible) : on le garde.
+    logServeur("Initialisation", err);
+    return jsonError(messageDe(err, MESSAGE_ERREUR_SERVEUR), 500);
   }
 
   const history: ChatMessage[] = messages
@@ -68,7 +101,7 @@ export async function POST(req: NextRequest): Promise<Response> {
     .slice(-config.maxHistoryMessages)
     .map((m) => ({ role: m.role, content: m.content }));
 
-  let sources;
+  let sources: SourceChunk[];
   try {
     // Question de suivi elliptique : la reformuler en question autonome avant la
     // recherche, sinon l'embedding du fragment récupère des extraits hors sujet.
@@ -78,7 +111,8 @@ export async function POST(req: NextRequest): Promise<Response> {
         : question;
     sources = await retrieve(searchQuery);
   } catch (err) {
-    return jsonError(`Échec de la récupération : ${(err as Error).message}`, 500);
+    logServeur("Récupération", err);
+    return jsonError(MESSAGE_ERREUR_SERVEUR, 500);
   }
   const llmMessages = [
     { role: "system" as const, content: SYSTEM_PROMPT },
@@ -112,7 +146,8 @@ export async function POST(req: NextRequest): Promise<Response> {
         }
         send({ type: "done" });
       } catch (err) {
-        send({ type: "error", message: (err as Error).message });
+        logServeur("Génération", err);
+        send({ type: "error", message: MESSAGE_ERREUR_SERVEUR });
       } finally {
         if (!cancelled) controller.close();
       }

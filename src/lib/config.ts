@@ -44,10 +44,19 @@ export const config = {
   chunkSize: intFromEnv(process.env.RAG_CHUNK_SIZE, 1024),
   /** Recouvrement entre chunks (tokens). 0 = pas de recouvrement, valide. */
   chunkOverlap: intFromEnv(process.env.RAG_CHUNK_OVERLAP, 200, 0),
-  /** Garde-fou coût : nombre de tours d'historique réinjectés dans l'appel LLM. */
+  /** Garde-fou coût : nombre de messages d'historique (2 par tour) réinjectés dans l'appel LLM. */
   maxHistoryMessages: intFromEnv(process.env.RAG_MAX_HISTORY_MESSAGES, 20),
   /** Garde-fou coût : longueur max (caractères) de la question entrante. */
   maxQuestionChars: intFromEnv(process.env.RAG_MAX_QUESTION_CHARS, 4000),
+  /**
+   * Garde-fou coût : longueur cumulée max (caractères) de tous les messages
+   * reçus. `maxHistoryMessages` borne un nombre de messages, jamais leur taille.
+   */
+  maxTotalChars: intFromEnv(process.env.RAG_MAX_TOTAL_CHARS, 20000),
+  /** Reformulation : nombre de tours d'historique repris (2 messages par tour). */
+  condenseHistoryTurns: intFromEnv(process.env.RAG_CONDENSE_HISTORY_TURNS, 3),
+  /** Reformulation : marge (caractères) tolérée au-delà de la question d'origine. */
+  condenseMaxExtraChars: intFromEnv(process.env.RAG_CONDENSE_MAX_EXTRA_CHARS, 400),
 } as const;
 
 /**

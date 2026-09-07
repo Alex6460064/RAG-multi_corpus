@@ -1,6 +1,5 @@
-import { Settings } from "llamaindex";
+import { Settings, SentenceSplitter } from "llamaindex";
 import { OpenAI, OpenAIEmbedding } from "@llamaindex/openai";
-import { SentenceSplitter } from "@llamaindex/core/node-parser";
 import { config } from "@/lib/config";
 
 let initialised = false;
@@ -22,6 +21,10 @@ export function initSettings(): void {
   Settings.llm = new OpenAI({
     apiKey: config.openaiApiKey,
     model: config.model,
+    // Garde-fou coût et durée : les réponses attendues (concises, règle 6 du
+    // prompt) tiennent largement dedans ; sans plafond, le défaut du modèle
+    // (16 384 tokens) peut occuper l'instance jusqu'à maxDuration.
+    maxTokens: 1024,
   });
   Settings.embedModel = new OpenAIEmbedding({
     apiKey: config.openaiApiKey,
