@@ -220,8 +220,7 @@ async function generate(
   const res = await Settings.llm.chat({
     messages: [
       { role: "system", content: SYSTEM_PROMPT },
-      ...history,
-      { role: "user", content: buildUserMessage(question, sources) },
+      { role: "user", content: buildUserMessage(question, sources, history) },
     ],
   });
   return typeof res.message.content === "string" ? res.message.content.trim() : "";

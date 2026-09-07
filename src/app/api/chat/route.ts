@@ -114,10 +114,14 @@ export async function POST(req: NextRequest): Promise<Response> {
     logServeur("Récupération", err);
     return jsonError(MESSAGE_ERREUR_SERVEUR, 500);
   }
+  // Aucun tour `assistant` contrôlé par le client n'est passé au modèle : E1.
+  // L'historique est rapporté en transcription citée dans le message utilisateur.
   const llmMessages = [
     { role: "system" as const, content: SYSTEM_PROMPT },
-    ...history,
-    { role: "user" as const, content: buildUserMessage(question, sources) },
+    {
+      role: "user" as const,
+      content: buildUserMessage(question, sources, history),
+    },
   ];
 
   const encoder = new TextEncoder();
