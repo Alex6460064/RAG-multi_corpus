@@ -149,11 +149,24 @@ comme une barrière contre l'abus de l'endpoint.
 - [x] README à la racine expliquant l'architecture multi-branches et créditant create-llama comme base
 - [x] Un README spécifique par branche : problème résolu, corpus utilisé (avec date d'arrêt), lien de démo — **fait pour les trois** (`corpus/nis2` → `rag-nis2.vercel.app`, `corpus/plu-anglet` → `rag-plu-anglet.vercel.app`, `corpus/syntec` → `rag-syntec.vercel.app`)
 - [x] Bandeau de non-conseil visible sur chaque déploiement — composant `DisclaimerBanner` sur `main`, actif sur toutes les branches
-- [ ] Capture d'écran ou courte vidéo de démo par instance
-- [ ] Rubrique "Projets IA" sur le CV avec les trois pitchs, formulés en résultat plutôt qu'en stack technique
+- [x] Rubrique "Projets IA" sur le CV avec les trois pitchs, formulés en résultat plutôt qu'en stack technique
+
+> Captures d'écran et vidéo de démo : **abandonnées** (07/09/2026). Les trois démos sont en ligne et
+> répondent — un lien cliquable vaut mieux qu'une capture, qui vieillit et qu'il faudrait maintenir à
+> chaque évolution de l'interface.
 
 ---
 
 *Sources vérifiées le 28 août 2026 : GitHub (run-llama/create-llama), EUR-Lex, Légifrance (JORF, KALICONT), Sénat (dossier législatif), cyber.gouv.fr / ANSSI, Géoportail de l'Urbanisme, Communauté Pays Basque.*
 *Mise à jour 29/08/2026 : le statut de la loi française de transposition NIS2 a été revérifié (Sénat, Assemblée nationale, FAQ MonEspaceNIS2) — non promulguée, contrairement à ce qu'indiquait la première version de ce document.*
+*Mise à jour 07/09/2026 : passe de correction d'audit (27 constats) appliquée sur `main` puis propagée
+aux trois branches. Corrigés notamment : coût d'une requête borné (troncature de l'historique, `maxTokens`),
+tours `assistant` forgés par le client retirés du prompt, réponse tronquée ou vide désormais signalée au lieu
+d'être présentée comme aboutie, build qui échoue sur un corpus amputé, en-têtes anti-iframe, erreurs amont
+masquées côté client, pipeline de réponse unifié entre la route et l'évaluation. Réglages Vercel confirmés :
+les trois projets sont connectés au dépôt GitHub et `CORPUS_BRANCH` pilote bien l'auto-déploiement (les trois
+builds de production se sont déclenchés sur `push`). Évaluation ciblée `suivi` : OK sur les trois corpus.
+Les trois déploiements vérifiés en production (en-têtes + `/api/chat` avec citations). Reste : les trois posts
+LinkedIn. Risque résiduel connu et documenté : aucune limite de débit possible en plan Hobby.*
+
 *Mise à jour 30/08/2026 : les corpus `plu-anglet` et `syntec` sont construits, indexés et déployés (`rag-plu-anglet.vercel.app`, `rag-syntec.vercel.app`, page + `/api/chat` avec citations vérifiés). Les trois READMEs de branche portent leur lien de démo. Restent : réglages Vercel à confirmer (GitHub + `CORPUS_BRANCH` sur les deux nouveaux projets), éval qualité sur `plu-anglet` et `syntec`, captures/vidéos, rubrique CV, posts LinkedIn.*
